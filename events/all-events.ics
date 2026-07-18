@@ -2,32 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Radtour KulTour - Landesfestung Ingolstadt
-DTSTART;TZID=Europe/Berlin:20260719T110000
-DTEND;TZID=Europe/Berlin:20260719T200000
-DTSTAMP:20260718T212217Z
-UID:radtour-kultour-landesfestung-ingolstadt-20260719-0900@ifg-plattform.d
- e
-DESCRIPTION:Einlass: 09:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nRadtour entlang der unregelmäßigen (Künettegraben\, Schutterhof) 
- und regelmäßigen Fronten (Kavaliere\, Fronte Rechberg). Erläuterung zu 
- den Festungswerken durch einen sachkundigen Führer. Besichtigung einzelne
- r Werke. Nach der Mittagseinkehr in der Gaststätte Fort Wrede\, Radtour e
- ntlang des Fortgürtels über Großmehring\, Kösching nach Gaimersheim (F
- ort Von der Tann). \nDie Tour wird unterstützt vom Förderverein Bayerisc
- he Landesfestung Ingolstadt e.V.\n\nBio-Bike-Tour: Die Radtour ist besonde
- rs auf die Bedürfnisse von Bio-Radler*innen abgestimmt\, die Ihre Touren 
- ohne elektrische Unterstützung unternehmen. Radler*innen mit Pedelec sind
-  herzlich willkommen\, müssen sich aber an Tempo und Kondition der Bio-Ra
- dler*innen orientieren.\n\nAnmeldung erforderlich.
-LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:110
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Sonntagsführung durch die Dauerausstellung
 DTSTART;TZID=Europe/Berlin:20260719T163000
 DTEND;TZID=Europe/Berlin:20260719T180000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:sonntagsf-hrung-durch-die-dauerausstellung-20260719-1430@ifg-plattform
  .de
 DESCRIPTION:mit Dr. Monika Haas\n\nDas barocke Museumsgebäude wurde vor 3
@@ -39,26 +17,26 @@ DESCRIPTION:mit Dr. Monika Haas\n\nDas barocke Museumsgebäude wurde vor 3
  von 10 bis 17 Uhr geöffnet und erwartet Sie mit selbstgebackenem Kuchen!
 LOCATION:Deutsches Medizinhistorisches Museum\, Anatomiestraße 18-20\, 85
  049 Ingolstadt
-X-SCORE:20
+X-SCORE:21
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Die Farbe SCHWARZ im Museum
 DTSTART;TZID=Europe/Berlin:20260719T163000
 DTEND;TZID=Europe/Berlin:20260719T180000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:die-farbe-schwarz-im-museum-20260719-1430@ifg-plattform.de
 DESCRIPTION:Führung im Neuen Schloss\n\nManchmal muss man "schwarzsehen" 
  oder "schwarzmalen"\, um ein Objekt richtig in Szene zu setzen. Ob schwarz
  e Pappenheimer Harnische\, barocke Herrscherportraits\, Schwarz-Weiß-Foto
  s oder Schriftstücke: Die Farbe "SCHWARZ" setzt ihre besonderen Akzente.
 LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:16
+X-SCORE:14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jubiläumskonzert
 DTSTART;TZID=Europe/Berlin:20260719T170000
 DTEND;TZID=Europe/Berlin:20260719T180000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:jubil-umskonzert-20260719-1500@ifg-plattform.de
 DESCRIPTION:35 Jahre Ingolstädter Nachtigallen\n\nEinlass: 14:00\n\nVier 
  Chöre\, ein Jubiläum\, ein Sommernachmittag voller Klang: Die Piepmätze
@@ -73,64 +51,13 @@ DESCRIPTION:35 Jahre Ingolstädter Nachtigallen\n\nEinlass: 14:00\n\nVier
   stehen bei uns im Mittelpunkt. Die Highlights der Chorjahre sind das Weih
  nachtskonzert in der Adventszeit und das Sommerkonzert im Juli.
 LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
-X-SCORE:4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Salzburger Festspiele zu Gast: Holle! - Kinderoper
-DTSTART;TZID=Europe/Berlin:20260719T180000
-DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260718T212217Z
-UID:salzburger-festspiele-zu-gast-holle-kinderoper-20260719-1600@ifg-platt
- form.de
-DESCRIPTION:Audi Sommerkonzerte 2026\n\nEinlass: 15:00\n\nOper nach Motive
- n des Grimm’schen Märchens Frau Holle\nLibretto von Kai Weßler und Sus
- e Pfister\n\n\nCatharina von Bülow\, Regie\nAnna Kreinecker\, Bühne und 
- Kostüme\nChristian Schröder\, Dramaturgie\nTatiana Kuryatnikova\, Holle\
- nAlexander Gergelyfi\, Gold-Andy / Hammerklavier u. a.\nManuel Ernst\, Pec
- h-Andy / Klarinette\n\n\nEin Gastspiel des Salzburger Festspiele Kinder-un
- d Jugend-programms Jung&amp\;jede\n\n\nEmpfohlen für Kinder ab 7 Jahren\n
- \n\nIn Grimms Märchen ist Frau Hollefür das Wetter zuständig: Je gründ
- licher sie in ihrem Zauber-Wolkenreich die Betten ausschüttelt\, desto me
- hr Schnee fällt auf der Erde. Allerdings sorgt sie nicht nur für dichte 
- Schneegestöber\, sondern auch für Sonnenschein und Regen. Keine leichte 
- Aufgabe\, weshalb sie jede Hilfe gebrauchen kann.\n\n\nSebastian Schwab\, 
- Kai Weßler und Suse Pfister machten die bekannte meteorologische Märchen
- figur zur Protagonistin ihrer Kinderoper Holle! für Musikbegeisterte ab s
- ieben Jahren. So haben sie ein modernes Märchen geschaffen\, das voller 
- überraschender Stilwechsel zwischen klassischen Opernklängen und zeitgen
- össischen Sounds mal witzig und mal dramatisch klingt – inklusive Theat
- erzauber samt Blitz\, Donner und Hagelsturm.\n\n\nAnlässlich des diesjäh
- rigen Gastspiels der Salzburger Festspiele ist die Miniatur-Oper für Sopr
- an und zwei schauspielende Instrumentalisten\, die flexibel zwischen ihren
-  Instrumenten (Klarinette und Klavier) und den gespielten Szenen wechseln\
- , nun auch in Ingolstadt zu erleben. Das Publikum erwartet ein wilder Ritt
-  durch alle musikalischen Wetterlagen\, der von den großen Herausforderun
- gen unserer Zeit erzählt und nach allerhand haarsträubenden Verwicklunge
- n schließlich doch zum Happy End führt.\n\n\nIn der gemeinsam mit Schulk
- lassen entwickelten Geschichte rund um den Klimawandel schmeißt Frau Holl
- e zunächst alles hin – denn die Menschen sind nie zufrieden mit dem\, w
- as sie bekommen und achten nicht auf ihre Umwelt: Mal regnet es zu viel\, 
- mal zu wenig\, der eine will Sonne\, die andere Schnee. Es allen recht zu 
- machen\, ist ein Ding der Unmöglichkeit. Sogar Beschwerdebriefe flattern 
- ins Haus\, weil der eine mit seinen neuen Schuhen im Matsch landet und bei
- m anderen wegen eines Schneesturms der Flug ausfällt.\n\n\nFrustriert ver
- abschiedet sich Frau Holle in den Urlaub und überlässt das Wetter ihren 
- beiden Assistenten Pech- und Gold-Andy\, die sich allerdings als wenig kom
- petent erweisen. Das Regenmachen ist nämlich gar nicht so einfach\, und a
- uch laue Frühlingslüfte\, Sommersonne und Herbststürme werden zunehmend
-  zum Problem. Die Folge? Ein veritables Wetterchaos\, das immer weiter zun
- immt\, bis die Jahreszeiten hoffnungslos aus dem Takt geraten. Doch bevor 
- alles zu spät ist\, taucht Frau Holle wieder auf\, übernimmt Verantwortu
- ng und rettet das Klima.\n\n\nEinlass: 60 Minuten vor Beginn\n\n\n++++++\n
- \n\nParkplätze direkt am Audi Forum Ingolstadt
-LOCATION:Audi museum mobile\, Ettinger Str.\, 85045 Ingolstadt
-X-SCORE:37
+X-SCORE:22
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer\, Lounge &amp\; Beats auf der Sonnen Plaza
 DTSTART;TZID=Europe/Berlin:20260719T190000
 DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:summer-lounge-amp-beats-auf-der-sonnen-plaza-20260719-1700@ifg-plattfo
  rm.de
 DESCRIPTION:Dein perfekter Sommerabend!\n\nEinlass: 17:00\n\nDie Sonnen Pl
@@ -146,45 +73,13 @@ DESCRIPTION:Dein perfekter Sommerabend!\n\nEinlass: 17:00\n\nDie Sonnen Pl
  n gibt’s keine!\n\nSommer. Sonne(n). Plaza. Was will man mehr?
 LOCATION:Sonnen Plaza am Kavalier Dalwigk\, Schloßlände 26\, 85049 Ingol
  stadt
-X-SCORE:4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jesuiten\, Illuminaten und die "Sau von Ingolstadt"
-DTSTART;TZID=Europe/Berlin:20260719T192300
-DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260718T212217Z
-UID:jesuiten-illuminaten-und-die-sau-von-ingolstadt-20260719-1723@ifg-plat
- tform.de
-DESCRIPTION:Historische Kostümführung (seit 2009)\n\nEinlass: 17:05\n\nV
- or 277 Jahren\, am 6. Februar 1748\, wird Adam Weishaupt in Ingolstadt geb
- oren. Um die von ihm gegründeten Illuminaten geht es in der Erlebnisführ
- ung.\n\nDie Ingolstädter Illuminaten - ein Mythos fasziniert die Welt. Ni
- cht erst seit Dan Browns Bestseller ist der Geheimbund Synonym der Verschw
- örung. Doch was steckt dahinter? Wer waren die Illuminaten wirklich\, was
-  ihre Ziele und Ideale und - waren sie tatsächlich dabei die Weltherrscha
- ft zu übernehmen?\n\nDie Erlebnisführung erhellt die wahren Hintergründ
- e des Geheimbundes\, blickt in die Geschichte und setzt die Illuminaten in
-  den Kontext von Gegenreformation\, Jesuiten und Aufklärung. \n\nBegeben 
- Sie sich auf Spurensuche\, dort wo alles begann ...\n\nVergessen Sie Dan B
- rown\, die Zahl 23 und weitere Mythen\, die sich rund um die Organisation 
- ranken. Auf seriösem historischen Fundament wollen wir die geschichtliche
- n Hintergründe näher beleuchten - verständlich und populär-wissenschaf
- tlich aufbereitet.\n\nUm die Zeitumstände der Gründung und die geistigen
-  Ideale besser zu verstehen\, spannen wir einen Bogen von Gegenreformation
-  und Aufklärung\, über das Wirken der Jesuiten an der Ingolstädter Hoch
- schule bis hin zu den Illuminaten\, die den eigentlichen Schwerpunkt der F
- ührung bilden. Natürlich darf auch ein klein wenig Mythos und Legende ru
- nd um den Geheimbund nicht fehlen - es ist aber keine „Verschwörungs-F
- ührung“.
-LOCATION:Innenhof Canisiuskonvikt - Sporthalle Prof. Fleischmann (ggü. No
- rdseite Münster)\, Bergbräustraße 1\, 85049 Ingolstadt
-X-SCORE:6
+X-SCORE:15
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:musikalisches Picknick im Garten
 DTSTART;TZID=Europe/Berlin:20260719T193000
 DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:musikalisches-picknick-im-garten-20260719-1730@ifg-plattform.de
 DESCRIPTION:Farb:Töne  - Kunst trifft auf Musik\n\nEinlass: 17:00\n\nDer 
  Ingolstädter Chor singINpool lädt zum Sommerfest in den Garten des MEG c
@@ -200,52 +95,13 @@ DESCRIPTION:Farb:Töne  - Kunst trifft auf Musik\n\nEinlass: 17:00\n\nDer
  pannten Sommerabend unter schattigen Bäumen und entdecken Sie diese neue 
  Kultur-Oase in Ingolstadt. Eintritt frei.
 LOCATION:MEG culture club e. V.\, Heidenreichstr. 7\, 85049 Ingolstadt
-X-SCORE:24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Public Viewing | WM-Finale 2026
-DTSTART;TZID=Europe/Berlin:20260719T230000
-DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260718T212217Z
-UID:public-viewing-wm-finale-2026-20260719-2100@ifg-plattform.de
-DESCRIPTION:WM-Fieber auf der Sonnen Plaza!\n\nEinlass: 17:00\n\nWir über
- tragen das WM-Finale live auf der Sonnen Plaza! ⚽️\n\nAuch wenn es uns
- ere Nationalelf leider nur bis ins Sechzehntelfinale geschafft hat und es 
- somit kein weiteres Deutschland-Public-Viewing gab\, lassen wir uns das gr
- oße Finale nicht entgehen. Wir übertragen das WM-Finale live auf unsere
- m mobilen XL-LED-Bildschirm. Genießt ein letztes Mal den WM-Sommer mit ei
- nem frisch gezapften Birra Moretti! 🍻\n\nDas Beste: Der Eintritt ist ko
- stenlos. Wie an jedem Tag bei uns gilt auch beim Public Viewing: Einfach v
- orbeikommen\, Platz suchen und gemeinsam Fußball genießen. 🌴\n\nWir s
- ehen uns auf der Plaza!
-LOCATION:Sonnen Plaza am Kavalier Dalwigk\, Schloßlände 26\, 85049 Ingol
- stadt
-X-SCORE:4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reihe „Mittagsvisite”: Gartenvisite „Was blüht denn da?”
-DTSTART;TZID=Europe/Berlin:20260721T143000
-DTEND;TZID=Europe/Berlin:20260721T150000
-DTSTAMP:20260718T212217Z
-UID:reihe-mittagsvisite-gartenvisite-was-bl-ht-denn-da-20260721-1230@ifg-p
- lattform.de
-DESCRIPTION:mit Gesundheitspädagogin Sigrid Holzer\n\nGesundheitspädagog
- in Sigrid Holzer führt die Visitengäste ab 12.30 Uhr unter dem Motto „
- Was blüht denn da?” durch den sommerlichen Arzneipflanzengarten. Ob Lav
- endel\, Bilsenkraut oder Steinklee\, alle diese Pflanzen hatten (und haben
-  zum Teil bis heute) ihre Bedeutung in der Medizin. Die Gartenvisite begin
- nt beim Wegekreuz in der Gartenmitte.\n\nDauer 30 Minuten\, keine Teilnahm
- egebühr\, keine Voranmeldung nötig.\n\nDie Gartenvisite findet bei jedem
-  Wetter statt.
-LOCATION:Deutsches Medizinhistorisches Museum\, Anatomiestraße 18-20\, 85
- 049 Ingolstadt
-X-SCORE:9
+X-SCORE:46
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Graf von Monte Christo
 DTSTART;TZID=Europe/Berlin:20260721T223000
 DTEND;TZID=Europe/Berlin:20260722T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:der-graf-von-monte-christo-20260721-2030@ifg-plattform.de
 DESCRIPTION:nach dem Roman von Alexandre Dumas • in einer Fassung von Ro
  nny Jakubaschk und Dinah Wiedemann\n\nDer junge\, erfolgreiche Offizier Ed
@@ -268,13 +124,13 @@ DESCRIPTION:nach dem Roman von Alexandre Dumas • in einer Fassung von Ro
  f von Monte Christo“ stellt sich Ronny Jakubaschk dem Ingolstädter Publ
  ikum auf der Bühne im Turm Baur vor.
 LOCATION:Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt
-X-SCORE:18
+X-SCORE:19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:T.Raum.Phase #06
 DTSTART;TZID=Europe/Berlin:20260721T230000
 DTEND;TZID=Europe/Berlin:20260722T000000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:t-raum-phase-06-20260721-2100@ifg-plattform.de
 DESCRIPTION:Einlass: 18:00\n\nT.Raum.Phase #06 – Anëira\nWas\, wenn Tr
  äume nicht verschwinden…\nsondern irgendwo weiterleben?\nMit der sechst
@@ -302,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Triadisches Ballett hoch zwei
 DTSTART;TZID=Europe/Berlin:20260722T200000
 DTEND;TZID=Europe/Berlin:20260723T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:triadisches-ballett-hoch-zwei-20260722-1800@ifg-plattform.de
 DESCRIPTION:Designstudenten im KAP94\n\nEinlass: 17:30\n\nBauhaus im digit
  alen Zeitalter: Der Abschlussjahrgang des Studiengangs Technisches Design 
@@ -315,13 +171,13 @@ DESCRIPTION:Designstudenten im KAP94\n\nEinlass: 17:30\n\nBauhaus im digit
   bis Motion Tracking neu interpretieren? Die Besucher erwartet eine spanne
  nde Werkschau.
 LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:9
+X-SCORE:22
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wir feiern 10 Jahre Neubau!
 DTSTART;TZID=Europe/Berlin:20260723T120000
 DTEND;TZID=Europe/Berlin:20260723T190000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:wir-feiern-10-jahre-neubau-20260723-1000@ifg-plattform.de
 DESCRIPTION:ganztägig Eintritt frei!\n\nAm 23. Juli 2016 war es soweit: N
  ach langen\, mühsamen Jahren der Planung\, (Teil-)Schließung und Improvi
@@ -347,32 +203,14 @@ DESCRIPTION:ganztägig Eintritt frei!\n\nAm 23. Juli 2016 war es soweit: N
  arraum Christa Habrich
 LOCATION:Deutsches Medizinhistorisches Museum\, Anatomiestraße 18-20\, 85
  049 Ingolstadt
-X-SCORE:26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Mass
-DTSTART;TZID=Europe/Berlin:20260723T210000
-DTEND;TZID=Europe/Berlin:20260723T230000
-DTSTAMP:20260718T212217Z
-UID:english-mass-20260723-1900@ifg-plattform.de
-DESCRIPTION:Catholic holy mass in english language\n\nEinlass: 18:45\n\nOn
- ce a month\, the English speaking community of the city meets in the collo
- quim chapel of KHG (Katholische Hochschul Gemeinde)\, Bergbräustraße 3\,
-  next to the Münster church. Holy mass begins at 7pm. After the mass ther
- e will be food and refreshments and also an opportunity to make some new f
- riends. A colourful and diverse community which reflects the nature of Cat
- holic church\, with people from around the world meets here. We look forwa
- rd to seeing you.
-LOCATION:Colloquiumskapelle\, Bergbräustraße 3\, 85049 Ingolstadt\, Die 
- Kapelle befindet sich im 1. Stock.
-X-SCORE:3
+X-SCORE:34
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frau Knollmän\, die Streichers und der Mike - Live im kiss the ki
  esch
 DTSTART;TZID=Europe/Berlin:20260723T220000
 DTEND;TZID=Europe/Berlin:20260724T000000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:frau-knollm-n-die-streichers-und-der-mike-live-im-kiss-the-kiesch-2026
  0723-2000@ifg-plattform.de
 DESCRIPTION:Livemusik\n\nEinlass: 19:00\n\nTheaterbegegnungen können schi
@@ -394,13 +232,13 @@ DESCRIPTION:Livemusik\n\nEinlass: 19:00\n\nTheaterbegegnungen können schi
  ts\, Jamie Cullum und anderen tollen KünstlerInnen.\n\nBei schönem Wette
  r findet das Konzert draußen statt!
 LOCATION:kiss the kiesch\, Pfarrgasse 8\, 85049 Ingolstadt
-X-SCORE:23
+X-SCORE:31
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SO KINDLY
 DTSTART;TZID=Europe/Berlin:20260723T220000
 DTEND;TZID=Europe/Berlin:20260724T000000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:so-kindly-20260723-2000@ifg-plattform.de
 DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nSO KINDL
  Y\n— Donnerstag\, 23/07 um 20 Uhr —\n\n\nGeprägt von seiner afrikanis
@@ -415,13 +253,13 @@ DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nSO KINDL
  n zugänglich.\n\n\nVielen Dank an unseren diesjährigen Partner der TAGTR
  AUM BIERGARTENKONZERTE - die Sparkasse Ingolstadt Eichstätt.
 LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:13
+X-SCORE:24
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LATE NIGHT SHOPPING ✨
 DTSTART;TZID=Europe/Berlin:20260724T120000
 DTEND;TZID=Europe/Berlin:20260725T000000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:late-night-shopping-20260724-1000@ifg-plattform.de
 DESCRIPTION:Shopping bis 22 Uhr!🌙\n\nFreut euch auf einen besonderen So
  mmerabend im Ingolstadt Village: Am Freitag\, den 24. Juli\, könnt ihr ga
@@ -434,58 +272,26 @@ DESCRIPTION:Shopping bis 22 Uhr!🌙\n\nFreut euch auf einen besonderen So
   kulinarischen Highlights für die ganze Familie.\n\nWeitere Infos findet 
  ihr auf unserer Website!\n\nWir freuen uns auf euren Besuch! 💛
 LOCATION:Ingolstadt Village\, Otto-Hahn-Straße 1\, 85055 Ingolstadt
-X-SCORE:8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Führung: Victor Frankenstein und die Anatomie
-DTSTART;TZID=Europe/Berlin:20260724T170000
-DTEND;TZID=Europe/Berlin:20260724T180000
-DTSTAMP:20260718T212217Z
-UID:f-hrung-victor-frankenstein-und-die-anatomie-20260724-1500@ifg-plattfo
- rm.de
-DESCRIPTION:mit Irene Oberle\n\nMary Shelley lässt  in ihrem 1818 erschie
- nenen Roman „Frankenstein oder Der moderne Prometheus" einen jungen Medi
- zinstudenten in Ingolstadt eine künstliche Kreatur erschaffen. \n\nDiese 
- Themenführung verwendet Mary Shelleys Romantext als Leitfaden. Sie findet
-  dort statt\, wo Fiktion und Geschichte aufeinandertreffen: In der ehemali
- gen medizinischen Fakultät der Universität Ingolstadt\, in der zwischen 
- 1735 und 1800 tatsächlich Medizin gelehrt wurde. Heute beherbergt dieses 
- Gebäude das Deutsche Medizinhistorische Museum.\n\nIm ersten Obergeschoss
-  des Museums geht es darum\, wie Medizin und Anatomie im 18. Jh. verstande
- n und gelehrt wurden. Dort befindet sich auch der historische Anatomiesaal
-  mit einer Elektrisiermaschine\, die im Roman zum Symbol für den „Funke
- n des Lebens“ wird. Im Frankenstein-Kabinett im Erdgeschoss erfährt man
- \, wie Mary Shelleys Roman entstand\, welche wissenschaftlichen Ideen und 
- ethischen Fragen sie inspirierten und wie eng Fiktion und Realität mitein
- ander verbunden sind.\n\nSo schlägt die Führung eine Brücke zwischen Li
- teratur-\, Wissenschafts- und Medizingeschichte. Sie lädt dazu ein\, übe
- r Verantwortung\, Fortschritt und das Verhältnis zwischen Wissen und Gewi
- ssen nachzudenken – Themen\, die seit Mary Shelley nichts an ihrer Aktua
- lität verloren haben.\n \nDauer: 60 Minuten\nKosten: 5 € Führungsgebü
- hr zzgl. Museumseintritt \nWegen der begrenzten Teilnehmerzahl empfiehlt s
- ich der vorherige Ticketkauf an der Museumskasse oder im Onlineshop.
-LOCATION:Deutsches Medizinhistorisches Museum\, Anatomiestraße 18-20\, 85
- 049 Ingolstadt
-X-SCORE:15
+X-SCORE:19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programm beim Lat-in Verein
 DTSTART;TZID=Europe/Berlin:20260724T180000
 DTEND;TZID=Europe/Berlin:20260726T010000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:programm-beim-lat-in-verein-20260724-1600@ifg-plattform.de
 DESCRIPTION:Fest der Kulturen Ingolstadt 2026\n\nEntdecke Lat-in Verein be
  im Fest der Kulturen Ingolstadt!\nErlebe lateinamerikanische Kultur an uns
  erem Stand\; Gastronomie\, Musik und Spass für die ganze Familie.\n\nWir 
  freuen uns auf dich!
 LOCATION:Klenzepark\, Klenzepark\, 85049 Ingolstadt
-X-SCORE:14
+X-SCORE:21
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fest der Kulturen
 DTSTART;TZID=Europe/Berlin:20260724T180000
 DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:fest-der-kulturen-20260724-1600@ifg-plattform.de
 DESCRIPTION:Abwechslung und Vielfalt\nIngolstadt ist bunt und offen! Über
   140.000 Menschen aus rund 140 Nationen leben in Ingolstadt und ein sichtb
@@ -588,42 +394,25 @@ DESCRIPTION:Abwechslung und Vielfalt\nIngolstadt ist bunt und offen! Über
  örderung des interkulturellen Austauschs und eines lebendigen Miteinander
  s.
 LOCATION:Klenzepark\, Klenzepark\, 85049 Ingolstadt
-X-SCORE:23
+X-SCORE:57
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Picknickkonzert
 DTSTART;TZID=Europe/Berlin:20260724T200000
 DTEND;TZID=Europe/Berlin:20260724T220000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:picknickkonzert-20260724-1800@ifg-plattform.de
 DESCRIPTION:Einlass: 17:30\n\nPicknick-Konzert der Zucheringer Musikanten\
  nLeitung: Veronika Glas\n\nAuftritt der Jugend aus Adelshausen\, Reicherts
  hofen und Zuchering\nLeitung: Veronika Zäch
 LOCATION:Baderbickl Zuchering\, Kirchplatz Grünfläche\, 85051 Ingolstadt
-X-SCORE:9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radtour nach Ulm und um Ulm herum
-DTSTART;TZID=Europe/Berlin:20260725T095500
-DTEND;TZID=Europe/Berlin:20260725T200000
-DTSTAMP:20260718T212217Z
-UID:radtour-nach-ulm-und-um-ulm-herum-20260725-0755@ifg-plattform.de
-DESCRIPTION:Einlass: 07:55\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nWir starten unsere Radtour am Hauptbahnhof in Ulm und fahren im Blau
- tal nach Blaustein. Danach geht es weiter im Lautertal auf die Albhochflä
- che Richtung Laichingen. Dort Zwischenstopp zum Mittagessen und weiter nac
- h Blaubeuren mit großem Klosterbau und der berühmten Höhlenquelle Blaut
- opf. Dieser ist die zweitgrößte Karstquelle in Deutschland. Nun fahren w
- ir bachabwärts der Blau entlang weiter nach Ulm. Schon von weitem können
-  wir das Ulmer Münster erkennen.\nAnmeldung erforderlich.
-LOCATION:Hauptbahnhof Ingolstadt\, Bahnhofstraße 8\, 85051 Ingolstadt
-X-SCORE:100
+X-SCORE:14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Horst Werschetzki –  „Herzübungen 1969 - 2026“
 DTSTART;TZID=Europe/Berlin:20260725T120000
 DTEND;TZID=Europe/Berlin:20260726T190000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:horst-werschetzki-herz-bungen-1969-2026-20260725-1000@ifg-plattform.de
 DESCRIPTION:Ein Querschnitt aus fast sechs Jahrzehnten künstlerischen Sch
  affens\n\nDer Förderverein Kreuztor Ingolstadt lädt zu dieser Ausstellun
@@ -637,65 +426,13 @@ DESCRIPTION:Ein Querschnitt aus fast sechs Jahrzehnten künstlerischen Sch
  ließend ist die Ausstellung bis 9. August 2026 jeweils samstags und sonnt
  ags von 10 bis 17 Uhr geöffnet. Eintritt frei.
 LOCATION:Kreuztor\, Kreuzstraße\, 85049 Ingolstadt
-X-SCORE:4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:13. SamstagOrgel mit Pedro Alberto Sánchez
-DTSTART;TZID=Europe/Berlin:20260725T140000
-DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260718T212217Z
-UID:13-samstagorgel-mit-pedro-alberto-s-nchez-20260725-1200@ifg-plattform.
- de
-DESCRIPTION:30 Minuten Orgelmusik\n\nEinlass: 11:40\n\nFernab des Gewohnte
- n: Spanisches Orgelprogramm mit Pedro Alberto Sánchez\nIn der Reihe „Sa
- mstagOrgel“ erwartet das Publikum am Samstag\, 25. Juli 2026\, um 12 Uhr
-  im Ingolstädter Liebfrauenmünster ein außergewöhnliches Konzert: Mit 
- Pedro Alberto Sánchez ist ein ausgewiesener Spezialist für die spanische
-  Orgelmusik zu Gast – und bringt ein Programm mit\, das in dieser Form i
- n Ingolstadt selten zu hören ist.\nIm Mittelpunkt steht die iberische Kla
- ngwelt vom 16. bis zum frühen 20. Jahrhundert – geprägt von charakteri
- stischen Formen\, farbenreichen Registern und einer ganz eigenen musikalis
- chen Sprache. Werke wie Antonio de Cabezóns Diferencias über die „Gall
- arda Milanesa“ oder Francisco Correa de Arauxos kunstvoll gearbeiteter T
- iento lassen die traditionsreiche spanische Variations- und Improvisations
- kunst lebendig werden.\nAuch weniger bekannte Komponisten treten in den Fo
- kus: Diego Díaz de Torrijos eröffnet mit einer klanglich reizvollen Canc
- ión\, während Padre Antonio Soler mit seinem Intento in F-Dur barocke El
- eganz und spielerische Virtuosität verbindet. Mit Eduardo Torres’ Impre
- sión teresiana weitet sich der Blick in die Spätromantik\, bevor Miguel 
- Hilarión Eslavas festliche Marcha de los Reyes Magos dem Programm einen s
- trahlenden Abschluss verleiht.\nGerade diese Mischung aus selten gespielte
- n Werken\, historischen Formen und klanglicher Vielfalt macht das Konzert 
- zu einer besonderen Entdeckung – fernab des gängigen Orgelrepertoires u
- nd mit einem deutlich südlichen Klangprofil.\nPedro Alberto Sánchez ist 
- Organist und Kapellmeister am Königlichen Kloster El Escorial bei Madrid 
- und damit an einer der bedeutendsten musikalischen Wirkungsstätten Spanie
- ns tätig. Seine Ausbildung führte ihn von Madrid über Rom bis an das P
- äpstliche Institut für Kirchenmusik\, wo er sich intensiv mit Gregoriani
- k und Improvisation beschäftigte. Während seiner Zeit in Rom war er zude
- m Mitglied der Cappella musicale an St. Peter im Vatikan.\nKonzerttätigke
- iten\, internationale Studien und künstlerische Impulse durch bedeutende 
- Organistenpersönlichkeiten prägen seinen Werdegang. 2024 wurde er für s
- eine künstlerischen Verdienste ausgezeichnet. Sánchez gilt als profilier
- ter Interpret der spanischen Orgeltradition\, die er mit stilistischer Sic
- herheit und klanglicher Authentizität zur Geltung bringt.\nDer Eintritt b
- leibt bewusst niedrig: 5 Euro. Karten gibt es an der Tageskasse (nur Barza
- hlung)\, geöffnet 30 Minuten vor Konzertbeginn. Der Zugang erfolgt über 
- den Eingang Bergbräustraße gegenüber der Münster-Tiefgarage. Onlinetic
- kets über Ticket-Regional sind vorab mit zusätzlichen Kosten (System- un
- d Vorverkaufsgebühren) erhältlich.\nWeitere Informationen sind online un
- ter www.samstagorgel.de verfügbar. Die „SamstagOrgel“ steht für musi
- kalische Entdeckungen\, internationale Gäste und besondere Programme jens
- eits des Gewohnten.
-LOCATION:Münster Zur Schönen Unserer Lieben Frau\, Kreuzstraße 1\, 8504
- 9 Ingolstadt
-X-SCORE:14
+X-SCORE:12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Radtour zum Biergarten Birkenheide
 DTSTART;TZID=Europe/Berlin:20260725T150000
 DTEND;TZID=Europe/Berlin:20260725T190000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:radtour-zum-biergarten-birkenheide-20260725-1300@ifg-plattform.de
 DESCRIPTION:Einlass: 13:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
  in. \nAnfahrt über Manching und Geisenfeld zum Ausflugsziel Birkenheide. 
@@ -706,55 +443,13 @@ DESCRIPTION:Einlass: 13:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
  willkommen\, müssen sich aber an Tempo und Kondition der Bio-Radler*innen
   orientieren.\nAnmeldung erwünscht\, aber nicht erforderlich.
 LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vorsprung durch Wissenschaft
-DTSTART;TZID=Europe/Berlin:20260725T153000
-DTEND;TZID=Europe/Berlin:20260725T170000
-DTSTAMP:20260718T212218Z
-UID:vorsprung-durch-wissenschaft-20260725-1330@ifg-plattform.de
-DESCRIPTION:Erste Bayerische Landesuniversität 1472\n\nEinlass: 13:30\n\n
- Die Erste Bayerische Landesuniversität gehörte zu den bedeutendsten Hoch
- schulen im deutschsprachigen Raum.\n\nProfessoren und Wissenschaftler von 
- anerkanntem Rang lehrten und forschten in den verschiedenen Fachbereichen\
- ; Studenten aus ganz Europa kamen nach Ingolstadt und brachten internation
- ales Flair und studentisches Leben in die Schanz.\n\nDiese Führung nimmt 
- Sie mit auf eine informative wie unterhaltsame Reise in die Vergangenheit.
-  Auf den Spuren der reichhaltigen Universitätsgeschichte tauchen Sie ein 
- in die bewegte Zeit zwischen 1472 und 1800 und besuchen Orte der Wissensch
- aft aus fünf Jahrhunderten - alle haben spannende Geschichten zu erzähle
- n...
-LOCATION:Tourist Information\, Moritzstraße 19\, 85049 Ingolstadt
-X-SCORE:6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gartenführung: Pflanzen für die Schönheit
-DTSTART;TZID=Europe/Berlin:20260725T163000
-DTEND;TZID=Europe/Berlin:20260725T173000
-DTSTAMP:20260718T212218Z
-UID:gartenf-hrung-pflanzen-f-r-die-sch-nheit-20260725-1430@ifg-plattform.d
- e
-DESCRIPTION:mit Gesundheitspädagogin Sigrid Holzer\n\nDer Trend der Kosme
- tikindustrie geht seit einiger Zeit vermehrt in Richtung Naturkosmetik. Na
- mhafte Firmen haben mittlerweile das Potential von pflanzlichen Wirkstoffe
- n als Bestandteil ihrer Produkte erkannt. Viele Verbraucher*innen wünsche
- n sich natürliche Pflegeprodukt ohne künstliche Zusatzstoffe\, ohne Tier
- versuche und mit umweltfreundlicher Herstellung. Gesundheitspädagogin Sig
- rid Holzer stellt bei dieser Gartenführung Arzneipflanzen vor\, die uns m
- it ihren wirkungsvollen Inhaltsstoffen bei der Schönheitspflege von Innen
-  und Außen unterstützen können.\n\nDauer: 60 Minuten\nKosten: 5 € Fü
- hrungsgebühr\n\nWegen der begrenzten Teilnehmerzahl empfiehlt sich der vo
- rherige Ticketkauf an der Museumskasse oder im Onlineshop.
-LOCATION:Deutsches Medizinhistorisches Museum\, Anatomiestraße 18-20\, 85
- 049 Ingolstadt
-X-SCORE:14
+X-SCORE:11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Radifest 2026
 DTSTART;TZID=Europe/Berlin:20260725T170000
 DTEND;TZID=Europe/Berlin:20260726T220000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:radifest-2026-20260725-1500@ifg-plattform.de
 DESCRIPTION:Einlass: 15:00\n\nAm Samstag und Sonntag\, 25 und 26. Juli\, f
  eiert die Moosgmoa Ingolstadt am Mooshäusl im Mooshäuslweg 1 wieder das 
@@ -764,13 +459,13 @@ DESCRIPTION:Einlass: 15:00\n\nAm Samstag und Sonntag\, 25 und 26. Juli\, f
  ppen in den gemütlichen Biergarten. Ein Highlight ist die wohl größte P
  flanzentombola weit und breit.
 LOCATION:Mooshäusl\, Mooshäuslweg 1\, 85049 Ingolstadt
-X-SCORE:10
+X-SCORE:11
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Halle NEUN Sommerfest - Open Air Bühne
 DTSTART;TZID=Europe/Berlin:20260725T180000
 DTEND;TZID=Europe/Berlin:20260726T000000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:halle-neun-sommerfest-open-air-b-hne-20260725-1600@ifg-plattform.de
 DESCRIPTION:Open Air Bühne - Live Musik - Drinks - Food\n\nEinlass: 15:30
  \n\nHALLE NEUN SOMMERFEST🍹⛱️\n\nSamstag\, 25. Juli ab 15:30 OPEN AI
@@ -778,13 +473,13 @@ DESCRIPTION:Open Air Bühne - Live Musik - Drinks - Food\n\nEinlass: 15:30
  T (Heavy Doom)\nCALL ME MESSIAH (Death Core)\nDJ SKURREAL\n\nFür Essen un
  d Getränke ist gesorgt!
 LOCATION:Trensporthalle NEUN\, Elisabethstraße 9b\, 85051 Ingolstadt
-X-SCORE:23
+X-SCORE:38
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Fischer und seine Frau - Puppentheater
 DTSTART;TZID=Europe/Berlin:20260725T190000
 DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:der-fischer-und-seine-frau-puppentheater-20260725-1700@ifg-plattform.d
  e
 DESCRIPTION:Audi Sommerkonzerte 2026\n\nEinlass: 16:00\n\nAnnika Pilstl\, 
@@ -823,13 +518,13 @@ DESCRIPTION:Audi Sommerkonzerte 2026\n\nEinlass: 16:00\n\nAnnika Pilstl\,
  ionen sämtliche Techniken nutzt.\n\n\nEinlass: 60 Minuten vor Beginn\n\n\
  n++++++\n\n\nParkplätze direkt am Audi Forum Ingolstadt
 LOCATION:Audi museum mobile\, Ettinger Str.\, 85045 Ingolstadt
-X-SCORE:35
+X-SCORE:51
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Picknick in Weiß
 DTSTART;TZID=Europe/Berlin:20260725T200000
 DTEND;TZID=Europe/Berlin:20260725T230000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:picknick-in-wei-20260725-1800@ifg-plattform.de
 DESCRIPTION:Ein inklusives Picknick (Anmeldung erforderlich)\n\nEine Begeg
  nung von Menschen mit und ohne Behinderung beim Picknick „ganz in Weiß
@@ -843,31 +538,13 @@ DESCRIPTION:Ein inklusives Picknick (Anmeldung erforderlich)\n\nEine Begeg
  gf. Dekoration / Servietten / Beschattung\n\n\n📌BITTE MELDEN SIE SICH B
  IS ZUM 20. JULI AN!!!
 LOCATION:Theaterplatz\, Theaterplatz\, 85049 Ingolstadt
-X-SCORE:10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:exit_Laboratorium
-DTSTART;TZID=Europe/Berlin:20260725T210000
-DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260718T212217Z
-UID:exit-laboratorium-20260725-1900@ifg-plattform.de
-DESCRIPTION:Konzert von Hotzeck und Freunden zum Abschluss des "Labors" vo
- n Markus Jordan\n\nEinlass: 18:30\n\nMit seinem retrofuturistischen „Lab
- or“ hat der Ingolstädter Künstler Markus Jordan im Gewölbekeller unte
- r dem Zeughaus des Neuen Schlosses eine spektakuläre Rauminstallation ges
- chaffen. Ende Juli schließt das Labor – mit Musik: Am Samstag\, 25. Jul
- i verwandelt das Elektronik-Duo Hotzeck mit Gästen das „Labor“ in ein
-  Klanglabor. Die Besucher erwartet bei „exit_laboratorium“ mehr als ei
- n Konzert: Die Klänge und Geräusche der Installation selbst werden Teil 
- der Musik.
-LOCATION:Zeughaus im Neuen Schloss\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:9
+X-SCORE:15
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charity Pride Event
 DTSTART;TZID=Europe/Berlin:20260725T220000
 DTEND;TZID=Europe/Berlin:20260726T070000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213827Z
 UID:charity-pride-event-20260725-2000@ifg-plattform.de
 DESCRIPTION:Einlass: 19:00\n\nEin Event von der Rainbowbar No.2 aus Ingols
  tadt. Soul Sängerin Esther Filly wird live für euch singen. Die drei War
@@ -876,13 +553,13 @@ DESCRIPTION:Einlass: 19:00\n\nEin Event von der Rainbowbar No.2 aus Ingols
  Rainbow mit Esther Filly einer Organisation aus Ingolstadt live einen Spen
  dencheck überreichen.
 LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:8
+X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Der Graf von Monte Christo
 DTSTART;TZID=Europe/Berlin:20260725T223000
 DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:der-graf-von-monte-christo-20260725-2030@ifg-plattform.de
 DESCRIPTION:nach dem Roman von Alexandre Dumas • in einer Fassung von Ro
  nny Jakubaschk und Dinah Wiedemann\n\nDer junge\, erfolgreiche Offizier Ed
@@ -905,67 +582,13 @@ DESCRIPTION:nach dem Roman von Alexandre Dumas • in einer Fassung von Ro
  f von Monte Christo“ stellt sich Ronny Jakubaschk dem Ingolstädter Publ
  ikum auf der Bühne im Turm Baur vor.
 LOCATION:Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt
-X-SCORE:18
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Papier mit Samen und Blüten schöpfen
-DTSTART;TZID=Europe/Berlin:20260726T120000
-DTEND;TZID=Europe/Berlin:20260726T150000
-DTSTAMP:20260718T212217Z
-UID:papier-mit-samen-und-bl-ten-sch-pfen-20260726-1000@ifg-plattform.de
-DESCRIPTION:Einlass: 10:00\n\nGemeinsam schöpfen wir neues Papier aus alt
- en Fasern. Dabei werden bunte Blüten und kleine Samen eingearbeitet\, die
-  dem Papier eine ganz persönliche Note verleihen. Nach dem Trocknen kann 
- das Papier als Brief\, Karte oder Geschenk verwendet werden – und späte
- r einfach im Garten ausgesät werden. \nJedes Kind nimmt sein selbstgesch
- öpftes Saatpapier mit nach Hause – zum Verschenken oder Einpflanzen. So
-  wächst aus Kreativität neues Leben!\n\nWeitere Infos und Anmeldung unte
- r: https://umweltstation-ingolstadt.de/veranstaltungskalender
-LOCATION:Jugendbildungshaus am Baggersee\, Oberschüttweg 25\, 85049 Ingol
- stadt
-X-SCORE:5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ökumenischer MiniGottesdienst
-DTSTART;TZID=Europe/Berlin:20260726T123000
-DTEND;TZID=Europe/Berlin:20260727T015900
-DTSTAMP:20260718T212217Z
-UID:kumenischer-minigottesdienst-20260726-1030@ifg-plattform.de
-DESCRIPTION:an der Weidenkirche Lenting\n\nHerzliche Einladung an Klein &a
- mp\; Groß\, bei diesem wunderbaren Gottesdienst dabei zu sein!\nDie Kinde
- r können sehr gerne Fahrzeuge mitbringen (Bobby Car\, Bulldog\, Roller\, 
- Fahrrad\, Dreirad\, Kinderwagen\, Buggy…)\, denn wir haben eine besonder
- e Aktion damit geplant. Im Anschluss laden wir zum gemeinsamen Picknick ei
- n und bitten hierfür um kleine Leckereien für das Buffet.\nDas wird ein 
- toller Gottesdienst – lasst Euch überraschen. Sollte das Wetter für ei
- nen Outdoor-Gottesdienst ungeeignet sein\, dann feiern wir gemeinsam in de
- r Dietrich-Bonhoeffer-Kirche.
-LOCATION:Weidenkirche Lenting\, Guttenbergerstraße 17\, 85101 Lenting
-X-SCORE:70
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scherbelbergbunker
-DTSTART;TZID=Europe/Berlin:20260726T153000
-DTEND;TZID=Europe/Berlin:20260726T163000
-DTSTAMP:20260718T212217Z
-UID:scherbelbergbunker-20260726-1330@ifg-plattform.de
-DESCRIPTION:Erlebt den ehemaligen Bunker hautnah!\n\nEinlass: 13:30\n\nAls
-  Teil der Landesfestung von König Ludwig I. erbaut\, erfolgte die Umnutzu
- ng der Festungsanlagen im Bereich des heutigen Scherbelbergs im Zweiten We
- ltkrieg als Luftschutzbunker.\n\nDer Bunker dient als ein Beispiel der Umn
- utzung Ingolstädter Festungsanlagen.\n\nBitte Taschenlampe mitbringen!\n\
- nGeeignet ab 12 Jahre\n\nBitte beachten Sie: die Tourist Information ist a
- n Feiertagen geschlossen.\nhttps://www.newcityplatform.de
-LOCATION:Zugang Scherbelbergbunker\, Jahnstraße\, Keine Straße verfügba
- r Keine Straßennummer verfügbar\, Keine Postleitzahl verfügbar Keine St
- adt verfügbar\, Keine weiteren Informationen verfügbar
-X-SCORE:10
+X-SCORE:19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kombiführung Lechner Museum und Skulpturenpark
 DTSTART;TZID=Europe/Berlin:20260726T160000
 DTEND;TZID=Europe/Berlin:20260726T190000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:kombif-hrung-lechner-museum-und-skulpturenpark-20260726-1400@ifg-platt
  form.de
 DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
@@ -982,13 +605,13 @@ DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
  st leider nicht möglich.\n‍\nKommen Sie vorbei und lassen Sie sich von 
  der Kunst und der Natur begeistern!
 LOCATION:Lechner Museum\, Esplanade 9\, 85049 Ingolstadt
-X-SCORE:18
+X-SCORE:23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonntags?Kunst!
 DTSTART;TZID=Europe/Berlin:20260726T170000
 DTEND;TZID=Europe/Berlin:20260726T190000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:sonntags-kunst-20260726-1500@ifg-plattform.de
 DESCRIPTION:„Siebdruck" – Familien-Workshop mit Stephanie Schmitz\n\nE
  inlass: 14:45\n\nDer Siebdruck ist eine traditionelle manuelle Durchdruckt
@@ -1014,13 +637,13 @@ DESCRIPTION:„Siebdruck" – Familien-Workshop mit Stephanie Schmitz\n\nE
  g bedankt sich das MKK herzlich.
 LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
  adt
-X-SCORE:19
+X-SCORE:33
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schanzer Tanzboden Musikanten - Tanzleitung: Monika Ketterl
 DTSTART;TZID=Europe/Berlin:20260726T190000
 DTEND;TZID=Europe/Berlin:20260727T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:schanzer-tanzboden-musikanten-tanzleitung-monika-ketterl-20260726-1700
  @ifg-plattform.de
 DESCRIPTION:Die kultURIG Veranstaltungsreihe vereint ihre Einzelveranstalt
@@ -1029,31 +652,13 @@ DESCRIPTION:Die kultURIG Veranstaltungsreihe vereint ihre Einzelveranstalt
  ie ein und erleben Sie Ingolstadts kulturelle Vielfalt in ihrer ganzen Pra
  cht!\n\n\nDer Eintritt zu dieser Reihe ist kostenfrei.
 LOCATION:Schutterhof\, Friedhofstraße 1a\, 85049 Ingolstadt
-X-SCORE:4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hier stinkt's gewaltig
-DTSTART;TZID=Europe/Berlin:20260726T193000
-DTEND;TZID=Europe/Berlin:20260726T204500
-DTSTAMP:20260718T212217Z
-UID:hier-stinkt-s-gewaltig-20260726-1730@ifg-plattform.de
-DESCRIPTION:Von Gerbern\, Henkern und Seuchen\n\nEinlass: 17:15\n\nFäkali
- en in den Gassen\, der stechende Geruch von Schlachtabfällen und Tierhäu
- ten – und mittendrin die Gerber bei ihrem „anrüchigen Handwerk“. So
-  könnte es gewesen sein …\nBegleiten Sie die Gerbersfrau Agnes auf eine
- m spannenden Rundgang durch das ehemalige Armenviertel von Ingolstadt. Erk
- unden Sie die verwinkelten Gassen entlang der des alten Schutterverlaufs\,
-  wo einst der Henker wohnte und das Badehaus unweit des Bordells lag. Lass
- en Sie sich mitreißen von spannenden Geschichten über Seuchen\, Katastro
- phen und dem harten Alltag jener Zeit.
-LOCATION:Rathausplatz\, Rathausplatz\, 85049 Ingolstadt
-X-SCORE:4
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abschlusskonzert mit der Audi Jugendchorakademie
 DTSTART;TZID=Europe/Berlin:20260726T210000
 DTEND;TZID=Europe/Berlin:20260727T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:abschlusskonzert-mit-der-audi-jugendchorakademie-20260726-1900@ifg-pla
  ttform.de
 DESCRIPTION:Audi Sommerkonzerte 2026\n\nEinlass: 18:30\n\nAudi Jugendchora
@@ -1094,70 +699,13 @@ DESCRIPTION:Audi Sommerkonzerte 2026\n\nEinlass: 18:30\n\nAudi Jugendchora
  ten vor Beginn\nUm 18.30 Uhr findet im Mittelfoyer des Stadttheaters eine 
  Konzerteinführung mit Annekatrin Hentschel (BR-Klassik) statt
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
-X-SCORE:36
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reihe „Mittagsvisite”: Fritz Kahns „Stromkabelnerven”
-DTSTART;TZID=Europe/Berlin:20260728T143000
-DTEND;TZID=Europe/Berlin:20260728T150000
-DTSTAMP:20260718T212217Z
-UID:reihe-mittagsvisite-fritz-kahns-stromkabelnerven-20260728-1230@ifg-pla
- ttform.de
-DESCRIPTION:mit Dr. Alois Unterkircher\n\nIn dieser Mittagsvisite stellt D
- r. Alois Unterkircher den deutschen Arzt und Wissenschaftspublizisten Frit
- z Kahn (1888–1968) vor. Mit seinen populären Büchern und Zeichnungen e
- rklärte Kahn biologische Prozesse im Körper mit technischen Metaphern\, 
- so auch die Funktionsweise des Nervensystems. Seine Illustrationen entstan
- den in einer Zeit\, in der Elektrizität\, Radio und Telefon als Sinnbilde
- r moderner Effizienz galten und die Vorstellung einer elektrischen Funktio
- nsweise der Nerven in der Neurologie fest etabliert war.\n\nBereits im 19.
-  Jahrhundert dienten elektrische Verfahren sowohl zur Erforschung des Nerv
- ensystems als auch zur Diagnose und Behandlung neurologischer Erkrankungen
- . Vor diesem Hintergrund wurden Nerven häufig mit Telegraphen- oder Strom
- kabeln verglichen\, da beide elektrische Signale übertragen. In diesem 
- „elektrifizierenden“ Diskurs galten der Körper und vor allem das Gehi
- rn zudem als eine Art Batterie mit begrenzter „Nervenkraft“\, die durc
- h die Anforderungen der modernen Gesellschaft\, etwa durch das Leben in de
- r hektischen Großstadt\, zunehmend erschöpft wurde. Die schwindende Nerv
- enkraft wurde dementsprechend als Entladung der „Batterie“ interpretie
- rt und sollte durch Ruhe oder elektrische Behandlungen wieder neu „aufge
- laden“ werden.\n\nDr. Alois Unterkircher stellt ausgewählte Bilder Frit
- z Kahns vor und erläutert\, wie dieser das Bild der „Stromkabelnerven
- “ aufgriff\, um die Funktionsweise des Nervensystems anschaulich zu erkl
- ären und das mechanistische Körperverständnis seiner Zeit für breite B
- evölkerungsschichten zugänglich zu machen.\n\nIm Seminarraum „Christa 
- Habrich”\, Dauer 30 Minuten\, Eintritt frei. Keine Voranmeldung nötig.
-LOCATION:Deutsches Medizinhistorisches Museum\, Anatomiestraße 18-20\, 85
- 049 Ingolstadt
-X-SCORE:9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walk&amp\;Talk für Frauen
-DTSTART;TZID=Europe/Berlin:20260728T190000
-DTEND;TZID=Europe/Berlin:20260728T194500
-DTSTAMP:20260718T212217Z
-UID:walk-amp-talk-f-r-frauen-20260728-1700@ifg-plattform.de
-DESCRIPTION:Begegnung mit Bewegung\n\nGemeinsam spazieren\, ins Ge(h)sprä
- ch kommen und neue Kontakte knüpfen: Beim monatlichen Walk &amp\; Talk ve
- rbinden wir Bewegung in der Natur mit offenem Austausch in entspannter Atm
- osphäre. Ein Angebot für Mädchen und Frauen\, die andere kennenlernen u
- nd Freundschaften finden oder einfach spontan gemeinsam unterwegs sein mö
- chten. Startpunkt für den etwa 45-minütigen Spaziergang ist der Donauste
- g gegenüber des Theater-Parkplatzes. Die Route führt entlang der Donau u
- nd Schutter\, es besteht im Anschluss die Möglichkeit zu einer gemeinsame
- n Einkehr. Bei sehr schlechtem Wetter treffen sich Teilnehmende um 17 Uhr 
- im Backstage Theater-Restaurant - die Einhaltung der Bestimmungen des Juge
- ndschutzgesetzes obliegt bei minderjährigen Teilnehmerinnen den Erziehung
- sberechtigten. \nNächster Walk&amp\;Talk am 29.09.2026. Weitere Informati
- onen gibt es unter mgh@ingolstadt.de oder (0841) 305-500 55.
-LOCATION:Start am Donausteg\, Donausteg -\, 85049 Ingolstadt
-X-SCORE:8
+X-SCORE:52
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mephistofeles
 DTSTART;TZID=Europe/Berlin:20260728T223000
 DTEND;TZID=Europe/Berlin:20260729T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:mephistofeles-20260728-2030@ifg-plattform.de
 DESCRIPTION:Einlass: 19:30\n\nEinlass: 19:30\, VVK 18\,50 €\, AK 20\,- 
  €\n\nAus den Schatten der argentinischen Underground-Szene haben sich Me
@@ -1178,75 +726,24 @@ DESCRIPTION:Einlass: 19:30\n\nEinlass: 19:30\, VVK 18\,50 €\, AK 20\,-
  betreten\, verschmelzen dunkler Heavy Psych und hypnotische Doom-Schwere z
  u einem unvergesslichen Live-Erlebnis. Bereit für den Trip?
 LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:16
+X-SCORE:20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:LIVE-Musik mit cultural.disaster
 DTSTART;TZID=Europe/Berlin:20260729T200000
 DTEND;TZID=Europe/Berlin:20260730T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:live-musik-mit-cultural-disaster-20260729-1800@ifg-plattform.de
 DESCRIPTION:gute Musik + gutes Bier = richtig gute Zeit
 LOCATION:Griesmüllers Altstadtbrauerei\, Schulstraße 19\, 85049 Ingolsta
  dt
-X-SCORE:8
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:TRAIN 4 CHANGE: Stark gegen Mobbing. Stark in Konflikten.
-DTSTART;TZID=Europe/Berlin:20260729T210000
-DTEND;TZID=Europe/Berlin:20260729T233000
-DTSTAMP:20260718T212217Z
-UID:train-4-change-stark-gegen-mobbing-stark-in-konflikten-20260729-1900@i
- fg-plattform.de
-DESCRIPTION:Gemeinsam stark: Raus aus der Sackgasse - rein in die Lösung.
- \n\nEinlass: 19:00\n\n„Was ist es\, was du dir WIRKLICH wünschst?“\n\
- nDiese Frage stellt Lucifer regelmäßig in der gleichnamigen Serie. \nEs 
- ist eine Entscheidungs-Frage. Eine\, die es in sich hat.\n„Was ist es\, 
- was du dir wirklich wünschst?“ fragt nicht nach dem\, was wir üblicher
- weise antworten. \nDen Ausreden und Geschichten\, die wir uns selbst und a
- nderen gern erzählen.\n\nDiese Frage umgeht die Schutzschichten (Ich soll
- te – Man müsste - Eigentlich wäre es schön\, wenn …). \nSie nimmt d
- ir die Maske ab. \nSie zielt direkt ins Unterbewusstsein und bohrt sich vo
- r bis zur Wahrheit: „Was wünschst du dir wirklich?“\nIn der Antwort l
- iegt schon die Lösung.\nSobald du die Antwort aussprichst\, produziert de
- in Gehirn sofort Lösungen. \nDu kannst sie nicht mehr ignorieren. \nDu mu
- sst dich ent-scheiden. \n\n„Was ist es\, was du dir wirklich wünschst?
- “ ist DIE Lösungsfrage\, die zu Entwicklung\, Wachstum und Fortschritt 
- führt.\nSobald wir aussprechen\, was wir wirklich wollen\, passiert etwas
-  Entscheidendes: \nStatt AUSREDEN suchen und finden wir WEGE.\n\nAaaaber:\
- nDie ehrliche Antwort auf diese Frage finden wir oft peinlich\, egoistisch
-  oder unrealistisch. \nDeshalb weichen wir ihr aus.\nStattdessen stellen w
- ir uns die Frage von Lucifers intrigantem Zwillingsbruder Michael: „Wovo
- r hast du am meisten Angst?“\nSofort läuft ein automatisches Programm a
- b\, und plötzlich bestimmen Zweifel die Richtung:\nJa\, aber …\nWas\, w
- enn …\nWenn das schiefgeht …\nDas erleben wir regelmäßig im Alltag u
- nd in der Gruppe. \n\nDiese inneren Bremsen sind unsichtbar\, und diese Pr
- ogramme laufen weitgehend unbewusst ab. \nSie sind tief ins Unterbewusstse
- in gesickert. Glaubenssätze. Alte Erfahrungen. Schutzmechanismen. \nDesha
- lb ist es so schwer\, allein aus der eigenen Sackgasse herauszukommen.\n\n
- Wenn du von der Bremse aufs Gas willst\, braucht es meist einen neutralen 
- Blick von außen – möglichst einen\, der es gewohnt ist\, hinter die Fa
- ssade zu sehen und die Muster zu erkennen. \n\nDu musst das auch nicht all
- ein. \nDarum gibt es diese (kostenlose) Gruppe: \n\nWir treffen uns alle 1
- 4 Tage und trainieren das. \n\nWann:\n🗓️ Immer Mittwochs in den unger
- aden Kalenderwochen\n\n⏰ 19:00 Uhr\n\nWo:\n📍 Bürgerhaus „Alte Post
- “\nKreuzstraße 12\, 85049 Ingolstadt\nRaum A 2\n\nWann:\n🗓️ 17.06.
- 2026\n\nKONFLIKTE GEHÖREN ZUM LEBEN – ABER SIE MÜSSEN NICHT UNSER LEBE
- N BESTIMMEN!\nDenn du bist so viel mehr als die Summe der negativen Erfahr
- ungen\, die du gemacht hast. \n\nGemeinsam stark werden!\n\n💬 Kostenlos
-  &amp\; vertraulich\nAlle willkommen! 😊 \nKurz anmelden und gerne mal u
- nverbindlich zum Reinschnuppern vorbeikommen.\n\nP.S.: \nDieser Song bring
- t vieles davon auf den Punkt – hör gern mal rein: \n„Ich trag mein Kr
- euz ins Leben“: https://youtu.be/tq1pN8WP_sc
-LOCATION:Bürgerhaus "Alte Post"\, Kreuzstraße 12\, 85049 Ingolstadt\, Ra
- um A 2
-X-SCORE:4
+X-SCORE:16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carrara Weinfest
 DTSTART;TZID=Europe/Berlin:20260730T193000
 DTEND;TZID=Europe/Berlin:20260817T013000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:carrara-weinfest-20260730-1730@ifg-plattform.de
 DESCRIPTION:40. Carrara Weinfest\nAb Donnerstag\, 30. Juli\, bis Sonntag\,
   16. August\, findet in Ingolstadt bereits zum 40. Mal das Carrara-Weinfes
@@ -1260,13 +757,13 @@ DESCRIPTION:40. Carrara Weinfest\nAb Donnerstag\, 30. Juli\, bis Sonntag\,
  chen Bande zu festigen. \nInformationen zu den Ingolstädter Partnerstädt
  en unter: www.ingolstadt.de/partnerstaedte
 LOCATION:Paradeplatz\, Paradeplatz\, 85049 Ingolstadt
-X-SCORE:14
+X-SCORE:12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:REG10N
 DTSTART;TZID=Europe/Berlin:20260730T220000
 DTEND;TZID=Europe/Berlin:20260731T000000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:reg10n-20260730-2000@ifg-plattform.de
 DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nREG10N\n
  — Donnerstag\, 30/07 um 20 Uhr —\n\n\nWer aus Ingolstadt kommt\, dem s
@@ -1284,27 +781,13 @@ DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nREG10N\n
  len Dank an unseren diesjährigen Partner der TAGTRAUM BIERGARTENKONZERTE 
  - die Sparkasse Ingolstadt Eichstätt.
 LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Metal\, Punk\, Alternative Stammtisch
-DTSTART;TZID=Europe/Berlin:20260731T210000
-DTEND;TZID=Europe/Berlin:20260801T015900
-DTSTAMP:20260718T212217Z
-UID:metal-punk-alternative-stammtisch-20260731-1900@ifg-plattform.de
-DESCRIPTION:Einlass: 18:00\n\nDer Metal\, Punk\, Alternative Stammtisch ge
- ht in die dritte Runde. \nTrefft andere Metalheads und Fans der alternativ
- en Szene\n\nFindet Mitmusiker*innen oder Freund*innen für gemeinsame Konz
- ertbesuche und tauscht euch über die lokale Szene\, Equipments\, Proberä
- ume und neue Releases aus.\nJeder ist Willkommen!
-LOCATION:Amal goes Diagonal\, Kreuzstraße 12\, 85049 Ingolstadt
-X-SCORE:9
+X-SCORE:24
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Die Nowak
 DTSTART;TZID=Europe/Berlin:20260731T220000
 DTEND;TZID=Europe/Berlin:20260801T010000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:die-nowak-20260731-2000@ifg-plattform.de
 DESCRIPTION:&amp\; Die Leute aus der Raucherpause\n\nEinlass: 19:00\n\nEin
  e regennasse Großstadt. Die Nowak und die Leute aus der Raucherpause betr
@@ -1346,74 +829,13 @@ DESCRIPTION:&amp\; Die Leute aus der Raucherpause\n\nEinlass: 19:00\n\nEin
  in zackiger Abgesang auf einen Scheißtypen“ Juni 2023\, BARBARA (Magazi
  n von Barbara Schöneberger)
 LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinder Studio
-DTSTART;TZID=Europe/Berlin:20260801T120000
-DTEND;TZID=Europe/Berlin:20260801T140000
-DTSTAMP:20260718T212217Z
-UID:kinder-studio-20260801-1000@ifg-plattform.de
-DESCRIPTION:UNSINNIGE MAUERN\n\nEinlass: 10:00\n\nIm Rahmen der Ausstellun
- g Pennys öffnet das Kinder Studio die Türen für Familien und Kinder (6+
-  Jahre). \n \n\nUNSINNIGE MAUERN \nMauern mit Lücken\, ungewöhnlicher Fo
- rm oder klitzeklein – was\, wenn Mauern scheinbar keinen Sinn ergeben? \
- nEs werden Mini-Mauern gebaut! Wie werden sie im Museum aussehen und werde
- n sie dort Sinn ergeben? \n\n\n\nSamstag\, 1. August 2026 | 10–12 Uhr Le
- chner Museum Ingolstadt\n8 € pro Teilnehmer:in\, Begleitpersonen = freie
- r Eintritt\nAnmeldung: per Mail an kv@alflechner-stiftung.com\nAltersempfe
- hlung: ab 6 Jahren oder in Begleitung eines Elternteils\, Familien sind he
- rzlich willkommen.\n    \nFür alle Kinder Studio-Angebote bitten wir um A
- nmeldung per E-Mail an: kv@alflechner-stiftung.com\n \nBitte geben Sie den
-  Termin\, den/die Namen Ihres Kindes/Ihrer Kinder\, sowie das Alter an. Si
- e erhalten anschließend eine E-Mail\, in der die Anmeldung bestätigt wir
- d.
-LOCATION:Lechner Museum\, Esplanade 9\, 85049 Ingolstadt
-X-SCORE:3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:14. SamstagOrgel mit David Kirschsieper
-DTSTART;TZID=Europe/Berlin:20260801T140000
-DTEND;TZID=Europe/Berlin:20260802T015900
-DTSTAMP:20260718T212218Z
-UID:14-samstagorgel-mit-david-kirschsieper-20260801-1200@ifg-plattform.de
-DESCRIPTION:30 Minuten Orgelmusik\n\nEinlass: 11:40\n\nBach an der Chororg
- el: David Kirschsieper im Jubiläumsjahr des Instruments\nIn der Reihe „
- SamstagOrgel“ ist am Samstag\, 1. August 2026\, um 12 Uhr im Ingolstädt
- er Liebfrauenmünster an der Chororgel ein besonderes Konzert zu hören. M
- it David Kirschsieper gestaltet der junge Regionalkantor und Kirchenmusike
- r am Münster das Programm – auf einem Instrument\, das in diesem Jahr s
- eit zehn Jahren seinen eigenen klanglichen Akzent im Münster setzt.\nDas 
- Konzert ist ganz Johann Sebastian Bach gewidmet. Mit dem festlichen Praelu
- dium Es-Dur BWV 552/1 eröffnet sich ein weiter\, repräsentativer Klangra
- um\, der zu den großen Eingangsstücken des Barock zählt. Die Leipziger 
- Choräle Schmücke dich\, o liebe Seele BWV 654 bringen eine innige\, sang
- liche Seite Bachs zur Geltung\, bevor die monumentale Passacaglia und Fuge
-  c-Moll BWV 582 den eindrucksvollen Schlusspunkt setzt. \nDavid Kirschsiep
- er (*2002) wirkt seit April 2025 als Regionalkantor im Bistum Eichstätt u
- nd als Kirchenmusiker am Ingolstädter Münster\; dort verantwortet er die
-  musikalische Arbeit mit großer Sorgfalt und prägt das kirchenmusikalisc
- he Leben am Haus in besonderer Weise. Seine Ausbildung führte ihn von Wei
- den über Regensburg bis zu Meisterkursen bei international renommierten O
- rganisten wie Olivier Latry\, Thierry Escaich und Sietze de Vries.\nGerade
-  das Zusammenspiel von Bachs Musik\, der Chororgel und dem besonderen Raum
-  des Münsters macht dieses Konzert zu einem klanglichen Höhepunkt des So
- mmers. Die Chororgel feiert dabei ihr zehnjähriges Bestehen als eigenstä
- ndige Stimme im Gotteshaus und erweitert die musikalische Vielfalt des Ing
- olstädter Münsterraums hörbar. \nDer Eintritt bleibt bewusst niedrig: 5
-  Euro. Karten gibt es an der Tageskasse (nur Barzahlung)\, geöffnet 30 Mi
- nuten vor Konzertbeginn. Der Zugang erfolgt über den Eingang Bergbräustr
- aße gegenüber der Münster-Tiefgarage\; Onlinetickets über Ticket-Regio
- nal sind vorab mit zusätzlichen Kosten erhältlich.
-LOCATION:Münster Zur Schönen Unserer Lieben Frau\, Kreuzstraße 1\, 8504
- 9 Ingolstadt
-X-SCORE:14
+X-SCORE:12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rockabilly Fest mit Rockabella &amp\; The Giddyups
 DTSTART;TZID=Europe/Berlin:20260801T210000
 DTEND;TZID=Europe/Berlin:20260802T010000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:rockabilly-fest-mit-rockabella-amp-the-giddyups-20260801-1900@ifg-plat
  tform.de
 DESCRIPTION:+ guest: Christian Christl &amp\; more\n\nEinlass: 18:00\n\nOp
@@ -1449,13 +871,13 @@ DESCRIPTION:+ guest: Christian Christl &amp\; more\n\nEinlass: 18:00\n\nOp
  erzählen musikalische Geschichten – und spielen ein klein wenig Klavier
   dazu“. Christian Christl berücksichtigt diesen Tipp bis heute.
 LOCATION:Turm Baur Freilichtbühne\, Parkstraße 1\, 85049 Ingolstadt
-X-SCORE:31
+X-SCORE:44
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Poetry Slam am Donaustrand
 DTSTART;TZID=Europe/Berlin:20260801T213000
 DTEND;TZID=Europe/Berlin:20260801T233000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:poetry-slam-am-donaustrand-20260801-1930@ifg-plattform.de
 DESCRIPTION:Moderner Dichterwettstreit - Open Air und kostenlos\n\nPoetry 
  Slam\, Donaustrand\, Open Air\, schönes Wetter\, wunderbare Texte\, lecke
@@ -1476,13 +898,13 @@ DESCRIPTION:Moderner Dichterwettstreit - Open Air und kostenlos\n\nPoetry
   Spaß und wir erleben gemeinsam einen besonderen Abend. :)\n\nAchtung: Be
  i schlechtem Wetter muss die Veranstaltung leider abgesagt werden!
 LOCATION:Donaustrand\, Klenzepark\, 85049 Ingolstadt
-X-SCORE:4
+X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Trailershow
 DTSTART;TZID=Europe/Berlin:20260801T231500
 DTEND;TZID=Europe/Berlin:20260802T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-trailershow-20260801-2115@ifg-plattform.de
 DESCRIPTION:Einlass: 18:30\n\nEs hat sich bewährt\, den ersten Spieltag i
  m Freilichtkino mit einer kostenlosen Trailershow zu eröffnen. Schon bevo
@@ -1508,40 +930,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radtour in die Landeshauptstadt München
-DTSTART;TZID=Europe/Berlin:20260802T100000
-DTEND;TZID=Europe/Berlin:20260803T015900
-DTSTAMP:20260718T212217Z
-UID:radtour-in-die-landeshauptstadt-m-nchen-20260802-0800@ifg-plattform.de
-DESCRIPTION:Einlass: 08:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nAuf schönen Radwegen abseits vom Straßenverkehr in die Landeshaupt
- stadt. Stationen im Olympiapark und der Schlossanlage Nymphenburg\, Ziel: 
- Königlicher Hirschgarten. Nach einer Maß Bier und einer deftigen Brotzei
- t zurück mit der Bahn.\nAnmeldung erforderlich.
-LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Geistliches Konzert
-DTSTART;TZID=Europe/Berlin:20260802T200000
-DTEND;TZID=Europe/Berlin:20260802T211500
-DTSTAMP:20260718T212217Z
-UID:geistliches-konzert-20260802-1800@ifg-plattform.de
-DESCRIPTION:Ausflug in die Region: nach Bettbrunn\n\nEinlass: 17:30\n\nFes
- tkonzert in der Heimat von Johann Simon Mayr\n\nHans Jürgen Huber\, Tromp
- ete\nLaura Igl\, Sopran\nKonstantin Igl\, Tenor\nFranz Hauk\, Orgel
-LOCATION:Wallfahrtskirche St. Salvator Bettbrunn\, Salvator-Ring 5\, 85092
-  Kösching\, Ortsteil Bettbrunn
-X-SCORE:5
+X-SCORE:35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:PARTIPRIVATI im Backhaus
 DTSTART;TZID=Europe/Berlin:20260802T213000
 DTEND;TZID=Europe/Berlin:20260803T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:partiprivati-im-backhaus-20260802-1930@ifg-plattform.de
 DESCRIPTION:Einlass: 19:00\n\nPartiprivati ist eine junge Indie-Singer-Son
  gwriter-Band aus Freiburg. Mal nachdenklich und ernst\, mal ironisch und a
@@ -1559,7 +954,7 @@ BEGIN:VEVENT
 SUMMARY:Werner Schmidbauer
 DTSTART;TZID=Europe/Berlin:20260802T220000
 DTEND;TZID=Europe/Berlin:20260803T010000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:werner-schmidbauer-20260802-2000@ifg-plattform.de
 DESCRIPTION:Der Momentnsammler unterwegs\n\nEinlass: 19:00\n\nOpen Air im 
  Turm Baur - Sitzplätze sind überdacht !\n\nAuf meiner über zweieinhalb 
@@ -1596,13 +991,13 @@ DESCRIPTION:Der Momentnsammler unterwegs\n\nEinlass: 19:00\n\nOpen Air im
  uf Dauer is Liebe unvermeidbar“ Mia san oans … und dafür mein Dank! \
  nAus dem Süden von meim Herzen\, Werner Schmidbauer
 LOCATION:Turm Baur Freilichtbühne\, Parkstraße 1\, 85049 Ingolstadt
-X-SCORE:12
+X-SCORE:21
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live-Konzert AUSTRIA 4+
 DTSTART;TZID=Europe/Berlin:20260803T220000
 DTEND;TZID=Europe/Berlin:20260804T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:live-konzert-austria-4-20260803-2000@ifg-plattform.de
 DESCRIPTION:AUSTRIA 4+ | 150 min  |  Konzert\,  Austro-Pop | Sonderveranst
  altung\n\nEinlass: 18:30\n\nLange Zeit schon ein Muss im Sommer im Freilic
@@ -1619,14 +1014,14 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:25
+X-SCORE:32
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ferienprogramm  „Formen entdecken\, erleben und gestalten“ –
   Ferien-Workshop
 DTSTART;TZID=Europe/Berlin:20260804T120000
 DTEND;TZID=Europe/Berlin:20260806T150000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:ferienprogramm-formen-entdecken-erleben-und-gestalten-ferien-workshop-
  20260804-1000@ifg-plattform.de
 DESCRIPTION:Einlass: 09:45\n\nAn drei spannenden Workshoptagen dreht sich 
@@ -1642,13 +1037,13 @@ DESCRIPTION:Einlass: 09:45\n\nAn drei spannenden Workshoptagen dreht sich
  vor Ort vorhanden.
 LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
  adt
-X-SCORE:7
+X-SCORE:15
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Live-Konzert AUSTRIA 4+
 DTSTART;TZID=Europe/Berlin:20260804T220000
 DTEND;TZID=Europe/Berlin:20260805T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:live-konzert-austria-4-20260804-2000@ifg-plattform.de
 DESCRIPTION:AUSTRIA 4+ | 150 min  |  Konzert\,  Austro-Pop | Sonderveranst
  altung\n\nEinlass: 18:30\n\nLange Zeit schon ein Muss im Sommer im Freilic
@@ -1665,13 +1060,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:25
+X-SCORE:32
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Die große Nacht der italienischen Welthits!
 DTSTART;TZID=Europe/Berlin:20260805T220000
 DTEND;TZID=Europe/Berlin:20260806T010000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:die-gro-e-nacht-der-italienischen-welthits-20260805-2000@ifg-plattform
  .de
 DESCRIPTION:mit I DOLCI SIGNORI\n\nEinlass: 19:00\n\nOpen Air im Turm Baur
@@ -1701,13 +1096,40 @@ DESCRIPTION:mit I DOLCI SIGNORI\n\nEinlass: 19:00\n\nOpen Air im Turm Baur
  e Rolle\, sondern brillieren auch als Schauspieler. Seit 2018 wird das Mus
  ical kontinuierlich in meist ausverkauften Häusern aufgeführt.
 LOCATION:Turm Baur Freilichtbühne\, Parkstraße 1\, 85049 Ingolstadt
-X-SCORE:46
+X-SCORE:58
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hinter den Kulissen der Brauerei - erleben Sie Nordbräu hautnah!
+DTSTART;TZID=Europe/Berlin:20260806T190000
+DTEND;TZID=Europe/Berlin:20260806T210000
+DTSTAMP:20260718T213826Z
+UID:hinter-den-kulissen-der-brauerei-erleben-sie-nordbr-u-hautnah-20260806
+ -1700@ifg-plattform.de
+DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nVon den Jesuiten-Mönche
+ n bis zum heutigen modernen Unternehmen: Blicken Sie hinter die Kulissen v
+ on Nordbräu und erleben Sie\, wie wir heute brauen. Vom Hopfen ins Glas 
+ – wie funktioniert das eigentlich? Wie entsteht das beliebte Nordbräu H
+ elle\, das würzige Dunkle\, und was ist eigentlich das Besondere am Brauv
+ organg für unser kultiges Privat Pilsener?\n\nWenn Sie auf diese Fragen s
+ chon immer nach Antworten gesucht haben\, sind Sie bei unserer Führung ge
+ nau richtig! Erfahren Sie\, wie die Biere zu ihrem charakteristischen Gesc
+ hmack kommen\, was es mit der Stammwürze auf sich hat und wie die Filtrat
+ ion gelingt – oder eben nicht\, denn auch ungefilterte Biere haben etwas
+  ganz Besonderes an sich.\n\nIn ca. 1\,5 Stunden erleben Sie dabei alle Sc
+ hritte der Braukunst und erfahren jede Menge Wissenswertes rund um das woh
+ l beliebteste Getränk der Bayern.\n\nDie maximale Teilnehmerzahl beträgt
+  25 Personen – in einer überschaubaren Gruppe wird es schließlich gem
+ ütlicher\, und es ist genug Zeit\, alle Fragen zu beantworten. Nach der F
+ ührung gibt es eine kleine Verkostung mit Brotzeit in unserer Brauereisch
+ enke im Kastaniengarten.
+LOCATION:Brauerei Nordbräu\, Gutsstraße 5\, 85055 Ingolstadt
+X-SCORE:14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hans Söllner SOLO
 DTSTART;TZID=Europe/Berlin:20260806T220000
 DTEND;TZID=Europe/Berlin:20260807T010000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:hans-s-llner-solo-20260806-2000@ifg-plattform.de
 DESCRIPTION:Einlass: 19:00\n\nOpen Air im Turm Baur - Sitzplätze sind üb
  erdacht !\n\nHans Söllner\, der gern als „wuida Hund von Reichenhall“
@@ -1730,13 +1152,13 @@ DESCRIPTION:Einlass: 19:00\n\nOpen Air im Turm Baur - Sitzplätze sind üb
  epunkte\, sondern auch eine besondere Atmosphäre\, in der Gemeinschaft un
  d Freude im Vordergrund stehen.
 LOCATION:Turm Baur Freilichtbühne\, Parkstraße 1\, 85049 Ingolstadt
-X-SCORE:12
+X-SCORE:25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KEANAN EKSTEEN
 DTSTART;TZID=Europe/Berlin:20260806T220000
 DTEND;TZID=Europe/Berlin:20260807T000000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:keanan-eksteen-20260806-2000@ifg-plattform.de
 DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nKEANAN E
  KSTEEN\n— Donnerstag\, 06/08 um 20 Uhr —\n\n\nWer ihn im letzten Jahr 
@@ -1755,13 +1177,13 @@ DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nKEANAN E
  r jeden zugänglich.\n\n\nVielen Dank an unseren diesjährigen Partner der
   TAGTRAUM BIERGARTENKONZERTE - die Sparkasse Ingolstadt Eichstätt.
 LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:10
+X-SCORE:21
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SUNSET SOCIETY Ingolstadt - SHADES of SUNSET
 DTSTART;TZID=Europe/Berlin:20260807T210000
 DTEND;TZID=Europe/Berlin:20260808T030000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:sunset-society-ingolstadt-shades-of-sunset-20260807-1900@ifg-plattform
  .de
 DESCRIPTION:Celebrate Life Together - feiert mit uns auf der Terrasse des 
@@ -1783,56 +1205,13 @@ DESCRIPTION:Celebrate Life Together - feiert mit uns auf der Terrasse des
  he Momente mit euch zu teilen.\n\nSUNSET SOCIETY Ingolstadt\nCelebrate Lif
  e Together
 LOCATION:Golfclub Ingolstadt\, Krumenauerstr. 1\, 85049 Ingolstadt
-X-SCORE:7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:15. SamstagOrgel mit Florian Schuster
-DTSTART;TZID=Europe/Berlin:20260808T140000
-DTEND;TZID=Europe/Berlin:20260809T015900
-DTSTAMP:20260718T212217Z
-UID:15-samstagorgel-mit-florian-schuster-20260808-1200@ifg-plattform.de
-DESCRIPTION:30 Minuten Orgelmusik\n\nEinlass: 11:40\n\nMit Muffat verbunde
- n: Orgelkunst zwischen Ingolstadt und der europäischen Barockwelt\nIn der
-  Reihe „SamstagOrgel“ ist am Samstag\, 8. August 2026\, um 12 Uhr im I
- ngolstädter Liebfrauenmünster an der Chororgel ein Programm von besonder
- er stilistischer Spannweite zu hören. Mit Florian Schuster gestaltet ein 
- junger\, vielfach ausgezeichneter Organist das Konzert\, das barocke Klang
- rede und romantische Formkraft miteinander verbindet.\nDen Auftakt bildet 
- Georg Muffats Toccata septima aus dem Apparatus musico-organisticus von 16
- 90. Muffat ist mit Ingolstadt auf bemerkenswerte Weise verbunden: Er hielt
-  sich 1674 dort als Student auf und gehört damit zu den frühen musikalis
- chen Persönlichkeiten\, die auch für die Ingolstädter Musikgeschichte B
- edeutung haben. Seine Orgelmusik verbindet französische Eleganz\, italien
- ische Beweglichkeit und deutsche Satzkunst zu einer überaus farbigen und 
- repräsentativen Tonsprache.\nMit Johann Sebastian Bachs Choralbearbeitung
-  Von Gott will ich nicht lassen BWV 658 folgt ein Werk von großer Innerli
- chkeit und kunstvoller Dichte. Die Choralbearbeitung gehört zu den Leipzi
- ger Chorälen und zeigt Bachs Fähigkeit\, theologische Tiefe in konzentri
- erte musikalische Form zu bringen. \nFelix Mendelssohn-Bartholdys Orgelson
- ate B-Dur op. 65/4 spannt anschließend den Bogen in die Romantik. Ihre vi
- er Sätze verbinden feierliche Bewegtheit\, gesangliche Ruhe und brillante
-  Schlusswirkung zu einem geschlossenen\, symphonisch gedachten Zyklus. Ger
- ade an der Chororgel des Liebfrauenmünsters gewinnt diese Musik besondere
-  Nähe und Transparenz.\nFlorian Schuster (*1995) wurde an den Regensburge
- r Domspatzen ausgebildet und studierte katholische Kirchenmusik in Regensb
- urg sowie Konzertfach Orgel in Rotterdam bei Christian Schmitt. Seit 2019 
- wirkt er als Regionalkantor mit Dienstsitz in Oberviechtach und ist zudem 
- Orgelsachverständiger der Diözese Regensburg. Seine künstlerische Arbei
- t wurde 2021 beim Internationalen Wettbewerb für Orgelimprovisation in Sc
- hwäbisch Gmünd ausgezeichnet.\nDer Eintritt bleibt bewusst niedrig: 5 Eu
- ro. Karten gibt es an der Tageskasse (nur Barzahlung)\, geöffnet 30 Minut
- en vor Konzertbeginn. Der Zugang erfolgt über den Eingang Bergbräustraß
- e gegenüber der Münster-Tiefgarage\; Onlinetickets über Ticket-Regional
-  sind vorab mit zusätzlichen Kosten erhältlich.
-LOCATION:Münster Zur Schönen Unserer Lieben Frau\, Kreuzstraße 1\, 8504
- 9 Ingolstadt
-X-SCORE:8
+X-SCORE:22
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SWIM &amp\; VIBE mit DJ VanHees
 DTSTART;TZID=Europe/Berlin:20260808T150000
 DTEND;TZID=Europe/Berlin:20260808T230000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:swim-amp-vibe-mit-dj-vanhees-20260808-1300@ifg-plattform.de
 DESCRIPTION:Sonnenbrille auf\, Cocktails kalt und Beach Club Sounds an!\n\
  nEinlass: 10:00\n\nWo? Thermenbereich\n\nWann? Ab 13 Uhr jeden zweiten Sam
@@ -1842,13 +1221,13 @@ DESCRIPTION:Sonnenbrille auf\, Cocktails kalt und Beach Club Sounds an!\n\
   nach Ingolstadt. Live DJs und Poolbar Specials sorgen für ein einzigarti
  ges Erlebnis in unserem Thermenbereich.\n\nSeid dabei und feiert mit uns!
 LOCATION:Donautherme\, Südliche Ringstraße 63\, 85053 Ingolstadt
-X-SCORE:4
+X-SCORE:12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kuschelparty Ingolstadt August
 DTSTART;TZID=Europe/Berlin:20260808T200000
 DTEND;TZID=Europe/Berlin:20260809T000000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:kuschelparty-ingolstadt-august-20260808180000-1800@ifg-plattform.de
 DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
@@ -1867,13 +1246,29 @@ DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  sammen. Wir öffnen unsere Türen für jede*n – Singles und Paare sind g
  leichermaßen willkommen\, diese nährende Erfahrung zu teilen.
 LOCATION:Soul Studio\, Am Stein 8\, 85049 Ingolstadt
-X-SCORE:10
+X-SCORE:16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ü30 Open Air im Schutterhof\, Ingolstadt
+DTSTART;TZID=Europe/Berlin:20260808T210000
+DTEND;TZID=Europe/Berlin:20260809T030000
+DTSTAMP:20260718T213826Z
+UID:30-open-air-im-schutterhof-ingolstadt-20260808-1900@ifg-plattform.de
+DESCRIPTION:Einlass: 19:00\n\nSommer 2026 und wir haben erneut unsere Part
+ yreihe am Start. Ü30 Open-Air im Schutterhof\, Ingolstadt\, direkt beim K
+ reuztor. Beginn ist am Sa.\, 08.08.26 um 19 Uhr und es geht in die Nacht. 
+ Tickets gibt es ab 19 Uhr vor Ort oder im VVK. Wer danach noch feiern\, wi
+ ll\, einfach in die City\, 2 Minuten entfernt. Das ist die letzte Open Air
+  2026 im Schutterhof\, also: Dabei sein! Auf einen tollen Sommer in einem 
+ der schönsten Biergärten Ingolstadts!
+LOCATION:Schutterhof\, Friedhofstraße 1a\, 85049 Ingolstadt
+X-SCORE:18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Oh La La 2 – neue Tests\, neues Chaos
 DTSTART;TZID=Europe/Berlin:20260808T230000
 DTEND;TZID=Europe/Berlin:20260809T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-oh-la-la-2-neue-tests-neues-chaos-20260808-2100@ifg-plat
  tform.de
 DESCRIPTION:Spielfilm | Frankreich 2026 | Komödie | Regie: Julien Hervé\
@@ -1900,13 +1295,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:6
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Radtour NaTourGenuss zum Hirschenwirt in Wasserzell
 DTSTART;TZID=Europe/Berlin:20260809T120000
 DTEND;TZID=Europe/Berlin:20260809T190000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:radtour-natourgenuss-zum-hirschenwirt-in-wasserzell-20260809-1000@ifg-
  plattform.de
 DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
@@ -1921,13 +1316,13 @@ DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
  r*innen orientieren.\nAnmeldung erwünscht\, aber nicht erforderlich.
 LOCATION:Willner Fahrradzentrum\, Friedrichshofener Straße 1e\, 85049 Ing
  olstadt
-X-SCORE:203
+X-SCORE:114
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Vom Scherbelberg in den Schutterhof
 DTSTART;TZID=Europe/Berlin:20260809T153000
 DTEND;TZID=Europe/Berlin:20260809T173000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:vom-scherbelberg-in-den-schutterhof-20260809-1330@ifg-plattform.de
 DESCRIPTION:Der Scherbelbergbunker in Ingolstadt\n\nEinlass: 13:30\n\nWie 
  kaum eine andere Stadt in Deutschland ist Ingolstadt geprägt von seinen F
@@ -1939,13 +1334,13 @@ DESCRIPTION:Der Scherbelbergbunker in Ingolstadt\n\nEinlass: 13:30\n\nWie
  r und Ihrer Gäste. Lassen Sie sich bei dieser außergewöhnlichen Führun
  g die Augen öffnen!\n\nGeeignet ab 12 Jahre.
 LOCATION:Zugang Scherbelbergbunker\, Jahnstraße 27a\, 85049 Ingolstadt
-X-SCORE:12
+X-SCORE:19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Führung in der Fronte Rechberg
 DTSTART;TZID=Europe/Berlin:20260809T170000
 DTEND;TZID=Europe/Berlin:20260809T190000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:f-hrung-in-der-fronte-rechberg-20260809-1500@ifg-plattform.de
 DESCRIPTION:der vollständigst erhaltene Festungsbereich Ingolstadts\n\nDa
  s Areal der Fronte Rechberg zählt zu den am besten erhaltenen Abschnitten
@@ -1984,7 +1379,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliche Führung
 DTSTART;TZID=Europe/Berlin:20260809T170000
 DTEND;TZID=Europe/Berlin:20260809T180000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:ffentliche-f-hrung-20260809-1500@ifg-plattform.de
 DESCRIPTION:Becoming MKKD. Vom Planen und Entstehen eines Museums\n\nEinla
  ss: 14:45\n\nDer Umbau der sogenannten Gießereihalle zur neuen Heimstätt
@@ -2000,14 +1395,14 @@ DESCRIPTION:Becoming MKKD. Vom Planen und Entstehen eines Museums\n\nEinla
  sowie weitere an den Planungen Beteiligte kennen.
 LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
  adt
-X-SCORE:15
+X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Ein Münchner im Himmel – der Tod ist erst der An
  fang
 DTSTART;TZID=Europe/Berlin:20260809T230000
 DTEND;TZID=Europe/Berlin:20260810T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-ein-m-nchner-im-himmel-der-tod-ist-erst-der-anfang-20260
  809-2100@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2026 | 94 min | Komödie | Regie: Davi
@@ -2041,13 +1436,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:20
+X-SCORE:39
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: The History of Sound
 DTSTART;TZID=Europe/Berlin:20260810T230000
 DTEND;TZID=Europe/Berlin:20260811T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-the-history-of-sound-20260810-2100@ifg-plattform.de
 DESCRIPTION:Spielfilm | USA/Vereinigtes Königreich 2025 | 127 min | Drama
   | Regie: Oliver Hermanus | FSK 6\n\nEinlass: 18:30\n\nIm Jahr 1917 versch
@@ -2075,13 +1470,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:28
+X-SCORE:35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: 22 BAHNEN
 DTSTART;TZID=Europe/Berlin:20260811T230000
 DTEND;TZID=Europe/Berlin:20260812T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-22-bahnen-20260811-2100@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2025 | 102 min | Drama | Regie: Mia Ma
  ariel Meyer | FSK 12\n\nEinlass: 18:30\n\nCaroline Wahls Debutroman entwic
@@ -2114,13 +1509,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:20
+X-SCORE:27
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Ein fast perfekter Antrag
 DTSTART;TZID=Europe/Berlin:20260812T230000
 DTEND;TZID=Europe/Berlin:20260813T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-ein-fast-perfekter-antrag-20260812-2100@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2026 | 105 min | Komödie | Regie: Mar
  c Rothemund | FSK 0\n\nEinlass: 18:30\n\nDer eigenwillige Witwer Walter ve
@@ -2151,13 +1546,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:16
+X-SCORE:27
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Macht und Pracht des mavi kral. Max Emanuel und die Türkenkriege
 DTSTART;TZID=Europe/Berlin:20260813T200000
 DTEND;TZID=Europe/Berlin:20260813T210000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:macht-und-pracht-des-mavi-kral-max-emanuel-und-die-t-rkenkriege-202608
  13-1800@ifg-plattform.de
 DESCRIPTION:Kuratorenführung am Abend\n\nKurfürst Max Emanuel gehört zu
@@ -2172,13 +1567,13 @@ DESCRIPTION:Kuratorenführung am Abend\n\nKurfürst Max Emanuel gehört zu
  zu können.\nDie Führung ist kostenlos. Es ist nur der Museumseintritt zu
   entrichten.
 LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:19
+X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:DONOVAN KEITH
 DTSTART;TZID=Europe/Berlin:20260813T220000
 DTEND;TZID=Europe/Berlin:20260814T000000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:donovan-keith-20260813-2000@ifg-plattform.de
 DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nDONOVAN 
  KEITH\n— Donnerstag\, 13/08 um 20 Uhr —\n\n\nDonovan Keith ist Sänger
@@ -2199,13 +1594,13 @@ DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nDONOVAN
  Dank an unseren diesjährigen Partner der TAGTRAUM BIERGARTENKONZERTE - di
  e Sparkasse Ingolstadt Eichstätt.
 LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:34
+X-SCORE:55
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: ALPEN FILM FESTIVAL 2026
 DTSTART;TZID=Europe/Berlin:20260813T224500
 DTEND;TZID=Europe/Berlin:20260814T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-alpen-film-festival-2026-20260813-2045@ifg-plattform.de
 DESCRIPTION:100 min | Kurzfilm | Deutschland 2026\n\nEinlass: 18:30\n\nFü
  nf beeindruckende Bergfilme erzählen von Leidenschaft\, Mut und dem Leben
@@ -2232,13 +1627,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:30
+X-SCORE:37
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Extrawurst
 DTSTART;TZID=Europe/Berlin:20260814T224500
 DTEND;TZID=Europe/Berlin:20260815T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-extrawurst-20260814-2045@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2026 | 98 min | Komödie | Regie: Marc
  us H. Rosenmüller | FSK 12\n\nEinlass: 18:30\n\nEigentlich ist es reine F
@@ -2270,13 +1665,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:25
+X-SCORE:32
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Alpha (OmU - Spätvorstellung)
 DTSTART;TZID=Europe/Berlin:20260815T010000
 DTEND;TZID=Europe/Berlin:20260815T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-alpha-omu-sp-tvorstellung-20260814-2300@ifg-plattform.de
 DESCRIPTION:Spielfilm | Frankreich/Belgien 2025 | 128 min | Drama/Horror |
   Regie: Julia Ducournau | FSK 16 | OmU\n\nEinlass: 18:30\n\nIm Frankreich 
@@ -2303,26 +1698,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radtour rund um den Brombachsee
-DTSTART;TZID=Europe/Berlin:20260815T111500
-DTEND;TZID=Europe/Berlin:20260816T015900
-DTSTAMP:20260718T212217Z
-UID:radtour-rund-um-den-brombachsee-20260815-0915@ifg-plattform.de
-DESCRIPTION:Einlass: 09:15\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nBahnfahrt bis Treuchtlingen. Tourenverlauf: Treuchtlingen - Weißenb
- urg - Ellingen - Ramsberg am Brombachsee - Umrundung Brombachsee - Bahnhof
-  Pleinfeld. Bahnfahrt nach Ingolstadt.\nAnmeldung erforderlich.
-LOCATION:Hauptbahnhof Ingolstadt\, Bahnhofstraße 8\, 85051 Ingolstadt
-X-SCORE:100
+X-SCORE:23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Google Pixel Supercup der Frauen
 DTSTART;TZID=Europe/Berlin:20260815T213000
 DTEND;TZID=Europe/Berlin:20260816T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:google-pixel-supercup-der-frauen-20260815-1930@ifg-plattform.de
 DESCRIPTION:FC Bayern München - VfL Wolfsburg\n\nDer Google Pixel Supercu
  p der Frauen findet in diese Jahr in Ingolstadt statt und markiert den off
@@ -2342,7 +1724,7 @@ BEGIN:VEVENT
 SUMMARY:Freilichtkino: Michael
 DTSTART;TZID=Europe/Berlin:20260815T224500
 DTEND;TZID=Europe/Berlin:20260816T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-michael-20260815-2045@ifg-plattform.de
 DESCRIPTION:Spielfilm | USA 2025 | 126 min | Biografie/Drama/Musikfilm | R
  egie: Antoine Fuqua | FSK 6\n\nEinlass: 18:30\n\nDer junge Michael Jackson
@@ -2370,13 +1752,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:12
+X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Radtour zum Biergarten im Schloss Ratzenhofen
 DTSTART;TZID=Europe/Berlin:20260816T110000
 DTEND;TZID=Europe/Berlin:20260816T200000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:radtour-zum-biergarten-im-schloss-ratzenhofen-20260816-0900@ifg-plattf
  orm.de
 DESCRIPTION:Einlass: 09:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
@@ -2389,13 +1771,13 @@ DESCRIPTION:Einlass: 09:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
  po und Kondition der Bio-Radler*innen orientieren.\nAnmeldung erwünscht\,
   aber nicht erforderlich.
 LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:104
+X-SCORE:15
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Führung im Fort Prinz Karl
 DTSTART;TZID=Europe/Berlin:20260816T130000
 DTEND;TZID=Europe/Berlin:20260816T150000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:f-hrung-im-fort-prinz-karl-20260816-1100@ifg-plattform.de
 DESCRIPTION:das letzte vollständig erhaltene Festungswerk Ingolstadts\n\n
  Einlass: 11:00\n\nDas Fort Prinz Karl\nDas Fort Prinz Karl wurde 1877-1881
@@ -2424,42 +1806,13 @@ DESCRIPTION:das letzte vollständig erhaltene Festungswerk Ingolstadts\n\n
  u erklären.\nDas Fort ist nicht barrierefrei erschlossen.
 LOCATION:Fort Prinz Karl\, Fort Prinz Karl 1\, 85098 Großmehring\, Festes
   Schuhwerk ist zwingend erforderlich.
-X-SCORE:21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die Farbe BLAU im Museum
-DTSTART;TZID=Europe/Berlin:20260816T163000
-DTEND;TZID=Europe/Berlin:20260816T180000
-DTSTAMP:20260718T212218Z
-UID:die-farbe-blau-im-museum-20260816-1430@ifg-plattform.de
-DESCRIPTION:Führung im Neuen Schloss\n\nRoyalblauer Samt\, königsblaue U
- niformen vor dem Hintergrund der weiß-blauen Landesfarben und ein "blauer
-  Kurfürst": Die Farbe BLAU und ihre Schattierungen stehen im Mittelpunkt 
- der Führung.
-LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:11
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„Magnificat anima mea dominum“ - Marianische Orgelmusik
-DTSTART;TZID=Europe/Berlin:20260816T221500
-DTEND;TZID=Europe/Berlin:20260817T015900
-DTSTAMP:20260718T212218Z
-UID:magnificat-anima-mea-dominum-marianische-orgelmusik-20260816-2015@ifg-
- plattform.de
-DESCRIPTION:Ingolstädter Orgeltage 2026\n\nEinlass: 20:00\n\nFestkonzert 
- mit dem Star der Orgelimprovisation Prof. Ruben J. Sturm\nanlässlich des 
- 10-jährigen Bestehens der Chororgel im Ingolstädter Liebfrauenmünster\n
- \nWeitere Infos zum Künstler unter: https://www.rubensturm.de\n\nin Koope
- ration mit BR Klassik
-LOCATION:Münster Zur Schönen Unserer Lieben Frau\, Kreuzstraße 1\, 8504
- 9 Ingolstadt
-X-SCORE:19
+X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Pumuckl und das große Missverständnis
 DTSTART;TZID=Europe/Berlin:20260816T224500
 DTEND;TZID=Europe/Berlin:20260817T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-pumuckl-und-das-gro-e-missverst-ndnis-20260816-2045@ifg-
  plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2025 | 99 min | Familienfilm/Kinderfil
@@ -2485,13 +1838,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:6
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Ein Kuchen für den Präsidenten
 DTSTART;TZID=Europe/Berlin:20260817T224500
 DTEND;TZID=Europe/Berlin:20260818T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-ein-kuchen-f-r-den-pr-sidenten-20260817-2045@ifg-plattfo
  rm.de
 DESCRIPTION:Spielfilm | USA/Irak/Katar 2025 | 105 min | Drama/Historienfil
@@ -2520,13 +1873,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:16
+X-SCORE:23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Glenkill – Ein Schafskrimi
 DTSTART;TZID=Europe/Berlin:20260818T224500
 DTEND;TZID=Europe/Berlin:20260819T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-glenkill-ein-schafskrimi-20260818-2045@ifg-plattform.de
 DESCRIPTION:Spielfilm | Grossbritannien/USA 2025 | 110 min | Komödie | Re
  gie: Kyle Balda | FSK 6\n\nEinlass: 18:30\n\nEin Schäfer in der irischen 
@@ -2551,13 +1904,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:16
+X-SCORE:27
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Das Drama – nochmal auf Anfang (OmU)
 DTSTART;TZID=Europe/Berlin:20260819T224500
 DTEND;TZID=Europe/Berlin:20260820T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-das-drama-nochmal-auf-anfang-omu-20260819-2045@ifg-platt
  form.de
 DESCRIPTION:Spielfilm | USA 2025 | 105 min | Drama | Regie: Kristoffer Bor
@@ -2581,13 +1934,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:16
+X-SCORE:23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herrliches Herrnbräu live erleben!
 DTSTART;TZID=Europe/Berlin:20260820T190000
 DTEND;TZID=Europe/Berlin:20260820T210000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:herrliches-herrnbr-u-live-erleben-20260820-1700@ifg-plattform.de
 DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nBesuchen Sie uns in unse
  rer Brauerei und erleben Sie\, mit wie viel Sorgfalt und modernster Techni
@@ -2604,13 +1957,13 @@ DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nBesuchen Sie uns in unse
  re Bierfavoriten in aller Ruhe genießen können. Zum Wohl!\n\nMindestteil
  nehmerzahl: 10 Personen\n\nWir freuen uns auf Ihren Besuch!
 LOCATION:Brauerei Herrnbräu\, Manchinger Straße 95\, 85053 Ingolstadt
-X-SCORE:16
+X-SCORE:26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Releaseparty Schwedenschimmel
 DTSTART;TZID=Europe/Berlin:20260820T200000
 DTEND;TZID=Europe/Berlin:20260821T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:releaseparty-schwedenschimmel-20260820-1800@ifg-plattform.de
 DESCRIPTION:Unser beliebter Schwedenschimmel ist zurück. Ein hopfenbetont
  es und süffiges helles Weißbier. Benannt nach dem ältesten Tierpräpera
@@ -2622,13 +1975,13 @@ DESCRIPTION:Unser beliebter Schwedenschimmel ist zurück. Ein hopfenbetont
  behielten diesen bis heute als stolze Trophäe in der Stadt.
 LOCATION:Griesmüllers Altstadtbrauerei\, Schulstraße 19\, 85049 Ingolsta
  dt
-X-SCORE:5
+X-SCORE:18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Die Ältern
 DTSTART;TZID=Europe/Berlin:20260820T223000
 DTEND;TZID=Europe/Berlin:20260821T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-die-ltern-20260820-2030@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2026 | 104 min | Komödie | Regie: Sö
  nke Wortmann | FSK 6\n\nEinlass: 18:30\n\nHannes hat eigentlich alles\, wa
@@ -2658,13 +2011,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:6
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Der Teufel trägt Prada 2
 DTSTART;TZID=Europe/Berlin:20260821T223000
 DTEND;TZID=Europe/Berlin:20260822T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-der-teufel-tr-gt-prada-2-20260821-2030@ifg-plattform.de
 DESCRIPTION:Spielfilm | USA 2026 | 119 min | Komödie | Regie: David Frank
  el | FSK 0\n\nEinlass: 18:30\n\nAndi Sacks hat gerade einen Preis für ein
@@ -2688,13 +2041,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:16
+X-SCORE:23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Pillion (OmU - Spätvorstellung)
 DTSTART;TZID=Europe/Berlin:20260822T010000
 DTEND;TZID=Europe/Berlin:20260822T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-pillion-omu-sp-tvorstellung-20260821-2300@ifg-plattform.
  de
 DESCRIPTION:Spielfilm | Großbritannien 2025 | 107 min | Komödie/Drama | 
@@ -2726,88 +2079,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radtour zum Hahnenkamm\, Wörnitztal und Nördlinger Ries
-DTSTART;TZID=Europe/Berlin:20260822T091500
-DTEND;TZID=Europe/Berlin:20260822T200000
-DTSTAMP:20260718T212217Z
-UID:radtour-zum-hahnenkamm-w-rnitztal-und-n-rdlinger-ries-20260822-0715@if
- g-plattform.de
-DESCRIPTION:Einlass: 07:15\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nBahnfahrt nach Treuchtlingen. Über das Heumöderntal zum Hahnenkamm
- see\, weiter nach Auhausen (Kloster)\, entlang der Wörnitz durch das Ries
-  über Oettingen (Mittagspause) nach Donauwörth. Bahnfahrt nach Ingolstad
- t.\nAnmeldung erforderlich.
-LOCATION:Hauptbahnhof Ingolstadt\, Bahnhofstraße 8\, 85051 Ingolstadt
-X-SCORE:100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:16. SamstagOrgel mit Franz Hauk
-DTSTART;TZID=Europe/Berlin:20260822T140000
-DTEND;TZID=Europe/Berlin:20260823T015900
-DTSTAMP:20260718T212218Z
-UID:16-samstagorgel-mit-franz-hauk-20260822-1200@ifg-plattform.de
-DESCRIPTION:30 Minuten Orgelmusik\n\nEinlass: 11:40\n\nSamstagOrgel im Lie
- bfrauenmünster: Franz Hauk zum Jubiläum der Chororgel\nIngolstadt – Es
-  gibt Instrumente\, die nicht nur erklingen\, sondern einen Raum verwandel
- n. Die Chororgel im Liebfrauenmünster Ingolstadt gehört zu diesen besond
- eren Stimmen: Seit zehn Jahren bereichert sie das musikalische Leben der S
- tadt\, und am Samstag\, 22. August 2026\, um 12 Uhr erhält sie mit einem 
- Konzert von Franz Hauk im Rahmen der SamstagOrgel ein programmatisches Den
- kmal.\nHauk ist in Ingolstadt mehr als ein versierter Interpret. Als langj
- ähriger Organist des Liebfrauenmünsters\, Gründer der Orgeltage und Ini
- tiator bedeutender Orgelprojekte hat er die hiesige Orgelkultur über Jahr
- zehnte geprägt. Auch die Chororgel steht in diesem Zusammenhang für eine
-  Idee\, die aus künstlerischem Anspruch\, liturgischem Bewusstsein und kl
- anglicher Fantasie erwachsen ist.\nDas Jubiläumskonzert führt in die Wel
- t Dietrich Buxtehudes\, jenes norddeutschen Meisters\, dessen Musik zwisch
- en strenger Architektur und leidenschaftlicher Innigkeit schwebt. Zu höre
- n sind die Toccata d-Moll BuxWV 155\, das Praeludium F-Dur BuxWV 145\, die
-  Ciaconia e-Moll BuxWV 160 und das Praeludium C-Dur BuxWV 137. \nDen geist
- igen Gegenpol bildet Johann Sebastian Bach mit Chorälen wie O Lamm Gottes
-  unschuldig BWV 1095\, Allein zu dir\, Herr Jesu Christ BWV 1100 und Was G
- ott tut\, das ist wohlgetan BWV 1116. Gerade im Dialog dieser beiden Namen
-  entfaltet sich die ganze historische Spannung jener Orgelwelt\, aus der B
- ach einst zu Buxtehude aufbrach. \nDer Eintritt bleibt bewusst niedrig: 5 
- Euro. Karten gibt es an der Tageskasse (nur Barzahlung)\, geöffnet 30 Min
- uten vor Konzertbeginn. Der Zugang erfolgt über den Eingang Bergbräustra
- ße gegenüber der Münster-Tiefgarage\; Onlinetickets über Ticket-Region
- al sind vorab mit zusätzlichen Kosten erhältlich. \nWer an diesem Mittag
-  ins Liebfrauenmünster kommt\, erlebt nicht bloß ein Konzert\, sondern e
- ine klingende Verbeugung vor einem Instrument\, das sich im Zusammenspiel 
- mit Franz Hauk zu einer unverwechselbaren Stimme entwickelt hat.
-LOCATION:Münster Zur Schönen Unserer Lieben Frau\, Kreuzstraße 1\, 8504
- 9 Ingolstadt
-X-SCORE:9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Festungsführung von Frau zu Frau
-DTSTART;TZID=Europe/Berlin:20260822T153000
-DTEND;TZID=Europe/Berlin:20260822T170000
-DTSTAMP:20260718T212217Z
-UID:festungsf-hrung-von-frau-zu-frau-20260822-1330@ifg-plattform.de
-DESCRIPTION:Die Fronte Rechberg in Ingolstadt\n\nEinlass: 13:30\n\nFestung
-  und Militär sind nur etwas für Männer? Weit gefehlt! Denn bei dieser F
- ührung geht es um die sprichwörtlich weibliche Sicht der Dinge.\n\nGemei
- nsam mit einer Gästeführerin besichtigen Sie die Fronte Rechberg. Dabei 
- werden die in Ingolstadt so häufig verwendeten Worte wie Glacis\, Esplana
- de\, Künette usw. erklärt.\n\nDie Tour versetzt Sie zurück in längst v
- ergangene Zeiten\, als in den dunklen Kasematten der Stadt die einfachen S
- oldaten unter unmenschlichen Bedingungen hausten\, oder im Bunker verängs
- tigte Bürger-innen die Bombenhagel des Zweiten Weltkrieges erwarteten.\n\
- nMänner sind zu dieser Führung natürlich ebenfalls herzlich willkommen!
- \n\nGeeignet ab 12 Jahre
-LOCATION:Fronte Rechberg\, Rechbergstraße 2\, 85049 Ingolstadt\, Keine we
- iteren Informationen verfügbar
-X-SCORE:12
+X-SCORE:31
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:JOCKELS BOARISCHE GRUSEL GSCHICHT
 DTSTART;TZID=Europe/Berlin:20260822T223000
 DTEND;TZID=Europe/Berlin:20260823T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:jockels-boarische-grusel-gschicht-20260822-2030@ifg-plattform.de
 DESCRIPTION:150 min  |  Theater | FSK 12\n\nEinlass: 18:30\n\nJockels boar
  ische Grusel Gschicht spielt in einem abgelegenen Schloss im Bayerischen W
@@ -2846,13 +2124,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:41
+X-SCORE:51
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Radtour NatTourGenuss - Schellenberg und Enkering
 DTSTART;TZID=Europe/Berlin:20260823T120000
 DTEND;TZID=Europe/Berlin:20260823T200000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:radtour-nattourgenuss-schellenberg-und-enkering-20260823-1000@ifg-plat
  tform.de
 DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
@@ -2865,13 +2143,13 @@ DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
   Reifenprofil empfohlen.\nAnmeldung erwünscht\, aber nicht erforderlich.
 LOCATION:Willner Fahrradzentrum\, Friedrichshofener Straße 1e\, 85049 Ing
  olstadt
-X-SCORE:203
+X-SCORE:114
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Auf den Spuren der Auto Union
 DTSTART;TZID=Europe/Berlin:20260823T153000
 DTEND;TZID=Europe/Berlin:20260823T170000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:auf-den-spuren-der-auto-union-20260823-1330@ifg-plattform.de
 DESCRIPTION:Die Geschichte des Weltkonzerns Audi\n\nEinlass: 13:30\n\nWer 
  an Audi denkt\, der denkt unweigerlich an das weitläufige Fabrikareal im 
@@ -2884,13 +2162,13 @@ DESCRIPTION:Die Geschichte des Weltkonzerns Audi\n\nEinlass: 13:30\n\nWer
  ch überraschen\, in welchen historischen Gebäuden die Wurzeln des heutig
  en Weltkonzerns liegen.
 LOCATION:Tourist Information\, Moritzstraße 19\, 85049 Ingolstadt
-X-SCORE:14
+X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schanzer Tanzboden Musikanten - Tanzleitung: Hildegard Babel
 DTSTART;TZID=Europe/Berlin:20260823T180000
 DTEND;TZID=Europe/Berlin:20260824T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:schanzer-tanzboden-musikanten-tanzleitung-hildegard-babel-20260823-160
  0@ifg-plattform.de
 DESCRIPTION:Die kultURIG Veranstaltungsreihe vereint ihre Einzelveranstalt
@@ -2899,45 +2177,13 @@ DESCRIPTION:Die kultURIG Veranstaltungsreihe vereint ihre Einzelveranstalt
   ein und erleben Sie Ingolstadts kulturelle Vielfalt in ihrer ganzen Prach
  t!\n\nDer Eintritt zu dieser Reihe ist kostenfrei
 LOCATION:Schutterhof\, Friedhofstraße 1a\, 85049 Ingolstadt
-X-SCORE:4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jesuiten\, Illuminaten und die "Sau von Ingolstadt"
-DTSTART;TZID=Europe/Berlin:20260823T192300
-DTEND;TZID=Europe/Berlin:20260824T015900
-DTSTAMP:20260718T212217Z
-UID:jesuiten-illuminaten-und-die-sau-von-ingolstadt-20260823-1723@ifg-plat
- tform.de
-DESCRIPTION:Historische Kostümführung (seit 2009)\n\nEinlass: 17:05\n\nV
- or 277 Jahren\, am 6. Februar 1748\, wird Adam Weishaupt in Ingolstadt geb
- oren. Um die von ihm gegründeten Illuminaten geht es in der Erlebnisführ
- ung.\n\nDie Ingolstädter Illuminaten - ein Mythos fasziniert die Welt. Ni
- cht erst seit Dan Browns Bestseller ist der Geheimbund Synonym der Verschw
- örung. Doch was steckt dahinter? Wer waren die Illuminaten wirklich\, was
-  ihre Ziele und Ideale und - waren sie tatsächlich dabei die Weltherrscha
- ft zu übernehmen?\n\nDie Erlebnisführung erhellt die wahren Hintergründ
- e des Geheimbundes\, blickt in die Geschichte und setzt die Illuminaten in
-  den Kontext von Gegenreformation\, Jesuiten und Aufklärung. \n\nBegeben 
- Sie sich auf Spurensuche\, dort wo alles begann ...\n\nVergessen Sie Dan B
- rown\, die Zahl 23 und weitere Mythen\, die sich rund um die Organisation 
- ranken. Auf seriösem historischen Fundament wollen wir die geschichtliche
- n Hintergründe näher beleuchten - verständlich und populär-wissenschaf
- tlich aufbereitet.\n\nUm die Zeitumstände der Gründung und die geistigen
-  Ideale besser zu verstehen\, spannen wir einen Bogen von Gegenreformation
-  und Aufklärung\, über das Wirken der Jesuiten an der Ingolstädter Hoch
- schule bis hin zu den Illuminaten\, die den eigentlichen Schwerpunkt der F
- ührung bilden. Natürlich darf auch ein klein wenig Mythos und Legende ru
- nd um den Geheimbund nicht fehlen - es ist aber keine „Verschwörungs-F
- ührung“.
-LOCATION:Innenhof Canisiuskonvikt - Sporthalle Prof. Fleischmann (ggü. No
- rdseite Münster)\, Bergbräustraße 1\, 85049 Ingolstadt
-X-SCORE:6
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Nawi – Dear Future Me
 DTSTART;TZID=Europe/Berlin:20260824T223000
 DTEND;TZID=Europe/Berlin:20260825T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-nawi-dear-future-me-20260824-2030@ifg-plattform.de
 DESCRIPTION:Spielfilm | Kenia/Deutschland 2024 | 99 min | Drama | Regie: T
  oby Schmutzler\, Kevin Schmutzler\, Vallentine Chelluget\, Apuu Mourin | F
@@ -2965,13 +2211,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:20
+X-SCORE:27
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Ach\, diese Lücke\, diese entsetzliche Lücke
 DTSTART;TZID=Europe/Berlin:20260825T223000
 DTEND;TZID=Europe/Berlin:20260826T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-ach-diese-l-cke-diese-entsetzliche-l-cke-20260825-2030@i
  fg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2025 | 137 min | Komödie | Regie: Sim
@@ -3000,13 +2246,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:21
+X-SCORE:28
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Der Astronaut - Projekt Hail Mary
 DTSTART;TZID=Europe/Berlin:20260826T223000
 DTEND;TZID=Europe/Berlin:20260827T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-der-astronaut-projekt-hail-mary-20260826-2030@ifg-plattf
  orm.de
 DESCRIPTION:Spielfilm | USA 2026 | 156 min | Science Fiction | Regie: Phil
@@ -3031,13 +2277,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:19
+X-SCORE:26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MELLI ZECH
 DTSTART;TZID=Europe/Berlin:20260827T220000
 DTEND;TZID=Europe/Berlin:20260828T000000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:melli-zech-20260827-2000@ifg-plattform.de
 DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nMELLI ZE
  CH\n— Donnerstag\, 27/08 um 20 Uhr —\n\n\nMelli Zech ist Singer-Songwr
@@ -3056,29 +2302,13 @@ DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nMELLI ZE
  ür jeden zugänglich.\n\n\nVielen Dank an unseren diesjährigen Partner d
  er TAGTRAUM BIERGARTENKONZERTE - die Sparkasse Ingolstadt Eichstätt.
 LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„Jazz the Kiesch Vol. 4“ powered by Jazzfreunde Ing. e. V.
-DTSTART;TZID=Europe/Berlin:20260827T220000
-DTEND;TZID=Europe/Berlin:20260827T233000
-DTSTAMP:20260718T212217Z
-UID:jazz-the-kiesch-vol-4-powered-by-jazzfreunde-ing-e-v-20260827-2000@ifg
- -plattform.de
-DESCRIPTION:Einlass: 19:00\n\nNach dem erfolgreichen Start im April 2026 g
- eht die Reihe „Jazz the Kiesch! „ mit  Vol. 4 in die vierte Runde\;\nk
- lein aber fein in intimer Atmosphäre im Musiklokal „Kiss The Kiesch“ 
- in Ingolstadt\, Pfarrgasse 8.\n\nBand: noch offen\n\nWir bringen zeitlose 
- Klassiker der Jazzmusik auf die Bühne- elegant\, gefühlvoll und voller S
- pielfreude interpretiert.
-LOCATION:Kiss The Kiesch\, Pfarrgasse 8\, 85049 Ingolstadt
-X-SCORE:9
+X-SCORE:27
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: The Bride! – Es lebe die Braut
 DTSTART;TZID=Europe/Berlin:20260827T221500
 DTEND;TZID=Europe/Berlin:20260828T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-the-bride-es-lebe-die-braut-20260827-2015@ifg-plattform.
  de
 DESCRIPTION:Spielfilm | USA 2026 | 126 min | Drama/Horror/Romanze | Regie:
@@ -3103,13 +2333,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:16
+X-SCORE:28
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Kill Bill – the whole bloody affair (OmU)
 DTSTART;TZID=Europe/Berlin:20260828T221500
 DTEND;TZID=Europe/Berlin:20260829T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-kill-bill-the-whole-bloody-affair-omu-20260828-2015@ifg-
  plattform.de
 DESCRIPTION:Spielfilm | USA 2026 | 247 min | Action/Material Arts | Regie:
@@ -3139,76 +2369,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radtour ins Tal der schwarzen Laaber und Naabtal
-DTSTART;TZID=Europe/Berlin:20260829T105000
-DTEND;TZID=Europe/Berlin:20260829T200000
-DTSTAMP:20260718T212217Z
-UID:radtour-ins-tal-der-schwarzen-laaber-und-naabtal-20260829-0850@ifg-pla
- ttform.de
-DESCRIPTION:Einlass: 08:50\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nRadtour ab Bahnhof Sinzing durch das Tal der schwarzen Laaber bis Be
- ratzhausen. Aufstieg nach Schwarzenthonhausen weiter zum Forellenbachtal\,
-  entlang der Vils nach Kallmünz\, von dort durch das Naabtal über Pielen
- hofen zurück nach Sinzing. Bahnfahrt nach Ingolstadt.\nAnmeldung erforder
- lich.
-LOCATION:Hauptbahnhof Ingolstadt\, Bahnhofstraße 8\, 85051 Ingolstadt
-X-SCORE:100
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:17. SamstagOrgel mit Giampaolo Di Rosa
-DTSTART;TZID=Europe/Berlin:20260829T140000
-DTEND;TZID=Europe/Berlin:20260830T015900
-DTSTAMP:20260718T212217Z
-UID:17-samstagorgel-mit-giampaolo-di-rosa-20260829-1200@ifg-plattform.de
-DESCRIPTION:30 Minuten Orgelmusik\n\nEinlass: 11:40\n\nBach in neuer Klang
- farbe: Giampaolo Di Rosa und die Goldberg-Variationen\nIn der Reihe „Sam
- stagOrgel“ erwartet das Publikum am Samstag\, 29. August 2026\, um 12 Uh
- r im Ingolstädter Liebfrauenmünster ein außergewöhnliches Konzert: Mit
-  Giampaolo Di Rosa ist ein international gefragter Organist zu Gast\, der 
- sich mit einem der bedeutendsten Werke der Musikgeschichte präsentiert.\n
- Im Zentrum des Programms stehen Johann Sebastian Bachs „Goldberg-Variati
- onen“ (BWV 988) – ein Zyklus von einzigartiger kompositorischer Raffin
- esse und Ausdruckstiefe. Ursprünglich für Cembalo mit zwei Manualen gesc
- hrieben\, entfaltet das Werk in der Orgelbearbeitung von Giampaolo Di Rosa
-  eine neue klangliche Dimension. Die vielgestaltigen Variationen über ein
- e schlichte Aria verbinden kontrapunktische Meisterschaft mit virtuoser Sp
- ielfreude und eröffnen dem Publikum eine eindrucksvolle Klangreise durch 
- Bachs musikalisches Universum.\nGerade die Übertragung dieses Schlüsselw
- erks auf die Orgel macht das Konzert zu einer besonderen Entdeckung: Die M
- öglichkeiten der Chororgel verleihen den Variationen zusätzliche Farbigk
- eit und lassen bekannte Strukturen in neuem Licht erscheinen.\nGiampaolo D
- i Rosa\, 1972 in Cesena geboren\, zählt zu den vielseitigsten Musikern se
- iner Generation. Er ist als Organist\, Pianist\, Cembalist\, Komponist\, I
- mprovisator\, Forscher und Dozent international tätig. Seine Ausbildung f
- ührte ihn unter anderem nach Rom\, Neapel\, Würzburg und Paris\, wo er b
- ei Jean Guillou studierte. Er schloss seine Studien mit sieben Diplomen so
- wie einer Promotion mit Auszeichnung ab.\nMit außergewöhnlichen Konzertp
- rojekten hat er sich weltweit einen Namen gemacht: So führte er unter and
- erem sämtliche Klaviersonaten Mozarts\, das gesamte Orgelwerk Johann Seba
- stian Bachs sowie das Gesamtwerk von Jan Pieterszoon Sweelinck auf. Seine 
- rege Konzerttätigkeit führt ihn rund um den Globus. Seit 2008 ist er Tit
- ularorganist der großen Orgel der Nationalkirche S. Antonio in Rom. Für 
- seine künstlerischen Verdienste wurde er 2010 vom portugiesischen Staatsp
- räsidenten zum Offizier des Ordens Heinrichs des Seefahrers ernannt.\nDer
-  Eintritt bleibt bewusst niedrig: 5 Euro. Karten sind an der Tageskasse (n
- ur Barzahlung) erhältlich\, geöffnet 30 Minuten vor Konzertbeginn. Der Z
- ugang erfolgt über den Eingang Bergbräustraße gegenüber der Münster-T
- iefgarage. Onlinetickets sind vorab über Ticket-Regional erhältlich (zuz
- üglich Gebühren).\nWeitere Informationen unter www.samstagorgel.de. Die 
- „SamstagOrgel“ steht für besondere Programme\, internationale Gäste 
- und musikalische Entdeckungen jenseits des Gewohnten.
-LOCATION:Münster Zur Schönen Unserer Lieben Frau\, Kreuzstraße 1\, 8504
- 9 Ingolstadt
-X-SCORE:3
+X-SCORE:23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kombiführung Lechner Museum und Skulpturenpark
 DTSTART;TZID=Europe/Berlin:20260830T160000
 DTEND;TZID=Europe/Berlin:20260830T190000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:kombif-hrung-lechner-museum-und-skulpturenpark-20260830-1400@ifg-platt
  form.de
 DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
@@ -3225,14 +2392,14 @@ DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
  st leider nicht möglich.\n‍\nKommen Sie vorbei und lassen Sie sich von 
  der Kunst und der Natur begeistern!
 LOCATION:Lechner Museum\, Esplanade 9\, 85049 Ingolstadt
-X-SCORE:18
+X-SCORE:23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:"WHEN NECROSIS BLOOMS" @ KAP94 IN  feat. Snet (cz) - Putridarium &
  amp\; Dark Indication
 DTSTART;TZID=Europe/Berlin:20260830T210000
 DTEND;TZID=Europe/Berlin:20260831T010000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:when-necrosis-blooms-kap94-in-feat-snet-cz-putridarium-amp-dark-indica
  tion-20260830-1900@ifg-plattform.de
 DESCRIPTION:Einlass: 18:30\n\nChthonic Chaos Carnival &amp\; Killtown Book
@@ -3315,13 +2482,13 @@ DESCRIPTION:Einlass: 18:30\n\nChthonic Chaos Carnival &amp\; Killtown Book
  ://www.youtube.com/watch?v=Mrp0WltYtbg\nhttps://www.youtube.com/@DarkIndic
  ation
 LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:24
+X-SCORE:31
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Nouvelle Vague
 DTSTART;TZID=Europe/Berlin:20260830T221500
 DTEND;TZID=Europe/Berlin:20260831T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-nouvelle-vague-20260830-2015@ifg-plattform.de
 DESCRIPTION:Spielfilm | Frankreich\, USA 2025 | 106 min | Drama/Komödie |
   Regie: Richard Linklater | FSK 12\n\nEinlass: 18:30\n\nSie wollten alles 
@@ -3356,13 +2523,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:20
+X-SCORE:27
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Gelbe Briefe
 DTSTART;TZID=Europe/Berlin:20260831T221500
 DTEND;TZID=Europe/Berlin:20260901T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-gelbe-briefe-20260831-2015@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland\, Frankreich\, Türkei 2025 | 128 min 
  | Drama | Regie: İlker Çatak | FSK 12\n\nEinlass: 18:30\n\nErstmals seit
@@ -3399,13 +2566,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:21
+X-SCORE:28
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Verflucht normal
 DTSTART;TZID=Europe/Berlin:20260901T221500
 DTEND;TZID=Europe/Berlin:20260902T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-verflucht-normal-20260901-2015@ifg-plattform.de
 DESCRIPTION:Spielfilm | UK 2025 | 121 min | Biografie/Drama/Komödie | Reg
  ie: Kirk Jones | FSK 12\n\nEinlass: 18:30\n\nDass die Queen ein unkontroll
@@ -3438,13 +2605,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:16
+X-SCORE:23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Hamnet (OmU)
 DTSTART;TZID=Europe/Berlin:20260902T221500
 DTEND;TZID=Europe/Berlin:20260903T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-hamnet-omu-20260902-2015@ifg-plattform.de
 DESCRIPTION:Spielfilm | Großbritannien\, USA 2025 | 125 min | Drama | Reg
  ie: Chloé Zhao | FSK 12 | OmU\n\nEinlass: 18:30\n\nBasierend auf dem Roma
@@ -3480,13 +2647,40 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:15
+X-SCORE:26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hinter den Kulissen der Brauerei - erleben Sie Nordbräu hautnah!
+DTSTART;TZID=Europe/Berlin:20260903T190000
+DTEND;TZID=Europe/Berlin:20260903T210000
+DTSTAMP:20260718T213826Z
+UID:hinter-den-kulissen-der-brauerei-erleben-sie-nordbr-u-hautnah-20260903
+ -1700@ifg-plattform.de
+DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nVon den Jesuiten-Mönche
+ n bis zum heutigen modernen Unternehmen: Blicken Sie hinter die Kulissen v
+ on Nordbräu und erleben Sie\, wie wir heute brauen. Vom Hopfen ins Glas 
+ – wie funktioniert das eigentlich? Wie entsteht das beliebte Nordbräu H
+ elle\, das würzige Dunkle\, und was ist eigentlich das Besondere am Brauv
+ organg für unser kultiges Privat Pilsener?\n\nWenn Sie auf diese Fragen s
+ chon immer nach Antworten gesucht haben\, sind Sie bei unserer Führung ge
+ nau richtig! Erfahren Sie\, wie die Biere zu ihrem charakteristischen Gesc
+ hmack kommen\, was es mit der Stammwürze auf sich hat und wie die Filtrat
+ ion gelingt – oder eben nicht\, denn auch ungefilterte Biere haben etwas
+  ganz Besonderes an sich.\n\nIn ca. 1\,5 Stunden erleben Sie dabei alle Sc
+ hritte der Braukunst und erfahren jede Menge Wissenswertes rund um das woh
+ l beliebteste Getränk der Bayern.\n\nDie maximale Teilnehmerzahl beträgt
+  25 Personen – in einer überschaubaren Gruppe wird es schließlich gem
+ ütlicher\, und es ist genug Zeit\, alle Fragen zu beantworten. Nach der F
+ ührung gibt es eine kleine Verkostung mit Brotzeit in unserer Brauereisch
+ enke im Kastaniengarten.
+LOCATION:Brauerei Nordbräu\, Gutsstraße 5\, 85055 Ingolstadt
+X-SCORE:14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fade Out
 DTSTART;TZID=Europe/Berlin:20260903T200000
 DTEND;TZID=Europe/Berlin:20260928T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:fade-out-20260903-1800@ifg-plattform.de
 DESCRIPTION:Im Rahmen der Ausstellung „Fade Out“ mit Fotografien von H
  ubert P. Klotzeck öffnen sich die Türen zu fotografischen Erinnerungsrä
@@ -3509,13 +2703,13 @@ DESCRIPTION:Im Rahmen der Ausstellung „Fade Out“ mit Fotografien von H
  bleibt.
 LOCATION:Städtische Galerie im Theater\, Schloßlände 1\, 85049 Ingolsta
  dt
-X-SCORE:28
+X-SCORE:35
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:KOELLE
 DTSTART;TZID=Europe/Berlin:20260903T220000
 DTEND;TZID=Europe/Berlin:20260904T000000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:koelle-20260903-2000@ifg-plattform.de
 DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nKOELLE\n
  — Donnerstag\, 03/09 um 20 Uhr —\n\n\nWillkommen daheim!\n\n\nHinter K
@@ -3541,13 +2735,13 @@ DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nKOELLE\n
  iesjährigen Partner der TAGTRAUM BIERGARTENKONZERTE - die Sparkasse Ingol
  stadt Eichstätt.
 LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:9
+X-SCORE:23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Steckerlfischfiasko
 DTSTART;TZID=Europe/Berlin:20260903T221500
 DTEND;TZID=Europe/Berlin:20260904T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-steckerlfischfiasko-20260903-2015@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2026 | 95 min | Komödie | Regie: Ed H
  erzog | FSK 12\n\nEinlass: 18:30\n\nEberhofer (Sebastian Bezzel) im Neubau
@@ -3575,13 +2769,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:6
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Steckerlfischfiasko (Spätvorstellung)
 DTSTART;TZID=Europe/Berlin:20260904T010000
 DTEND;TZID=Europe/Berlin:20260904T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-steckerlfischfiasko-sp-tvorstellung-20260903-2300@ifg-pl
  attform.de
 DESCRIPTION:Spielfilm | Deutschland 2026 | 95 min | Komödie | Regie: Ed H
@@ -3610,13 +2804,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:6
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Steckerlfischfiasko
 DTSTART;TZID=Europe/Berlin:20260904T221500
 DTEND;TZID=Europe/Berlin:20260905T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-steckerlfischfiasko-20260904-2015@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2026 | 95 min | Komödie | Regie: Ed H
  erzog | FSK 12\n\nEinlass: 18:30\n\nEberhofer (Sebastian Bezzel) im Neubau
@@ -3644,13 +2838,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:6
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Steckerlfischfiasko (Spätvorstellung)
 DTSTART;TZID=Europe/Berlin:20260905T010000
 DTEND;TZID=Europe/Berlin:20260905T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-steckerlfischfiasko-sp-tvorstellung-20260904-2300@ifg-pl
  attform.de
 DESCRIPTION:Spielfilm | Deutschland 2026 | 95 min | Komödie | Regie: Ed H
@@ -3679,29 +2873,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:40 Jahre Art Experiment - von Chacón bis heute
-DTSTART;TZID=Europe/Berlin:20260905T130000
-DTEND;TZID=Europe/Berlin:20260913T210000
-DTSTAMP:20260718T212217Z
-UID:40-jahre-art-experiment-von-chac-n-bis-heute-20260905-1100@ifg-plattfo
- rm.de
-DESCRIPTION:Kunstausstellung zum 40-jährigen Jubiläum der Künstlergrupp
- e Art Experiment\n\nDie Mitglieder der Gruppe stellen aktuelle Arbeiten au
- s den Bereichen Malerei\, Objektkunst\, Grafik und Installation aus. Ergä
- nzend sind auch Werke der verstorbenen Ehrenmitglieder Traudl Brunnquell\,
-  René Chacón und Helmut Kaiser zu sehen. Zur Nacht der Museen\, am Samst
- ag\, den 5. September wird ein zusätzliches Abendprogramm angeboten.
-LOCATION:Exerzierhaus\, Klenzepark\, 85049 Ingolstadt
-X-SCORE:4
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kuschelparty Ingolstadt September
 DTSTART;TZID=Europe/Berlin:20260905T200000
 DTEND;TZID=Europe/Berlin:20260906T000000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:kuschelparty-ingolstadt-september-20260905-1800@ifg-plattform.de
 DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
@@ -3720,13 +2898,13 @@ DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  sammen. Wir öffnen unsere Türen für jede*n – Singles und Paare sind g
  leichermaßen willkommen\, diese nährende Erfahrung zu teilen.
 LOCATION:Soul Studio\, Am Stein 8\, 85049 Ingolstadt
-X-SCORE:10
+X-SCORE:16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Toy Story 5
 DTSTART;TZID=Europe/Berlin:20260905T221500
 DTEND;TZID=Europe/Berlin:20260906T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-toy-story-5-20260905-2015@ifg-plattform.de
 DESCRIPTION:Spielfilm | USA 2026 | 102 min | Animation/Abenteuer/Familienf
  ilm | Regie: McKenna Harris Andrew Stanton | FSK 6\n\nEinlass: 18:30\n\nDi
@@ -3746,32 +2924,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radtour nördlich der Donau nach Bertoldsheim
-DTSTART;TZID=Europe/Berlin:20260906T110000
-DTEND;TZID=Europe/Berlin:20260906T190000
-DTSTAMP:20260718T212217Z
-UID:radtour-n-rdlich-der-donau-nach-bertoldsheim-20260906-0900@ifg-plattfo
- rm.de
-DESCRIPTION:Einlass: 09:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nVon Ingolstadt über Bergen\, Hütting\, Rohrbach\, Trugenhofen fahr
- en wir nördlich der Donau nach Bertoldsheim. Ebenso nördlich der Donau 
- über Gansheim\, Burgmannshofen\, Emskeim\, Konstein zurück nach Ingolsta
- dt.\nHügelige Route mit ca. 1000 hm. Es kann daher empfehlenswert sein\, 
- das Ladegerät oder einen Zweitakku mitzunehmen. Es kann unter den Teilneh
- menden auch eine kürzere Rückfahrt über Neuhausen\, Trugenhofen\, Renne
- rtshofen vereinbart werden.\nAnmeldung erwünscht\, aber nicht erforderlic
- h.
-LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:100
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Die Festung Ingolstadt
 DTSTART;TZID=Europe/Berlin:20260906T153000
 DTEND;TZID=Europe/Berlin:20260906T170000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:die-festung-ingolstadt-20260906-1330@ifg-plattform.de
 DESCRIPTION:Bayerische Landesfestung\n\nEinlass: 13:30\n\nIngolstadt gilt 
  gemeinhin als größtes Freilichtmuseum für deutsche Festungsarchitektur.
@@ -3783,43 +2942,13 @@ DESCRIPTION:Bayerische Landesfestung\n\nEinlass: 13:30\n\nIngolstadt gilt
  igen Klenzeparks – imposante Bauten wie das Reduit Tilly oder der Turm T
  riva.
 LOCATION:Tourist Information\, Moritzstraße 19\, 85049 Ingolstadt
-X-SCORE:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Festkonzert mit Weltstar Daniel Roth (Frankreich)
-DTSTART;TZID=Europe/Berlin:20260906T221500
-DTEND;TZID=Europe/Berlin:20260906T233000
-DTSTAMP:20260718T212218Z
-UID:festkonzert-mit-weltstar-daniel-roth-frankreich-20260906-2015@ifg-plat
- tform.de
-DESCRIPTION:Ingolstädter Orgeltage 2026\n\nEinlass: 20:00\n\nWeltstar Dan
- iel Roth (Frankreich) gastiert an der Klais-Orgel (große Orgel) im Ingols
- tädter Liebfrauenmünster\nin Kooperation mit BR Klassik\n\n_____________
- ___\n\nEintrittskarten sind ab 19 Uhr an der Abendkasse am Eingang des Lie
- bfrauenmünsters (gegenüber der Münstertiefgarage) erhältlich.\n\nAn de
- r Abendkasse können wir Ihnen den Eintrittspreis ohne zusätzliche Vorver
- kaufsgebühren / Systemgebühren anbieten.\nWir sind mit ausreichend Perso
- nal vor Ort. Bitte haben Sie keine Angst – jeder bekommt sicherlich eine
-  Eintrittskarte vor Ort!\n\nEintritt pro Person: 20\,- Euro\nErmäßigung 
- 15\,- Euro für Rentner\, mit Ehrenamtskarte\, mit Schwerbehindertenauswei
- s\nSchüler ab 16 Jahre + Studenten: 10\,00 Euro\n\nEinlass nach dem der A
- bendmesse gegen 20:00 Uhr.\n\n_________________\n\nProgramm: \n\nJan Piete
- rszon Sweelinck: Fantasia cromatica SwWV 258\n\nJohann Sebastian Bach: Ich
-  bin ein guter Hirt\, Kantate BWV 85: Aria : Seht\, was die Liebe thut!\n\
- nCamille Saint-Saens: Fantaisie Des-Dur op. 101\n\nLouis Vierne: 2. Orgels
- ymphonie op. 20: Scherzo\n\nMarcel Dupré: Prélude et fugue en fa mineur 
- op.7/2 (1912)\n\nDaniel Roth: Livre d’orgue pour le Magnificat: Gloria P
- atri\n\nCésar Franck: Pièce Symphonique op. 17\n\nDaniel Roth: Improvisa
- tion über ein gegebenes Thema
-LOCATION:Münster Zur Schönen Unserer Lieben Frau\, Kreuzstraße 1\, 8504
- 9 Ingolstadt
-X-SCORE:15
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: The Rocky Horror Picture Show
 DTSTART;TZID=Europe/Berlin:20260906T221500
 DTEND;TZID=Europe/Berlin:20260907T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:freilichtkino-the-rocky-horror-picture-show-20260906-2015@ifg-plattfor
  m.de
 DESCRIPTION:Musical | England 1977 | 100 min | Musikfilm\, Musical\, Komö
@@ -3845,13 +2974,13 @@ LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
  e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
  \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
  Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:25
+X-SCORE:42
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ein Massengrab im Museum
 DTSTART;TZID=Europe/Berlin:20260910T200000
 DTEND;TZID=Europe/Berlin:20260910T210000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:ein-massengrab-im-museum-20260910-1800@ifg-plattform.de
 DESCRIPTION:Kuratorenführung am Abend\n\nIn der 2019 eröffneten Ausstell
  ung "Formen des Krieges 1600-1815" wurden einzelne Knochen aus einem Masse
@@ -3865,13 +2994,13 @@ DESCRIPTION:Kuratorenführung am Abend\n\nIn der 2019 eröffneten Ausstell
  iskutieren zu können.\nDie Führung ist kostenlos. Es ist nur der Museums
  eintritt zu entrichten.
 LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:15
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:GAUDION &amp\; CONNOR BRONDES
 DTSTART;TZID=Europe/Berlin:20260910T220000
 DTEND;TZID=Europe/Berlin:20260911T000000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:gaudion-amp-connor-brondes-20260910-2000@ifg-plattform.de
 DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nGAUDION 
  &amp\; CONNOR BRONDES\n— Donnerstag\, 10/09 um 20 Uhr —\n\n\nUnser let
@@ -3892,43 +3021,24 @@ DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nGAUDION
  k an unseren diesjährigen Partner der TAGTRAUM BIERGARTENKONZERTE - die S
  parkasse Ingolstadt Eichstätt.
 LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:18
+X-SCORE:29
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20-jähriges Jubiläum
 DTSTART;TZID=Europe/Berlin:20260911T220000
 DTEND;TZID=Europe/Berlin:20260914T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:20-j-hriges-jubil-um-20260911-2000@ifg-plattform.de
 DESCRIPTION:Jugendfeuerwehr Dünzlau\n\nDJ-Abend\, Dorfabend\, Bobbycar-Re
  nnen
 LOCATION:Festplatz Dünzlau\, Mühlackerweg 2\, 85049 Ingolstadt
-X-SCORE:10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hopfen-Radtour zur Hopfenkönigin
-DTSTART;TZID=Europe/Berlin:20260912T113000
-DTEND;TZID=Europe/Berlin:20260912T200000
-DTSTAMP:20260718T212217Z
-UID:hopfen-radtour-zur-hopfenk-nigin-20260912-0930@ifg-plattform.de
-DESCRIPTION:Einlass: 09:30\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nRadtour zum Hopfenbauern Ostler in Ulrain bei Neustadt a.d. Donau. A
- uf der Anfahrt wird im Gasthaus Paulus in Marching eingekehrt.\nNach der H
- ofbesichtigung begleitet uns Anna-Lena Ostler\, die Vize-Hopfenkönigin vo
- n 2024\, zu ihren wunderschönen Lieblingsplatz in den Hopfengärten. \nBi
- o-Bike-Tour: Die Radtour ist besonders auf die Bedürfnisse von Bio-Radler
- *innen abgestimmt\, die Ihre Touren ohne elektrische Unterstützung untern
- ehmen. Radler*innen mit Pedelec sind herzlich willkommen\, müssen sich ab
- er an Tempo und Kondition der Bio-Radler*innen.\nAnmeldung erwünscht\, ab
- er nicht erforderlich.
-LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:100
+X-SCORE:12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:SWIM &amp\; VIBE mit DJane Sherin
 DTSTART;TZID=Europe/Berlin:20260912T150000
 DTEND;TZID=Europe/Berlin:20260912T230000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:swim-amp-vibe-mit-djane-sherin-20260912-1300@ifg-plattform.de
 DESCRIPTION:Sonnenbrille auf\, Cocktails kalt und Beach Club Sounds an!\n\
  nEinlass: 10:00\n\nWo? Thermenbereich\n\nWann? Ab 13 Uhr jeden zweiten Sam
@@ -3938,30 +3048,13 @@ DESCRIPTION:Sonnenbrille auf\, Cocktails kalt und Beach Club Sounds an!\n\
   nach Ingolstadt. Live DJs und Poolbar Specials sorgen für ein einzigarti
  ges Erlebnis in unserem Thermenbereich.\n\nSeid dabei und feiert mit uns!
 LOCATION:Donautherme\, Südliche Ringstraße 63\, 85053 Ingolstadt
-X-SCORE:4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fronte Rechberg
-DTSTART;TZID=Europe/Berlin:20260912T153000
-DTEND;TZID=Europe/Berlin:20260912T170000
-DTSTAMP:20260718T212217Z
-UID:fronte-rechberg-20260912-1330@ifg-plattform.de
-DESCRIPTION:Einlass: 13:30\n\nWenn Sie wissen wollen\, wie es sich anfühl
- t\, in völliger Dunkelheit metertief unterhalb der Erdoberfläche auszuha
- rren\, so begeben Sie sich in Begleitung eines Gästeführers in die Poter
- ne unterhalb der Rechbergstraße.\n\nDieser unterirdische Festungsgang ist
-  Teil der Fronte Rechberg\, erbaut in der Zeit von König Ludwig I. Auch a
- n der Oberfläche gibt die Fronte einen beeindruckenden Einblick in die sp
- ezielle Festungsarchitektur\, die Ingolstadt zu einer uneinnehmbaren Festu
- ng machte.\n\nBitte Taschenlampe mitbringen!
-LOCATION:Fronte Rechberg\, Rechbergstraße 2\, 85049 Ingolstadt
-X-SCORE:10
+X-SCORE:12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Die große Johann Strauss Gala
 DTSTART;TZID=Europe/Berlin:20260912T173000
 DTEND;TZID=Europe/Berlin:20260912T200000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:die-gro-e-johann-strauss-gala-20260912-1530@ifg-plattform.de
 DESCRIPTION:Eine Wiener Operetten Revue\n\nEinlass: 14:30\n\nMusiker des G
  ala-Sinfonie Orchesters Prag und  international renommierte Solistinnen un
@@ -3969,13 +3062,13 @@ DESCRIPTION:Eine Wiener Operetten Revue\n\nEinlass: 14:30\n\nMusiker des G
  n Konzertnachmittag\, der Musik\, Gesang und Tanz zu einem sinnlichen Gesa
  mterlebnis verbindet.
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
-X-SCORE:23
+X-SCORE:30
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Frühschoppen im Bauerngerätemuseum Hundszell
 DTSTART;TZID=Europe/Berlin:20260913T130000
 DTEND;TZID=Europe/Berlin:20260913T150000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:fr-hschoppen-im-bauernger-temuseum-hundszell-20260913-1100@ifg-plattfo
  rm.de
 DESCRIPTION:Nacht der Museen 2026\n\nEinlass: 10:00\n\nMusikalischer Früh
@@ -3987,59 +3080,13 @@ DESCRIPTION:Nacht der Museen 2026\n\nEinlass: 10:00\n\nMusikalischer Früh
  ualität\, stilistische Vielfalt und zeitlose Klangkultur vereint.
 LOCATION:Bauerngerätemuseum Hundszell\, Probststraße 13\, 85051 Ingolsta
  dt
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scherbelbergbunker
-DTSTART;TZID=Europe/Berlin:20260913T153000
-DTEND;TZID=Europe/Berlin:20260913T163000
-DTSTAMP:20260718T212217Z
-UID:scherbelbergbunker-20260913-1330@ifg-plattform.de
-DESCRIPTION:Erlebt den ehemaligen Bunker hautnah!\n\nEinlass: 13:30\n\nAls
-  Teil der Landesfestung von König Ludwig I. erbaut\, erfolgte die Umnutzu
- ng der Festungsanlagen im Bereich des heutigen Scherbelbergs im Zweiten We
- ltkrieg als Luftschutzbunker.\n\nDer Bunker dient als ein Beispiel der Umn
- utzung Ingolstädter Festungsanlagen.\n\nBitte Taschenlampe mitbringen!\n\
- nGeeignet ab 12 Jahre\n\nBitte beachten Sie: die Tourist Information ist a
- n Feiertagen geschlossen.\nhttps://www.newcityplatform.de
-LOCATION:Zugang Scherbelbergbunker\, Jahnstraße\, Keine Straße verfügba
- r Keine Straßennummer verfügbar\, Keine Postleitzahl verfügbar Keine St
- adt verfügbar\, Keine weiteren Informationen verfügbar
-X-SCORE:10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinderfest im Bauerngerätemuseum Hundszell
-DTSTART;TZID=Europe/Berlin:20260913T160000
-DTEND;TZID=Europe/Berlin:20260913T200000
-DTSTAMP:20260718T212217Z
-UID:kinderfest-im-bauernger-temuseum-hundszell-20260913-1400@ifg-plattform
- .de
-DESCRIPTION:Auch dieses Jahr ist viel geboten: An zahlreichen Stationen k
- önnen die Kinder selbst kreativ werden. Sie gestalten Steine und Blument
- öpfe\, probieren sich im Filzen aus oder stellen ihr Geschick an der Boge
- nschießbahn unter Beweis.\n\nEine Imkerei\, Spinnerinnen und ein Schmied 
- geben spannende Einblicke in traditionelle Handwerksberufe. Eine Modelleis
- enbahn lädt zum Staunen ein\, und auch die Freiwillige Feuerwehr Hundszel
- l ist mit ihren Einsatzfahrzeugen vor Ort. Abgerundet wird das Programm du
- rch museumspädagogische Mitmachstationen mit spannenden Aufgaben und Akti
- onen rund um das Bauerngerätemuseum.\n\nAls besonderes Highlight gestalte
- t die Simon-Mayr-Sing- und Musikschule ein Mitmachprogramm. Gemeinsam mit 
- Monika Ketterl lernen die Kinder auf spielerische Weise bairische und alpe
- nländische Lieder sowie einfache Volkstänze kennen. Bei fröhlichen Lied
- ern\, Bewegungsspielen und Tänzen stehen Spaß\, Musik und das gemeinsame
-  Erleben im Mittelpunkt.\n\nFür das leibliche Wohl der Besuchenden ist mi
- t einem Cateringangebot sowie einem Eisstand ebenfalls bestens gesorgt.\n\
- n(Mit freundlicher Unterstützung der Sparkasse Ingolstadt Eichstätt.)\n\
- nTelefon: 0841 305-1885 (Kasse Stadtmuseum)\nTelefon: 0841 305-2859 (Kasse
-  Bauerngerätemuseum)\nE-Mail: bauerngeraetemuseum@ingolstadt.de
-LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
-X-SCORE:13
+X-SCORE:31
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blaskapelle Gaimersheim - Tanzleitung: Franziska Straus
 DTSTART;TZID=Europe/Berlin:20260913T180000
 DTEND;TZID=Europe/Berlin:20260914T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:blaskapelle-gaimersheim-tanzleitung-franziska-straus-20260913-1600@ifg
  -plattform.de
 DESCRIPTION:Die kultURIG Veranstaltungsreihe vereint ihre Einzelveranstalt
@@ -4048,14 +3095,14 @@ DESCRIPTION:Die kultURIG Veranstaltungsreihe vereint ihre Einzelveranstalt
   ein und erleben Sie Ingolstadts kulturelle Vielfalt in ihrer ganzen Prach
  t!\n\nDer Eintritt zu dieser Reihe ist kostenfrei.
 LOCATION:Schutterhof\, Friedhofstraße 1a\, 85049 Ingolstadt
-X-SCORE:4
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arnd Zeigler Immer Glück ist Können! Zeiglers wunderbare Welt de
  s Fußballs - LIVE
 DTSTART;TZID=Europe/Berlin:20260915T220000
 DTEND;TZID=Europe/Berlin:20260916T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:arnd-zeigler-immer-gl-ck-ist-k-nnen-zeiglers-wunderbare-welt-des-fu-ba
  lls-live-20260915-2000@ifg-plattform.de
 DESCRIPTION:Immer Glück ist Können! Zeiglers wunderbare Welt des Fußbal
@@ -4087,28 +3134,13 @@ DESCRIPTION:Immer Glück ist Können! Zeiglers wunderbare Welt des Fußbal
  ll vermitteln kann“. Wer sich darauf rückbesinnen möchte\, ist bei Arn
  d Zeigler goldrichtig.
 LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
-X-SCORE:9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radtour zum Heiligen Berg in Andechs
-DTSTART;TZID=Europe/Berlin:20260916T111500
-DTEND;TZID=Europe/Berlin:20260916T203000
-DTSTAMP:20260718T212217Z
-UID:radtour-zum-heiligen-berg-in-andechs-20260916-0915@ifg-plattform.de
-DESCRIPTION:Einlass: 09:15\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nRadtour ab Hbf München\, über Starnberg und entlang des Maisinger 
- Bachs Richtung Ammersee zum überraschend sichtbar werdenden Zwiebelturm d
- er Andechser Klosterkirche. Nach Einkehr in Pilgerschänke und Wallfahrtsk
- irche\, steil bergab an den Ammersee. Rückfahrt mit der Bahn.\nAnmeldung 
- erforderlich.
-LOCATION:Hauptbahnhof Ingolstadt\, Bahnhofstraße 8\, 85051 Ingolstadt
-X-SCORE:90
+X-SCORE:28
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herrliches Herrnbräu live erleben!
 DTSTART;TZID=Europe/Berlin:20260917T190000
 DTEND;TZID=Europe/Berlin:20260917T210000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:herrliches-herrnbr-u-live-erleben-20260917-1700@ifg-plattform.de
 DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nBesuchen Sie uns in unse
  rer Brauerei und erleben Sie\, mit wie viel Sorgfalt und modernster Techni
@@ -4125,32 +3157,13 @@ DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nBesuchen Sie uns in unse
  re Bierfavoriten in aller Ruhe genießen können. Zum Wohl!\n\nMindestteil
  nehmerzahl: 10 Personen\n\nWir freuen uns auf Ihren Besuch!
 LOCATION:Brauerei Herrnbräu\, Manchinger Straße 95\, 85053 Ingolstadt
-X-SCORE:16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Informationsveranstaltung: Die Geschichte der Psychotherapie
-DTSTART;TZID=Europe/Berlin:20260917T200000
-DTEND;TZID=Europe/Berlin:20260917T213000
-DTSTAMP:20260718T212217Z
-UID:informationsveranstaltung-die-geschichte-der-psychotherapie-20260917-1
- 800@ifg-plattform.de
-DESCRIPTION:Die Geschichte der Psychotherapie: Von der Psychoanalyse bis z
- ur Schematherapie.\n\nDie kbo-Donau-Altmühl-Kliniken bieten Ihnen eine Vo
- rtragsreihe rund um die psychische Gesundheit an.\nWir möchten Sie über 
- die verschiedenen Krankheitsbilder informieren und die neuesten Behandlung
- smöglichkeiten aufzeigen. Darüber hinaus möchten wir Ihnen die Gelegenh
- eit bieten\, all Ihre Fragen beantwortet zu bekommen.\n\nThema: Die Geschi
- chte der Psychotherapie: Von der Psychoanalyse bis zur Schematherapie.\nRe
- ferent: Sebastian Backe (Psychologischer Psychotherapeut)
-LOCATION:kbo-Donau-Altmühl-Klinik Ingolstadt\, Krumenauerstraße 25\, 850
- 49 Ingolstadt\, Raum Oberbayern (Klinikum Ingolstadt)
-X-SCORE:4
+X-SCORE:26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:142.  JAM Session der Jazzfreunde Ingolstad e. V.
 DTSTART;TZID=Europe/Berlin:20260917T220000
 DTEND;TZID=Europe/Berlin:20260918T010000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:142-jam-session-der-jazzfreunde-ingolstad-e-v-20260917-2000@ifg-plattf
  orm.de
 DESCRIPTION:Eintritt frei\n\nEinlass: 19:00\n\nDie Jazzfreunde Ingolstadt 
@@ -4181,38 +3194,13 @@ DESCRIPTION:Eintritt frei\n\nEinlass: 19:00\n\nDie Jazzfreunde Ingolstadt
    Unbedingt erforderliches eigenes Equipment mit Verkabelung\n-       Note
  nständer
 LOCATION:Diagonal Ingolstadt\, Kreuzstr. 12\, 85049 Ingolstadt
-X-SCORE:9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Discu:theque mit Curió Curió
-DTSTART;TZID=Europe/Berlin:20260917T220000
-DTEND;TZID=Europe/Berlin:20260918T015900
-DTSTAMP:20260718T212217Z
-UID:discu-theque-mit-curi-curi-20260917-2000@ifg-plattform.de
-DESCRIPTION:🎶 „Discu:theque“ – Wo Musik auf Geschichten trifft\n\
- n📅 Donnerstag\, 17.09.2026\n🕗 20:00 Uhr\n📍 Neue Welt\n\n🎤 Zu G
- ast: Curió Curió\n🎙️ Moderation: Angie Portmann (Zündfunk / Bayern
-  2)\n\nWenn brasilianische Leichtigkeit auf psychedelische Disco-Grooves t
- rifft\, entsteht etwas ganz Besonderes: Curió Curió. ✨\n\nDas Duo um d
- ie in Rio geborene Sängerin und Schauspielerin Luiza Monteiro sowie den d
- eutschen Produzenten Dustin Braun verbindet brasilianische MPB\, Disco-Sou
- nds und experimentelle Klangwelten zu einer modernen\, unverwechselbaren F
- usion. Inspiriert von Künstler*innen wie Gal Costa\, Jorge Ben Jor\, Say 
- She She und Bala Desejo erschaffen sie Musik voller Freiheit\, Bewegung\, 
- Liebe und Lebensfreude – ergänzt durch nachdenkliche und intime Momente
- .\n\n🌿 Nostalgisch und zugleich zeitgenössisch\n💃 Rhythmisch und at
- mosphärisch\n🎵 Ein Abend voller Musik\, Geschichten und Inspiration\n\
- n🎟️ Der Eintritt ist kostenfrei.\n\nPräsentiert von Zündfunk\, Baye
- rn 2\n\nWir freuen uns auf einen besonderen Abend mit Curió Curió bei 
- „Discu:theque“!
-LOCATION:Neue Welt\, Griesbadgasse 7\, 85049 Ingolstadt
-X-SCORE:8
+X-SCORE:14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:1. Abonnementkonzert
 DTSTART;TZID=Europe/Berlin:20260917T220000
 DTEND;TZID=Europe/Berlin:20260918T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:1-abonnementkonzert-20260917-2000@ifg-plattform.de
 DESCRIPTION:Vivi Vassileva: Percussion         Ariel Zuckermann: Leitung\n
  \nEin Orchester mit Spitzenkräften: Das ist unsere Kammerphilharmonie. Zu
@@ -4225,13 +3213,13 @@ DESCRIPTION:Vivi Vassileva: Percussion         Ariel Zuckermann: Leitung\n
  x Mendelssohn Bartholdy: Sinfonie Nr. 4 in A-Dur\, op. 90\, „Italienisch
  e“
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
-X-SCORE:15
+X-SCORE:27
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Voltraid
 DTSTART;TZID=Europe/Berlin:20260918T220000
 DTEND;TZID=Europe/Berlin:20260919T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:voltraid-20260918-2000@ifg-plattform.de
 DESCRIPTION:VOLBEAT TRIBUTE PREMIERE plus Album Release Show\n\nEinlass: 1
  9:00\n\nVoltraid\nVOLBEAT TRIBUTE PREMIERE plus Album Release Show\nVOLTRA
@@ -4246,13 +3234,13 @@ DESCRIPTION:VOLBEAT TRIBUTE PREMIERE plus Album Release Show\n\nEinlass: 1
  besonderer Abend für Rockfans\, Volbeat-Liebhaber und alle\, die authenti
  sche Live-Musik schätzen. Album Release. Tribute-Premiere. Rock'n'Roll.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:16
+X-SCORE:33
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Second-Hand-Basar
 DTSTART;TZID=Europe/Berlin:20260919T150000
 DTEND;TZID=Europe/Berlin:20260919T163000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:second-hand-basar-20260919-1300@ifg-plattform.de
 DESCRIPTION:in Karlshuld\n\nEinlass: 13:00\n\nSecond-Hand-Basar in Karlshu
  ld für Kinderbekleidung Gr. 56-176\, Umstandsmode\, Kinderwagen\, Auto- u
@@ -4265,7 +3253,7 @@ BEGIN:VEVENT
 SUMMARY:DIKKA
 DTSTART;TZID=Europe/Berlin:20260919T190000
 DTEND;TZID=Europe/Berlin:20260920T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:dikka-20260919-1700@ifg-plattform.de
 DESCRIPTION:BOAH IST DAS KRASS TOUR 2\n\nEinlass: 15:00\n\nDas frechste Na
  shorn der Welt geht wieder auf Tour! DIKKA kündigt für 2026 eine 38 Term
@@ -4314,64 +3302,13 @@ DESCRIPTION:BOAH IST DAS KRASS TOUR 2\n\nEinlass: 15:00\n\nDas frechste Na
  lle Nashornwelt auch 2026 wieder auf die Bühne. Ein Erlebnis für Kinder 
  – und alle\, die einmal eins waren. Boah\, wird das krass!
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jesuiten\, Illuminaten und die "Sau von Ingolstadt"
-DTSTART;TZID=Europe/Berlin:20260920T192300
-DTEND;TZID=Europe/Berlin:20260921T015900
-DTSTAMP:20260718T212217Z
-UID:jesuiten-illuminaten-und-die-sau-von-ingolstadt-20260920-1723@ifg-plat
- tform.de
-DESCRIPTION:Historische Kostümführung (seit 2009)\n\nEinlass: 17:05\n\nV
- or 277 Jahren\, am 6. Februar 1748\, wird Adam Weishaupt in Ingolstadt geb
- oren. Um die von ihm gegründeten Illuminaten geht es in der Erlebnisführ
- ung.\n\nDie Ingolstädter Illuminaten - ein Mythos fasziniert die Welt. Ni
- cht erst seit Dan Browns Bestseller ist der Geheimbund Synonym der Verschw
- örung. Doch was steckt dahinter? Wer waren die Illuminaten wirklich\, was
-  ihre Ziele und Ideale und - waren sie tatsächlich dabei die Weltherrscha
- ft zu übernehmen?\n\nDie Erlebnisführung erhellt die wahren Hintergründ
- e des Geheimbundes\, blickt in die Geschichte und setzt die Illuminaten in
-  den Kontext von Gegenreformation\, Jesuiten und Aufklärung. \n\nBegeben 
- Sie sich auf Spurensuche\, dort wo alles begann ...\n\nVergessen Sie Dan B
- rown\, die Zahl 23 und weitere Mythen\, die sich rund um die Organisation 
- ranken. Auf seriösem historischen Fundament wollen wir die geschichtliche
- n Hintergründe näher beleuchten - verständlich und populär-wissenschaf
- tlich aufbereitet.\n\nUm die Zeitumstände der Gründung und die geistigen
-  Ideale besser zu verstehen\, spannen wir einen Bogen von Gegenreformation
-  und Aufklärung\, über das Wirken der Jesuiten an der Ingolstädter Hoch
- schule bis hin zu den Illuminaten\, die den eigentlichen Schwerpunkt der F
- ührung bilden. Natürlich darf auch ein klein wenig Mythos und Legende ru
- nd um den Geheimbund nicht fehlen - es ist aber keine „Verschwörungs-F
- ührung“.
-LOCATION:Innenhof Canisiuskonvikt - Sporthalle Prof. Fleischmann (ggü. No
- rdseite Münster)\, Bergbräustraße 1\, 85049 Ingolstadt
-X-SCORE:6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:BIBEL\, BIER UND BREZN
-DTSTART;TZID=Europe/Berlin:20260922T210000
-DTEND;TZID=Europe/Berlin:20260923T015900
-DTSTAMP:20260718T212217Z
-UID:bibel-bier-und-brezn-20260922-1900@ifg-plattform.de
-DESCRIPTION:Esther - Treue\, Taktik und Intrigen (Buch Esther)\n\nSeit zwe
- i Jahren läuft "Bibel\, Bier und Brezn" inzwischen schon. Bei den sechs A
- benden im Jahr kommen regelmäßig je 40 bis 70 Interessierte\, genießen 
- Bier und Butter-Brezn - und vor allem die Gemeinschaft miteinander. Im ers
- ten Jahr sind wir anhand der Abrahamsgeschichte über Glaubens- und Lebens
- themen ins Gespräch gekommen. Im zweiten nun war Jakob Inspiration dafür
- . Für das neue Jahr 2026 waren die Gemeindeleiter des Anton-Trios sich ra
- sch einig: dass die Reihe fortgesetzt wird und es diesmal um weniger bekan
- nte Frauenfiguren gehen soll.\n\nDer nächste  Abend findet bei der Mennon
- iten Gemeinde statt und richtet den Blick auf Esther. Herzliche Einladung!
-LOCATION:Mennonitengemeinde\, Eigenheimstr. 18-20\, 85051 Ingolstadt
-X-SCORE:4
+X-SCORE:20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Meereslust?
 DTSTART;TZID=Europe/Berlin:20260923T200000
 DTEND;TZID=Europe/Berlin:20260923T213000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:meereslust-20260923-1800@ifg-plattform.de
 DESCRIPTION:Hafenstädte und Seefahrt in der Antike\n\nEinlass: 16:00\n\nK
  ostenfreier Vortrag von Prof. Dr. Stefan Feuser (Universität Bonn)\n\nEin
@@ -4405,13 +3342,13 @@ DESCRIPTION:Hafenstädte und Seefahrt in der Antike\n\nEinlass: 16:00\n\nK
  er museums ist am 23.09.2026 bis zum Beginn des Vortrags geöffnet. Eine A
  nmeldung zur kostenfreien Veranstaltung ist nicht erforderlich.
 LOCATION:kelten römer museum manching\, Im Erlet 2\, 85077 Manching
-X-SCORE:16
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gankino Circus
 DTSTART;TZID=Europe/Berlin:20260924T220000
 DTEND;TZID=Europe/Berlin:20260925T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:gankino-circus-20260924-2000@ifg-plattform.de
 DESCRIPTION:Das Gegenteil von Rock’n’Roll\n\nEinlass: 19:00\n\nGankino
   Circus sind mit neuem Programm am Start: einer glamourösen Samstag-Abend
@@ -4445,13 +3382,13 @@ DESCRIPTION:Das Gegenteil von Rock’n’Roll\n\nEinlass: 19:00\n\nGankino
  os! Westdeutsche Zeitung \nEin einzigartiges Konzerterlebnis. Donaukurier 
  \nUnbedingt sehenswert! Mannheimer Morgen
 LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:30
+X-SCORE:43
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herbstvolksfest
 DTSTART;TZID=Europe/Berlin:20260925T160000
 DTEND;TZID=Europe/Berlin:20261005T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:herbstvolksfest-20260925-1400@ifg-plattform.de
 DESCRIPTION:Auf dem Festgelände erwarten das Publikum zweimal im Jahr zah
  lreiche Schaustellerinnen und Schausteller mit einer Mischung aus Neuheite
@@ -4461,26 +3398,38 @@ DESCRIPTION:Auf dem Festgelände erwarten das Publikum zweimal im Jahr zah
  rogramm und ein vielfältiger Warenmarkt mit Angeboten von Haushaltswaren 
  bis Modeschmuck runden das Erlebnis für die Besucher*innen ab.
 LOCATION:Volksfestplatz\, Dreizehnerstraße\, 85049 Ingolstadt
-X-SCORE:18
+X-SCORE:16
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:SchlagerErlebnis - Kerstin Ott\, Norman Langen\, Bernhard Brink\, 
- Anna Maria Zivkov
-DTSTART;TZID=Europe/Berlin:20260925T201500
-DTEND;TZID=Europe/Berlin:20260926T015900
-DTSTAMP:20260718T212217Z
-UID:schlagererlebnis-kerstin-ott-norman-langen-bernhard-brink-anna-maria-z
- ivkov-20260925-1815@ifg-plattform.de
-DESCRIPTION:Alle Info´s zur  Veranstaltung finden Sie unter https://www.s
- aturn-arena.de/events-und-konzerte/
-LOCATION:SATURN-Arena\, Südliche Ringstraße 64\, 85053 Ingolstadt
-X-SCORE:5
+SUMMARY:Programmieren und Robotik entdecken
+DTSTART;TZID=Europe/Berlin:20260926T120000
+DTEND;TZID=Europe/Berlin:20260926T143000
+DTSTAMP:20260718T213826Z
+UID:programmieren-und-robotik-entdecken-20260926-1000@ifg-plattform.de
+DESCRIPTION:Alle Kinder im Alter von 9 bis zu 11 Jahren sind herzlich eing
+ eladen\, im Bürgerhaus Neuburger Kasten die spannende Welt der Technik un
+ d des Programmierens zu entdecken - ganz spielerisch mit einer grafischen 
+ Benutzeroberfläche. Schritt für Schritt werden die jungen Teilnehmerinne
+ n und Teilnehmer einen Modell-Roboter zum Leben erwecken. Er reagiert auf 
+ Taster und Bewegungen\, zeigt Nachrichten auf einem Display an und setzt s
+ ogar einen Motor in Bewegung. Dabei lernen die Kinder\, logisch zu denken\
+ , kreativ zu tüfteln und eigene Ideen umzusetzen – ganz ohne Vorkenntni
+ sse. Der Kurs wird altersgerecht\, verständlich und mit viel Spaß durchg
+ eführt und fördert wichtige Zukunftskompetenzen. Programmieren lernen\, 
+ Technik verstehen und stolz auf das eigene Werk sein!\nDamit viele Kinder 
+ in kleinen Gruppen teilnehmen können\, wird der Kurs inhaltsgleich an meh
+ reren Samstagen angeboten. Im Juli sind dies der 11. und 18.07. und im Her
+ bst der 26.09.\, der 10. und 24.10. sowie der 07. und 21.11. \nEine Anmeld
+ ung für sämtliche Kurse ist unter www.kidnetting.de möglich. Die Kosten
+  pro Termin liegen bei 6 Euro.
+LOCATION:Bürgerhaus Neuburger Kasten\, Fechtgasse 6\, 85049 Ingolstadt
+X-SCORE:200
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Schwendner Klaus &amp\; Weiss Leonore - Was bleibt. Was zählt.
 DTSTART;TZID=Europe/Berlin:20260926T120000
 DTEND;TZID=Europe/Berlin:20260926T200000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:schwendner-klaus-amp-weiss-leonore-was-bleibt-was-z-hlt-20260926-1200@
  ifg-plattform.de
 RRULE:FREQ=WEEKLY;UNTIL=20261018T215959Z;INTERVAL=1;BYDAY=SU,SA,TH,FR
@@ -4493,43 +3442,13 @@ DESCRIPTION:Ausstellungsreihe "Kunststücke"\n\nBildhauerei / Arbeiten auf
  tritt frei. Um eine Spende von 3 € wird gebeten.
 LOCATION:Städtische Galerie Harderbastei\, Oberer Graben 55\, 85049 Ingol
  stadt
-X-SCORE:4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vorsprung durch Wissenschaft
-DTSTART;TZID=Europe/Berlin:20260926T153000
-DTEND;TZID=Europe/Berlin:20260926T170000
-DTSTAMP:20260718T212218Z
-UID:vorsprung-durch-wissenschaft-20260926-1330@ifg-plattform.de
-DESCRIPTION:Erste Bayerische Landesuniversität 1472\n\nEinlass: 13:30\n\n
- Die Erste Bayerische Landesuniversität gehörte zu den bedeutendsten Hoch
- schulen im deutschsprachigen Raum.\n\nProfessoren und Wissenschaftler von 
- anerkanntem Rang lehrten und forschten in den verschiedenen Fachbereichen\
- ; Studenten aus ganz Europa kamen nach Ingolstadt und brachten internation
- ales Flair und studentisches Leben in die Schanz.\n\nDiese Führung nimmt 
- Sie mit auf eine informative wie unterhaltsame Reise in die Vergangenheit.
-  Auf den Spuren der reichhaltigen Universitätsgeschichte tauchen Sie ein 
- in die bewegte Zeit zwischen 1472 und 1800 und besuchen Orte der Wissensch
- aft aus fünf Jahrhunderten - alle haben spannende Geschichten zu erzähle
- n...
-LOCATION:Tourist Information\, Moritzstraße 19\, 85049 Ingolstadt
-X-SCORE:6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Festumzug Eröffnung Herbstvolksfest
-DTSTART;TZID=Europe/Berlin:20260926T160000
-DTEND;TZID=Europe/Berlin:20260927T015900
-DTSTAMP:20260718T212217Z
-UID:festumzug-er-ffnung-herbstvolksfest-20260926-1400@ifg-plattform.de
-DESCRIPTION:Start: Klenzepark
-LOCATION:Klenzepark\, Klenzepark\, 85049 Ingolstadt
-X-SCORE:10
+X-SCORE:20
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:MAMAGEHTTANZEN
 DTSTART;TZID=Europe/Berlin:20260926T213000
 DTEND;TZID=Europe/Berlin:20260927T010000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:mamagehttanzen-20260926-1930@ifg-plattform.de
 DESCRIPTION:Die erfolgreiche Partyreihe für Mütter\n\nEinlass: 19:00\n\n
  MAMAGEHTTANZEN\,  DAS ORIGINAL in INGOLSTADT! \n\nMAMAGEHTTANZEN  is
@@ -4542,13 +3461,13 @@ DESCRIPTION:Die erfolgreiche Partyreihe für Mütter\n\nEinlass: 19:00\n\n
  eingehen!  WIR werden unter uns bleiben... also eine vollständige 'safe
   space' Komfortzone nur für Frauen.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:7
+X-SCORE:19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Radtour zum Apfelfest im Canisiushof
 DTSTART;TZID=Europe/Berlin:20260927T120000
 DTEND;TZID=Europe/Berlin:20260927T190000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:radtour-zum-apfelfest-im-canisiushof-20260927-1000@ifg-plattform.de
 DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
  in. \nDer Canisiushof zwischen Demling und Kasing ist ein regional bekannt
@@ -4565,13 +3484,13 @@ DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
  \, müssen sich aber an Tempo und Kondition der Bio-Radler*innen orientier
  en.\nAnmeldung erwünscht\, aber nicht erforderlich.
 LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:119
+X-SCORE:21
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Donau-Stadt Ingolstadt
 DTSTART;TZID=Europe/Berlin:20260927T153000
 DTEND;TZID=Europe/Berlin:20260927T180000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:donau-stadt-ingolstadt-20260927-1330@ifg-plattform.de
 DESCRIPTION:Raus aus der Stadt\, rein in die Natur\n\nEinlass: 13:30\n\nEr
  leben Sie Natur pur entlang der Donau auf dem Weg vom KAP94\, der Kunst un
@@ -4586,13 +3505,13 @@ DESCRIPTION:Raus aus der Stadt\, rein in die Natur\n\nEinlass: 13:30\n\nEr
  ecke: ca. 4 km\nDas Ticket gilt ggf. automatisch für einen kurzfristig an
  beraumten Ersatztermin\, sollte das Wetter zu schlecht sein.
 LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:24
+X-SCORE:33
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kombiführung Lechner Museum und Skulpturenpark
 DTSTART;TZID=Europe/Berlin:20260927T160000
 DTEND;TZID=Europe/Berlin:20260927T190000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:kombif-hrung-lechner-museum-und-skulpturenpark-20260927-1400@ifg-platt
  form.de
 DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
@@ -4609,25 +3528,13 @@ DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
  st leider nicht möglich.\n‍\nKommen Sie vorbei und lassen Sie sich von 
  der Kunst und der Natur begeistern!
 LOCATION:Lechner Museum\, Esplanade 9\, 85049 Ingolstadt
-X-SCORE:18
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Musik aus Alt-Ingolstadt mit der Zandter Blasmusik
-DTSTART;TZID=Europe/Berlin:20260927T170000
-DTEND;TZID=Europe/Berlin:20260928T015900
-DTSTAMP:20260718T212217Z
-UID:musik-aus-alt-ingolstadt-mit-der-zandter-blasmusik-20260927-1500@ifg-p
- lattform.de
-DESCRIPTION:Bei schlechtem Wetter findet die Veranstaltung in der VHS\, Ru
- dolf-Koller-Saal\, statt.
-LOCATION:Schlosshof\, Paradeplatz 1\, 85049 Ingolstadt
-X-SCORE:4
+X-SCORE:23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sonntags?Kunst!
 DTSTART;TZID=Europe/Berlin:20260927T170000
 DTEND;TZID=Europe/Berlin:20260927T190000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:sonntags-kunst-20260927-1500@ifg-plattform.de
 DESCRIPTION:Pastell Workshop mit Marija vom malemal e.v.\n\nEinlass: 14:45
  \n\nIn entspannter Atmosphäre gestalten die Teilnehmenden individuelle Pa
@@ -4644,35 +3551,13 @@ DESCRIPTION:Pastell Workshop mit Marija vom malemal e.v.\n\nEinlass: 14:45
  ür diese freundliche Unterstützung bedankt sich das MKK herzlich.
 LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
  adt
-X-SCORE:11
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Walk&amp\;Talk für Frauen
-DTSTART;TZID=Europe/Berlin:20260929T190000
-DTEND;TZID=Europe/Berlin:20260929T194500
-DTSTAMP:20260718T212217Z
-UID:walk-amp-talk-f-r-frauen-20260929-1700@ifg-plattform.de
-DESCRIPTION:Begegnung mit Bewegung\n\nGemeinsam spazieren\, ins Ge(h)sprä
- ch kommen und neue Kontakte knüpfen: Beim monatlichen Walk &amp\; Talk ve
- rbinden wir Bewegung in der Natur mit offenem Austausch in entspannter Atm
- osphäre. Ein Angebot für Mädchen und Frauen\, die andere kennenlernen u
- nd Freundschaften finden oder einfach spontan gemeinsam unterwegs sein mö
- chten. Startpunkt für den etwa 45-minütigen Spaziergang ist der Donauste
- g gegenüber des Theater-Parkplatzes. Die Route führt entlang der Donau u
- nd Schutter\, es besteht im Anschluss die Möglichkeit zu einer gemeinsame
- n Einkehr. Bei sehr schlechtem Wetter treffen sich Teilnehmende um 17 Uhr 
- im Backstage Theater-Restaurant - die Einhaltung der Bestimmungen des Juge
- ndschutzgesetzes obliegt bei minderjährigen Teilnehmerinnen den Erziehung
- sberechtigten. \nNächster Walk&amp\;Talk am 27.10.2026. Weitere Informati
- onen gibt es unter mgh@ingolstadt.de oder (0841) 305-500 55.
-LOCATION:Start am Donausteg\, Donausteg -\, 85049 Ingolstadt
-X-SCORE:8
+X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:VIP - Özcan Cosar
 DTSTART;TZID=Europe/Berlin:20260929T220000
 DTEND;TZID=Europe/Berlin:20260930T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:vip-zcan-cosar-20260929-2000@ifg-plattform.de
 DESCRIPTION:Einlass: 18:30\n\nÖzcan Cosar ist zurück – mit „VIP“!\
  nSeit 2026 bundesweit auf Tour\n\nAufgrund der großen Nachfrage Zusatzter
@@ -4699,24 +3584,40 @@ DESCRIPTION:Einlass: 18:30\n\nÖzcan Cosar ist zurück – mit „VIP“!\
  isch\, charmant und mit seinem unverkennbaren Mix aus Comedy\, Schauspiel 
  und Tanz auf der Bühne. „VIP“ - Stand-up mit Herz\, Witz und Haltung.
 LOCATION:SATURN-Arena\, Südliche Ringstraße 64\, 85053 Ingolstadt
-X-SCORE:4
+X-SCORE:24
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Özcan Cosar - "VIP"
-DTSTART;TZID=Europe/Berlin:20260929T220000
-DTEND;TZID=Europe/Berlin:20260930T015900
-DTSTAMP:20260718T212218Z
-UID:zcan-cosar-vip-20260929-2000@ifg-plattform.de
-DESCRIPTION:Alle Info´s zur Veranstaltung unter https://www.saturn-arena.
- de/events-und-konzerte/
-LOCATION:SATURN-Arena\, Südliche Ringstraße 64\, 85053 Ingolstadt
-X-SCORE:5
+SUMMARY:Hinter den Kulissen der Brauerei - erleben Sie Nordbräu hautnah!
+DTSTART;TZID=Europe/Berlin:20261001T190000
+DTEND;TZID=Europe/Berlin:20261001T210000
+DTSTAMP:20260718T213826Z
+UID:hinter-den-kulissen-der-brauerei-erleben-sie-nordbr-u-hautnah-20261001
+ -1700@ifg-plattform.de
+DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nVon den Jesuiten-Mönche
+ n bis zum heutigen modernen Unternehmen: Blicken Sie hinter die Kulissen v
+ on Nordbräu und erleben Sie\, wie wir heute brauen. Vom Hopfen ins Glas 
+ – wie funktioniert das eigentlich? Wie entsteht das beliebte Nordbräu H
+ elle\, das würzige Dunkle\, und was ist eigentlich das Besondere am Brauv
+ organg für unser kultiges Privat Pilsener?\n\nWenn Sie auf diese Fragen s
+ chon immer nach Antworten gesucht haben\, sind Sie bei unserer Führung ge
+ nau richtig! Erfahren Sie\, wie die Biere zu ihrem charakteristischen Gesc
+ hmack kommen\, was es mit der Stammwürze auf sich hat und wie die Filtrat
+ ion gelingt – oder eben nicht\, denn auch ungefilterte Biere haben etwas
+  ganz Besonderes an sich.\n\nIn ca. 1\,5 Stunden erleben Sie dabei alle Sc
+ hritte der Braukunst und erfahren jede Menge Wissenswertes rund um das woh
+ l beliebteste Getränk der Bayern.\n\nDie maximale Teilnehmerzahl beträgt
+  25 Personen – in einer überschaubaren Gruppe wird es schließlich gem
+ ütlicher\, und es ist genug Zeit\, alle Fragen zu beantworten. Nach der F
+ ührung gibt es eine kleine Verkostung mit Brotzeit in unserer Brauereisch
+ enke im Kastaniengarten.
+LOCATION:Brauerei Nordbräu\, Gutsstraße 5\, 85055 Ingolstadt
+X-SCORE:14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Max Emanuel – Barocker Influencer
 DTSTART;TZID=Europe/Berlin:20261001T200000
 DTEND;TZID=Europe/Berlin:20261001T210000
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:max-emanuel-barocker-influencer-20261001-1800@ifg-plattform.de
 DESCRIPTION:Kuratorenführung am Abend\n\nMax Emanuel war ein wahrer Küns
  tler der Selbstdarstellung und nutzte dabei Strategien\, die wir heute wie
@@ -4729,13 +3630,13 @@ DESCRIPTION:Kuratorenführung am Abend\n\nMax Emanuel war ein wahrer Küns
  önnen.\nDie Führung ist kostenlos. Es ist nur der Museumseintritt zu ent
  richten.
 LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:20
+X-SCORE:18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rolf Miller
 DTSTART;TZID=Europe/Berlin:20261001T220000
 DTEND;TZID=Europe/Berlin:20261002T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:rolf-miller-20261001-2000@ifg-plattform.de
 DESCRIPTION:Ich sag nix\n\nEinlass: 19:00\n\nKeiner sagt so schön nichts 
  wie Rolf Miller. Die Presse schreibt „Sternstunde des Stotterns und Stam
@@ -4767,13 +3668,13 @@ DESCRIPTION:Ich sag nix\n\nEinlass: 19:00\n\nKeiner sagt so schön nichts
   ist Terrorist\, aber jeder Terrorist ist Araber / Samenspender:Innen Also
  \, vielleicht sehen wir uns das nächste Mal\, wenn wir uns treffen!!
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:3
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cossu
 DTSTART;TZID=Europe/Berlin:20261002T220000
 DTEND;TZID=Europe/Berlin:20261003T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:cossu-20261002-2000@ifg-plattform.de
 DESCRIPTION:WE ARE THE GERMANS – Stand – Up Comedy\n\nEinlass: 19:00\n
  \nCossu kommt am Freitag\, den 02.10.2026 um 20:00 Uhr mit seinem neuen Pr
@@ -4794,13 +3695,13 @@ DESCRIPTION:WE ARE THE GERMANS – Stand – Up Comedy\n\nEinlass: 19:00\n
  errascht - und zeigt: Egal welcher Dialekt - Lachen ist unsere gemeinsame 
  Sprache.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:11
+X-SCORE:31
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kuschelparty Ingolstadt Oktober
 DTSTART;TZID=Europe/Berlin:20261003T200000
 DTEND;TZID=Europe/Berlin:20261004T000000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:kuschelparty-ingolstadt-oktober-20261003-1800@ifg-plattform.de
 DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
@@ -4819,31 +3720,13 @@ DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  sammen. Wir öffnen unsere Türen für jede*n – Singles und Paare sind g
  leichermaßen willkommen\, diese nährende Erfahrung zu teilen.
 LOCATION:Soul Studio\, Am Stein 8\, 85049 Ingolstadt
-X-SCORE:10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radtour zum Naturfreundehaus Konstein
-DTSTART;TZID=Europe/Berlin:20261004T110000
-DTEND;TZID=Europe/Berlin:20261004T190000
-DTSTAMP:20260718T212217Z
-UID:radtour-zum-naturfreundehaus-konstein-20261004-0900@ifg-plattform.de
-DESCRIPTION:Einlass: 09:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nZum Naturfreundehaus Konstein an der Quelle der Schutter über Bergh
- eim\, Attenfeld\, Bergen und das Urdonautal\, nach der Mittagspause im Nat
- urfreundehaus zum Schuttertal und entlang der Schutter zurück nach Ingols
- tadt.\nBio-Bike-Tour: Die Radtour ist besonders auf die Bedürfnisse von B
- io-Radler*innen abgestimmt\, die Ihre Touren ohne elektrische Unterstützu
- ng unternehmen. Radler*innen mit Pedelec sind herzlich willkommen\, müsse
- n sich aber an Tempo und Kondition der Bio-Radler*innen orientieren.\nAnme
- ldung erwünscht\, aber nicht erforderlich.
-LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:103
+X-SCORE:16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Öko-Bauernmarkt
 DTSTART;TZID=Europe/Berlin:20261004T120000
 DTEND;TZID=Europe/Berlin:20261004T190000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:ko-bauernmarkt-20261004-1000@ifg-plattform.de
 DESCRIPTION:Die Ökomodellregion Stadt.Land.Ingolstadt lädt alle großen 
  und kleinen Besucherinnen und Besucher ein zum traditionellen Öko-Bauernm
@@ -4857,40 +3740,25 @@ DESCRIPTION:Die Ökomodellregion Stadt.Land.Ingolstadt lädt alle großen
  n und Getränke mit 100 % Biozutaten ! \nSeien Sie gespannt und reserviere
  n Sie diesen Tag für den Öko-Bauernmarkt in Ihrem Kalender!
 LOCATION:Exerzierhaus\, Klenzepark\, 85049 Ingolstadt
-X-SCORE:9
+X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kocherlball beim Herbstvolksfest
 DTSTART;TZID=Europe/Berlin:20261004T120000
 DTEND;TZID=Europe/Berlin:20261005T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:kocherlball-beim-herbstvolksfest-20261004-1000@ifg-plattform.de
 DESCRIPTION:Volkstanz für Anfänger*innen und Fortgeschrittene inkl. Tanz
  vorführungen der Vereine mit den Dellnhauser Musikanten\nTanzleitung und 
  Moderation: Franziska Straus und Monika Ketterl
 LOCATION:Festzelt/Festplatz\, Dreizehnerstraße 1\, 85049 Ingolstadt
-X-SCORE:16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zauberhafte Donaugeschichten
-DTSTART;TZID=Europe/Berlin:20261004T153000
-DTEND;TZID=Europe/Berlin:20261004T173000
-DTSTAMP:20260718T212217Z
-UID:zauberhafte-donaugeschichten-20261004-1330@ifg-plattform.de
-DESCRIPTION:Stadtgeschichte Ingolstadts für Kids\n\nEinlass: 13:30\n\nGeh
- eimnisvolle Donaunixen\, wilde Tiere und alte Festungsgemäuer – das all
- es und noch viel mehr erwartet alle großen und kleinen Abenteurer bei die
- sem erlebnisreichen Spaziergang entlang der schönen und magischen Donau!\
- n\nGeeignet für Kinder zwischen 6 und 11 Jahren.
-LOCATION:Tourist Information am Rathausplatz\, Moritzstraße 19\, 85049 In
- golstadt
-X-SCORE:4
+X-SCORE:12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Böhmischer Abend mit Allgäu 6
 DTSTART;TZID=Europe/Berlin:20261004T210000
 DTEND;TZID=Europe/Berlin:20261005T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:b-hmischer-abend-mit-allg-u-6-20261004-1900@ifg-plattform.de
 DESCRIPTION:Berthold Schick und seine Allgäu 6\n\nBerthold Schick und sei
  ne Allgäu 6 – das ist Blasmusik vom Kleinsten und vom Feinsten.\n\nDie 
@@ -4903,33 +3771,13 @@ DESCRIPTION:Berthold Schick und seine Allgäu 6\n\nBerthold Schick und sei
  det.🍻🎶
 LOCATION:Congress Centrum Ingolstadt\, Gießerei-Platz 1\, 85049 Ingolstad
  t
-X-SCORE:4
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:70 Jahre Pionierschule der Bundeswehr
-DTSTART;TZID=Europe/Berlin:20261007T160000
-DTEND;TZID=Europe/Berlin:20261007T213000
-DTSTAMP:20260718T212217Z
-UID:70-jahre-pionierschule-der-bundeswehr-20261007-1400@ifg-plattform.de
-DESCRIPTION:Jubiläumsveranstaltung in der Ingolstädter Altstadt\n\nDie P
- ionierschule der Bundeswehr begeht ihr 70-jähriges Bestehen mit einer öf
- fentlichen Jubiläumsveranstaltung in der Ingolstädter Altstadt.\n\nDen A
- uftakt bildet am Nachmittag ein feierlicher Appell auf dem Rathausplatz mi
- t musikalischer Umrahmung und militärischen Zeremonienelementen. \nAm Abe
- nd findet eine feierliche Serenade bei Fackelschein ebenfalls auf dem Rath
- ausplatz Ingolstadt statt.\n\nDie Pionierschule freut sich darauf\, gemein
- sam mit den Bürgerinnen und Bürgern\, Gästen aus Politik\, Bundeswehr u
- nd Gesellschaft sowie ehemaligen Angehörigen der Pioniertruppe dieses bes
- ondere Jubiläum zu feiern.\n\nDer Eintritt zu den Veranstaltungen in der 
- Innenstadt ist frei
-LOCATION:Rathausplatz\, Rathausplatz\, 85049 Ingolstadt
-X-SCORE:4
+X-SCORE:12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bernd Hackl
 DTSTART;TZID=Europe/Berlin:20261007T220000
 DTEND;TZID=Europe/Berlin:20261008T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:bernd-hackl-20261007-2000@ifg-plattform.de
 DESCRIPTION:Ohne Brems’ und Lenkung\n\nEinlass: 19:00\n\nBernd Hackl On 
  Stage –  Das neue Comedy-Programm von und mit Bernd Hackl! \n\nNach de
@@ -4954,13 +3802,13 @@ DESCRIPTION:Ohne Brems’ und Lenkung\n\nEinlass: 19:00\n\nBernd Hackl On
   Hackl On Stage – Ohne Brems’ und Lenkung“ Wer Pferde liebt (oder 
  sie einfach noch nicht versteht)\, sollte diesen Abend nicht verpassen!
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:17
+X-SCORE:27
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jodelwahnsinn
 DTSTART;TZID=Europe/Berlin:20261009T220000
 DTEND;TZID=Europe/Berlin:20261010T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:jodelwahnsinn-20261009-2000@ifg-plattform.de
 DESCRIPTION:mit Monika Drasch\, Otto Göttler &amp\; Martin Danes\n\nEinla
  ss: 19:00\n\nJodelWahnsinn Echt? Ja\, er ist wieder da\, der Jodelwahnsinn
@@ -4982,103 +3830,38 @@ DESCRIPTION:mit Monika Drasch\, Otto Göttler &amp\; Martin Danes\n\nEinla
  rumente und vieles mehr Martin Danes – Gesang\, Akkordeon\, Gitarre\, Ko
  ntrabass\, Tuba und vieles mehr
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:21
+X-SCORE:32
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nuhr auf Tour
-DTSTART;TZID=Europe/Berlin:20261010T220000
-DTEND;TZID=Europe/Berlin:20261011T015900
-DTSTAMP:20260718T212217Z
-UID:nuhr-auf-tour-20261010-2000@ifg-plattform.de
-DESCRIPTION:Alle Info´s zur Veranstaltung unter https://www.saturn-arena.
- de/events-und-konzerte/
-LOCATION:SATURN-Arena\, Südliche Ringstraße 64\, 85053 Ingolstadt
-X-SCORE:5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radtour zur Bergkirche bei Rottenegg
-DTSTART;TZID=Europe/Berlin:20261011T120000
-DTEND;TZID=Europe/Berlin:20261011T190000
-DTSTAMP:20260718T212217Z
-UID:radtour-zur-bergkirche-bei-rottenegg-20261011-1000@ifg-plattform.de
-DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nÜber Geisenfeld nach Rottenegg\, wo die kleine Bergkirche über dem
-  Ort thront. Rückfahrt nach dem Besuch der geschichtsträchtigen Kirche d
- urch die Hopfengärten der Hallertau bei Unterpindhart und Engelbrechtsmü
- nster.\nBio-Bike-Tour: Die Radtour ist besonders auf die Bedürfnisse von 
- Bio-Radler*innen abgestimmt\, die Ihre Touren ohne elektrische Unterstütz
- ung unternehmen. Radler*innen mit Pedelec sind herzlich willkommen\, müss
- en sich aber an Tempo und Kondition der Bio-Radler*innen orientieren.\nAnm
- eldung erwünscht\, aber nicht erforderlich.
-LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:90
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vortrag: Von der NS-Diktatur zur Demokratie
-DTSTART;TZID=Europe/Berlin:20261013T200000
-DTEND;TZID=Europe/Berlin:20261013T213000
-DTSTAMP:20260718T212218Z
-UID:vortrag-von-der-ns-diktatur-zur-demokratie-20261013-1800@ifg-plattform
- .de
-DESCRIPTION:Bayerische Heeresgeneräle der frühen Bundeswehr\n\nAls die B
- undeswehr 1955 aufgestellt wurde\, war die gesamte Generalität und das h
- öhere Offizierkorps kriegsgedient und hatte einst den Eid auf Hitler abge
- legt. Nun dienten diese Männer loyal der Bundesrepublik und trugen damit 
- erheblich zur Konsolidierung eines demokratischen Staatswesens bei. Der Vo
- rtrag will anhand von vier Generälen bayerischer Herkunft (Max Pemsel\, K
- arl-Wilhelm Thilo\, Friedrich Übelhack und Ernst Ferber) den Weg von der 
- NS-Diktatur zur demokratischen Bundesrepublik nachzeichnen. Im Mittelpunkt
-  stehen mentale Prägungen durch Krieg und Nationalsozialismus sowie Brüc
- he und Wandlungsprozesse nach 1945.
-LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:9
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Transport von und nach Hallstatt
-DTSTART;TZID=Europe/Berlin:20261014T200000
-DTEND;TZID=Europe/Berlin:20261014T213000
-DTSTAMP:20260718T212217Z
-UID:transport-von-und-nach-hallstatt-20261014-1800@ifg-plattform.de
-DESCRIPTION:Der eisenzeitliche Hafen von Traunkirchen in Oberösterreich\n
- \nEinlass: 16:00\n\nKostenfreier Vortrag von Prof. Dr. Peter Trebsche (Uni
- versität Innsbruck/A) \n\nTraunkirchen ist seit dem 19. Jahrhundert als b
- edeutende archäologische Fundstätte am Traunsee bekannt. Bei verschieden
- en Baumaßnahmen entdeckte man Gräber aus der älteren Eisenzeit (ca. 800
-  bis 450 v. Chr.)\, die in vielen Aspekten mit dem berühmten Gräberfeld 
- von Hallstatt vergleichbar sind. Der Reichtum der Traunkirchner Gräber gi
- bt Anlass zur Vermutung\, dass der Ort in der Urgeschichte eine wichtige R
- olle im Salzhandel spielte\, der von der Saline Hallstatt die Traun abwär
- ts in das Alpenvorland und in das Donautal führte. \n\nDie Organisation d
- es urgeschichtlichen Handels und des Warenverkehrs kann am besten im Siedl
- ungsbereich untersucht werden\, der sich am Ufer des Traunsees auf einer m
- arkanten Halbinsel erstreckte. Durch seine naturräumliche Lage und Verkeh
- rsanbindung bietet sich dieser Platz geradezu als Schiffsanlagestelle und 
- Umschlagplatz für den Wassertransport an. Im Gegensatz zu den prähistori
- schen Gräbern ist der Siedlungsbereich bisher allerdings nur punktuell er
- forscht. Ein Schiffsunglück im Jahr 1981 führte zur Entdeckung der erste
- n urgeschichtlichen Funde unter Wasser. \n\nAn diese Jahrzehnte alten Entd
- eckungen knüpfte im Jahr 2020 ein Forschungsteam bestehend aus Archäolog
- innen und Archäologen der Universität Innsbruck und des Kuratoriums Pfah
- lbauten an. Die urgeschichtliche Seeufersiedlung von Traunkirchen wurde mi
- t modernen Prospektionsmethoden untersucht\, um den Erhaltungszustand des 
- archäologischen Erbes zu bewerten. Der Vortrag fasst die Ergebnisse zur R
- ekonstruktion der Paläotopographie in Traunkirchen zusammen. Auf deren Ba
- sis werden Überlegungen angestellt\, wie der Wassertransport während der
-  Eisenzeit organisiert war und warum ausgerechnet in Traunkirchen die Besi
- edlung der Hallstattzeit florierte\, wo die Besiedlungsschwerpunkte in der
-  vorangehenden mittleren Bronzezeit und später in Mittelalter und Neuzeit
-  doch am Nordende des Traunsees in Gmunden lagen. \n\nDie Dauerausstellung
-  des kelten römer museums ist am 14.10.2026 bis zum Beginn des Vortrags g
- eöffnet. Eine Anmeldung zur kostenfreien Veranstaltung ist nicht erforder
- lich.
-LOCATION:kelten römer museum manching\, Im Erlet 2\, 85077 Manching
-X-SCORE:10
+SUMMARY:Programmieren und Robotik entdecken
+DTSTART;TZID=Europe/Berlin:20261010T120000
+DTEND;TZID=Europe/Berlin:20261010T143000
+DTSTAMP:20260718T213826Z
+UID:programmieren-und-robotik-entdecken-20261010-1000@ifg-plattform.de
+DESCRIPTION:Alle Kinder im Alter von 9 bis zu 11 Jahren sind herzlich eing
+ eladen\, im Bürgerhaus Neuburger Kasten die spannende Welt der Technik un
+ d des Programmierens zu entdecken - ganz spielerisch mit einer grafischen 
+ Benutzeroberfläche. Schritt für Schritt werden die jungen Teilnehmerinne
+ n und Teilnehmer einen Modell-Roboter zum Leben erwecken. Er reagiert auf 
+ Taster und Bewegungen\, zeigt Nachrichten auf einem Display an und setzt s
+ ogar einen Motor in Bewegung. Dabei lernen die Kinder\, logisch zu denken\
+ , kreativ zu tüfteln und eigene Ideen umzusetzen – ganz ohne Vorkenntni
+ sse. Der Kurs wird altersgerecht\, verständlich und mit viel Spaß durchg
+ eführt und fördert wichtige Zukunftskompetenzen. Programmieren lernen\, 
+ Technik verstehen und stolz auf das eigene Werk sein!\nDamit viele Kinder 
+ in kleinen Gruppen teilnehmen können\, wird der Kurs inhaltsgleich an meh
+ reren Samstagen angeboten. Im Juli sind dies der 11. und 18.07. und im Her
+ bst der 26.09.\, der 10. und 24.10. sowie der 07. und 21.11. \nEine Anmeld
+ ung für sämtliche Kurse ist unter www.kidnetting.de möglich. Die Kosten
+  pro Termin liegen bei 6 Euro.
+LOCATION:Bürgerhaus Neuburger Kasten\, Fechtgasse 6\, 85049 Ingolstadt
+X-SCORE:200
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herrliches Herrnbräu live erleben!
 DTSTART;TZID=Europe/Berlin:20261015T190000
 DTEND;TZID=Europe/Berlin:20261015T210000
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:herrliches-herrnbr-u-live-erleben-20261015-1700@ifg-plattform.de
 DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nBesuchen Sie uns in unse
  rer Brauerei und erleben Sie\, mit wie viel Sorgfalt und modernster Techni
@@ -5095,13 +3878,13 @@ DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nBesuchen Sie uns in unse
  re Bierfavoriten in aller Ruhe genießen können. Zum Wohl!\n\nMindestteil
  nehmerzahl: 10 Personen\n\nWir freuen uns auf Ihren Besuch!
 LOCATION:Brauerei Herrnbräu\, Manchinger Straße 95\, 85053 Ingolstadt
-X-SCORE:16
+X-SCORE:26
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Luise Kinseher
 DTSTART;TZID=Europe/Berlin:20261015T220000
 DTEND;TZID=Europe/Berlin:20261016T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:luise-kinseher-20261015-2000@ifg-plattform.de
 DESCRIPTION:"Mary from Bavary - Endlich Solo"\n\nEinlass: 19:00\n\nLuise K
  inseher steht 35 Jahre auf den Bühnen dieses Landes. Sie hat acht Kabare
@@ -5125,13 +3908,13 @@ DESCRIPTION:"Mary from Bavary - Endlich Solo"\n\nEinlass: 19:00\n\nLuise K
  lsweise aus der Biene Maja eine „Biene Mary“ wird. Rudolf Ogiermann\, 
  TZ
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:17
+X-SCORE:32
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Christoph Maul
 DTSTART;TZID=Europe/Berlin:20261015T220000
 DTEND;TZID=Europe/Berlin:20261016T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:christoph-maul-20261015-2000@ifg-plattform.de
 DESCRIPTION:live und ungeProbt\n\nEinlass: 19:00\n\nChristoph Maul entfach
  t ein Feuerwerk der Spontaneität auf der Bühne! \n\nIn seinem brandneue
@@ -5162,13 +3945,13 @@ DESCRIPTION:live und ungeProbt\n\nEinlass: 19:00\n\nChristoph Maul entfach
  ringendsten brauchen\, der HUMOR. Kurzum. Wer Christoph Maul auf der Büh
  ne erlebt\, bekommt einen Abend\, der garantiert in Erinnerung bleibt!
 LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:13
+X-SCORE:30
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Abonnementkonzert
 DTSTART;TZID=Europe/Berlin:20261015T220000
 DTEND;TZID=Europe/Berlin:20261016T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:2-abonnementkonzert-20261015-2000@ifg-plattform.de
 DESCRIPTION:Julien Chauvin: Violine &amp\; Leitung\n\nEr ist ein führende
  r Originalklang-Exeget aus Frankreich. In Ingolstadt ist Julien Chauvin in
@@ -5181,13 +3964,13 @@ DESCRIPTION:Julien Chauvin: Violine &amp\; Leitung\n\nEr ist ein führende
  -Marie Leclair: Konzert für Violine a-Moll\, op. 7 Nr. 5\nWilhelm Friedem
  ann Bach: Sinfonie F-Dur („Dissonante“)
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
-X-SCORE:15
+X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tango mit da Ziach - Großstadt Boazn
 DTSTART;TZID=Europe/Berlin:20261016T220000
 DTEND;TZID=Europe/Berlin:20261017T015900
-DTSTAMP:20260718T212217Z
+DTSTAMP:20260718T213826Z
 UID:tango-mit-da-ziach-gro-stadt-boazn-20261016-2000@ifg-plattform.de
 DESCRIPTION:Barhocker\n\nEinlass: 19:00\n\nDie Großstadt Boazn entführt 
  die Zuhörer mit ihrem neuen Programm quasi direkt an den Tresen einer uri
@@ -5204,13 +3987,13 @@ DESCRIPTION:Barhocker\n\nEinlass: 19:00\n\nDie Großstadt Boazn entführt
  n Gästen macht. \n\nBirgit Tomys (Baritonsaxofon)\nMatthias Pürner (Ziac
  h)\nBeni Landenhammer (Gitarre)\n\nwww.grossstadtboazn.de
 LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
-X-SCORE:33
+X-SCORE:46
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Abba
 DTSTART;TZID=Europe/Berlin:20261016T220000
 DTEND;TZID=Europe/Berlin:20261017T015900
-DTSTAMP:20260718T212218Z
+DTSTAMP:20260718T213827Z
 UID:abba-202610161000000000-2000@ifg-plattform.de
 DESCRIPTION:Unforgettable\n\nEinlass: 19:00\n\nEine unvergessliche Show er
  wartet Sie bei Abba - Unforgettable\, welche Sie in IhreKindheit und Jugen
@@ -5228,6 +4011,6 @@ DESCRIPTION:Unforgettable\n\nEinlass: 19:00\n\nEine unvergessliche Show er
  re machen und eine einzigartige Show aufs Parkett bringen. Ihre Zeitreise 
  zurück in die 70er!
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:3
+X-SCORE:20
 END:VEVENT
 END:VCALENDAR
