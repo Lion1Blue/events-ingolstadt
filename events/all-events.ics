@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Radtour KulTour - Landesfestung Ingolstadt
 DTSTART;TZID=Europe/Berlin:20260719T110000
 DTEND;TZID=Europe/Berlin:20260719T200000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:radtour-kultour-landesfestung-ingolstadt-20260719-0900@ifg-plattform.d
  e
 DESCRIPTION:Einlass: 09:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Sonntag
 DTSTART;TZID=Europe/Berlin:20260719T120000
 DTEND;TZID=Europe/Berlin:20260719T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-sonntag-20260719-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -46,7 +46,7 @@ BEGIN:VEVENT
 SUMMARY:Frankensteinführung
 DTSTART;TZID=Europe/Berlin:20260719T153000
 DTEND;TZID=Europe/Berlin:20260719T170000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:frankensteinf-hrung-20260719-1330@ifg-plattform.de
 DESCRIPTION:Viktor Frankensteins Vermächtnis\n\nEinlass: 13:30\n\nTauchen
   Sie ein in die düstere und faszinierende Welt von Mary Shelleys „Frank
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Sonntagsführung durch die Dauerausstellung
 DTSTART;TZID=Europe/Berlin:20260719T163000
 DTEND;TZID=Europe/Berlin:20260719T180000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:sonntagsf-hrung-durch-die-dauerausstellung-20260719-1430@ifg-plattform
  .de
 DESCRIPTION:mit Dr. Monika Haas\n\nDas barocke Museumsgebäude wurde vor 3
@@ -86,7 +86,7 @@ BEGIN:VEVENT
 SUMMARY:Die Farbe SCHWARZ im Museum
 DTSTART;TZID=Europe/Berlin:20260719T163000
 DTEND;TZID=Europe/Berlin:20260719T180000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:die-farbe-schwarz-im-museum-20260719-1430@ifg-plattform.de
 DESCRIPTION:Führung im Neuen Schloss\n\nManchmal muss man "schwarzsehen" 
  oder "schwarzmalen"\, um ein Objekt richtig in Szene zu setzen. Ob schwarz
@@ -99,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:Jubiläumskonzert
 DTSTART;TZID=Europe/Berlin:20260719T170000
 DTEND;TZID=Europe/Berlin:20260719T180000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:jubil-umskonzert-20260719-1500@ifg-plattform.de
 DESCRIPTION:35 Jahre Ingolstädter Nachtigallen\n\nEinlass: 14:00\n\nVier 
  Chöre\, ein Jubiläum\, ein Sommernachmittag voller Klang: Die Piepmätze
@@ -120,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:Salzburger Festspiele zu Gast: Holle! - Kinderoper
 DTSTART;TZID=Europe/Berlin:20260719T180000
 DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:salzburger-festspiele-zu-gast-holle-kinderoper-20260719-1600@ifg-platt
  form.de
 DESCRIPTION:Audi Sommerkonzerte 2026\n\nEinlass: 15:00\n\nOper nach Motive
@@ -171,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Summer\, Lounge &amp\; Beats auf der Sonnen Plaza
 DTSTART;TZID=Europe/Berlin:20260719T190000
 DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:summer-lounge-amp-beats-auf-der-sonnen-plaza-20260719-1700@ifg-plattfo
  rm.de
 DESCRIPTION:Dein perfekter Sommerabend!\n\nEinlass: 17:00\n\nDie Sonnen Pl
@@ -193,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Jesuiten\, Illuminaten und die "Sau von Ingolstadt"
 DTSTART;TZID=Europe/Berlin:20260719T192300
 DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:jesuiten-illuminaten-und-die-sau-von-ingolstadt-20260719-1723@ifg-plat
  tform.de
 DESCRIPTION:Historische Kostümführung (seit 2009)\n\nEinlass: 17:05\n\nV
@@ -225,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:musikalisches Picknick im Garten
 DTSTART;TZID=Europe/Berlin:20260719T193000
 DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:musikalisches-picknick-im-garten-20260719-1730@ifg-plattform.de
 DESCRIPTION:Farb:Töne  - Kunst trifft auf Musik\n\nEinlass: 17:00\n\nDer 
  Ingolstädter Chor singINpool lädt zum Sommerfest in den Garten des MEG c
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 SUMMARY:Public Viewing | WM-Finale 2026
 DTSTART;TZID=Europe/Berlin:20260719T230000
 DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:public-viewing-wm-finale-2026-20260719-2100@ifg-plattform.de
 DESCRIPTION:WM-Fieber auf der Sonnen Plaza!\n\nEinlass: 17:00\n\nWir über
  tragen das WM-Finale live auf der Sonnen Plaza! ⚽️\n\nAuch wenn es uns
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Dienstag
 DTSTART;TZID=Europe/Berlin:20260721T120000
 DTEND;TZID=Europe/Berlin:20260721T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-dienstag-20260721-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -286,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:Reihe „Mittagsvisite”: Gartenvisite „Was blüht denn da?”
 DTSTART;TZID=Europe/Berlin:20260721T143000
 DTEND;TZID=Europe/Berlin:20260721T150000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:reihe-mittagsvisite-gartenvisite-was-bl-ht-denn-da-20260721-1230@ifg-p
  lattform.de
 DESCRIPTION:mit Gesundheitspädagogin Sigrid Holzer\n\nGesundheitspädagog
@@ -305,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:Der Graf von Monte Christo
 DTSTART;TZID=Europe/Berlin:20260721T223000
 DTEND;TZID=Europe/Berlin:20260722T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:der-graf-von-monte-christo-20260721-2030@ifg-plattform.de
 DESCRIPTION:nach dem Roman von Alexandre Dumas • in einer Fassung von Ro
  nny Jakubaschk und Dinah Wiedemann\n\nDer junge\, erfolgreiche Offizier Ed
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 SUMMARY:T.Raum.Phase #06
 DTSTART;TZID=Europe/Berlin:20260721T230000
 DTEND;TZID=Europe/Berlin:20260722T000000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:t-raum-phase-06-20260721-2100@ifg-plattform.de
 DESCRIPTION:Einlass: 18:00\n\nT.Raum.Phase #06 – Anëira\nWas\, wenn Tr
  äume nicht verschwinden…\nsondern irgendwo weiterleben?\nMit der sechst
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 SUMMARY:Triadisches Ballett hoch zwei
 DTSTART;TZID=Europe/Berlin:20260722T200000
 DTEND;TZID=Europe/Berlin:20260723T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:triadisches-ballett-hoch-zwei-20260722-1800@ifg-plattform.de
 DESCRIPTION:Designstudenten im KAP94\n\nEinlass: 17:30\n\nBauhaus im digit
  alen Zeitalter: Der Abschlussjahrgang des Studiengangs Technisches Design 
@@ -381,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:Wir feiern 10 Jahre Neubau!
 DTSTART;TZID=Europe/Berlin:20260723T120000
 DTEND;TZID=Europe/Berlin:20260723T190000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:wir-feiern-10-jahre-neubau-20260723-1000@ifg-plattform.de
 DESCRIPTION:ganztägig Eintritt frei!\n\nAm 23. Juli 2016 war es soweit: N
  ach langen\, mühsamen Jahren der Planung\, (Teil-)Schließung und Improvi
@@ -413,7 +413,7 @@ BEGIN:VEVENT
 SUMMARY:English Mass
 DTSTART;TZID=Europe/Berlin:20260723T210000
 DTEND;TZID=Europe/Berlin:20260723T230000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:english-mass-20260723-1900@ifg-plattform.de
 DESCRIPTION:Catholic holy mass in english language\n\nEinlass: 18:45\n\nOn
  ce a month\, the English speaking community of the city meets in the collo
@@ -432,7 +432,7 @@ SUMMARY:Frau Knollmän\, die Streichers und der Mike - Live im kiss the ki
  esch
 DTSTART;TZID=Europe/Berlin:20260723T220000
 DTEND;TZID=Europe/Berlin:20260724T000000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:frau-knollm-n-die-streichers-und-der-mike-live-im-kiss-the-kiesch-2026
  0723-2000@ifg-plattform.de
 DESCRIPTION:Livemusik\n\nEinlass: 19:00\n\nTheaterbegegnungen können schi
@@ -460,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:SO KINDLY
 DTSTART;TZID=Europe/Berlin:20260723T220000
 DTEND;TZID=Europe/Berlin:20260724T000000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:so-kindly-20260723-2000@ifg-plattform.de
 DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nSO KINDL
  Y\n— Donnerstag\, 23/07 um 20 Uhr —\n\n\nGeprägt von seiner afrikanis
@@ -481,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:LATE NIGHT SHOPPING ✨
 DTSTART;TZID=Europe/Berlin:20260724T120000
 DTEND;TZID=Europe/Berlin:20260725T000000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:late-night-shopping-20260724-1000@ifg-plattform.de
 DESCRIPTION:Shopping bis 22 Uhr!🌙\n\nFreut euch auf einen besonderen So
  mmerabend im Ingolstadt Village: Am Freitag\, den 24. Juli\, könnt ihr ga
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Freitag
 DTSTART;TZID=Europe/Berlin:20260724T120000
 DTEND;TZID=Europe/Berlin:20260724T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-freitag-20260724-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -519,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Führung: Victor Frankenstein und die Anatomie
 DTSTART;TZID=Europe/Berlin:20260724T170000
 DTEND;TZID=Europe/Berlin:20260724T180000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:f-hrung-victor-frankenstein-und-die-anatomie-20260724-1500@ifg-plattfo
  rm.de
 DESCRIPTION:mit Irene Oberle\n\nMary Shelley lässt  in ihrem 1818 erschie
@@ -551,7 +551,7 @@ BEGIN:VEVENT
 SUMMARY:Programm beim Lat-in Verein
 DTSTART;TZID=Europe/Berlin:20260724T180000
 DTEND;TZID=Europe/Berlin:20260726T010000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:programm-beim-lat-in-verein-20260724-1600@ifg-plattform.de
 DESCRIPTION:Fest der Kulturen Ingolstadt 2026\n\nEntdecke Lat-in Verein be
  im Fest der Kulturen Ingolstadt!\nErlebe lateinamerikanische Kultur an uns
@@ -564,7 +564,7 @@ BEGIN:VEVENT
 SUMMARY:Fest der Kulturen
 DTSTART;TZID=Europe/Berlin:20260724T180000
 DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:fest-der-kulturen-20260724-1600@ifg-plattform.de
 DESCRIPTION:Abwechslung und Vielfalt\nIngolstadt ist bunt und offen! Über
   140.000 Menschen aus rund 140 Nationen leben in Ingolstadt und ein sichtb
@@ -673,7 +673,7 @@ BEGIN:VEVENT
 SUMMARY:Picknickkonzert
 DTSTART;TZID=Europe/Berlin:20260724T200000
 DTEND;TZID=Europe/Berlin:20260724T220000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:picknickkonzert-20260724-1800@ifg-plattform.de
 DESCRIPTION:Einlass: 17:30\n\nPicknick-Konzert der Zucheringer Musikanten\
  nLeitung: Veronika Glas\n\nAuftritt der Jugend aus Adelshausen\, Reicherts
@@ -685,7 +685,7 @@ BEGIN:VEVENT
 SUMMARY:Radtour nach Ulm und um Ulm herum
 DTSTART;TZID=Europe/Berlin:20260725T095500
 DTEND;TZID=Europe/Berlin:20260725T200000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:radtour-nach-ulm-und-um-ulm-herum-20260725-0755@ifg-plattform.de
 DESCRIPTION:Einlass: 07:55\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
  in. \nWir starten unsere Radtour am Hauptbahnhof in Ulm und fahren im Blau
@@ -702,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:Horst Werschetzki –  „Herzübungen 1969 - 2026“
 DTSTART;TZID=Europe/Berlin:20260725T120000
 DTEND;TZID=Europe/Berlin:20260726T190000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:horst-werschetzki-herz-bungen-1969-2026-20260725-1000@ifg-plattform.de
 DESCRIPTION:Ein Querschnitt aus fast sechs Jahrzehnten künstlerischen Sch
  affens\n\nDer Förderverein Kreuztor Ingolstadt lädt zu dieser Ausstellun
@@ -722,7 +722,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Samstag
 DTSTART;TZID=Europe/Berlin:20260725T120000
 DTEND;TZID=Europe/Berlin:20260725T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-samstag-20260725-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -741,7 +741,7 @@ BEGIN:VEVENT
 SUMMARY:13. SamstagOrgel mit Pedro Alberto Sánchez
 DTSTART;TZID=Europe/Berlin:20260725T140000
 DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:13-samstagorgel-mit-pedro-alberto-s-nchez-20260725-1200@ifg-plattform.
  de
 DESCRIPTION:30 Minuten Orgelmusik\n\nEinlass: 11:40\n\nFernab des Gewohnte
@@ -793,7 +793,7 @@ BEGIN:VEVENT
 SUMMARY:Radtour zum Biergarten Birkenheide
 DTSTART;TZID=Europe/Berlin:20260725T150000
 DTEND;TZID=Europe/Berlin:20260725T190000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:radtour-zum-biergarten-birkenheide-20260725-1300@ifg-plattform.de
 DESCRIPTION:Einlass: 13:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
  in. \nAnfahrt über Manching und Geisenfeld zum Ausflugsziel Birkenheide. 
@@ -810,7 +810,7 @@ BEGIN:VEVENT
 SUMMARY:Vorsprung durch Wissenschaft
 DTSTART;TZID=Europe/Berlin:20260725T153000
 DTEND;TZID=Europe/Berlin:20260725T170000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:vorsprung-durch-wissenschaft-20260725-1330@ifg-plattform.de
 DESCRIPTION:Erste Bayerische Landesuniversität 1472\n\nEinlass: 13:30\n\n
  Die Erste Bayerische Landesuniversität gehörte zu den bedeutendsten Hoch
@@ -830,7 +830,7 @@ BEGIN:VEVENT
 SUMMARY:Gartenführung: Pflanzen für die Schönheit
 DTSTART;TZID=Europe/Berlin:20260725T163000
 DTEND;TZID=Europe/Berlin:20260725T173000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:gartenf-hrung-pflanzen-f-r-die-sch-nheit-20260725-1430@ifg-plattform.d
  e
 DESCRIPTION:mit Gesundheitspädagogin Sigrid Holzer\n\nDer Trend der Kosme
@@ -852,7 +852,7 @@ BEGIN:VEVENT
 SUMMARY:Radifest 2026
 DTSTART;TZID=Europe/Berlin:20260725T170000
 DTEND;TZID=Europe/Berlin:20260726T220000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:radifest-2026-20260725-1500@ifg-plattform.de
 DESCRIPTION:Einlass: 15:00\n\nAm Samstag und Sonntag\, 25 und 26. Juli\, f
  eiert die Moosgmoa Ingolstadt am Mooshäusl im Mooshäuslweg 1 wieder das 
@@ -868,7 +868,7 @@ BEGIN:VEVENT
 SUMMARY:Halle NEUN Sommerfest - Open Air Bühne
 DTSTART;TZID=Europe/Berlin:20260725T180000
 DTEND;TZID=Europe/Berlin:20260726T000000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:halle-neun-sommerfest-open-air-b-hne-20260725-1600@ifg-plattform.de
 DESCRIPTION:Open Air Bühne - Live Musik - Drinks - Food\n\nEinlass: 15:30
  \n\nHALLE NEUN SOMMERFEST🍹⛱️\n\nSamstag\, 25. Juli ab 15:30 OPEN AI
@@ -882,7 +882,7 @@ BEGIN:VEVENT
 SUMMARY:Schanzer Biertour
 DTSTART;TZID=Europe/Berlin:20260725T190000
 DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:schanzer-biertour-20260725-1700@ifg-plattform.de
 DESCRIPTION:Erlebnisführung rund ums Bier (seit 2012)\n\nEinlass: 16:45\n
  \nVor 509 Jahren wurde in Ingolstadt das Bayerische Reinheitsgebot erlasse
@@ -905,7 +905,7 @@ BEGIN:VEVENT
 SUMMARY:Der Fischer und seine Frau - Puppentheater
 DTSTART;TZID=Europe/Berlin:20260725T190000
 DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:der-fischer-und-seine-frau-puppentheater-20260725-1700@ifg-plattform.d
  e
 DESCRIPTION:Audi Sommerkonzerte 2026\n\nEinlass: 16:00\n\nAnnika Pilstl\, 
@@ -950,7 +950,7 @@ BEGIN:VEVENT
 SUMMARY:Picknick in Weiß
 DTSTART;TZID=Europe/Berlin:20260725T200000
 DTEND;TZID=Europe/Berlin:20260725T230000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:picknick-in-wei-20260725-1800@ifg-plattform.de
 DESCRIPTION:Ein inklusives Picknick (Anmeldung erforderlich)\n\nEine Begeg
  nung von Menschen mit und ohne Behinderung beim Picknick „ganz in Weiß
@@ -970,7 +970,7 @@ BEGIN:VEVENT
 SUMMARY:exit_Laboratorium
 DTSTART;TZID=Europe/Berlin:20260725T210000
 DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:exit-laboratorium-20260725-1900@ifg-plattform.de
 DESCRIPTION:Konzert von Hotzeck und Freunden zum Abschluss des "Labors" vo
  n Markus Jordan\n\nEinlass: 18:30\n\nMit seinem retrofuturistischen „Lab
@@ -988,7 +988,7 @@ BEGIN:VEVENT
 SUMMARY:Charity Pride Event
 DTSTART;TZID=Europe/Berlin:20260725T220000
 DTEND;TZID=Europe/Berlin:20260726T070000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:charity-pride-event-20260725-2000@ifg-plattform.de
 DESCRIPTION:Einlass: 19:00\n\nEin Event von der Rainbowbar No.2 aus Ingols
  tadt. Soul Sängerin Esther Filly wird live für euch singen. Die drei War
@@ -1003,7 +1003,7 @@ BEGIN:VEVENT
 SUMMARY:Der Graf von Monte Christo
 DTSTART;TZID=Europe/Berlin:20260725T223000
 DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:der-graf-von-monte-christo-20260725-2030@ifg-plattform.de
 DESCRIPTION:nach dem Roman von Alexandre Dumas • in einer Fassung von Ro
  nny Jakubaschk und Dinah Wiedemann\n\nDer junge\, erfolgreiche Offizier Ed
@@ -1032,7 +1032,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Sonntag
 DTSTART;TZID=Europe/Berlin:20260726T120000
 DTEND;TZID=Europe/Berlin:20260726T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-sonntag-20260726-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -1051,7 +1051,7 @@ BEGIN:VEVENT
 SUMMARY:Papier mit Samen und Blüten schöpfen
 DTSTART;TZID=Europe/Berlin:20260726T120000
 DTEND;TZID=Europe/Berlin:20260726T150000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:papier-mit-samen-und-bl-ten-sch-pfen-20260726-1000@ifg-plattform.de
 DESCRIPTION:Einlass: 10:00\n\nGemeinsam schöpfen wir neues Papier aus alt
  en Fasern. Dabei werden bunte Blüten und kleine Samen eingearbeitet\, die
@@ -1069,7 +1069,7 @@ BEGIN:VEVENT
 SUMMARY:Scherbelbergbunker
 DTSTART;TZID=Europe/Berlin:20260726T153000
 DTEND;TZID=Europe/Berlin:20260726T163000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:scherbelbergbunker-20260726-1330@ifg-plattform.de
 DESCRIPTION:Erlebt den ehemaligen Bunker hautnah!\n\nEinlass: 13:30\n\nAls
   Teil der Landesfestung von König Ludwig I. erbaut\, erfolgte die Umnutzu
@@ -1087,7 +1087,7 @@ BEGIN:VEVENT
 SUMMARY:Kombiführung Lechner Museum und Skulpturenpark
 DTSTART;TZID=Europe/Berlin:20260726T160000
 DTEND;TZID=Europe/Berlin:20260726T190000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:kombif-hrung-lechner-museum-und-skulpturenpark-20260726-1400@ifg-platt
  form.de
 DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
@@ -1110,7 +1110,7 @@ BEGIN:VEVENT
 SUMMARY:Sonntags?Kunst!
 DTSTART;TZID=Europe/Berlin:20260726T170000
 DTEND;TZID=Europe/Berlin:20260726T190000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:sonntags-kunst-20260726-1500@ifg-plattform.de
 DESCRIPTION:„Siebdruck" – Familien-Workshop mit Stephanie Schmitz\n\nE
  inlass: 14:45\n\nDer Siebdruck ist eine traditionelle manuelle Durchdruckt
@@ -1142,7 +1142,7 @@ BEGIN:VEVENT
 SUMMARY:Schanzer Tanzboden Musikanten - Tanzleitung: Monika Ketterl
 DTSTART;TZID=Europe/Berlin:20260726T190000
 DTEND;TZID=Europe/Berlin:20260727T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:schanzer-tanzboden-musikanten-tanzleitung-monika-ketterl-20260726-1700
  @ifg-plattform.de
 DESCRIPTION:Die kultURIG Veranstaltungsreihe vereint ihre Einzelveranstalt
@@ -1157,7 +1157,7 @@ BEGIN:VEVENT
 SUMMARY:Hier stinkt's gewaltig
 DTSTART;TZID=Europe/Berlin:20260726T193000
 DTEND;TZID=Europe/Berlin:20260726T204500
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:hier-stinkt-s-gewaltig-20260726-1730@ifg-plattform.de
 DESCRIPTION:Von Gerbern\, Henkern und Seuchen\n\nEinlass: 17:15\n\nFäkali
  en in den Gassen\, der stechende Geruch von Schlachtabfällen und Tierhäu
@@ -1175,7 +1175,7 @@ BEGIN:VEVENT
 SUMMARY:Abschlusskonzert mit der Audi Jugendchorakademie
 DTSTART;TZID=Europe/Berlin:20260726T210000
 DTEND;TZID=Europe/Berlin:20260727T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:abschlusskonzert-mit-der-audi-jugendchorakademie-20260726-1900@ifg-pla
  ttform.de
 DESCRIPTION:Audi Sommerkonzerte 2026\n\nEinlass: 18:30\n\nAudi Jugendchora
@@ -1222,7 +1222,7 @@ BEGIN:VEVENT
 SUMMARY:BLÄSERSERENADE
 DTSTART;TZID=Europe/Berlin:20260726T213000
 DTEND;TZID=Europe/Berlin:20260726T230000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:bl-serserenade-20260726-1930@ifg-plattform.de
 DESCRIPTION:Einlass: 18:30\n\nDer Posaunenchor St. Matthäus- Mennoniten l
  ädt zu seiner traditionellen Bläserserenade in die Matthäuskirche ein\,
@@ -1239,7 +1239,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Dienstag
 DTSTART;TZID=Europe/Berlin:20260728T120000
 DTEND;TZID=Europe/Berlin:20260728T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-dienstag-20260728-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -1258,7 +1258,7 @@ BEGIN:VEVENT
 SUMMARY:Reihe „Mittagsvisite”: Fritz Kahns „Stromkabelnerven”
 DTSTART;TZID=Europe/Berlin:20260728T143000
 DTEND;TZID=Europe/Berlin:20260728T150000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:reihe-mittagsvisite-fritz-kahns-stromkabelnerven-20260728-1230@ifg-pla
  ttform.de
 DESCRIPTION:mit Dr. Alois Unterkircher\n\nIn dieser Mittagsvisite stellt D
@@ -1293,7 +1293,7 @@ BEGIN:VEVENT
 SUMMARY:Walk&amp\;Talk für Frauen
 DTSTART;TZID=Europe/Berlin:20260728T190000
 DTEND;TZID=Europe/Berlin:20260728T194500
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:walk-amp-talk-f-r-frauen-20260728-1700@ifg-plattform.de
 DESCRIPTION:Begegnung mit Bewegung\n\nGemeinsam spazieren\, ins Ge(h)sprä
  ch kommen und neue Kontakte knüpfen: Beim monatlichen Walk &amp\; Talk ve
@@ -1315,7 +1315,7 @@ BEGIN:VEVENT
 SUMMARY:Mephistofeles
 DTSTART;TZID=Europe/Berlin:20260728T223000
 DTEND;TZID=Europe/Berlin:20260729T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:mephistofeles-20260728-2030@ifg-plattform.de
 DESCRIPTION:Einlass: 19:30\n\nEinlass: 19:30\, VVK 18\,50 €\, AK 20\,- 
  €\n\nAus den Schatten der argentinischen Underground-Szene haben sich Me
@@ -1342,7 +1342,7 @@ BEGIN:VEVENT
 SUMMARY:LIVE-Musik mit cultural.disaster
 DTSTART;TZID=Europe/Berlin:20260729T200000
 DTEND;TZID=Europe/Berlin:20260730T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:live-musik-mit-cultural-disaster-20260729-1800@ifg-plattform.de
 DESCRIPTION:gute Musik + gutes Bier = richtig gute Zeit
 LOCATION:Griesmüllers Altstadtbrauerei\, Schulstraße 19\, 85049 Ingolsta
@@ -1353,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:TRAIN 4 CHANGE: Stark gegen Mobbing. Stark in Konflikten.
 DTSTART;TZID=Europe/Berlin:20260729T210000
 DTEND;TZID=Europe/Berlin:20260729T233000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:train-4-change-stark-gegen-mobbing-stark-in-konflikten-20260729-1900@i
  fg-plattform.de
 DESCRIPTION:Gemeinsam stark: Raus aus der Sackgasse - rein in die Lösung.
@@ -1404,7 +1404,7 @@ BEGIN:VEVENT
 SUMMARY:Carrara Weinfest
 DTSTART;TZID=Europe/Berlin:20260730T193000
 DTEND;TZID=Europe/Berlin:20260817T013000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:carrara-weinfest-20260730-1730@ifg-plattform.de
 DESCRIPTION:40. Carrara Weinfest\nAb Donnerstag\, 30. Juli\, bis Sonntag\,
   16. August\, findet in Ingolstadt bereits zum 40. Mal das Carrara-Weinfes
@@ -1424,7 +1424,7 @@ BEGIN:VEVENT
 SUMMARY:REG10N
 DTSTART;TZID=Europe/Berlin:20260730T220000
 DTEND;TZID=Europe/Berlin:20260731T000000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:reg10n-20260730-2000@ifg-plattform.de
 DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nREG10N\n
  — Donnerstag\, 30/07 um 20 Uhr —\n\n\nWer aus Ingolstadt kommt\, dem s
@@ -1448,7 +1448,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Freitag
 DTSTART;TZID=Europe/Berlin:20260731T120000
 DTEND;TZID=Europe/Berlin:20260731T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-freitag-20260731-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -1467,7 +1467,7 @@ BEGIN:VEVENT
 SUMMARY:Metal\, Punk\, Alternative Stammtisch
 DTSTART;TZID=Europe/Berlin:20260731T210000
 DTEND;TZID=Europe/Berlin:20260801T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:metal-punk-alternative-stammtisch-20260731-1900@ifg-plattform.de
 DESCRIPTION:Einlass: 18:00\n\nDer Metal\, Punk\, Alternative Stammtisch ge
  ht in die dritte Runde. \nTrefft andere Metalheads und Fans der alternativ
@@ -1481,7 +1481,7 @@ BEGIN:VEVENT
 SUMMARY:Die Nowak
 DTSTART;TZID=Europe/Berlin:20260731T220000
 DTEND;TZID=Europe/Berlin:20260801T010000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:die-nowak-20260731-2000@ifg-plattform.de
 DESCRIPTION:&amp\; Die Leute aus der Raucherpause\n\nEinlass: 19:00\n\nEin
  e regennasse Großstadt. Die Nowak und die Leute aus der Raucherpause betr
@@ -1529,7 +1529,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Samstag
 DTSTART;TZID=Europe/Berlin:20260801T120000
 DTEND;TZID=Europe/Berlin:20260801T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-samstag-20260801-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -1548,7 +1548,7 @@ BEGIN:VEVENT
 SUMMARY:Kinder Studio
 DTSTART;TZID=Europe/Berlin:20260801T120000
 DTEND;TZID=Europe/Berlin:20260801T140000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:kinder-studio-20260801-1000@ifg-plattform.de
 DESCRIPTION:UNSINNIGE MAUERN\n\nEinlass: 10:00\n\nIm Rahmen der Ausstellun
  g Pennys öffnet das Kinder Studio die Türen für Familien und Kinder (6+
@@ -1571,7 +1571,7 @@ BEGIN:VEVENT
 SUMMARY:14. SamstagOrgel mit David Kirschsieper
 DTSTART;TZID=Europe/Berlin:20260801T140000
 DTEND;TZID=Europe/Berlin:20260802T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:14-samstagorgel-mit-david-kirschsieper-20260801-1200@ifg-plattform.de
 DESCRIPTION:30 Minuten Orgelmusik\n\nEinlass: 11:40\n\nBach an der Chororg
  el: David Kirschsieper im Jubiläumsjahr des Instruments\nIn der Reihe „
@@ -1609,7 +1609,7 @@ BEGIN:VEVENT
 SUMMARY:Schanzer Biertour
 DTSTART;TZID=Europe/Berlin:20260801T190000
 DTEND;TZID=Europe/Berlin:20260802T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:schanzer-biertour-20260801-1700@ifg-plattform.de
 DESCRIPTION:Erlebnisführung rund ums Bier (seit 2012)\n\nEinlass: 16:45\n
  \nVor 509 Jahren wurde in Ingolstadt das Bayerische Reinheitsgebot erlasse
@@ -1632,7 +1632,7 @@ BEGIN:VEVENT
 SUMMARY:Rockabilly Fest mit Rockabella &amp\; The Giddyups
 DTSTART;TZID=Europe/Berlin:20260801T210000
 DTEND;TZID=Europe/Berlin:20260802T010000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:rockabilly-fest-mit-rockabella-amp-the-giddyups-20260801-1900@ifg-plat
  tform.de
 DESCRIPTION:+ guest: Christian Christl &amp\; more\n\nEinlass: 18:00\n\nOp
@@ -1674,7 +1674,7 @@ BEGIN:VEVENT
 SUMMARY:Poetry Slam am Donaustrand
 DTSTART;TZID=Europe/Berlin:20260801T213000
 DTEND;TZID=Europe/Berlin:20260801T233000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:poetry-slam-am-donaustrand-20260801-1930@ifg-plattform.de
 DESCRIPTION:Moderner Dichterwettstreit - Open Air und kostenlos\n\nPoetry 
  Slam\, Donaustrand\, Open Air\, schönes Wetter\, wunderbare Texte\, lecke
@@ -1701,7 +1701,7 @@ BEGIN:VEVENT
 SUMMARY:Freilichtkino: Trailershow
 DTSTART;TZID=Europe/Berlin:20260801T231500
 DTEND;TZID=Europe/Berlin:20260802T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:freilichtkino-trailershow-20260801-2115@ifg-plattform.de
 DESCRIPTION:Einlass: 18:30\n\nEs hat sich bewährt\, den ersten Spieltag i
  m Freilichtkino mit einer kostenlosen Trailershow zu eröffnen. Schon bevo
@@ -1733,7 +1733,7 @@ BEGIN:VEVENT
 SUMMARY:Radtour in die Landeshauptstadt München
 DTSTART;TZID=Europe/Berlin:20260802T100000
 DTEND;TZID=Europe/Berlin:20260803T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:radtour-in-die-landeshauptstadt-m-nchen-20260802-0800@ifg-plattform.de
 DESCRIPTION:Einlass: 08:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
  in. \nAuf schönen Radwegen abseits vom Straßenverkehr in die Landeshaupt
@@ -1747,7 +1747,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Sonntag
 DTSTART;TZID=Europe/Berlin:20260802T120000
 DTEND;TZID=Europe/Berlin:20260802T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:klassische-stadtf-hrung-am-sonntag-20260802-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -1766,7 +1766,7 @@ BEGIN:VEVENT
 SUMMARY:Geistliches Konzert
 DTSTART;TZID=Europe/Berlin:20260802T200000
 DTEND;TZID=Europe/Berlin:20260802T211500
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:geistliches-konzert-20260802-1800@ifg-plattform.de
 DESCRIPTION:Ausflug in die Region: nach Bettbrunn\n\nEinlass: 17:30\n\nFes
  tkonzert in der Heimat von Johann Simon Mayr\n\nHans Jürgen Huber\, Tromp
@@ -1779,7 +1779,7 @@ BEGIN:VEVENT
 SUMMARY:PARTIPRIVATI im Backhaus
 DTSTART;TZID=Europe/Berlin:20260802T213000
 DTEND;TZID=Europe/Berlin:20260803T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:partiprivati-im-backhaus-20260802-1930@ifg-plattform.de
 DESCRIPTION:Einlass: 19:00\n\nPartiprivati ist eine junge Indie-Singer-Son
  gwriter-Band aus Freiburg. Mal nachdenklich und ernst\, mal ironisch und a
@@ -1797,7 +1797,7 @@ BEGIN:VEVENT
 SUMMARY:Werner Schmidbauer
 DTSTART;TZID=Europe/Berlin:20260802T220000
 DTEND;TZID=Europe/Berlin:20260803T010000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:werner-schmidbauer-20260802-2000@ifg-plattform.de
 DESCRIPTION:Der Momentnsammler unterwegs\n\nEinlass: 19:00\n\nOpen Air im 
  Turm Baur - Sitzplätze sind überdacht !\n\nAuf meiner über zweieinhalb 
@@ -1840,7 +1840,7 @@ BEGIN:VEVENT
 SUMMARY:Live-Konzert AUSTRIA 4+
 DTSTART;TZID=Europe/Berlin:20260803T220000
 DTEND;TZID=Europe/Berlin:20260804T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:live-konzert-austria-4-20260803-2000@ifg-plattform.de
 DESCRIPTION:AUSTRIA 4+ | 150 min  |  Konzert\,  Austro-Pop | Sonderveranst
  altung\n\nEinlass: 18:30\n\nLange Zeit schon ein Muss im Sommer im Freilic
@@ -1863,7 +1863,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Dienstag
 DTSTART;TZID=Europe/Berlin:20260804T120000
 DTEND;TZID=Europe/Berlin:20260804T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:klassische-stadtf-hrung-am-dienstag-20260804-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -1883,7 +1883,7 @@ SUMMARY:Ferienprogramm  „Formen entdecken\, erleben und gestalten“ –
   Ferien-Workshop
 DTSTART;TZID=Europe/Berlin:20260804T120000
 DTEND;TZID=Europe/Berlin:20260806T150000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:ferienprogramm-formen-entdecken-erleben-und-gestalten-ferien-workshop-
  20260804-1000@ifg-plattform.de
 DESCRIPTION:Einlass: 09:45\n\nAn drei spannenden Workshoptagen dreht sich 
@@ -1905,7 +1905,7 @@ BEGIN:VEVENT
 SUMMARY:Live-Konzert AUSTRIA 4+
 DTSTART;TZID=Europe/Berlin:20260804T220000
 DTEND;TZID=Europe/Berlin:20260805T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:live-konzert-austria-4-20260804-2000@ifg-plattform.de
 DESCRIPTION:AUSTRIA 4+ | 150 min  |  Konzert\,  Austro-Pop | Sonderveranst
  altung\n\nEinlass: 18:30\n\nLange Zeit schon ein Muss im Sommer im Freilic
@@ -1928,7 +1928,7 @@ BEGIN:VEVENT
 SUMMARY:Die große Nacht der italienischen Welthits!
 DTSTART;TZID=Europe/Berlin:20260805T220000
 DTEND;TZID=Europe/Berlin:20260806T010000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:die-gro-e-nacht-der-italienischen-welthits-20260805-2000@ifg-plattform
  .de
 DESCRIPTION:mit I DOLCI SIGNORI\n\nEinlass: 19:00\n\nOpen Air im Turm Baur
@@ -1964,7 +1964,7 @@ BEGIN:VEVENT
 SUMMARY:Hans Söllner SOLO
 DTSTART;TZID=Europe/Berlin:20260806T220000
 DTEND;TZID=Europe/Berlin:20260807T010000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:hans-s-llner-solo-20260806-2000@ifg-plattform.de
 DESCRIPTION:Einlass: 19:00\n\nOpen Air im Turm Baur - Sitzplätze sind üb
  erdacht !\n\nHans Söllner\, der gern als „wuida Hund von Reichenhall“
@@ -1993,7 +1993,7 @@ BEGIN:VEVENT
 SUMMARY:KEANAN EKSTEEN
 DTSTART;TZID=Europe/Berlin:20260806T220000
 DTEND;TZID=Europe/Berlin:20260807T000000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:keanan-eksteen-20260806-2000@ifg-plattform.de
 DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nKEANAN E
  KSTEEN\n— Donnerstag\, 06/08 um 20 Uhr —\n\n\nWer ihn im letzten Jahr 
@@ -2018,7 +2018,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Freitag
 DTSTART;TZID=Europe/Berlin:20260807T120000
 DTEND;TZID=Europe/Berlin:20260807T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-freitag-20260807-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -2037,7 +2037,7 @@ BEGIN:VEVENT
 SUMMARY:SUNSET SOCIETY Ingolstadt - SHADES of SUNSET
 DTSTART;TZID=Europe/Berlin:20260807T210000
 DTEND;TZID=Europe/Berlin:20260808T030000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:sunset-society-ingolstadt-shades-of-sunset-20260807-1900@ifg-plattform
  .de
 DESCRIPTION:Celebrate Life Together - feiert mit uns auf der Terrasse des 
@@ -2065,7 +2065,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Samstag
 DTSTART;TZID=Europe/Berlin:20260808T120000
 DTEND;TZID=Europe/Berlin:20260808T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-samstag-20260808-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -2084,7 +2084,7 @@ BEGIN:VEVENT
 SUMMARY:15. SamstagOrgel mit Florian Schuster
 DTSTART;TZID=Europe/Berlin:20260808T140000
 DTEND;TZID=Europe/Berlin:20260809T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:15-samstagorgel-mit-florian-schuster-20260808-1200@ifg-plattform.de
 DESCRIPTION:30 Minuten Orgelmusik\n\nEinlass: 11:40\n\nMit Muffat verbunde
  n: Orgelkunst zwischen Ingolstadt und der europäischen Barockwelt\nIn der
@@ -2127,7 +2127,7 @@ BEGIN:VEVENT
 SUMMARY:SWIM &amp\; VIBE mit DJ VanHees
 DTSTART;TZID=Europe/Berlin:20260808T150000
 DTEND;TZID=Europe/Berlin:20260808T230000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:swim-amp-vibe-mit-dj-vanhees-20260808-1300@ifg-plattform.de
 DESCRIPTION:Sonnenbrille auf\, Cocktails kalt und Beach Club Sounds an!\n\
  nEinlass: 10:00\n\nWo? Thermenbereich\n\nWann? Ab 13 Uhr jeden zweiten Sam
@@ -2143,7 +2143,7 @@ BEGIN:VEVENT
 SUMMARY:Kuschelparty Ingolstadt August
 DTSTART;TZID=Europe/Berlin:20260808T200000
 DTEND;TZID=Europe/Berlin:20260809T000000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:kuschelparty-ingolstadt-august-20260808180000-1800@ifg-plattform.de
 DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
@@ -2168,7 +2168,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Sonntag
 DTSTART;TZID=Europe/Berlin:20260809T120000
 DTEND;TZID=Europe/Berlin:20260809T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-sonntag-20260809-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -2187,7 +2187,7 @@ BEGIN:VEVENT
 SUMMARY:Radtour NaTourGenuss zum Hirschenwirt in Wasserzell
 DTSTART;TZID=Europe/Berlin:20260809T120000
 DTEND;TZID=Europe/Berlin:20260809T190000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:radtour-natourgenuss-zum-hirschenwirt-in-wasserzell-20260809-1000@ifg-
  plattform.de
 DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
@@ -2208,7 +2208,7 @@ BEGIN:VEVENT
 SUMMARY:Vom Scherbelberg in den Schutterhof
 DTSTART;TZID=Europe/Berlin:20260809T153000
 DTEND;TZID=Europe/Berlin:20260809T173000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:vom-scherbelberg-in-den-schutterhof-20260809-1330@ifg-plattform.de
 DESCRIPTION:Der Scherbelbergbunker in Ingolstadt\n\nEinlass: 13:30\n\nWie 
  kaum eine andere Stadt in Deutschland ist Ingolstadt geprägt von seinen F
@@ -2226,7 +2226,7 @@ BEGIN:VEVENT
 SUMMARY:Führung in der Fronte Rechberg
 DTSTART;TZID=Europe/Berlin:20260809T170000
 DTEND;TZID=Europe/Berlin:20260809T190000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:f-hrung-in-der-fronte-rechberg-20260809-1500@ifg-plattform.de
 DESCRIPTION:der vollständigst erhaltene Festungsbereich Ingolstadts\n\nDa
  s Areal der Fronte Rechberg zählt zu den am besten erhaltenen Abschnitten
@@ -2265,7 +2265,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliche Führung
 DTSTART;TZID=Europe/Berlin:20260809T170000
 DTEND;TZID=Europe/Berlin:20260809T180000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:ffentliche-f-hrung-20260809-1500@ifg-plattform.de
 DESCRIPTION:Becoming MKKD. Vom Planen und Entstehen eines Museums\n\nEinla
  ss: 14:45\n\nDer Umbau der sogenannten Gießereihalle zur neuen Heimstätt
@@ -2288,7 +2288,7 @@ SUMMARY:Freilichtkino: Ein Münchner im Himmel – der Tod ist erst der An
  fang
 DTSTART;TZID=Europe/Berlin:20260809T230000
 DTEND;TZID=Europe/Berlin:20260810T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:freilichtkino-ein-m-nchner-im-himmel-der-tod-ist-erst-der-anfang-20260
  809-2100@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2026 | 94 min | Komödie | Regie: Davi
@@ -2328,7 +2328,7 @@ BEGIN:VEVENT
 SUMMARY:Freilichtkino: The History of Sound
 DTSTART;TZID=Europe/Berlin:20260810T230000
 DTEND;TZID=Europe/Berlin:20260811T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:freilichtkino-the-history-of-sound-20260810-2100@ifg-plattform.de
 DESCRIPTION:Spielfilm | USA/Vereinigtes Königreich 2025 | 127 min | Drama
   | Regie: Oliver Hermanus | FSK 6\n\nEinlass: 18:30\n\nIm Jahr 1917 versch
@@ -2362,7 +2362,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Dienstag
 DTSTART;TZID=Europe/Berlin:20260811T120000
 DTEND;TZID=Europe/Berlin:20260811T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:klassische-stadtf-hrung-am-dienstag-20260811-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -2381,7 +2381,7 @@ BEGIN:VEVENT
 SUMMARY:Freilichtkino: 22 BAHNEN
 DTSTART;TZID=Europe/Berlin:20260811T230000
 DTEND;TZID=Europe/Berlin:20260812T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:freilichtkino-22-bahnen-20260811-2100@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2025 | 102 min | Drama | Regie: Mia Ma
  ariel Meyer | FSK 12\n\nEinlass: 18:30\n\nCaroline Wahls Debutroman entwic
@@ -2420,7 +2420,7 @@ BEGIN:VEVENT
 SUMMARY:Freilichtkino: Ein fast perfekter Antrag
 DTSTART;TZID=Europe/Berlin:20260812T230000
 DTEND;TZID=Europe/Berlin:20260813T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:freilichtkino-ein-fast-perfekter-antrag-20260812-2100@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2026 | 105 min | Komödie | Regie: Mar
  c Rothemund | FSK 0\n\nEinlass: 18:30\n\nDer eigenwillige Witwer Walter ve
@@ -2457,7 +2457,7 @@ BEGIN:VEVENT
 SUMMARY:Macht und Pracht des mavi kral. Max Emanuel und die Türkenkriege
 DTSTART;TZID=Europe/Berlin:20260813T200000
 DTEND;TZID=Europe/Berlin:20260813T210000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:macht-und-pracht-des-mavi-kral-max-emanuel-und-die-t-rkenkriege-202608
  13-1800@ifg-plattform.de
 DESCRIPTION:Kuratorenführung am Abend\n\nKurfürst Max Emanuel gehört zu
@@ -2478,7 +2478,7 @@ BEGIN:VEVENT
 SUMMARY:DONOVAN KEITH
 DTSTART;TZID=Europe/Berlin:20260813T220000
 DTEND;TZID=Europe/Berlin:20260814T000000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:donovan-keith-20260813-2000@ifg-plattform.de
 DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nDONOVAN 
  KEITH\n— Donnerstag\, 13/08 um 20 Uhr —\n\n\nDonovan Keith ist Sänger
@@ -2505,7 +2505,7 @@ BEGIN:VEVENT
 SUMMARY:Freilichtkino: ALPEN FILM FESTIVAL 2026
 DTSTART;TZID=Europe/Berlin:20260813T224500
 DTEND;TZID=Europe/Berlin:20260814T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:freilichtkino-alpen-film-festival-2026-20260813-2045@ifg-plattform.de
 DESCRIPTION:100 min | Kurzfilm | Deutschland 2026\n\nEinlass: 18:30\n\nFü
  nf beeindruckende Bergfilme erzählen von Leidenschaft\, Mut und dem Leben
@@ -2538,7 +2538,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Freitag
 DTSTART;TZID=Europe/Berlin:20260814T120000
 DTEND;TZID=Europe/Berlin:20260814T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-freitag-20260814-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -2557,7 +2557,7 @@ BEGIN:VEVENT
 SUMMARY:Freilichtkino: Extrawurst
 DTSTART;TZID=Europe/Berlin:20260814T224500
 DTEND;TZID=Europe/Berlin:20260815T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:freilichtkino-extrawurst-20260814-2045@ifg-plattform.de
 DESCRIPTION:Spielfilm | Deutschland 2026 | 98 min | Komödie | Regie: Marc
  us H. Rosenmüller | FSK 12\n\nEinlass: 18:30\n\nEigentlich ist es reine F
@@ -2595,7 +2595,7 @@ BEGIN:VEVENT
 SUMMARY:Freilichtkino: Alpha (OmU - Spätvorstellung)
 DTSTART;TZID=Europe/Berlin:20260815T010000
 DTEND;TZID=Europe/Berlin:20260815T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:freilichtkino-alpha-omu-sp-tvorstellung-20260814-2300@ifg-plattform.de
 DESCRIPTION:Spielfilm | Frankreich/Belgien 2025 | 128 min | Drama/Horror |
   Regie: Julia Ducournau | FSK 16 | OmU\n\nEinlass: 18:30\n\nIm Frankreich 
@@ -2628,7 +2628,7 @@ BEGIN:VEVENT
 SUMMARY:Radtour rund um den Brombachsee
 DTSTART;TZID=Europe/Berlin:20260815T111500
 DTEND;TZID=Europe/Berlin:20260816T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:radtour-rund-um-den-brombachsee-20260815-0915@ifg-plattform.de
 DESCRIPTION:Einlass: 09:15\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
  in. \nBahnfahrt bis Treuchtlingen. Tourenverlauf: Treuchtlingen - Weißenb
@@ -2641,7 +2641,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Samstag
 DTSTART;TZID=Europe/Berlin:20260815T120000
 DTEND;TZID=Europe/Berlin:20260815T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-samstag-20260815-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -2660,7 +2660,7 @@ BEGIN:VEVENT
 SUMMARY:Geschichte mit Genuss
 DTSTART;TZID=Europe/Berlin:20260815T130000
 DTEND;TZID=Europe/Berlin:20260815T150000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:geschichte-mit-genuss-20260815-1100@ifg-plattform.de
 DESCRIPTION:Kulinarische Stadtführung durch Ingolstadt\n\nEinlass: 11:00\
  n\nBei diesem außergewöhnlichen Stadtspaziergang kommt jeder auf den Ges
@@ -2679,7 +2679,7 @@ BEGIN:VEVENT
 SUMMARY:Schanzer Biertour
 DTSTART;TZID=Europe/Berlin:20260815T190000
 DTEND;TZID=Europe/Berlin:20260816T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:schanzer-biertour-20260815-1700@ifg-plattform.de
 DESCRIPTION:Erlebnisführung rund ums Bier (seit 2012)\n\nEinlass: 16:45\n
  \nVor 509 Jahren wurde in Ingolstadt das Bayerische Reinheitsgebot erlasse
@@ -2702,7 +2702,7 @@ BEGIN:VEVENT
 SUMMARY:Google Pixel Supercup der Frauen
 DTSTART;TZID=Europe/Berlin:20260815T213000
 DTEND;TZID=Europe/Berlin:20260816T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:google-pixel-supercup-der-frauen-20260815-1930@ifg-plattform.de
 DESCRIPTION:FC Bayern München - VfL Wolfsburg\n\nDer Google Pixel Supercu
  p der Frauen findet in diese Jahr in Ingolstadt statt und markiert den off
@@ -2722,7 +2722,7 @@ BEGIN:VEVENT
 SUMMARY:Freilichtkino: Michael
 DTSTART;TZID=Europe/Berlin:20260815T224500
 DTEND;TZID=Europe/Berlin:20260816T015900
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:freilichtkino-michael-20260815-2045@ifg-plattform.de
 DESCRIPTION:Spielfilm | USA 2025 | 126 min | Biografie/Drama/Musikfilm | R
  egie: Antoine Fuqua | FSK 6\n\nEinlass: 18:30\n\nDer junge Michael Jackson
@@ -2756,7 +2756,7 @@ BEGIN:VEVENT
 SUMMARY:Radtour zum Biergarten im Schloss Ratzenhofen
 DTSTART;TZID=Europe/Berlin:20260816T110000
 DTEND;TZID=Europe/Berlin:20260816T200000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:radtour-zum-biergarten-im-schloss-ratzenhofen-20260816-0900@ifg-plattf
  orm.de
 DESCRIPTION:Einlass: 09:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
@@ -2775,7 +2775,7 @@ BEGIN:VEVENT
 SUMMARY:Klassische Stadtführung am Sonntag
 DTSTART;TZID=Europe/Berlin:20260816T120000
 DTEND;TZID=Europe/Berlin:20260816T133000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211805Z
 UID:klassische-stadtf-hrung-am-sonntag-20260816-1000@ifg-plattform.de
 DESCRIPTION:Ingolstadt und seine Geschichte\n\nEinlass: 10:00\n\nFolgen Si
  e unseren Gästeführern-innen auf einen informativen und gleichsam unterh
@@ -2794,7 +2794,7 @@ BEGIN:VEVENT
 SUMMARY:Führung im Fort Prinz Karl
 DTSTART;TZID=Europe/Berlin:20260816T130000
 DTEND;TZID=Europe/Berlin:20260816T150000
-DTSTAMP:20260718T210925Z
+DTSTAMP:20260718T211804Z
 UID:f-hrung-im-fort-prinz-karl-20260816-1100@ifg-plattform.de
 DESCRIPTION:das letzte vollständig erhaltene Festungswerk Ingolstadts\n\n
  Einlass: 11:00\n\nDas Fort Prinz Karl\nDas Fort Prinz Karl wurde 1877-1881
@@ -2829,7 +2829,7 @@ BEGIN:VEVENT
 SUMMARY:Die Farbe BLAU im Museum
 DTSTART;TZID=Europe/Berlin:20260816T163000
 DTEND;TZID=Europe/Berlin:20260816T180000
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:die-farbe-blau-im-museum-20260816-1430@ifg-plattform.de
 DESCRIPTION:Führung im Neuen Schloss\n\nRoyalblauer Samt\, königsblaue U
  niformen vor dem Hintergrund der weiß-blauen Landesfarben und ein "blauer
@@ -2842,7 +2842,7 @@ BEGIN:VEVENT
 SUMMARY:„Magnificat anima mea dominum“ - Marianische Orgelmusik
 DTSTART;TZID=Europe/Berlin:20260816T221500
 DTEND;TZID=Europe/Berlin:20260817T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:magnificat-anima-mea-dominum-marianische-orgelmusik-20260816-2015@ifg-
  plattform.de
 DESCRIPTION:Ingolstädter Orgeltage 2026\n\nEinlass: 20:00\n\nFestkonzert 
@@ -2858,7 +2858,7 @@ BEGIN:VEVENT
 SUMMARY:Freilichtkino: Ein Kuchen für den Präsidenten
 DTSTART;TZID=Europe/Berlin:20260817T224500
 DTEND;TZID=Europe/Berlin:20260818T015900
-DTSTAMP:20260718T210926Z
+DTSTAMP:20260718T211804Z
 UID:freilichtkino-ein-kuchen-f-r-den-pr-sidenten-20260817-2045@ifg-plattfo
  rm.de
 DESCRIPTION:Spielfilm | USA/Irak/Katar 2025 | 105 min | Drama/Historienfil
