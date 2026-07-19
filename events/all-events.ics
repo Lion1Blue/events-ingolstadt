@@ -2,102 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Sonntagsführung durch die Dauerausstellung
-DTSTART;TZID=Europe/Berlin:20260719T163000
-DTEND;TZID=Europe/Berlin:20260719T180000
-DTSTAMP:20260719T065608Z
-UID:sonntagsf-hrung-durch-die-dauerausstellung-20260719-1430@ifg-plattform
- .de
-DESCRIPTION:mit Dr. Monika Haas\n\nDas barocke Museumsgebäude wurde vor 3
- 00 Jahren für die Medizinische Fakultät der Bayerischen Landesausstellun
- g errichtet. Heute ist es daher auch als „Alte Anatomie" bekannt. Im Okt
- ober 2020 wurde in dem frisch sanierten Gebäude eine neue Dauerausstellun
- g eröffnet\, die ein Jahr später mit dem Bayerischen Museumspreis ausgez
- eichnet wurde.\nÜbrigens: Das Museumscafé hortus medicus hat am Sonntag 
- von 10 bis 17 Uhr geöffnet und erwartet Sie mit selbstgebackenem Kuchen!
-LOCATION:Deutsches Medizinhistorisches Museum\, Anatomiestraße 18-20\, 85
- 049 Ingolstadt
-X-SCORE:21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die Farbe SCHWARZ im Museum
-DTSTART;TZID=Europe/Berlin:20260719T163000
-DTEND;TZID=Europe/Berlin:20260719T180000
-DTSTAMP:20260719T065608Z
-UID:die-farbe-schwarz-im-museum-20260719-1430@ifg-plattform.de
-DESCRIPTION:Führung im Neuen Schloss\n\nManchmal muss man "schwarzsehen" 
- oder "schwarzmalen"\, um ein Objekt richtig in Szene zu setzen. Ob schwarz
- e Pappenheimer Harnische\, barocke Herrscherportraits\, Schwarz-Weiß-Foto
- s oder Schriftstücke: Die Farbe "SCHWARZ" setzt ihre besonderen Akzente.
-LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jubiläumskonzert
-DTSTART;TZID=Europe/Berlin:20260719T170000
-DTEND;TZID=Europe/Berlin:20260719T180000
-DTSTAMP:20260719T065608Z
-UID:jubil-umskonzert-20260719-1500@ifg-plattform.de
-DESCRIPTION:35 Jahre Ingolstädter Nachtigallen\n\nEinlass: 14:00\n\nVier 
- Chöre\, ein Jubiläum\, ein Sommernachmittag voller Klang: Die Piepmätze
- \, die Kleinen Nachtigallen\, der Konzertchor und viele Ehemalige bringen 
- ihre Stimmen zusammen.\n\nEintritt frei – Spenden erbeten.\nSnacks und G
- etränke stehen bereit. Bei Sonnenschein wird der Museumsgarten zur Pickni
- ckwiese.\n\nDie Ingolstädter Nachtigallen sind der Kinder‑ und Jugendch
- or für Mädchen und Jungen von vier bis siebzehn Jahren. Einmal pro Woche
-  treffen sich die kleinen und größeren Sänger*innen zu abwechslungsreic
- hen Proben.\nWer Lust hat mitzusingen\, kann ab September freitags zum Sch
- nuppern in unsere Proben kommen. Spaß\, Gemeinschaft und Freude am Singen
-  stehen bei uns im Mittelpunkt. Die Highlights der Chorjahre sind das Weih
- nachtskonzert in der Adventszeit und das Sommerkonzert im Juli.
-LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
-X-SCORE:22
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Summer\, Lounge &amp\; Beats auf der Sonnen Plaza
-DTSTART;TZID=Europe/Berlin:20260719T190000
-DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260719T065607Z
-UID:summer-lounge-amp-beats-auf-der-sonnen-plaza-20260719-1700@ifg-plattfo
- rm.de
-DESCRIPTION:Dein perfekter Sommerabend!\n\nEinlass: 17:00\n\nDie Sonnen Pl
- aza ist zurück – und damit die wohl beste Sommer-Location der Stadt!\nT
- äglich bei gutem Wetter geöffnet\, erwarten Euch kühle Drinks\, entspan
- nte Beats und echtes Urlaubsgefühl mitten in Ingolstadt.\n\nOb nach der A
- rbeit\, zum Sundowner mit Freunden oder für den perfekten Abend unter Pal
- men – unsere Open-Air-Lounge direkt an der Donau ist der Place to be.\n\
- n- Zweiwöchentlich wechselndes Food Konzept\n- Aktuelle Speisekarte: Pins
- a Romana &amp\; Mexican Food\n- Eisgekühlte Drinks an der Bar\n- Live-DJs
-  &amp\; Chillout-Sounds\n\n⏰ Geöffnet täglich von 17:00 – 00:00 Uhr\
- n🚪 First come\, first serve – schnell sein lohnt sich\, Reservierunge
- n gibt’s keine!\n\nSommer. Sonne(n). Plaza. Was will man mehr?
-LOCATION:Sonnen Plaza am Kavalier Dalwigk\, Schloßlände 26\, 85049 Ingol
- stadt
-X-SCORE:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:musikalisches Picknick im Garten
-DTSTART;TZID=Europe/Berlin:20260719T193000
-DTEND;TZID=Europe/Berlin:20260720T015900
-DTSTAMP:20260719T065607Z
-UID:musikalisches-picknick-im-garten-20260719-1730@ifg-plattform.de
-DESCRIPTION:Farb:Töne  - Kunst trifft auf Musik\n\nEinlass: 17:00\n\nDer 
- Ingolstädter Chor singINpool lädt zum Sommerfest in den Garten des MEG c
- ulture club e.V. Der Münchner Künstler hans rüdiger lutz präsentiert a
- n diesem Abend seine Werke unter dem Motto "minimal art". Zu Beginn des Ab
- ends gibt der Pop-Swing-Jazz-Chor singINpool ein kurzes Werkstatt-Konzert\
- , da sie frisch von ihrem Probenwochenende zurück sind. Töne treffen auf
-  Farben\, lassen Sie sich inspirieren! Anschließend können die Picknick-
- Decken im idyllischen großen Garten der alten Villa im Ingolstädter West
- en ausgebreitet werden. Bringen Sie Ihren Picknick-Korb mit\, wir sorgen f
- ür gekühlte Getränke\, die wir auf Spendenbasis ausschenken. Joachim Ta
- g sorgt für musikalische Untermalung am Klavier. Genießen Sie einen ents
- pannten Sommerabend unter schattigen Bäumen und entdecken Sie diese neue 
- Kultur-Oase in Ingolstadt. Eintritt frei.
-LOCATION:MEG culture club e. V.\, Heidenreichstr. 7\, 85049 Ingolstadt
-X-SCORE:46
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Der Graf von Monte Christo
 DTSTART;TZID=Europe/Berlin:20260721T223000
 DTEND;TZID=Europe/Berlin:20260722T015900
@@ -4012,5 +3916,47 @@ DESCRIPTION:Unforgettable\n\nEinlass: 19:00\n\nEine unvergessliche Show er
  zurück in die 70er!
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Zwergenwerkstatt im Museum: Herbst
+DTSTART;TZID=Europe/Berlin:20261017T163000
+DTEND;TZID=Europe/Berlin:20261017T183000
+DTSTAMP:20260719T065608Z
+UID:zwergenwerkstatt-im-museum-herbst-20261017-1430@ifg-plattform.de
+DESCRIPTION:Als Einstimmung werden herbstliche Geschichten vorgelesen und 
+ danach farbenfrohe Herbstkunstwerke gestaltet. Ob aus gepressten Blättern
+  oder mit Farben\, die Ergebnisse werden so bunt und schön wie die Natur 
+ draußen.\n\nReservierungen sind nicht möglich. Karten sind im Vorverkauf
+  in unserem Onlineshop oder an der Kasse des jeweiligen Museums erhältlic
+ h. An der Kasse des Stadtmuseums gibt es auch Tickets für die Veranstaltu
+ ngen im Bauerngerätemuseum und im Marieluise-Fleißerhaus. Kartenzahlung 
+ nur im Stadtmuseum möglich! Bei den Karten für die Kinderprogramme hande
+ lt es sich lediglich um die Tickets für die Kinder. Falls Erwachsene ihre
+  Kinder begleiten möchten\, können sie ein reguläres Eintrittsticket an
+  der Kasse erwerben. Bei den angegebenen Zeiten handelt es sich um von bis
+  Uhrzeiten.\n\nDas Programm ist für Kinder ab 3 Jahren.
+LOCATION:Stadtmuseum\, Auf d. Schanz 45\, 85049 Ingolstadt
+X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heaven In Hell
+DTSTART;TZID=Europe/Berlin:20261017T220000
+DTEND;TZID=Europe/Berlin:20261018T015900
+DTSTAMP:20260719T065608Z
+UID:heaven-in-hell-20261017-2000@ifg-plattform.de
+DESCRIPTION:80’s Rock LIVE\n\nEinlass: 19:00\n\nMit hohem musikalischen 
+ Anspruch bringt Heaven in Hell den 80er Rock auf die Bühne. Heaven in He
+ ll begeistert mit zahlreichen\, energiegeladenen Classic-Rock Titeln wie: 
+ Don’t Stop Believin’ (Journey)\, Shadow On The Wall (Mike Oldfield)\, 
+ Urgent (Foreigner)\, Turn Me Loose (Loverboy)\, überrascht zudem mit Aku
+ stik-Versionen einzelner Titel und setzt den Songs seinen eigenen feinen A
+ kzent auf.\n\nHeaven in Hell hatte bereits die Ehre mit Rocklegenden wie T
+ he Sweet\, Uriah Heep\, Slade\, Manfred Mann’s Earth Band\, Gotthard und
+  Mother’s Finest gemeinsame Konzerte zu geben. Der Rocksound der 80er - 
+ er ist wieder da. Hart und energiegeladen. Sanft und groovig. Wummernde Be
+ ats und filigrane Gitarrenattacken. Starke Powerchords und stimmgewaltige 
+ Balladen.\n\nHeaven in Hell - A Tribute To 80's Rock.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:33
 END:VEVENT
 END:VCALENDAR
