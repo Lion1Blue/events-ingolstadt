@@ -17,9 +17,9 @@ ICS_SOURCE = (
     "https://ingolstadt.live/api/v1/getAllEvents/?type=ics"
 )
 
-OUTPUT_FILE = "../events/all-events.ics"
+OUTPUT_FILE = "events/all-events.ics"
 
-CACHE_FILE = "../cache/original.ics"
+CACHE_FILE = ".cache/original.ics"
 
 
 # How many months into the future should be included?
