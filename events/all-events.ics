@@ -3959,4 +3959,52 @@ DESCRIPTION:80’s Rock LIVE\n\nEinlass: 19:00\n\nMit hohem musikalischen
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:33
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radtour NaTourGenuss - Zum Alten Wirt in Gungolding
+DTSTART;TZID=Europe/Berlin:20261018T120000
+DTEND;TZID=Europe/Berlin:20261018T200000
+DTSTAMP:20260719T065607Z
+UID:radtour-natourgenuss-zum-alten-wirt-in-gungolding-20261018-1000@ifg-pl
+ attform.de
+DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
+ in. \nDie Jahresabschlusstour unter dem Motto NaTourGenuss führt nach Gun
+ golding zur Einkehr beim Gasthof Zum Alten Wirt. Falls gewünscht\, bei de
+ r Rückfahrt zum Kastaniengarten in Oberhaunstadt. Von dort individuelle H
+ eimfahrt oder geführt zum Startpunkt.\nEine NaTourGenuss Fahrradtour verb
+ indet die genüssliche Fahrt durch die heimische Natur mit der Einkehr in 
+ einer guten Gaststätte und dem Abschluss in einem Biergarten. Herzlich wi
+ llkommen zu Naturerlebnis\, Gaumenfreuden und sportlicher Aktivität. Wege
+ n der zahlreich befahrenen Naturwege durch hügeliges Gelände wird ein ro
+ bustes Treckingrad (Pedelec) mit geländetauglichem Reifenprofil empfohlen
+ .\nAnmeldung erwünscht\, aber nicht erforderlich.
+LOCATION:Willner Fahrradzentrum\, Friedrichshofener Straße 1e\, 85049 Ing
+ olstadt
+X-SCORE:114
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maxi Gstettenbauer
+DTSTART;TZID=Europe/Berlin:20261018T210000
+DTEND;TZID=Europe/Berlin:20261019T015900
+DTSTAMP:20260719T065608Z
+UID:maxi-gstettenbauer-20261018-1900@ifg-plattform.de
+DESCRIPTION:KOMPLETT ABSURD\n\nEinlass: 18:00\n\nMaxi Gstettenbauer kommt 
+ am Sonntag\, den 18.10.2026 um 19:00 Uhr mit seinem neuen Programm „KOMP
+ LETT ABSURD“ in die Eventhalle Westpark nach Ingolstadt. \n\nComedy ist 
+ mittlerweile ein Minenfeld. Worüber darf man noch lachen? Das ist ein Fa
+ ll für Maxi Gstettenbauer - der verlässliche Minenräumer unter den Com
+ edians. Viele halten Satire für eine feine Klinge\, doch er bevorzugt di
+ e Axt. Warum das feine Florett\, wenn’s die Kettensäge doch auch tut? M
+ it einem Timing\, auf das selbst Uhren neidisch sind\, hat sich Gstettenba
+ uer zu einen der Top-Comedians des Landes hochgespielt. Privilegiert\, mor
+ ds heterosexuell und maximal sportvermeidend stranguliert der schwarzhumor
+ ige Familienvater das Zwerchfell der Republik. Und zwar so gekonnt\, dass 
+ man sich danach fragt\, ob man weiße Männer nicht direkt verbieten sollt
+ e. Gstettenbauer wartet nicht auf Erlaubnis\, er erteilt sie sich einfach 
+ selbst - in Absprache mit seiner Frau. \n\nKOMPLETT ABSURD ist der befreie
+ nde Roundhouse-Kick der deutschen Comedy. Harte Gags\, hohes Tempo - mitte
+ n aus dem Leben. Und es trifft alle die es verdient haben. Es lässt sich 
+ eben viel schöner austeilen\, wenn man selbst der größte Witz ist.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:27
+END:VEVENT
 END:VCALENDAR
