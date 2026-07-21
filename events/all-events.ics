@@ -2,63 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Der Graf von Monte Christo
-DTSTART;TZID=Europe/Berlin:20260721T223000
-DTEND;TZID=Europe/Berlin:20260722T015900
-DTSTAMP:20260719T065608Z
-UID:der-graf-von-monte-christo-20260721-2030@ifg-plattform.de
-DESCRIPTION:nach dem Roman von Alexandre Dumas • in einer Fassung von Ro
- nny Jakubaschk und Dinah Wiedemann\n\nDer junge\, erfolgreiche Offizier Ed
- mond Dantès wird nach falschen Anschuldigungen seiner Neider auf seiner e
- igenen Hochzeit verhaftet. Er wird des Hochverrats beschuldigt und zu lebe
- nslanger Haft im düsteren Inselgefängnis Château d’If verurteilt. In 
- der Gefangenschaft trifft er auf den Abbé Faria\, einen weisen Mitinsasse
- n\, der ihm nicht nur Wissen über Philosophie\, Sprachen und Wissenschaft
-  vermittelt\, sondern ihn auch zum Erben seines geheimen Schatzes\, der au
- f der Insel Monte Christo vergraben liegt\, benennt. Nach Abbés Tod gelin
- gt Dantès eine spektakuläre Flucht aus dem Gefängnis bis nach Monte Chr
- isto\, wo er den Schatz findet. Er kehrt als wohlhabender Mann unter der I
- dentität des Grafen von Monte Christo in seine französische Heimat zurü
- ck und verfolgt dort den Plan\, gnadenlose Rache an denjenigen auszuüben\
- , die ihn einst verraten und sein Leben zerstört haben.\n\n\nRonny Jakuba
- schk war von 2018 bis 2022 Hausregisseur am neuen Theater Halle\, wo er u.
-  a. auf der Open-AirBühne inszenierte. Ebenso zeigte er an den Freilicht 
- bühnen der Heidelberger Schlossfestspiele und am Schauspiel Hannover sein
- e Arbeiten. Mit der Adaption von Alexandre Dumas Abenteuerroman „Der Gra
- f von Monte Christo“ stellt sich Ronny Jakubaschk dem Ingolstädter Publ
- ikum auf der Bühne im Turm Baur vor.
-LOCATION:Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt
-X-SCORE:19
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:T.Raum.Phase #06
-DTSTART;TZID=Europe/Berlin:20260721T230000
-DTEND;TZID=Europe/Berlin:20260722T000000
-DTSTAMP:20260719T065608Z
-UID:t-raum-phase-06-20260721-2100@ifg-plattform.de
-DESCRIPTION:Einlass: 18:00\n\nT.Raum.Phase #06 – Anëira\nWas\, wenn Tr
- äume nicht verschwinden…\nsondern irgendwo weiterleben?\nMit der sechst
- en Ausgabe der T.Raum.Phase öffnen wir erneut einen Raum zwischen Wirklic
- hkeit und Vorstellung – ein musikalisch-theatrales Erlebnis\, das sich n
- icht einfach erzählen lässt\, sondern durchlebt werden will.\n„Anëira
- “ ist eine Stadt der Träume.\nEin Ort für das\, was wir verloren\, ver
- drängt oder aufgegeben haben.\nDoch wer diesen Ort betritt\, zahlt einen 
- Preis.\nIn sechs Phasen à 10 Minuten entfaltet sich eine Geschichte über
-  Sehnsucht\, Identität und die leisen Entscheidungen\, die uns verändern
- .\nDie Musik endet nie – sie trägt\, treibt\, widerspricht\, heilt.\nZw
- ischen Klang\, Sprache und Stille entsteht ein Sog\, dem man sich schwer e
- ntziehen kann.\nEin Schauspieler durchläuft eine sichtbare Transformation
-  – von Jugend zu Alter\, von Hoffnung zu Erkenntnis.\nBegleitet von der 
- Claudius Konrad Band\, die als „Wärter der Traumquelle“ den Puls dies
- er Welt bestimmt.\nUnd vielleicht…\nstellt sich am Ende eine Frage\, die
-  bleibt:\nWas bist du bereit aufzugeben\, um deinen Traum zu leben?\n\n
- 🎭 Mit: Benjamin Dami\n🎶 Musik: Claudius Konrad Band &amp\; Ava Konra
- d\nAusstattung: Adrian Retzer\nTon/Licht: Alexander Laudenbach\n\nEintritt
-  frei\, begrenzte Kapazitäten.
-LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:18
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Triadisches Ballett hoch zwei
 DTSTART;TZID=Europe/Berlin:20260722T200000
 DTEND;TZID=Europe/Berlin:20260723T015900
