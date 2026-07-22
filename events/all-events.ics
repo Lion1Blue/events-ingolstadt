@@ -2,25 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Triadisches Ballett hoch zwei
-DTSTART;TZID=Europe/Berlin:20260722T200000
-DTEND;TZID=Europe/Berlin:20260723T015900
-DTSTAMP:20260719T065608Z
-UID:triadisches-ballett-hoch-zwei-20260722-1800@ifg-plattform.de
-DESCRIPTION:Designstudenten im KAP94\n\nEinlass: 17:30\n\nBauhaus im digit
- alen Zeitalter: Der Abschlussjahrgang des Studiengangs Technisches Design 
- an der Technischen Hochschule Ingolstadt hat das „Triadische Ballett“\
- , ein ikonisches Tanztheater des Bauhaus-Lehrers Oskar Schlemmer\, in das 
- 21. Jahrhundert transferiert.\n\nAm Mittwoch\, 22. Juli\, zeigen die Studi
- erenden die Ergebnisse ihrer Arbeit in der Kunst- und Kulturwerkstatt KAP9
- 4.\n\nWas passiert\, wenn junge Kreative ein Schlüsselwerk der modernen K
- unst 100 Jahre später mit den Mitteln unserer Moderne von Virtual Reality
-  bis Motion Tracking neu interpretieren? Die Besucher erwartet eine spanne
- nde Werkschau.
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:22
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Wir feiern 10 Jahre Neubau!
 DTSTART;TZID=Europe/Berlin:20260723T120000
 DTEND;TZID=Europe/Berlin:20260723T190000
