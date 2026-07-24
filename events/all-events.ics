@@ -2,159 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:LATE NIGHT SHOPPING ✨
-DTSTART;TZID=Europe/Berlin:20260724T120000
-DTEND;TZID=Europe/Berlin:20260725T000000
-DTSTAMP:20260719T065608Z
-UID:late-night-shopping-20260724-1000@ifg-plattform.de
-DESCRIPTION:Shopping bis 22 Uhr!🌙\n\nFreut euch auf einen besonderen So
- mmerabend im Ingolstadt Village: Am Freitag\, den 24. Juli\, könnt ihr ga
- nz entspannt bis 22 Uhr shoppen und euch exklusive Angebote sichern.\n\nDa
- s erwartet euch:\n🛍️ Reduzierungen von bis zu 70 % auf den Originalpr
- eis* bei teilnehmenden Marken\n🎶 Live-Musik &amp\; DJ-Beats\n📸 Ein O
- ldtimer Foto-Bulli für besondere Erinnerungsfotos\n🎈 Kids-Aktivitäten
-  für unsere kleinen Gäste\n🍴 Food-Specials für die perfekte Shopping
- -Pause\n\nGenießt einen entspannten Abend mit Shopping\, Unterhaltung und
-  kulinarischen Highlights für die ganze Familie.\n\nWeitere Infos findet 
- ihr auf unserer Website!\n\nWir freuen uns auf euren Besuch! 💛
-LOCATION:Ingolstadt Village\, Otto-Hahn-Straße 1\, 85055 Ingolstadt
-X-SCORE:19
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programm beim Lat-in Verein
-DTSTART;TZID=Europe/Berlin:20260724T180000
-DTEND;TZID=Europe/Berlin:20260726T010000
-DTSTAMP:20260719T065608Z
-UID:programm-beim-lat-in-verein-20260724-1600@ifg-plattform.de
-DESCRIPTION:Fest der Kulturen Ingolstadt 2026\n\nEntdecke Lat-in Verein be
- im Fest der Kulturen Ingolstadt!\nErlebe lateinamerikanische Kultur an uns
- erem Stand\; Gastronomie\, Musik und Spass für die ganze Familie.\n\nWir 
- freuen uns auf dich!
-LOCATION:Klenzepark\, Klenzepark\, 85049 Ingolstadt
-X-SCORE:21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fest der Kulturen
-DTSTART;TZID=Europe/Berlin:20260724T180000
-DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260719T065608Z
-UID:fest-der-kulturen-20260724-1600@ifg-plattform.de
-DESCRIPTION:Abwechslung und Vielfalt\nIngolstadt ist bunt und offen! Über
-  140.000 Menschen aus rund 140 Nationen leben in Ingolstadt und ein sichtb
- ares Zeichen dafür ist das Fest der Kulturen. Es zeigt die Vielfalt der K
- ulturen\, die in Ingolstadt beheimatet sind\, holt gelebte Traditionen aus
-  dem stillen Kämmerlein und macht sie erlebbar. Das Fest der Kulturen ist
-  ein Statement für Vielfalt\, Toleranz\, Engagement\, Kunst und Kultur. D
- ieses Fest soll Brücken bauen und neue Perspektiven ans Licht bringen.\n\
- nDie große Donaubühne direkt am Donaustrand mit Blick zur Donau und auf 
- die Kulisse der Stadt bietet den idealen Rahmen für das vielfältige und 
- abwechslungsreiche Musik- und Tanzprogramm. Gestaltet wird es von rund 30 
- ansässigen Kulturvereinen\, die ein unterhaltsames Programm auf die Beine
-  gestellt haben.\n\nSie bringen dem Publikum die Kultur des jeweiligen Lan
- des näher\, angefangen von Folkloretanz- und Musikgruppen sowie Chören\,
-  deren kraftvolle Stimmen Volkslieder singen. Nicht zu vergessen die mitre
- ißende Livemusik unterschiedlichster Genres wie die traditionelle Volksmu
- sik der jeweiligen Länder.\n\nBühnenprogramm\n\nFREITAG\, 24.07.2026\n17
- :00 Uhr\nTV 1861 Ingolstadt\nRhythmische Sportgymnastik von Kindern\n17:30
-  Uhr\nEröffnung Fest der Kulturen\nOberbürgermeister Dr. Michael Kern\, 
- zusammen mit Ingrid Gumplinger (Integrationsbeauftragte)\, dem Migrationsr
- at\, Vertretern der AUDI AG und Kulturreferent Marc Grandmontagne\n18:15 U
- hr\nLat-IN Asociacion Latinoamericana en Ingolstadt e.V.\nFolklore aus den
-  Anden von „Tanz Suri Sicuri“\n18:30 Uhr\nIndisch-Deutscher Verein Ing
- olstadt e.V.\nTanz aus Indien „Bharatnatyam“\, „Khathak“\, „Boll
- ywood Dance“\, Kindergruppe\n19:00 Uhr\nAudi Konfuzius-Institut Ingolsta
- dt e.V.\nMusik und Lieder aus China\n19:15 Uhr\nCentro Espanol de Ingolsta
- dt e.V.\nFolklore aus Andalusien von „Flamenco Olé“\n19:45 Uhr\nICCI\
- nLieder aus Pakistan mit Gitarrenbegleitung\n20:15 Uhr\nUkrainischer Kultu
- r- und Sportverein Karparten Ingolstadt e.V.\nLieder aus der Ukraine\n20:3
- 0 Uhr\nMozaik Türkischer Kultur- &amp\; Bildungsverein Ingolstadt e.V.\nV
- olkstanz aus der Türkei\n20:45 Uhr\nLat-IN Asociacion Latinoamericana en 
- Ingolstadt e.V.\nFolklore aus Mexiko „Mexico des mis Amores“\n\nSAMSTA
- G\, 25.07.2026\n11:30 Uhr\nLat-IN Asociacion Latinoamericana en Ingolstadt
-  e.V.\nFolklore aus Argentinien\n11:45 Uhr\nAlbanisch-Kosovarischer-Deutsc
- her Verein Ingolstadt\nFolklore aus Albanien-Kosovo\, Kindergruppe\n12:15 
- Uhr\nUngarischer Kulturverein Petöfi Kör e.V.\nVolkstanz aus Ungarn\, Ki
- ndergruppe\n12:45 Uhr\nICCI\nGesang aus Pakistan/Indien mit Instrumentalbe
- gleitung &amp\; Kultur-Modenschau\n13:15 Uhr\nCasal Catalá Ingolstadt e.V
- .\nStocktanz aus Katalonien „Bastoneres“\n13:30 Uhr\nSino-German Kultu
- rzentrum Ingolstadt e.V.\nTanz und Gesang aus China „Qipao-Show“\n14:0
- 0 Uhr\nAudi Konfuzius-Institut Ingolstadt e.V.\nMusik und Gesang aus China
- \n14:15 Uhr\nLat-IN Asociacion Latinoamericana en Ingolstadt e.V.\nTanz au
- s Bolivien „Caporales“ von „Ayni Bolivia“ mit Einzug der Tänzerin
- nen und Tänzer ab Ende Donausteg in Richtung Bühne\n14:45 Uhr\nGriechisc
- h-Deutscher Kulturverein Ingolstadt und Umgebung e.V.\nFolklore aus Griech
- enland\, Kindergruppe\n15:00 Uhr\nJapan Club Ingolstadt e.V.\nVolkstanz au
- s Japan „Bonodori“\, Kindergruppe\n15:30 Uhr\nIndisch-Deutscher Verein
-  Ingolstadt e.V.\nTanz aus Indien „Fusion Dance“\, „Kathak“\, „T
- ravel through India“\, Kindergruppe\n16:00 Uhr\nLat-IN Asociacion Latino
- americana en Ingolstadt e.V.\nMusik aus Argentinien von „Tata Milesi“\
- n16:15 Uhr\nTam Viet e.V.\nSingen für Vietnam\n16:30 Uhr\nAlevitische Gem
- einde Ingolstadt e.V.\nVolksmusik und Gesang aus der Türkei\n17:00 Uhr\nH
- ilfswerk des Lions Club\nAnkündigung Start Schanzer Entenrennen „Sponso
- renenten“ + Vorstellung der drei Projekte\, die die Erlöse erhalten\, a
- uf der Bühne\n17:15 Uhr\nLat-IN Asociacion Latinoamericana en Ingolstadt 
- e.V.\nTanz aus Bolovien „Tobas“ von „Ayni Bolivia“\n17:30 Uhr\nRum
- änischer Freundeskreis e.V.\nTanz aus Rumänien von „Ciuleandra Bavaria
-  e.V.“ und Solistin Nicoleta Speck\n18:00 Uhr\nAUDI AG\nSiegerehrung der
-  drei schnellsten Enten der teilnehmenden Kulturvereine durch die AUDI AG\
- n18:30 Uhr\nBosniakisches Kulturzentrum Ingolstadt e.V.\nFolklore aus Bosn
- ien\, Kindergruppe\n19:00 Uhr\nLat-IN Asociacion Latinoamericana en Ingols
- tadt e.V.\nTanz aus Kuba „Rueda de Casino“ von „Iglesia Salsera“\n
- 19:30 Uhr\nSerbischer Kulturverein Ingolstadt e.V.\nFolklore aus Serbien\,
-  Kinder- und Jugendgruppe\n20:15 Uhr\nRUMI Kultur- und Dialogzentrum e. V.
- \nMusik aus der Türkei mit dem traditionellen Instrument „SAZ“\n20:45
-  Uhr\nLat-IN Asociacion Latinoamericana en Ingolstadt e.V.\nMusik aus Late
- inamerika von „Die Habaneros“\n\n\nKinder und Jugendprogram\n\nAm Rond
- ell Reduit Tilly präsentieren die Künstler an die Schulen e.V. die Kultu
- rzeit mit einem abwechslungsreichen und kostenfreien Programm für Kinder 
- und Jugendliche. Beim „Mitmach-Zirkus“ können Kinder jonglieren\, bal
- ancieren und kleine Kunststücke ausprobieren. Passend dazu entstehen fant
- asievolle Zirkusmasken aus Pappkarton. Mit Gips\, Mosaik\, Stoff und Farbe
-  gestalten junge Besucherinnen und Besucher Blumen\, Tiere\, Wunschflaggen
- \, Buttons und viele weitere kreative Werke zum Mitnehmen. Beim Malen mit 
- Schablonen entstehen eindrucksvolle Acrylbilder mit klaren Mustern und det
- ailreichen Motiven. Auch Nachhaltigkeit wird kreativ umgesetzt: Aus Tetrap
- acktüten werden bunte Blumen\, während Bannerwände und Biertischgarnitu
- ren gemeinsam gestaltet und verschönert werden.\n\nAm Stand des Migration
- srates\, direkt am Eingang des Bayerischen Armeemuseums\, erwartet Kinder 
- ein buntes Kreativangebot. Unter dem Motto „IN Vielfalt leben“ können
-  sie eigene Bilder gestalten und präsentieren. Spielerisch setzen sie sic
- h dabei mit den Themen Zusammenhalt\, Vielfalt und friedliches Miteinander
-  in unserer Stadt auseinander – mit viel Farbe\, Fantasie und Freude.\n\
- nIn unmittelbarer Nähe zur Donaubühne lädt Plan International dazu ein\
- , farbenfrohe Schmetterlinge aus Upcycling-Materialien zu gestalten. Dabei
-  erfahren die Kinder auf kreative Weise\, wie aus vermeintlich Wertlosem e
- twas Neues entstehen kann. Der Schmetterling steht symbolisch für Vielfal
- t\, Entwicklung und Entfaltung. Anschließend können sich die kleinen Kü
- nstlerinnen und Künstler vor einer Fotowand selbst als Schmetterling in S
- zene setzen und ein schönes Erinnerungsfoto mit nach Hause nehmen.\n\nNac
- h der erfolgreichen Premiere im vergangenen Jahr ist auch das Aktionsbünd
- nis für Toleranz und Vielfalt „Ingolstadt ist bunt!“ wieder mit dabei
- . Am Rondell Reduit Tilly sorgen Glitzertattoos\, Bastelaktionen und das k
- reative Bemalen von Stofftaschen für abwechslungsreichen Mitmachspaß und
-  viele fröhliche Momente.\n\n\nMit besonderer Dankbarkeit würdigt der Ve
- ranstalter das herausragende Engagement der AUDI AG. Ohne diese großzügi
- ge Unterstützung wäre das Fest der Kulturen in seiner einzigartigen Viel
- falt\, seiner inspirierenden Atmosphäre und seinem verbindenden Charakter
-  nicht denkbar. Die AUDI AG leistet damit einen bedeutenden Beitrag zur F
- örderung des interkulturellen Austauschs und eines lebendigen Miteinander
- s.
-LOCATION:Klenzepark\, Klenzepark\, 85049 Ingolstadt
-X-SCORE:57
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Picknickkonzert
-DTSTART;TZID=Europe/Berlin:20260724T200000
-DTEND;TZID=Europe/Berlin:20260724T220000
-DTSTAMP:20260719T065607Z
-UID:picknickkonzert-20260724-1800@ifg-plattform.de
-DESCRIPTION:Einlass: 17:30\n\nPicknick-Konzert der Zucheringer Musikanten\
- nLeitung: Veronika Glas\n\nAuftritt der Jugend aus Adelshausen\, Reicherts
- hofen und Zuchering\nLeitung: Veronika Zäch
-LOCATION:Baderbickl Zuchering\, Kirchplatz Grünfläche\, 85051 Ingolstadt
-X-SCORE:14
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Horst Werschetzki –  „Herzübungen 1969 - 2026“
 DTSTART;TZID=Europe/Berlin:20260725T120000
 DTEND;TZID=Europe/Berlin:20260726T190000
@@ -3846,6 +3693,37 @@ DESCRIPTION:KOMPLETT ABSURD\n\nEinlass: 18:00\n\nMaxi Gstettenbauer kommt
  nde Roundhouse-Kick der deutschen Comedy. Harte Gags\, hohes Tempo - mitte
  n aus dem Leben. Und es trifft alle die es verdient haben. Es lässt sich 
  eben viel schöner austeilen\, wenn man selbst der größte Witz ist.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aleks Syntek
+DTSTART;TZID=Europe/Berlin:20261022T220000
+DTEND;TZID=Europe/Berlin:20261023T015900
+DTSTAMP:20260719T065608Z
+UID:aleks-syntek-20261022-2000@ifg-plattform.de
+DESCRIPTION:Einlass: 19:00\n\nZum ersten Mal überquert der legendäre mex
+ ikanische Singer-Songwriter und Produzent Aleks Syntek den Atlantik mit se
+ iner "Total Syntek Europa Tour". Anlässlich seines 35-jährigen Bühnenju
+ biläums bringt der Latin-Grammy-Preisträger eine epische Reise durch die
+  Hymnen des spanischsprachigen Pop nach Deutschland. Erleben Sie eine Nach
+ t voller Nostalgie und Innovation. Von Welthits wie "Duele el Amor" bis hi
+ n zu Klassikern wie "Sexo\, Pudor y Lágrimas" – tauchen Sie ein in das 
+ musikalische Genie eines Künstlers\, der Generationen geprägt hat. Warum
+  Sie dabei sein sollten: 35 Jahre Musikgeschichte: Alle großen Hits live 
+ in einer energetischen Show. Klanggenie: Eine einzigartige Mischung aus Po
+ p\, Elektronik und Balladen. Zentrale Lage: Direkt in Ingolstadt\, ideal e
+ rreichbar für Fans aus München\, Nürnberg\, Augsburg und Regensburg.\n\
+ nMX \nPor primera vez\, el galardonado cantautor y productor Aleks Syntek 
+ cruza el Atlántico con su gira más ambiciosa: "Total Syntek Europa Tour"
+ . Celebrando 35 años de una carrera impecable\, el ganador del Latin Gram
+ my trae a Alemania un recorrido épico por los himnos que definieron el po
+ p en español. Prepárate para una noche de nostalgia y vanguardia. Desde 
+ el sentimiento de "Sexo\, Pudor y Lágrimas" hasta la energía de "Duele e
+ l Amor" e "Intocable"\, vivirás el genio musical de un artista que ha mar
+ cado a generaciones. ¿Por qué no puedes faltar? 35 Años de Hits: Todos 
+ los éxitos que cantaste\, en un solo lugar. Ubicación Central: En el cor
+ azón de Baviera\, fácil acceso desde Múnich\, Núremberg y Augsburgo.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:27
 END:VEVENT
