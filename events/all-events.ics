@@ -2,182 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Horst Werschetzki –  „Herzübungen 1969 - 2026“
-DTSTART;TZID=Europe/Berlin:20260725T120000
-DTEND;TZID=Europe/Berlin:20260726T190000
-DTSTAMP:20260719T065608Z
-UID:horst-werschetzki-herz-bungen-1969-2026-20260725-1000@ifg-plattform.de
-DESCRIPTION:Ein Querschnitt aus fast sechs Jahrzehnten künstlerischen Sch
- affens\n\nDer Förderverein Kreuztor Ingolstadt lädt zu dieser Ausstellun
- g herzlich ein. Sie ist mehr als eine Werkschau: Sie zeichnet den künstle
- rischen Weg Horst Werschetzkis über nahezu sechs Jahrzehnte nach – von 
- seinen ersten grafischen Arbeiten bis zu den jüngsten Bildserien. Ein seh
- r persönlicher Rückblick auf sein bisheriges künstlerisches Leben – u
- nd zugleich ein Einblick in die Vielseitigkeit eines Gestalters\, der das 
- grafische Handwerk ebenso beherrscht wie die freie Malerei.\n\nDie Verniss
- age findet am Freitag\, 24. Juli 2026\, um 19 Uhr im Kreuztor statt. Ansch
- ließend ist die Ausstellung bis 9. August 2026 jeweils samstags und sonnt
- ags von 10 bis 17 Uhr geöffnet. Eintritt frei.
-LOCATION:Kreuztor\, Kreuzstraße\, 85049 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radtour zum Biergarten Birkenheide
-DTSTART;TZID=Europe/Berlin:20260725T150000
-DTEND;TZID=Europe/Berlin:20260725T190000
-DTSTAMP:20260719T065607Z
-UID:radtour-zum-biergarten-birkenheide-20260725-1300@ifg-plattform.de
-DESCRIPTION:Einlass: 13:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nAnfahrt über Manching und Geisenfeld zum Ausflugsziel Birkenheide. 
- Nach der Rast im schönen Bier- und Kaffeegarten\, Rückfahrt über Vohbur
- g und entlang der Donau.\nBio-Bike-Tour: Die Radtour ist besonders auf die
-  Bedürfnisse von Bio-Radler*innen abgestimmt\, die Ihre Touren ohne elekt
- rische Unterstützung unternehmen. Radler*innen mit Pedelec sind herzlich 
- willkommen\, müssen sich aber an Tempo und Kondition der Bio-Radler*innen
-  orientieren.\nAnmeldung erwünscht\, aber nicht erforderlich.
-LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:11
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radifest 2026
-DTSTART;TZID=Europe/Berlin:20260725T170000
-DTEND;TZID=Europe/Berlin:20260726T220000
-DTSTAMP:20260719T065607Z
-UID:radifest-2026-20260725-1500@ifg-plattform.de
-DESCRIPTION:Einlass: 15:00\n\nAm Samstag und Sonntag\, 25 und 26. Juli\, f
- eiert die Moosgmoa Ingolstadt am Mooshäusl im Mooshäuslweg 1 wieder das 
- Radifest\, das erstmals 1921 über die Bühne ging. Das Fest startet am Na
- chmittag des 25. Juli. Am Morgen des 26. Juli findet um 9:30 Uhr die tradi
- tionelle Feldmesse statt. Danach geht es für viele Besucher zum Frühscho
- ppen in den gemütlichen Biergarten. Ein Highlight ist die wohl größte P
- flanzentombola weit und breit.
-LOCATION:Mooshäusl\, Mooshäuslweg 1\, 85049 Ingolstadt
-X-SCORE:11
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Halle NEUN Sommerfest - Open Air Bühne
-DTSTART;TZID=Europe/Berlin:20260725T180000
-DTEND;TZID=Europe/Berlin:20260726T000000
-DTSTAMP:20260719T065607Z
-UID:halle-neun-sommerfest-open-air-b-hne-20260725-1600@ifg-plattform.de
-DESCRIPTION:Open Air Bühne - Live Musik - Drinks - Food\n\nEinlass: 15:30
- \n\nHALLE NEUN SOMMERFEST🍹⛱️\n\nSamstag\, 25. Juli ab 15:30 OPEN AI
- R\n\nLine-Up:\n\nHÄNGER (Stoner Rock)\nHAZESHUTTLE (Psych Rock)\nBRANDLAS
- T (Heavy Doom)\nCALL ME MESSIAH (Death Core)\nDJ SKURREAL\n\nFür Essen un
- d Getränke ist gesorgt!
-LOCATION:Trensporthalle NEUN\, Elisabethstraße 9b\, 85051 Ingolstadt
-X-SCORE:38
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Der Fischer und seine Frau - Puppentheater
-DTSTART;TZID=Europe/Berlin:20260725T190000
-DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260719T065608Z
-UID:der-fischer-und-seine-frau-puppentheater-20260725-1700@ifg-plattform.d
- e
-DESCRIPTION:Audi Sommerkonzerte 2026\n\nEinlass: 16:00\n\nAnnika Pilstl\, 
- Puppenspielerin\nEnsemble der Städt. Simon-Mayr-Sing- und Musikschule Ing
- olstadt\nCarola Schlagbauer\, Leitung\n\n\nEmpfohlen für Kinder ab 5 Jahr
- en\n\n\nMit „wenigen Mitteln\, aber viel Gefühl und Fantasie die Welt e
- rzählen“\, schrieb die Süddeutsche Zeitung – „genau das gelingt ih
- r“. Die Rede ist von der Puppenspielerin Annika Pilstl\, Mitglied des 20
- 24 mit dem INTHEGA Kinder- und Jugendtheaterpreis ausgezeichneten Ensemble
- s Die Exen. Pilstl muss nur ihre Hand bewegen\, um den Holzfiguren Leben e
- inzuhauchen: „Die steifen Arme werden beweglich\, der Kopf neigt sich ke
- ck zur Seite. Die Marionette wird plötzlich zur Gestalt mit Gefühlen\, m
- it Charakter und Eigenarten.\n\n\nDann ändern sich von einem Moment auf d
- en anderen auch bei Annika Pilstl Stimme\, Tonfall und die ganze Körperha
- ltung\, dann ist sie ganz Schauspielerin“ (Passauer Neue Presse). Mit Sp
- iellust\, vollendetem Handwerk und experimenteller Neugierde entwickelt di
- e Puppenspielerin\, die 2025 mit dem Kulturpreis des Landkreises Passau au
- sgezeichnet wurde\, ihre Stücke\, mit denen sie nicht nur das Publikum im
-  Kindergarten- und Grundschulalter verzaubert\, sondern auch die Erwachsen
- en.\n\n\nUnter der Regie von Kristine Stahl steht bei den Audi Sommerkonze
- rten das Puppenspiel Der Fischer und seine Frau auf dem Programm – ein S
- tück\, das an ein Märchen der Gebrüder Grimm angelehnt ist\, von dem es
-  allerdings auch viele internationale Varianten gibt: Ein Fischer fängt e
- inen großen Plattfisch\, der sich als verzauberter Prinz entpuppt. Aus Da
- nkbarkeit\, nicht in der Bratpfanne gelandet zu sein\, erfüllt er dem Fis
- cher und seiner Frau alle nur denkbaren Wünsche. Doch nachdem beide als e
- rstes ihre kleine\, muffige Fischerhütte gegen ein komfortables Häuschen
-  eingetauscht haben\, wachsen die Begehrlichkeiten ins Unermessliche. Und 
- obwohl der Fisch die beiden bald reich gemacht hat\, führt ihre maßlose 
- Gier am Ende dazu\, dass alles wieder verloren geht.\n\n\nFür den musikal
- ischen Rahmen der Aufführung sorgt ein Ensemble der Städtischen Sing- un
- d Musikschule Simon Mayr aus Ingolstadt\, das einen wichtigen Beitrag zum 
- kulturellen Leben der Region leistet. Eingebettet ist das Ganze in die wun
- derbar fantasievoll gestaltete Welt des Animationsfilmers Hans-Joachim Bla
- ch\, der von traditionellem Zeichentrick bis hin zu moderneren 3D-Integrat
- ionen sämtliche Techniken nutzt.\n\n\nEinlass: 60 Minuten vor Beginn\n\n\
- n++++++\n\n\nParkplätze direkt am Audi Forum Ingolstadt
-LOCATION:Audi museum mobile\, Ettinger Str.\, 85045 Ingolstadt
-X-SCORE:51
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Picknick in Weiß
-DTSTART;TZID=Europe/Berlin:20260725T200000
-DTEND;TZID=Europe/Berlin:20260725T230000
-DTSTAMP:20260719T065608Z
-UID:picknick-in-wei-20260725-1800@ifg-plattform.de
-DESCRIPTION:Ein inklusives Picknick (Anmeldung erforderlich)\n\nEine Begeg
- nung von Menschen mit und ohne Behinderung beim Picknick „ganz in Weiß
- “ nach einer französischen Idee aus dem Jahr 1988\, bei dem man weiß g
- ekleidet an weiß dekorierten Tischen zusammenkommt und gemeinsam den Aben
- d genießt.\n\n\nAlle Interessierten sind zu diesem außergewöhnlichen Er
- lebnis herzlich eingeladen!\n\n\n🤍🤍🤍🤍☀️☀️☀️☀️
- ☀️\n\n\nWir bereiten für Sie vor:\n- Tische und Bänke mit weißen Hu
- ssen\n\n\nBitte bringen Sie mit:\n- Komplettes Outfit in Weißtönen\n- Es
- sen und Trinken\n- Teller\, Glaser\, Geschirr\, Besteck\n- Gute Laune\n- G
- gf. Dekoration / Servietten / Beschattung\n\n\n📌BITTE MELDEN SIE SICH B
- IS ZUM 20. JULI AN!!!
-LOCATION:Theaterplatz\, Theaterplatz\, 85049 Ingolstadt
-X-SCORE:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Charity Pride Event
-DTSTART;TZID=Europe/Berlin:20260725T220000
-DTEND;TZID=Europe/Berlin:20260726T070000
-DTSTAMP:20260719T065608Z
-UID:charity-pride-event-20260725-2000@ifg-plattform.de
-DESCRIPTION:Einlass: 19:00\n\nEin Event von der Rainbowbar No.2 aus Ingols
- tadt. Soul Sängerin Esther Filly wird live für euch singen. Die drei War
- men Brüder werden über den gesamten Abend für Musik und Lichteffekte so
- rgen. Eine Travestieshow wird es auch an dem Abend geben. Vorort wird das 
- Rainbow mit Esther Filly einer Organisation aus Ingolstadt live einen Spen
- dencheck überreichen.
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Der Graf von Monte Christo
-DTSTART;TZID=Europe/Berlin:20260725T223000
-DTEND;TZID=Europe/Berlin:20260726T015900
-DTSTAMP:20260719T065608Z
-UID:der-graf-von-monte-christo-20260725-2030@ifg-plattform.de
-DESCRIPTION:nach dem Roman von Alexandre Dumas • in einer Fassung von Ro
- nny Jakubaschk und Dinah Wiedemann\n\nDer junge\, erfolgreiche Offizier Ed
- mond Dantès wird nach falschen Anschuldigungen seiner Neider auf seiner e
- igenen Hochzeit verhaftet. Er wird des Hochverrats beschuldigt und zu lebe
- nslanger Haft im düsteren Inselgefängnis Château d’If verurteilt. In 
- der Gefangenschaft trifft er auf den Abbé Faria\, einen weisen Mitinsasse
- n\, der ihm nicht nur Wissen über Philosophie\, Sprachen und Wissenschaft
-  vermittelt\, sondern ihn auch zum Erben seines geheimen Schatzes\, der au
- f der Insel Monte Christo vergraben liegt\, benennt. Nach Abbés Tod gelin
- gt Dantès eine spektakuläre Flucht aus dem Gefängnis bis nach Monte Chr
- isto\, wo er den Schatz findet. Er kehrt als wohlhabender Mann unter der I
- dentität des Grafen von Monte Christo in seine französische Heimat zurü
- ck und verfolgt dort den Plan\, gnadenlose Rache an denjenigen auszuüben\
- , die ihn einst verraten und sein Leben zerstört haben.\n\n\nRonny Jakuba
- schk war von 2018 bis 2022 Hausregisseur am neuen Theater Halle\, wo er u.
-  a. auf der Open-AirBühne inszenierte. Ebenso zeigte er an den Freilicht 
- bühnen der Heidelberger Schlossfestspiele und am Schauspiel Hannover sein
- e Arbeiten. Mit der Adaption von Alexandre Dumas Abenteuerroman „Der Gra
- f von Monte Christo“ stellt sich Ronny Jakubaschk dem Ingolstädter Publ
- ikum auf der Bühne im Turm Baur vor.
-LOCATION:Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt
-X-SCORE:19
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kombiführung Lechner Museum und Skulpturenpark
 DTSTART;TZID=Europe/Berlin:20260726T160000
 DTEND;TZID=Europe/Berlin:20260726T190000
@@ -3726,5 +3550,24 @@ DESCRIPTION:Einlass: 19:00\n\nZum ersten Mal überquert der legendäre mex
  azón de Baviera\, fácil acceso desde Múnich\, Núremberg y Augsburgo.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rock To Mode
+DTSTART;TZID=Europe/Berlin:20261023T220000
+DTEND;TZID=Europe/Berlin:20261024T015900
+DTSTAMP:20260719T065608Z
+UID:rock-to-mode-20261023-2000@ifg-plattform.de
+DESCRIPTION:DEPECHE MODE TRIBUTE BAND\n\nEinlass: 19:00\n\nROCK TO MODE is
+ t eine energiegeladene Live-Band\, die den Sound von DEPECHE MODE ins Deta
+ il feiert und in ein rockiges Kleid packt\, ohne die Basis zu verlieren. D
+ ie Interpretationen sind stimmig\, stets nah an den Live-Originalen\, aber
+  dennoch mit eigenem Charakter. Fetter\, wuchtiger Synth-Sound\, mit strai
+ ghten Gitarren-Riffs\, hämmernden Drums und massiver Bass-Linie\, sowie d
+ er charismatische Bariton bringen das Publikum zum kochen. \n\nEin absolut
+ es Muss für alle MODE-Fans und Rock Liebhaber. ROCK TO MODE - Eine liebev
+ olle und rockige Hommage an DEPECHE MODE. Ab 2026 geht die Band auf Europa
+ -Tour.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:19
 END:VEVENT
 END:VCALENDAR
