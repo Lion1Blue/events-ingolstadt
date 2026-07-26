@@ -2,123 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Kombiführung Lechner Museum und Skulpturenpark
-DTSTART;TZID=Europe/Berlin:20260726T160000
-DTEND;TZID=Europe/Berlin:20260726T190000
-DTSTAMP:20260719T065608Z
-UID:kombif-hrung-lechner-museum-und-skulpturenpark-20260726-1400@ifg-platt
- form.de
-DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
- nEinlass: 13:45\n\nEntdecken Sie das Lechner Museum und den Skulpturenpark
-  Obereichstätt auf einer Kombi-Führung\, die jeden letzten Sonntag im Mo
- nat stattfindet. Erleben Sie so Kunst und Natur in einer malerischen Umgeb
- ung und lassen Sie sich von fachkundigen Expert*innen durch die jeweiligen
-  Ausstellungen führen. \n‍\nFür die öffentlichen Kombi-Führungen ist
-  keine Anmeldung erforderlich. Treffpunkt und Beginn ist am Museum in Ingo
- lstadt. Insgesamt dauert die Veranstaltung ca. 3 Stunden. \nBitte beachten
-  Sie\, dass der Transfer vom Museum zum Skulpturenpark in Obereichstätt e
- igenverantwortlich stattfindet und eine Fahrtzeit von ca. 30-35 Minuten mi
- t dem PKW beträgt.\n‍\nEine Anreise mit öffentlichen Verkehrsmitteln i
- st leider nicht möglich.\n‍\nKommen Sie vorbei und lassen Sie sich von 
- der Kunst und der Natur begeistern!
-LOCATION:Lechner Museum\, Esplanade 9\, 85049 Ingolstadt
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonntags?Kunst!
-DTSTART;TZID=Europe/Berlin:20260726T170000
-DTEND;TZID=Europe/Berlin:20260726T190000
-DTSTAMP:20260719T065608Z
-UID:sonntags-kunst-20260726-1500@ifg-plattform.de
-DESCRIPTION:„Siebdruck" – Familien-Workshop mit Stephanie Schmitz\n\nE
- inlass: 14:45\n\nDer Siebdruck ist eine traditionelle manuelle Durchdruckt
- echnik\, bei der Motive mithilfe einer Schablone auf Textilien gedruckt we
- rden. Grundlage des Verfahrens ist ein beschichtetes Sieb\, das durch eine
- n Belichtungsprozess das gewünschte Motiv präzise aufnimmt und anschlie
- ßend vielfach reproduzierbar macht.\n\nDie anschauliche\, handwerkliche A
- rbeitsweise macht den besonderen Reiz des Siebdrucks aus. Gleichzeitig ver
- mittelt sie auf kreative Weise den Wert sorgfältiger Handarbeit – ganz 
- nach dem Motto: „Was Mühe macht\, währt lange.“ Die langlebigen Druc
- kergebnisse auf Textilien sprechen dabei für sich. Gedruckt wird mit hoch
- wertigen Textilfarben auf Wasserbasis.\n\nIm Workshop stehen bereits belic
- htete Motive zur Verfügung\, die in verschiedenen Farben und Kombinatione
- n beispielsweise auf Leinentaschen gedruckt werden können.\n\nZusätzlich
-  lernen die Teilnehmenden die Schnittschablonentechnik kennen: Eigene Zeic
- hnungen werden dabei von Hand mit Schere oder Cutter ausgeschnitten und al
- s individuelle Papierschablonen genutzt. Mit diesen können persönliche M
- otive in frei gewählten Farben mehrfach gedruckt werden.\n\nDer Kurs rich
- tet sich an Erwachsene\, Jugendliche und Kinder ab 7 Jahren. Das Material 
- steht vor Ort zur Verfügung.\n\nDie Aufsichtspflicht für die teilnehmend
- en Kinder liegt bei den Eltern.\n\nDas Format „Sonntags? Kunst!“ wird 
- durch Audi ArtExperience ermöglicht. Für diese freundliche Unterstützun
- g bedankt sich das MKK herzlich.
-LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
- adt
-X-SCORE:33
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Schanzer Tanzboden Musikanten - Tanzleitung: Monika Ketterl
-DTSTART;TZID=Europe/Berlin:20260726T190000
-DTEND;TZID=Europe/Berlin:20260727T015900
-DTSTAMP:20260719T065608Z
-UID:schanzer-tanzboden-musikanten-tanzleitung-monika-ketterl-20260726-1700
- @ifg-plattform.de
-DESCRIPTION:Die kultURIG Veranstaltungsreihe vereint ihre Einzelveranstalt
- ungen Volkstanz\, Volksmusik\, Musik aus Alt-Ingolstadt und den traditione
- llen Kocherlball zu einem vielfältigen Brauchtumserlebnis.\n\n\nTauchen S
- ie ein und erleben Sie Ingolstadts kulturelle Vielfalt in ihrer ganzen Pra
- cht!\n\n\nDer Eintritt zu dieser Reihe ist kostenfrei.
-LOCATION:Schutterhof\, Friedhofstraße 1a\, 85049 Ingolstadt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Abschlusskonzert mit der Audi Jugendchorakademie
-DTSTART;TZID=Europe/Berlin:20260726T210000
-DTEND;TZID=Europe/Berlin:20260727T015900
-DTSTAMP:20260719T065608Z
-UID:abschlusskonzert-mit-der-audi-jugendchorakademie-20260726-1900@ifg-pla
- ttform.de
-DESCRIPTION:Audi Sommerkonzerte 2026\n\nEinlass: 18:30\n\nAudi Jugendchora
- kademie\nAkademie für Alte Musik Berlin\nChen Reiss\, Sopran\nIrene Rober
- ts\, Mezzosopran\nSung Min Song\, Tenor\nWilhelm Schwinghammer\, Bass\nMar
- tin Steidler\, Leitung\n\n\nG. Verdi: Messa da Requiem\n\n\nGiuseppe Verdi
-  ging es in seiner Messa da Requiem nicht um die Toten\, sondern um die Le
- benden. Im Zentrum dieses monumentalen Werks steht mit dem Dies irae\, jen
- seits aller religiösen Verklärung\, die realistisch gezeichnete Tragödi
- e um die menschliche Sterblichkeit. Verdi gibt der apokalyptischen Schreck
- ensvision\, die in aller Drastik mit harten Akkordschlägen und einem arch
- aischen Chorsatz in atemberaubender Musik in Szene gesetzt wird\, den grö
- ßten Raum. Diesen zentralen Abschnitt seines Requiems vertonte er wie ein
- e durchkomponierte Opernszene – inklusive hochdramatischem Sopran-Solo u
- nd „Fernchor“\, wie er sie etwa schon im vierten Akt seines Il Trovato
- re geschrieben hatte. So entsteht ein mehr als halbstündiges Klangdrama\,
-  das mit dem Lacrymosa ausklingt\, in dem der italienische Opernkomponist 
- die Klage König Philipps um den ermordeten Marquis Posa aus einem später
-  wieder gestrichenen Duett des Don Carlos „recycelte“\; zuvor klingt b
- ereits die Gewitterszene aus Rigoletto an.\n\n\nIm Abschlusskonzert der Au
- di Sommerkonzerte 2026 präsentiert die Audi Jugendchorakademie Verdis gra
- ndioses Requiem\, das von Anhängern wie Gegnern als seine „beste Oper
- “ bezeichnet wurde. Unter der musikalischen Leitung von Martin Steidler 
- setzt der Chor dabei die erfolgreiche Zusammenarbeit mit der Akademie für
-  Alte Musik Berlin fort\, die sich mit ihren lebendigen\, facettenreichen 
- und spannungsgeladenen Interpretationen seit vielen Jahren unangefochten a
- n der Weltspitze der historisch informierten Elite-Kammerorchester behaupt
- et und sich nun zum ersten Mal dem Verdi-Requiem widmet.\n\n\nDas handverl
- esene Solistenensemble wird von Chen Reiss angeführt\, die sich mit einer
-  „Stimme von silbriger Helligkeit und Klarheit“ (Bachtrack) vom Solist
- enensemble der Bayerischen Staatsoper an die Weltspitze gesungen hat. An i
- hrer Seite zu erleben: der junge Tenor Sung Min Song\, der „enorme Strah
- lkraft besitzt“ (Süddeutsche Zeitung) und mit „hoher Elastizität\, e
- dlen Obertönen und einer natürlichen Kraft“ (Mannheimer Morgen) mühel
- os höchste Höhen erklimmt. Für das notwendige Klangfundament sorgt Wilh
- elm Schwinghammer\, der „einen der schönsten Bässe hat\, der seit Lang
- em aus deutscher Kehle drangen“ (Deutschlandfunk).\n\n\nEinlass: 30 Minu
- ten vor Beginn\nUm 18.30 Uhr findet im Mittelfoyer des Stadttheaters eine 
- Konzerteinführung mit Annekatrin Hentschel (BR-Klassik) statt
-LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
-X-SCORE:52
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Mephistofeles
 DTSTART;TZID=Europe/Berlin:20260728T223000
 DTEND;TZID=Europe/Berlin:20260729T015900
@@ -3569,5 +3452,139 @@ DESCRIPTION:DEPECHE MODE TRIBUTE BAND\n\nEinlass: 19:00\n\nROCK TO MODE is
  -Tour.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmieren und Robotik entdecken
+DTSTART;TZID=Europe/Berlin:20261024T120000
+DTEND;TZID=Europe/Berlin:20261024T143000
+DTSTAMP:20260719T065607Z
+UID:programmieren-und-robotik-entdecken-20261024-1000@ifg-plattform.de
+DESCRIPTION:Alle Kinder im Alter von 9 bis zu 11 Jahren sind herzlich eing
+ eladen\, im Bürgerhaus Neuburger Kasten die spannende Welt der Technik un
+ d des Programmierens zu entdecken - ganz spielerisch mit einer grafischen 
+ Benutzeroberfläche. Schritt für Schritt werden die jungen Teilnehmerinne
+ n und Teilnehmer einen Modell-Roboter zum Leben erwecken. Er reagiert auf 
+ Taster und Bewegungen\, zeigt Nachrichten auf einem Display an und setzt s
+ ogar einen Motor in Bewegung. Dabei lernen die Kinder\, logisch zu denken\
+ , kreativ zu tüfteln und eigene Ideen umzusetzen – ganz ohne Vorkenntni
+ sse. Der Kurs wird altersgerecht\, verständlich und mit viel Spaß durchg
+ eführt und fördert wichtige Zukunftskompetenzen. Programmieren lernen\, 
+ Technik verstehen und stolz auf das eigene Werk sein!\nDamit viele Kinder 
+ in kleinen Gruppen teilnehmen können\, wird der Kurs inhaltsgleich an meh
+ reren Samstagen angeboten. Im Juli sind dies der 11. und 18.07. und im Her
+ bst der 26.09.\, der 10. und 24.10. sowie der 07. und 21.11. \nEine Anmeld
+ ung für sämtliche Kurse ist unter www.kidnetting.de möglich. Die Kosten
+  pro Termin liegen bei 6 Euro.
+LOCATION:Bürgerhaus Neuburger Kasten\, Fechtgasse 6\, 85049 Ingolstadt
+X-SCORE:200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lat-in Verein: Dia de los Muertos
+DTSTART;TZID=Europe/Berlin:20261024T150000
+DTEND;TZID=Europe/Berlin:20261024T170000
+DTSTAMP:20260719T065608Z
+UID:lat-in-verein-dia-de-los-muertos-20261024-1300@ifg-plattform.de
+DESCRIPTION:Save the date\n\nWir laden euch ein\, den Tag der Toten zu fei
+ ern! \n\nDer Verein *Lat-IN Ingolstadt lädt euch herzlich ein\, eine der 
+ schönsten Traditionen Mexikos mit uns zu ehren.\n\nWas ist der Tag der To
+ ten?\n\nEl Día de los Muertos ist ein mexikanisches Fest\, um an unsere v
+ erstorbenen Liebsten zu erinnern und sie zu ehren. Es ist kein trauriger T
+ ag\, sondern ein Fest voller Farben\, Musik und Freude Wir verkleiden uns 
+ als Catrinas und Catrines\, um das Leben zu feiern und die Erinnerung an d
+ ie Menschen zu bewahren\, die wir lieben.\n\n*📅 Freitag\, 24. Oktober*\
+ n\n- *13:00 - 15:00 | Kinder-Event*  \n  VHS Ingolstadt - Geschichten\, Ba
+ steln und Traditionen _auf Spanisch_\n- *16:00 - 18:00 | Große Parade*  \
+ n  Start am Paradeplatz. Kommt als Catrina oder Catrin verkleidet\n- *18:3
+ 0 | Party*  \n  Kulturzentrum NEUN - Musik\, Tanz und Gemeinschaft\n\nDie 
+ ganze Familie ist herzlich willkommen.  \nWir freuen uns darauf\, mit euch
+  gemeinsam das Leben und die Erinnerung zu feiern!\n\n*Veranstaltet von: L
+ at-IN Latinoamericanos in Ingolstadt*  \nMit freundlicher Unterstützung v
+ on: Stadt Ingolstadt Kulturamt\, Relaciones Exteriores México\, VHS
+LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
+X-SCORE:26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auf den Spuren der Auto Union
+DTSTART;TZID=Europe/Berlin:20261024T153000
+DTEND;TZID=Europe/Berlin:20261024T170000
+DTSTAMP:20260719T065608Z
+UID:auf-den-spuren-der-auto-union-20261024-1330@ifg-plattform.de
+DESCRIPTION:Die Geschichte des Weltkonzerns Audi\n\nEinlass: 13:30\n\nWer 
+ an Audi denkt\, der denkt unweigerlich an das weitläufige Fabrikareal im 
+ Norden Ingolstadts.\n\nDoch es ist noch gar nicht so lange her\, da produz
+ ierte der renommierte Automobilhersteller noch mitten in der Ingolstädter
+  Altstadt: Unsere Gästeführer/-innen führen Sie an die Orte der frühen
+  Fahrzeug- und Motorradfertigung\, rund um den Josef-Strobl-Platz\, die Ke
+ imzelle der Autoindustrie in Ingolstadt.\n\nErfahren Sie viel Wissenswerte
+ s über die Anfänge der automobilen Fließbandfertigung und lassen Sie si
+ ch überraschen\, in welchen historischen Gebäuden die Wurzeln des heutig
+ en Weltkonzerns liegen.
+LOCATION:Tourist Information\, Moritzstraße 19\, 85049 Ingolstadt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Konzert „Wer wagt\, gewinnt“
+DTSTART;TZID=Europe/Berlin:20261024T200000
+DTEND;TZID=Europe/Berlin:20261025T015900
+DTSTAMP:20260719T065608Z
+UID:konzert-wer-wagt-gewinnt-20261024-1800@ifg-plattform.de
+DESCRIPTION:Mozart\, Beatles\, Led Zeppelin und Co. – Musik im Ausnahmez
+ ustand!\n\nEinlass: 17:30\n\nIm Herbstkonzert „Wer wagt\, gewinnt!“ be
+ schäftigt sich das Symphonische Salonorchester Ingolstadt unter Leitung s
+ eines künstlerischen Leiters Walter Kiesbauer mit Werken\, die in ihrem k
+ ünstlerischen Potenzial weit über die zu ihrer Entstehungszeit geltenden
+  kompositorischen Ideale hinausreichten und damit zu zeitlosen Klassikern 
+ geworden sind.\nMusikstücke\, die von vielen Zeitgenossen als verstörend
+  und aufrührerisch empfunden wurden\, weil sie sich den jeweiligen Konven
+ tionen und bewährten Modellen entzogen.\nMusik im Ausnahmezustand also\, 
+ weil die Schöpfer dieser Werke ungewohnte Harmonien und Formensprachen au
+ sprobierten und aus reiner Neugierde\, ungezähmter Experimentierfreude un
+ d mit künstlerischem Wagemut neue musikalische Prozesse anstießen.\n„W
+ er wagt\, gewinnt!“ Aber dass diese Werke später zu wahren Ikonen werde
+ n sollten\, war den meisten Komponisten im Moment ihrer Entstehung nicht a
+ nsatzweise bewusst. Im Gegenteil: Oft ahnten sie selbst nichts von der Tra
+ gweite ihrer gewagten Kompositionen\, wie z.B. die Band Led Zeppelin\, die
+  eine Single-Auskopplung ihres bahnbrechenden Songs Stairway to Heaven anf
+ änglich beharrlich verhinderte.\nMan fragt sich\, was wohl in Mozart beim
+  Schreiben der Einleitung zu seinem C-Dur Streichquartett vorgegangen ist\
+ , dem sogenannten Dissonanzen-Quartett\, in dem sich Klänge finden\, die 
+ 150 Jahre in die Zukunft verweisen und stilistisch eher Schostakowitsch zu
+ zuordnen wären.\nUnd schließlich die Beatles mit A Day in the Life als k
+ rönendem Abschluss ihres Albums\nSgt. Pepper’s Lonely Hearts Club Band 
+ – nicht einfach ein Beatles-Lied\, sondern ein epochales Werk\, das mit 
+ allen gängigen Mustern der Rockmusik brach und in seinem künstlerischen 
+ Anliegen immer noch visionär wirkt und begeistert.\nDas Symphonische Salo
+ norchester Ingolstadt greift diese und andere Werke auf und spannt in sein
+ em Herbstkonzert einen weiten stilistischen Bogen über mehrere Zeitepoche
+ n hinweg.\nMit dieser musikalischen Erkundungstour will das Orchester zeig
+ en\, wie Komponisten\, die unterschiedlicher nicht sein könnten\, mit ihr
+ em Mut\, über den Horizont ihrer Zeit hinauszudenken\, und im Vertrauen a
+ uf ihr Können den Weg für neue Hörgewohnheiten geebnet und in der Musik
+ welt neue Standards gesetzt haben.\nIn diesem Sinne lautet der Titel diese
+ s Konzerts: Wer wagt\, gewinnt!
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Catello Zaubermenü in der Präsidentensuite des Maritim Hotels
+DTSTART;TZID=Europe/Berlin:20261024T203000
+DTEND;TZID=Europe/Berlin:20261025T010000
+DTSTAMP:20260719T065608Z
+UID:catello-zaubermen-in-der-pr-sidentensuite-des-maritim-hotels-20261024-
+ 1830@ifg-plattform.de
+DESCRIPTION:Menü und Zaubershow als exklusives Event\n\nEinlass: 18:15\n\
+ nEine Show voller Staunen. \nEin unvergesslicher Abend mit tollem 3-Gang-M
+ enü bei dem alle Getränke inklusive sind.  \nVeranstaltung für nur 28 P
+ ersonen im exklusivsten Raum der Stadt - der Präsidentensuite des Hotels 
+ Maritim.\n\nIm Ticketpreis enthalten:\n* 3-Gang-Menü\n* Zaubershow\n* all
+ e Getränke\n\nDresscode: Cocktail / Festive Attire\n\nFür das Menü habe
+ n Sie die Auswahl aus verschiedenen Gerichten - falls Sie Sonderwünsche h
+ insichtlich veganem Essen oder Allergien haben\, können diese gerne berü
+ cksichtigt werden\, wenden Sie sich hier im Vorfeld einfach an den Veranst
+ alter\n\nAlle Infos und Tickets unter: http://www.zaubertage.de/catello/Se
+ iten/catellomenue.htm
+LOCATION:Congress Centrum Ingolstadt\, Gießerei-Platz 1\, 85049 Ingolstad
+ t
+X-SCORE:21
 END:VEVENT
 END:VCALENDAR
