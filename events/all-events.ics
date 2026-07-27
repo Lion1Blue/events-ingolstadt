@@ -3587,4 +3587,68 @@ LOCATION:Congress Centrum Ingolstadt\, Gießerei-Platz 1\, 85049 Ingolstad
  t
 X-SCORE:21
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazz &amp\; Literatur 1026
+DTSTART;TZID=Europe/Berlin:20261025T120000
+DTEND;TZID=Europe/Berlin:20261025T133000
+DTSTAMP:20260719T065607Z
+UID:jazz-amp-literatur-1026-20261025-1100@ifg-plattform.de
+RRULE:FREQ=DAILY;UNTIL=20261025T123000Z
+DESCRIPTION:Einlass: 10:30\n\nSeit 2012 bringen das Stadttheater Ingolstad
+ t  gemeinsam mit den Jazzfreunden Ingolstadt zwei faszinierende Kunstforme
+ n zusammen: Jazz &amp\; Literatur! Diese beliebte und erfolgreiche Veranst
+ altungsreihe verbindet fesselnde Lesungen mit mitreißender Live-Jazzmusik
+  – ein echtes Highlight für Kulturbegeisterte.\n \nDie Jazzfreunde Ingo
+ lstadt übernehmen dabei die musikalische Gestaltung und wählen sorgfält
+ ig die Jazzbands aus\, die für den perfekten Klangteppich sorgen. Das Erg
+ ebnis? Ein inspirierendes Wechselspiel aus Wort und Musik\, das das Publik
+ um jedes Mal aufs Neue .\nLiteratur bei dieser Veranstaltung:\n\nLiteratur
+  bei dieser Veranstaltung: noch offen\n\nMusikalische Umrahmung:  noch off
+ en\n\nEine Veranstaltung des Stadttheaters Ingolstadt in Zusammenarbeit mi
+ t den Jazzfreunden Ing. e. V.\n\nNach Schließung der Lokation im Stadtthe
+ ater jetzt im neuen Theater am Glacis
+LOCATION:Vorbühne Theater am Glacis\, Jahnstr. 9\, 85049 Ingolstadt
+X-SCORE:32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Die Festung Ingolstadt
+DTSTART;TZID=Europe/Berlin:20261025T143000
+DTEND;TZID=Europe/Berlin:20261025T160000
+DTSTAMP:20260719T065608Z
+UID:die-festung-ingolstadt-20261025-1330@ifg-plattform.de
+DESCRIPTION:Bayerische Landesfestung\n\nEinlass: 13:30\n\nIngolstadt gilt 
+ gemeinhin als größtes Freilichtmuseum für deutsche Festungsarchitektur.
+ \nDer Grund dafür ist nicht zuletzt der von König Ludwig I. von Bayern i
+ n Auftrag gegebene Bau der klassizistischen Landesfestung\, mit dem er sei
+ nen berühmten Hofarchitekten Leo von Klenze beauftragte.\nErobern Sie das
+  Herz der Festung bei einem Rundgang durch die einzigartige Festungsanlage
+  des Brückenkopfs. Dort erwarten Sie – auf dem Gelände des weitläuf
+ igen Klenzeparks – imposante Bauten wie das Reduit Tilly oder der Turm T
+ riva.
+LOCATION:Tourist Information\, Moritzstraße 19\, 85049 Ingolstadt
+X-SCORE:13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Katrin Iskam
+DTSTART;TZID=Europe/Berlin:20261025T210000
+DTEND;TZID=Europe/Berlin:20261026T005900
+DTSTAMP:20260719T065608Z
+UID:katrin-iskam-202610250900000000-2000@ifg-plattform.de
+DESCRIPTION:Gärtnern ohne viel Geschiss\n\nEinlass: 19:00\n\nKatrin Iskam
+  kommt am Sonntag\, den 25.10.2026 um 19:00 Uhr mit\nihrem neuen Programm 
+ Gärtnern ohne viel Geschiss in die eventhalle\nWestpark nach Ingolstadt.\
+ nSie ist berüchtigt\, sie ist einzigartig und sie ist definitiv verrüc
+ kt. Sie hat nicht DEN\ngrünen Daumen\, sondern gleich zwei davon. Gärtn
+ ern ohne viel Geschiss ist nicht\nnur ihr Motto\, sondern auch der Titel i
+ hrer aktuellen Live-Tour.\nDie Rede ist von Katrin Iskam\, gelernte und ak
+ tive Krankenschwester\, aber vor\nallem die heißeste Entdeckung in der hi
+ esigen Garten-Szene. Denn wer buddelt\,\nschaufelt und gräbt schon in Gum
+ mistiefeln und Nachthemd? Genau\, nur das\nKatrinchen\, wie sie liebevoll 
+ von ihren Fans genannt wird. Und davon gibt es\ninzwischen eine ganze Meng
+ e. Allein fast 200.000 auf ihrer mit dem 1. Platz des\nDeutschen Gartenbuc
+ hpreises prämierten Instagram-Seite @katrinsgarten. Die\nAutodidaktin ist
+  erfolgreiche Garten-Influenc...
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:16
+END:VEVENT
 END:VCALENDAR
