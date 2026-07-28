@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Mephistofeles
-DTSTART;TZID=Europe/Berlin:20260728T223000
-DTEND;TZID=Europe/Berlin:20260729T015900
-DTSTAMP:20260719T065608Z
-UID:mephistofeles-20260728-2030@ifg-plattform.de
-DESCRIPTION:Einlass: 19:30\n\nEinlass: 19:30\, VVK 18\,50 €\, AK 20\,- 
- €\n\nAus den Schatten der argentinischen Underground-Szene haben sich Me
- phistofeles zu einer Kultgröße im weltweiten Heavy-Psych-Kosmos entwicke
- lt. Gegründet 2013 in Paraná\, steht die Band für einen unverwechselbar
- en\, schmutzigen Sound\, der die tonnenschwere Schwere des Doom mit dem ro
- hen\, ungezähmten Vibe des 70s Proto-Doom verbindet. Ihre Musik kriecht\,
-  wummert und peitscht durch dichte Fuzz-Wände und sinistre Hooks.\n\nMit 
- kompromisslosen Veröffentlichungen wie ‚Whore‘\, ‚I’m Heroin‘ u
- nd ‚Satan Sex Ceremonies‘ (erschienen über Heavy Psych Sounds und Reg
- ain Records) hat sich das Trio eine treue\, weltweite Anhängerschaft ersp
- ielt. Auf der Bühne entfesseln Mephistofeles eine rohe\, dunkle Energie\,
-  die live in packender Heavy-Psych-Atmosphäre gipfelt. Eine Band\, die de
- n Geist des echten\, ungeschönten Undergrounds atmet und jeden Doom-Fan i
- n ihren Bann zieht.\n\nTonnenschwere Fuzz-Riffs\, okkulte Vibes und der dr
- eckige Geist des Rock’n’Roll: Mephistofeles aus Argentinien sind eine 
- Naturgewalt im modernen Stoner- und Doom-Underground. Wenn sie die Bühne 
- betreten\, verschmelzen dunkler Heavy Psych und hypnotische Doom-Schwere z
- u einem unvergesslichen Live-Erlebnis. Bereit für den Trip?
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:20
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:LIVE-Musik mit cultural.disaster
 DTSTART;TZID=Europe/Berlin:20260729T200000
 DTEND;TZID=Europe/Berlin:20260730T015900
