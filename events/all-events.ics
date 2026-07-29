@@ -2,17 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:LIVE-Musik mit cultural.disaster
-DTSTART;TZID=Europe/Berlin:20260729T200000
-DTEND;TZID=Europe/Berlin:20260730T015900
-DTSTAMP:20260719T065608Z
-UID:live-musik-mit-cultural-disaster-20260729-1800@ifg-plattform.de
-DESCRIPTION:gute Musik + gutes Bier = richtig gute Zeit
-LOCATION:Griesmüllers Altstadtbrauerei\, Schulstraße 19\, 85049 Ingolsta
- dt
-X-SCORE:16
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Carrara Weinfest
 DTSTART;TZID=Europe/Berlin:20260730T193000
 DTEND;TZID=Europe/Berlin:20260817T013000
