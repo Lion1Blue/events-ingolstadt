@@ -2,50 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Carrara Weinfest
-DTSTART;TZID=Europe/Berlin:20260730T193000
-DTEND;TZID=Europe/Berlin:20260817T013000
-DTSTAMP:20260719T065608Z
-UID:carrara-weinfest-20260730-1730@ifg-plattform.de
-DESCRIPTION:40. Carrara Weinfest\nAb Donnerstag\, 30. Juli\, bis Sonntag\,
-  16. August\, findet in Ingolstadt bereits zum 40. Mal das Carrara-Weinfes
- t\, das Festa del Vino\, statt. Auf dem Paradeplatz sorgt Veranstalter Gio
- vanni Frediani aus der Partnerstadt Carrara mit seiner Mannschaft unter de
- m Motto „La dolce vita…“ wieder für italienisches Flair. Die Besuch
- er/-innen können sich täglich von 17.30 bis 23.30 Uhr mit kulinarischen 
- Spezialitäten und Weinen bei musikalischer Begleitung verwöhnen lassen.\
- nDie Städtepartnerschaft mit Carrara besteht bereits seit 1962\, seit üb
- er 60 Jahren. Das Fest trägt dazu bei\, die vielfältigen partnerschaftli
- chen Bande zu festigen. \nInformationen zu den Ingolstädter Partnerstädt
- en unter: www.ingolstadt.de/partnerstaedte
-LOCATION:Paradeplatz\, Paradeplatz\, 85049 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:REG10N
-DTSTART;TZID=Europe/Berlin:20260730T220000
-DTEND;TZID=Europe/Berlin:20260731T000000
-DTSTAMP:20260719T065608Z
-UID:reg10n-20260730-2000@ifg-plattform.de
-DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nREG10N\n
- — Donnerstag\, 30/07 um 20 Uhr —\n\n\nWer aus Ingolstadt kommt\, dem s
- ind die Gesichter längst bekannt: Entstanden aus einer Zusammenarbeit zwe
- ier Ingolstädter Rapper\, ist REG10N seit 2025 als sechsköpfige Live-Rap
- -Band unterwegs. \n\n\nMit satirischen\, sozialkritischen Texten\, ehrlich
- em Live-Rap und jeder Menge Energie bringt die Formation frischen Wind in 
- die Ingolstädter Musikszene. Direkt\, laut und mit Blick auf aktuelle The
- men schaffen REG10N einen Sound und eine Stimmung die hängen bleiben. \n\
- n\nBei unserem siebten Biergartenkonzert feiert die Band Premiere im TAGTR
- AUM - wir sind uns sicher\, dass wir auch in Zukunft noch viel von ihnen h
- ören werden. \n\n\nWir freuen uns auf euch und einen energiegeladenen Abe
- nd im Biergarten. \n\n\nDas Konzept „Pay What You Want“ macht die TAGT
- RAUM Biergartenkonzerte bewusst offen und für jeden zugänglich.\n\n\nVie
- len Dank an unseren diesjährigen Partner der TAGTRAUM BIERGARTENKONZERTE 
- - die Sparkasse Ingolstadt Eichstätt.
-LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:24
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Die Nowak
 DTSTART;TZID=Europe/Berlin:20260731T220000
 DTEND;TZID=Europe/Berlin:20260801T010000
@@ -3612,5 +3568,23 @@ DESCRIPTION:Gärtnern ohne viel Geschiss\n\nEinlass: 19:00\n\nKatrin Iskam
   erfolgreiche Garten-Influenc...
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stefan Leonhardsberger
+DTSTART;TZID=Europe/Berlin:20261028T210000
+DTEND;TZID=Europe/Berlin:20261029T005900
+DTSTAMP:20260719T065608Z
+UID:stefan-leonhardsberger-20261028-2000@ifg-plattform.de
+DESCRIPTION:Herzklopfen\n\nEinlass: 19:00\n\nWie überlebt man Sperrmüll-
+ Dates mit der Ehefrau\, spontanen Kontrollbesuch vom Jugendamt und einen N
+ achbarn\, der besser nagelt als man selbst? \n\nIn „Herzklopfen“ erzä
+ hlt Stefan Leonhardsberger von der täglichen Herausforderung\, als Partne
+ r\, Heimwerker und Familienoberhaupt zu bestehen. Zwischen Meniskus-OPs\, 
+ Grillabenden mit Profi-Besserwissern und heimlichen Haschkeksen fragt er s
+ ich: Bin ich mit 40 noch cool oder schon wie mein eigener Vater? \n\nHerau
+ s kommt ein Abend voller Gags\, Gesang und intimer Geständnisse – witzi
+ g\, unverschämt und mitten ins Herz.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:10
 END:VEVENT
 END:VCALENDAR
