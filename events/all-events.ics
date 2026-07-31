@@ -2,54 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Die Nowak
-DTSTART;TZID=Europe/Berlin:20260731T220000
-DTEND;TZID=Europe/Berlin:20260801T010000
-DTSTAMP:20260719T065608Z
-UID:die-nowak-20260731-2000@ifg-plattform.de
-DESCRIPTION:&amp\; Die Leute aus der Raucherpause\n\nEinlass: 19:00\n\nEin
- e regennasse Großstadt. Die Nowak und die Leute aus der Raucherpause betr
- eten die nebelverhangene Bühne des schrillsten und abgeranztesten Clubs a
- m Kiez. Ein kurzer Augenaufschlag und Nowaks messerscharfer Blick verwande
- lt selbst ein Publikum wildgewordener Ganoven zu brav zuhörenden Lämmche
- n. Gleich einer Diva der Goldenen Zwanziger schmettert sie in die Tasten. 
- Ihre Stimme klingt nach heißem Glühwein auf Seidenpyjama. Sie sind jetzt
-  irritiert? Umso besser.\n\n\nZusammen mit Natasha Zaychenko am Kontrabass
- \, Daniel „Rändl“ Randlkofer an der Gitarre und am Banjo und Daniel 
- „Ricky“ Treimer am Schlagzeug\, verwandelt sie Schottergärten in Blum
- enwiesen\, heilt altes Liebesleid und holt Euch Träumer endlich aus dem N
- everland ab. Mit einem schmerzhaften Biss in den Verstand schneidet ihre M
- usik wie eine klingende Kettensäge durch den Dschungel der Konsumgesellsc
- haft und deckt die Wahrheit über den Zustand unserer Welt auf. Ihre Melod
- ien zwischen Chanson\, Punk\, Pop und Indie schleudern Blitze in Eure Herz
- en und lassen Euch mit zitternden Knien zurück\, bereit für mehr.. \n\nD
- ie Nowak ist anders\, eigenwillig und ein bisschen verschroben\, aber das 
- ist es\, was ihre Musik so faszinierend macht. Wenn sie auf der Bühne ste
- ht\, kann man nicht anders\, als sich von ihrer Energie und ihrem Charisma
-  mitreißen zu lassen. \n\nZitate\n• "Die Nowak im Dachgarten des KAP94:
-  mein Konzerthighlight 2025." Katharina Stork (Donaukurier)\n• "Bittersw
- eetness at ists best." 23.05.2023\, Tobias Ruhland (Bayern 2) \n• "Mal s
- anft\, mal kratzbürstig. Vor allem unterhaltsam" 26.05.2023\, 3sat Kultur
- zeit \n• "Die Nowak. Sowas gibt’s nicht nochmal. Das ist eine unfassba
- re Stimme mit irren Texten und eigentlich hat das\, was sie macht nirgendw
- o wirklich Platz\, aber alle müssen es hören. [...] Eine große Meisteri
- n des Chanson." Juni 2023\, Fiva alias Nina Sonnenberg (FM4) \n• "Süße
-  bissige melancholische Balladen ist gewissermaßen das Kerngeschäft der 
- Nowak. [...] Ich finde die Nowak würde sich auch wahnsinnig gut in einer 
- Punkband machen." 23.05.2023\, Tobias Ruhland (Bayern 2) \n• "Irgendwo z
- wischen Hildegard Knef und Schnipo Schranke. Gefällt mir." 20.05.2023\, B
- esitzer\, Em Drügge Pitter in Köln \n• "über alles erhabene Musik\, k
- lassischer Kammer-Pop\, [...] unverschämt originelle Arrangements und zum
-  Teil irrsinnig schöne Streicher-Unterstützung. [...] Wem hier beim Durc
- hhören nicht einmal die Augen feucht werden vor Überschwang\, tja\, der 
- fürchte ich\, hat leider kein Herz. Juni 2023\, Heinz Lehmann\, Kulturjou
- rnal Regensburg \n• „die fehlte uns noch [...] „Mein Bester“ ist e
- in zackiger Abgesang auf einen Scheißtypen“ Juni 2023\, BARBARA (Magazi
- n von Barbara Schöneberger)
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Rockabilly Fest mit Rockabella &amp\; The Giddyups
 DTSTART;TZID=Europe/Berlin:20260801T210000
 DTEND;TZID=Europe/Berlin:20260802T010000
@@ -3585,6 +3537,18 @@ DESCRIPTION:Herzklopfen\n\nEinlass: 19:00\n\nWie überlebt man Sperrmüll-
  s kommt ein Abend voller Gags\, Gesang und intimer Geständnisse – witzi
  g\, unverschämt und mitten ins Herz.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Dark Tenor - Rock meets Klassik 2026 - Symphonica
+DTSTART;TZID=Europe/Berlin:20261029T210000
+DTEND;TZID=Europe/Berlin:20261030T005900
+DTSTAMP:20260719T065608Z
+UID:the-dark-tenor-rock-meets-klassik-2026-symphonica-20261029-2000@ifg-pl
+ attform.de
+DESCRIPTION:Einlass: 19:00\n\nAlle Info´s zur Veranstaltung: https://www.
+ saturn-arena.de/events-und-konzerte/
+LOCATION:SATURN-Arena\, Südliche Ringstraße 64\, 85053 Ingolstadt
 X-SCORE:10
 END:VEVENT
 END:VCALENDAR
