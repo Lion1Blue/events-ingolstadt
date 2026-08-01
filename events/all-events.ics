@@ -2,107 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Rockabilly Fest mit Rockabella &amp\; The Giddyups
-DTSTART;TZID=Europe/Berlin:20260801T210000
-DTEND;TZID=Europe/Berlin:20260802T010000
-DTSTAMP:20260719T065608Z
-UID:rockabilly-fest-mit-rockabella-amp-the-giddyups-20260801-1900@ifg-plat
- tform.de
-DESCRIPTION:+ guest: Christian Christl &amp\; more\n\nEinlass: 18:00\n\nOp
- en Air im Turm Baur - Sitzplätze sind überdacht !\n\nWeitere Infos .. ba
- ld ☺️\n\nROCKABELLA &amp\; THE GIDDYUPS\nOooppps ! Wie doch die Zeit v
- ergeht… 40 Jahre Rockabella and the Giddyups!\nWer hätte das gedacht al
- s Mats Gabler und Fredl Schranz im Sommer 1985 ernsthaft beschlossen eine 
- Band zu gründen. Es fehlte nur noch ein Gitarrist und schon konnte man am
-  26.04.86 das erste Konzert geben. Der Erfolg gab den Dreien recht\, so mu
- sste das immerhin 6 Songs umfassende Programm an diesem Abend 3x gespielt 
- werden. Nach Umbesetzung und Fusion mit der Rockabilly Band von Bep Neubau
- er ging es dann mit dem Zugang von Schlagzeuger Ferdinand Brücklmeier ers
- t richtig los. Man spielte in wahrsten Sinne auf „Teufel komm raus“ wa
- s zum Markenzeichen des Combos wurde. Schnell wurde man in der Szene herum
- gereicht\, bekam Arrangements in ganz Europa ohne zu vergessen woher man k
- am und was der Auftrag war: Rockabilly + Spielfreude\, lachen und mit dem 
- Publikum Spaß haben.\nUnd genauso halten es die Jungs auch im 40. Jahr un
- d nach knapp 1000 Auftritten in dieser Besetzung.\nGarantiert wird ein Kon
- zert mit jeder Menge Spaß\, dem Besten aus 40 Jahren und nur kurzen Versc
- hnaufpausen. So gesehen Business as usual für die Jungs. Be there or be s
- quare!\nRockabella and the Giddyups Wopbopaloobopalopboomboom seit 1986!\n
- \nCHRISTIAN CHRISTL\nChristian Christl liebt das gute\, alte\, handgemacht
- e „Vintage Blues- &amp\; Barrelhouse Piano“. In den letzten 40 Jahren 
- spielte er Konzerte in ganz Europa\, in den USA und in Australien. Das akt
- uelle Solo-Programm heisst: „Die wunderbare Welt des Barrelhouse und Boo
- gie Piano“. Christian Christl spielt\, singt und erzählt Musik und Gesc
- hichten aus der Zeit\, als das Boogie Piano das Laufen lernte. Vom ersten 
- Trommelschlag in Afrika bis hin zum Rhythmus der Dampflok. Von der Puffmut
- ter Doodles im Storyville in New Orleans bis hin zu Fats Domino. Zwei Stun
- den Spontan-Lesung – natürlich ohne Manuskript\, aber mit viel guter\, 
- handgemachter Musik am Flügel. Der Blues Pianist Memphis Slim hat Christi
- an Christl vor vielen Jahren einen guten Tipp gegeben: „Blues Pianisten 
- erzählen musikalische Geschichten – und spielen ein klein wenig Klavier
-  dazu“. Christian Christl berücksichtigt diesen Tipp bis heute.
-LOCATION:Turm Baur Freilichtbühne\, Parkstraße 1\, 85049 Ingolstadt
-X-SCORE:44
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Poetry Slam am Donaustrand
-DTSTART;TZID=Europe/Berlin:20260801T213000
-DTEND;TZID=Europe/Berlin:20260801T233000
-DTSTAMP:20260719T065608Z
-UID:poetry-slam-am-donaustrand-20260801-1930@ifg-plattform.de
-DESCRIPTION:Moderner Dichterwettstreit - Open Air und kostenlos\n\nPoetry 
- Slam\, Donaustrand\, Open Air\, schönes Wetter\, wunderbare Texte\, lecke
- re Drinks und das alles ohne Eintritt - was kann es Besseres geben? Genau:
-  NICHTS!\n\nDeswegen laden Kevin Reichelt und das Team vom Donaustrand zum
-  achten Mal zum Poetry Sommer Slam an den Donaustrand Ingolstadt\, eine de
- r schönsten Slamlocations in ganz Deutschland.\n\nNach den bisherigen Sla
- ms am Donaustrand schwärmten tausende Zuschauer - und das absolut zu Rech
- t! \n\nDie Regeln sind dabei ganz einfach: Herzerweichende Lyrik\, aufbrau
- sende Kurzgeschichten\, lachmuskelnzerrende Prosa oder oder oder – textl
- ich ist alles auf der Bühne erlaubt. Aber Achtung: Keine abgeschriebenen 
- Texte\, keine Requisiten und auch keine reinen Gesangsstücke – den Auss
- chlag geben lediglich der Poet/die Poetin\, der selbst verfasste Text und 
- die Performance. Dafür haben die Slammer sechs Minuten Zeit\, um die Guns
- t des Publikums für sich zu gewinnen. Denn das Publikum entscheidet in de
- r Vorrunde und im Finale\, wer am Ende des Abends als Sieger oder Siegerin
-  die Donaustadt verlässt.\n\nAlso\, kommt rum\, genießt die Sonne\, habt
-  Spaß und wir erleben gemeinsam einen besonderen Abend. :)\n\nAchtung: Be
- i schlechtem Wetter muss die Veranstaltung leider abgesagt werden!
-LOCATION:Donaustrand\, Klenzepark\, 85049 Ingolstadt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: Trailershow
-DTSTART;TZID=Europe/Berlin:20260801T231500
-DTEND;TZID=Europe/Berlin:20260802T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-trailershow-20260801-2115@ifg-plattform.de
-DESCRIPTION:Einlass: 18:30\n\nEs hat sich bewährt\, den ersten Spieltag i
- m Freilichtkino mit einer kostenlosen Trailershow zu eröffnen. Schon bevo
- r die Saison beginnt\, entsteht diese besondere Stimmung\, die man nur an 
- warmen Sommerabenden draußen erlebt: erwartungsvolle Gespräche\, leises 
- Lachen\, der Duft von Popcorn in der Luft und über allem ein Himmel\, der
-  langsam in die Nacht gleitet.\nDie Trailershow wird dabei fast selbst zum
-  kleinen Ereignis. Spannung\, Abenteuer\, große Gefühle und überraschen
- de Momente flimmern über die Leinwand und machen Lust auf all die kommend
- en Kinoabende unter freiem Himmel. Für viele ist genau das der Auftakt in
-  einen Sommer voller gemeinsamer Erinnerungen. Wir freuen uns auf viele we
- itere warme Sommernächte gemeinsam – auf Geschichten unter offenem Himm
- el. Auf leuchtende Augen im Schein der Leinwand und auf diese kleinen stil
- len Momente\, in denen man einfach innehält und denkt: Genauso fühlt sic
- h Sommer an.
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:35
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:PARTIPRIVATI im Backhaus
 DTSTART;TZID=Europe/Berlin:20260802T213000
 DTEND;TZID=Europe/Berlin:20260803T015900
@@ -3550,5 +3449,85 @@ DESCRIPTION:Einlass: 19:00\n\nAlle Info´s zur Veranstaltung: https://www.
  saturn-arena.de/events-und-konzerte/
 LOCATION:SATURN-Arena\, Südliche Ringstraße 64\, 85053 Ingolstadt
 X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Halloween-Teenieparty - Save the Date
+DTSTART;TZID=Europe/Berlin:20261030T190000
+DTEND;TZID=Europe/Berlin:20261030T230000
+DTSTAMP:20260719T065608Z
+UID:halloween-teenieparty-save-the-date-20261030-1800@ifg-plattform.de
+DESCRIPTION:Einlass: 17:30\n\nDu bist zwischen 10 und 15 Jahren? Dann sei 
+ dabei und feiere die coolste Party in der elternfreien Zone!
+LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
+X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mozart - Requiem
+DTSTART;TZID=Europe/Berlin:20261030T200000
+DTEND;TZID=Europe/Berlin:20261031T005900
+DTSTAMP:20260719T065608Z
+UID:mozart-requiem-20261030-1900@ifg-plattform.de
+DESCRIPTION:W.A. Mozart - Requiem in d - Liebfrauenmünster Ingolstadt\n\n
+ Konzert am Liebfrauenmünster\n\nFreitag\, 30. Oktober 2026\, 19 Uhr\n\nM
+ ünsterchor\nBarockorchester La Banda\nSolisten: Magdalena Dijkstra\, Frey
+ a Apffelstaedt\, Benedikt Heggemann\, Marlo Honselmann\nLeitung: Regionalk
+ antor David Kirschsieper
+LOCATION:Münster Zur Schönen Unserer Lieben Frau\, Kreuzstraße 1\, 8504
+ 9 Ingolstadt
+X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:DeSchoWieda
+DTSTART;TZID=Europe/Berlin:20261030T210000
+DTEND;TZID=Europe/Berlin:20261031T005900
+DTSTAMP:20260719T065608Z
+UID:deschowieda-202610301100000000-2000@ifg-plattform.de
+DESCRIPTION:Des tourt guad!\n\nEinlass: 19:00\n\nAngetrieben von intensive
+ m Tuba-Bass\, Quetschn-Synthie und frischen Beats (Volksmusik meets Pop\, 
+ Hip Hop und Dance Music) sind die Lederhosengangsta “DeSchoWieda” weit
+ er on the road mit ihrem unverwechselbaren Sound und frechen Texten: Des t
+ ourt guad! \n\nNach über 10 Jahren jammen sie immer noch gerne auf engste
+ m Raum und drehen ihre Videos im Auto. Mit ihrer bayrischen Kultversion 
+ “Nimma” des Chartbreakers “Timber” von Pitbull wurden sie 2014 üb
+ er Nacht bekannt und starteten 2015 mit einem ausverkauften Konzert in der
+  Erdinger Stadthalle eine Live-Erfolgsgeschichte durch Bayern und Österre
+ ich. 2017 antworteten DeSchoWieda bayrisch auf „Despacito“ im Mustang 
+ Cabrio\, chauffiert von Monika Gruber. \nDer Sommer 2019 stand ganz im Zei
+ chen des 90er Hits „I‘m too sexy“ mit Right Said Fred „auf da Bier
+ bank“\, was in einem gemeinsamen Autovideo bis heute international die R
+ unde macht (Bis dato 17 Millionen Impressions auf Facebook). Mit Hannes Ri
+ nglstetter wurde 2022 die „Centerfold“ im Bandbus ausgecheckt! Wer woh
+ l als Nächstes mit im Auto sitzen wird? Lasst euch überraschen. Neben or
+ iginellen Welthit-Coverversionen und -Medleys radelt ihr „Easy Rider“ 
+ seit 2014 ungebremst weiter durch die Festival-Hochburgen\, und zeigt dem 
+ „Grantler“ wie man sich freihändig unter dem Lebensmotto „Scheiß d
+ a nix“ entspannt. Dabei wird der Ohrwurm „Heid moi ned an moing denga
+ “ für die heiß geliebte „Oh Mare“ lautstark gesungen\, bis man bei
+ m „Fensterln geh“ irgendwann vielleicht doch noch mal erfolgreich war.
+  \;) „Servus Habedehre“\, das wohl schönste Schlusslied aller Zeiten 
+ braucht bald eine eigene Pressemitteilung. \nKurz: Das Video aus 2017 mit 
+ „DeSchoWieda feat. FT München Gern &amp\; Philipp Lahms Weggefährten
+ “ könnte kaum stimmungsvoller sein - seither beschließt diese Hymne di
+ e Liveauftritte der Band mit Funkenflug und begleitet tausende Fans nicht 
+ nur von der Wiesn glücklich nach Hause. \n\nDeSchoWieda – Des tourt gua
+ d!
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:56
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Gunmen
+DTSTART;TZID=Europe/Berlin:20261030T210000
+DTEND;TZID=Europe/Berlin:20261031T005900
+DTSTAMP:20260719T065608Z
+UID:the-gunmen-20261030-2000@ifg-plattform.de
+DESCRIPTION:Einlass: 19:00\n\nAm 30. Oktober ist es wieder so weit: Die Fa
+ ns dürfen sich auf ein Konzert der Ingolstädter Kultband THE GUNMEN im h
+ istorischen Ambiente des Bauerngerätemuseums freuen. Mit ihrem unverwechs
+ elbaren Südstaaten-Sound zwischen Blues und Rock\, West Coast und Tex Mex
+ \, ihrem Groove und mit der Dynamik ihres charismatischen Frontmanns »Dac
+ kel« Robert Hirmer schlagen sie jedes Publikum in ihren Bann und machen i
+ hre Live-Konzerte zu einem mitreißenden Musikerlebnis.
+LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
+X-SCORE:33
 END:VEVENT
 END:VCALENDAR
