@@ -2,67 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:PARTIPRIVATI im Backhaus
-DTSTART;TZID=Europe/Berlin:20260802T213000
-DTEND;TZID=Europe/Berlin:20260803T015900
-DTSTAMP:20260719T065608Z
-UID:partiprivati-im-backhaus-20260802-1930@ifg-plattform.de
-DESCRIPTION:Einlass: 19:00\n\nPartiprivati ist eine junge Indie-Singer-Son
- gwriter-Band aus Freiburg. Mal nachdenklich und ernst\, mal ironisch und a
- ufgedreht\, verarbeiten sie in ihren Liedern persönliche und gesellschaft
- liche Themen.\n\nIhr individueller Sound entsteht durch die besondere Bese
- tzung: Gesang\, Cello\, Drums\, Klavier und Synths verschmelzen zu detailr
- eichen Arrangements\, beeinflusst von Pop\, Jazz und Klassik. Mit ihrer Mu
- sik schafft Partiprivati Räume für Nähe: Zu sich selbst\, zu den eigene
- n Gefühlen und Gedanken\, und zu den Menschen um sich herum.\n\nEintritt 
- frei\, Spenden erbeten!
-LOCATION:Backhaus Gaimersheim\, Oberer Marktstraße 2a\, 85080 Gaimersheim
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Werner Schmidbauer
-DTSTART;TZID=Europe/Berlin:20260802T220000
-DTEND;TZID=Europe/Berlin:20260803T010000
-DTSTAMP:20260719T065608Z
-UID:werner-schmidbauer-20260802-2000@ifg-plattform.de
-DESCRIPTION:Der Momentnsammler unterwegs\n\nEinlass: 19:00\n\nOpen Air im 
- Turm Baur - Sitzplätze sind überdacht !\n\nAuf meiner über zweieinhalb 
- Jahre dauernden „Mia san Oans“-Solo-Live-Tour\, vor insgesamt über 70
- .000 begeisterten Zuschauern\, wurde ich immer wieder mit Liederwünschen 
- meines Publikums konfrontiert. Zum Teil per Email\, oft aber auch direkt v
- or\, während und nach den Konzerten\, äußerten meine Zuhörer ihre Herz
- ensliederwünsche. Diese betrafen häufig aktuelle\, sehr oft aber auch So
- ngs\, aus der Anfangszeit meines Schaffens als Liedermacher. Es ist erstau
- nlich\, welch ein breites Spektrum an Liedern für mein Publikum in irgend
- einer Weise wichtig war oder immer noch ist. \n\nBeim Durchstöbern meines
-  Liederarchivs wurde mir erst bewusst\, dass ich meinen allerersten Song 
- „Pubertäts-Blues“ als 15-Jähriger geschrieben habe und damit 2026 me
- in 50-jähriges Jubiläum als Liedermacher feiere. Eine Zeitspanne\, in de
- r weit mehr als 200 Titel entstanden\, die ich zum Teil immer wieder\, zum
-  Teil aber auch ewig lang nicht mehr\, manche sogar noch nie\, live auf di
- e Bühne gebracht habe. Höchste Zeit also für eine Momentnsammler-Tour m
- it einer Auswahl der beliebtesten\, am meisten gewünschten\, aber auch de
- r schrägsten und vielleicht sogar bis heute noch nie vor Publikum perform
- ten Schmidl-Songs. \n\nIch habe sehr große Lust darauf\, als Momentnsamml
- er solo unterwegs zu sein! Mit unbegrenzter Freiheit\, maximaler Spontanit
- ät… und natürlich wild entschlossen\, auf jedem Konzert die speziellen
-  Wünsche meiner Zuhörer zu erfüllen. Wenn alles gut geht\, werde ich au
- f der kommenden Momentnsammler-Tour eine Weile unterwegs sein und 2028 dan
- n auch noch mein 50-jähriges Bühnenjubiläum feiern dürfen… was für 
- ein Geschenk das wäre! \n\nIch freue mich auf jedes Konzert\, auf jede Ei
- nzelne und jeden Einzelnen von euch. Lasst uns gemeinsam die Augenblicke g
- enießen\, die uns das Leben schenkt und die wir uns auf den Momentnsammle
- r-Abenden gegenseitig bescheren werden… trotz und gerade wegen dieser ha
- rten\, zynischen und kalten Zeiten. Denn wie heißt es im Song „Da drauf
-  drink ma oan“ aus meinem allerersten Album: „De Zeiten san vui z’ha
- rt zum härter werdn. De Zeiten san vui z’koid zum kälter werdn. De Lei
- t\, de jammern\, wenn bloß ned so vui Hass und Neid waar.\n\nUnd i sag: A
- uf Dauer is Liebe unvermeidbar“ Mia san oans … und dafür mein Dank! \
- nAus dem Süden von meim Herzen\, Werner Schmidbauer
-LOCATION:Turm Baur Freilichtbühne\, Parkstraße 1\, 85049 Ingolstadt
-X-SCORE:21
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Live-Konzert AUSTRIA 4+
 DTSTART;TZID=Europe/Berlin:20260803T220000
 DTEND;TZID=Europe/Berlin:20260804T015900
@@ -3529,5 +3468,62 @@ DESCRIPTION:Einlass: 19:00\n\nAm 30. Oktober ist es wieder so weit: Die Fa
  hre Live-Konzerte zu einem mitreißenden Musikerlebnis.
 LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
 X-SCORE:33
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Figuren aus Draht und Gips
+DTSTART;TZID=Europe/Berlin:20261031T110000
+DTEND;TZID=Europe/Berlin:20261031T140000
+DTSTAMP:20260719T065607Z
+UID:figuren-aus-draht-und-gips-20261031-1000@ifg-plattform.de
+DESCRIPTION:Einlass: 10:00\n\nGestaltung fantastischer Figuren und kleiner
+  Geschöpfe!\nIn diesem Workshop könnt ihr eine tolle Figur erschaffen 
+ – genau so\, wie ihr sie euch ausdenkt.\nVielleicht wird es ein Sportler
+ \, eine Tänzerin\, eine Abbildung von euch selbst\, dick oder dünn\, ste
+ if wie ein Roboter oder ganz beschwingt wie ein Wirbelwind. Lustig\, verr
+ ückt oder total abstrakt – alles ist erlaubt.\nWir entdecken\, wie Figu
+ ren aufgebaut werden\, wie Formen modelliert und kleine Details herausgear
+ beitet werden\, damit eure Skulptur richtig lebendig wirkt.\nIhr lernt\, w
+ ie aus Alltagsmaterial und Draht ein stabiles Gerüst entsteht\, wie ein H
+ olzsockel gebaut wird und wie eure Figur mit Papiermaché oder Gips eine f
+ este Form bekommt.\nDanach könnt ihr sie bunt bemalen und ihr euren ganz 
+ eigenen Look verpassen.\n \nWeitere Infos und Anmeldung unter: https://umw
+ eltstation-ingolstadt.de/veranstaltungskalender
+LOCATION:Jugendbildungshaus am Baggersee\, Oberschüttweg 25\, 85049 Ingol
+ stadt
+X-SCORE:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Aktuell 2026
+DTSTART;TZID=Europe/Berlin:20261031T120000
+DTEND;TZID=Europe/Berlin:20261031T190000
+DTSTAMP:20260719T065608Z
+UID:aktuell-2026-20261031-1200@ifg-plattform.de
+RRULE:FREQ=WEEKLY;UNTIL=20261122T225959Z;INTERVAL=1;BYDAY=SA,TH,FR,SU
+DESCRIPTION:Jahresausstellung des BBK\n\nAktuelle zeitgenössische Strömu
+ ngen\, BBK Verbandsausstellung\n------------------------------\nVernissage
+ : 31.10. 19:00 Uhr\n------------------------------\nÖffnungszeiten: \nDo\
+ , Fr: 14 -18 Uhr\nSa\, So\, Feiertag: 12-18 Uhr\n-------------------------
+ -----\nEintritt frei. Um eine Spende von 3 € wird gebeten.
+LOCATION:Städtische Galerie Harderbastei\, Oberer Graben 55\, 85049 Ingol
+ stadt
+X-SCORE:13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eisregen
+DTSTART;TZID=Europe/Berlin:20261031T210000
+DTEND;TZID=Europe/Berlin:20261101T005900
+DTSTAMP:20260719T065608Z
+UID:eisregen-20261031-2000@ifg-plattform.de
+DESCRIPTION:HERBSTRITUALE 2026\n\nEinlass: 19:00\n\nDie thüringische Extr
+ em Metal-Legende EISREGEN feilt am neuen Opus NULLNEGATIV und wird die Arb
+ eiten im Oktober/November für ein paar ausgewählte Live-Konzerte unterbr
+ echen. \nFans der Band werden bei neuen und alten Klassikern voll auf ihre
+  Kosten kommen! \nDie besondere Stimmung und Intensität eines EISREGEN-Ko
+ nzertes ist sehr speziell\, lasst euch diese vier Shows nicht entgehen. Be
+ gleitet werden die Thüringer in Passau &amp\; Ingolstadt von ihren Freund
+ en MAAHES &amp\; in Oberhausen und Karlsruhe von lokalen Support-Acts. \n\
+ nKarten gibt es an allen bekannten VVK-Stellen
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:24
 END:VEVENT
 END:VCALENDAR
