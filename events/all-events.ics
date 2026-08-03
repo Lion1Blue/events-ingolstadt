@@ -2,29 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Live-Konzert AUSTRIA 4+
-DTSTART;TZID=Europe/Berlin:20260803T220000
-DTEND;TZID=Europe/Berlin:20260804T015900
-DTSTAMP:20260719T065608Z
-UID:live-konzert-austria-4-20260803-2000@ifg-plattform.de
-DESCRIPTION:AUSTRIA 4+ | 150 min  |  Konzert\,  Austro-Pop | Sonderveranst
- altung\n\nEinlass: 18:30\n\nLange Zeit schon ein Muss im Sommer im Freilic
- htkino.\n\nImmer wieder begeistert AUSTRIA 4+ das Publikum mit ihrem öste
- rreichischen Charme. Wer echte Austropop-Seligkeit finden mag\, ist hier g
- enau richtig.
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:32
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ferienprogramm  „Formen entdecken\, erleben und gestalten“ –
   Ferien-Workshop
 DTSTART;TZID=Europe/Berlin:20260804T120000
@@ -3524,6 +3501,73 @@ DESCRIPTION:HERBSTRITUALE 2026\n\nEinlass: 19:00\n\nDie thüringische Extr
  en MAAHES &amp\; in Oberhausen und Karlsruhe von lokalen Support-Acts. \n\
  nKarten gibt es an allen bekannten VVK-Stellen
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Donizetti: Requiem – Mayr: Atalia
+DTSTART;TZID=Europe/Berlin:20261101T200000
+DTEND;TZID=Europe/Berlin:20261102T005900
+DTSTAMP:20260719T065608Z
+UID:donizetti-requiem-mayr-atalia-20261101-1900@ifg-plattform.de
+DESCRIPTION:Kammerphilharmonie Ingolstadt &amp\; MaxChor München\n\nEinla
+ ss: 18:30\n\nMit einer Ingolstädter und Münchner Erstaufführung präsen
+ tieren die Internationale Simon-Mayr-Gesellschaft Ingolstadt und der MaxCh
+ or München am 31. Oktober 2026 im Herkulessaal der Residenz München und 
+ am 1. November 2026 im Festsaal Ingolstadt ein außergewöhnliches Konzert
+ programm. Mit dem Requiem von Gaetano Donizetti\, einem Werk von großer e
+ motionaler Ausdruckskraft wird der November mit seinen Gedenktagen wie All
+ erheiligen\, Buß- und Bettag\, Volkstrauertag und Totensonntag würdig be
+ gonnen. Donizetti hat das Requiem 1835 anlässlich des plötzlichen Todes 
+ seines Musikerkollegens Vincenzo Bellini komponiert. Die geplante Aufführ
+ ung kam jedoch nicht zustande und das Requiem wurde erst 1870\, also 22 Ja
+ hre nach Donizettis Tod in Bergamo uraufgeführt.\nKonzertant aufgeführte
+  Ausschnitte aus Johann Simon Mayrs Oper „Atalia“ ergänzen das Progra
+ mm. In „Atalia“\, einem “Dramma sacro per musica“\, wie es Mayr be
+ zeichnete\, zeigt sich die kompositorische Meisterschaft und die dramatisc
+ he Kraft des damals 59-jährigen Johann Simon Mayrs. In Mendorf geboren\, 
+ lebte Mayr viele Jahre in Ingolstadt\, ging 1789 nach Italien und wurde 18
+ 02 zum Kapellmeister der Basilika Santa Maria Maggiore in Bergamo ernannt.
+  1806 initiierte er in Bergamo eine Musikschule und unterrichtete Komposit
+ ion. Von der Kirche und der Stadt finanziert\, wurde der Unterricht begabt
+ en\, aber mittellosen Schülern kostenlos angedient. Sein bekanntester Sch
+ üler war Gaetano Donizetti. So erklingen mit diesem Konzert Werke von Leh
+ rer und Schüler\, Werke zwischen klassischer Tradition und romantischem A
+ usdruck.\nFür die Aufführungen haben sich renommierte Ensembles zusammen
+ geschlossen: Der MaxChor München\, der italienische Coro Città di Piazzo
+ la sul Brenta (Einstudierung Paolo Piana)\, die Kammerphilharmonie Ingolst
+ adt sowie die Solisten und Solistinnen Evgeniya Sotnikova\, Sopran\, Ruth 
+ Volpert\, Alt\, Andrés Agudelo\, Tenor und Petro Morozov\, Bass\, die an 
+ der Bayerischen Staatsoper oder beim Bayerischen Rundfunkchor engagiert si
+ nd. Die musikalische Leitung liegt in den Händen von Gerald Häußler\, d
+ er seit vielen Jahren als profilierter Dirigent für differenzierte Klangg
+ estaltung und stilistische Souveränität steht. \nMit dem gemeinsamen Sin
+ gen und Musizieren von Musikern und Sängern aus zwei Städten zweier Län
+ der und somit aus zwei musikalischen Traditionen feiert dieses Konzert das
+  75. Jubiläum der diplomatischen Beziehungen zwischen der Republik Italie
+ n und der Bundesrepublik Deutschland. Aufgrund dessen zeigte sich der ital
+ ienische Generalkonsul erfreut\, die Schirmherrschaft zu übernehmen.\nDas
+  Konzert wird vom Kulturfonds Bayern\, dem Bezirk Oberbayern und der Stift
+ ung „Baronin de Bassus“ unterstützt.
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Fauler Zauber" - 29. Ingolstädter Zaubertage
+DTSTART;TZID=Europe/Berlin:20261101T200000
+DTEND;TZID=Europe/Berlin:20261101T220000
+DTSTAMP:20260719T065608Z
+UID:fauler-zauber-29-ingolst-dter-zaubertage-20261101-1900@ifg-plattform.d
+ e
+DESCRIPTION:Zaubershow mit  André Hieronymus\n\nEinlass: 18:45\n\n"Fauler
+  Zauber"- 29. Ingolstädter Zaubertage\nmit André Hieronymus\n\nAchtung! 
+ Unnett! Unernst! Unsensibel - aber herzlich! Und gnadenlos komisch!\n\nSta
+ ubtrockener Humor gepaart mit verblüffender Magie - das sind die Markenze
+ ichen des unverwechselbaren Hieronymus. Mit seiner schlechten Laune wird e
+ r auch Ihre Sympathie erringen und Ihre Lachmuskeln erschüttern.\n\nLasse
+ n Sie sich zum Staunen bringen und erleben Sie die besten Nummern der übe
+ r dreißigjährigen Varieté-Karriere dieses Vollblutmagiers als Solo-Show
+ \n  \nMehr Infos:  www.hieronymus.biz
+LOCATION:Altstadttheater\, Kanalstraße 1A\, 85049 Ingolstadt
 X-SCORE:24
 END:VEVENT
 END:VCALENDAR
