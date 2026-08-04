@@ -2,52 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Ferienprogramm  „Formen entdecken\, erleben und gestalten“ –
-  Ferien-Workshop
-DTSTART;TZID=Europe/Berlin:20260804T120000
-DTEND;TZID=Europe/Berlin:20260806T150000
-DTSTAMP:20260719T065608Z
-UID:ferienprogramm-formen-entdecken-erleben-und-gestalten-ferien-workshop-
- 20260804-1000@ifg-plattform.de
-DESCRIPTION:Einlass: 09:45\n\nAn drei spannenden Workshoptagen dreht sich 
- alles um die Welt der Formen. Gemeinsam wird erforscht\, was Formen alles 
- können: Sie sprechen\, singen\, tanzen und erzählen ihre ganz eigene Ges
- chichte. So werden ihre unterschiedlichen Eigenschaften spielerisch entdec
- kt und erlebt – ob rund oder spitz\, weich oder hart\, dick oder dünn\,
-  laut oder leise\, winzig klein oder riesengroß.\n\nEin abwechslungsreich
- es Formen-Überraschungspaket wartet auf die Kinder. Im Museumsatelier wer
- den sie selbst kreativ und gestalten eigene Werke. Außerdem erkunden sie 
- die Ausstellung und entdecken die faszinierende Vielfalt der Formen im Mus
- eum.\n\nBrotzeit und Getränke dürfen mitgebracht werden. Schürzen sind 
- vor Ort vorhanden.
-LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
- adt
-X-SCORE:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Live-Konzert AUSTRIA 4+
-DTSTART;TZID=Europe/Berlin:20260804T220000
-DTEND;TZID=Europe/Berlin:20260805T015900
-DTSTAMP:20260719T065607Z
-UID:live-konzert-austria-4-20260804-2000@ifg-plattform.de
-DESCRIPTION:AUSTRIA 4+ | 150 min  |  Konzert\,  Austro-Pop | Sonderveranst
- altung\n\nEinlass: 18:30\n\nLange Zeit schon ein Muss im Sommer im Freilic
- htkino.\n\nImmer wieder begeistert AUSTRIA 4+ das Publikum mit ihrem öste
- rreichischen Charme. Wer echte Austropop-Seligkeit finden mag\, ist hier g
- enau richtig.
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:32
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Die große Nacht der italienischen Welthits!
 DTSTART;TZID=Europe/Berlin:20260805T220000
 DTEND;TZID=Europe/Berlin:20260806T010000
@@ -3569,5 +3523,24 @@ DESCRIPTION:Zaubershow mit  André Hieronymus\n\nEinlass: 18:45\n\n"Fauler
  \n  \nMehr Infos:  www.hieronymus.biz
 LOCATION:Altstadttheater\, Kanalstraße 1A\, 85049 Ingolstadt
 X-SCORE:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:"Fauler Zauber" - 29. Ingolstädter Zaubertage
+DTSTART;TZID=Europe/Berlin:20261102T200000
+DTEND;TZID=Europe/Berlin:20261102T220000
+DTSTAMP:20260719T065607Z
+UID:fauler-zauber-29-ingolst-dter-zaubertage-20261102-1900@ifg-plattform.d
+ e
+DESCRIPTION:Zaubershow mit  André Hieronymus\n\nEinlass: 17:45\n\n"Fauler
+  Zauber" - im Rahmen der 29. Ingolstädter Zaubertage - www.zaubertage.de\
+ nmit André Hieronymus\n\nAchtung! Unnett! Unernst! Unsensibel - aber herz
+ lich! Und gnadenlos komisch!\n\nStaubtrockener Humor gepaart mit verblüff
+ ender Magie - das sind die Markenzeichen des unverwechselbaren Hieronymus.
+  Mit seiner schlechten Laune wird er auch Ihre Sympathie erringen und Ihre
+  Lachmuskeln erschüttern.\n\nLassen Sie sich zum Staunen bringen und erle
+ ben Sie die besten Nummern der über dreißigjährigen Varieté-Karriere d
+ ieses Vollblutmagiers als Solo-Show\n\nMehr Infos:  www.hieronymus.biz
+LOCATION:Zum Gutmann\, Am Graben 36\, 85072 Eichstätt
+X-SCORE:14
 END:VEVENT
 END:VCALENDAR
