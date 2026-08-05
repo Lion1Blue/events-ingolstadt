@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Die große Nacht der italienischen Welthits!
-DTSTART;TZID=Europe/Berlin:20260805T220000
-DTEND;TZID=Europe/Berlin:20260806T010000
-DTSTAMP:20260719T065608Z
-UID:die-gro-e-nacht-der-italienischen-welthits-20260805-2000@ifg-plattform
- .de
-DESCRIPTION:mit I DOLCI SIGNORI\n\nEinlass: 19:00\n\nOpen Air im Turm Baur
-  - Sitzplätze sind überdacht !\n\nI Dolci Signori sind zweifellos eine d
- er erfolgreichsten Italo-Pop-Gruppen Europas. Seit 2002 touren sie unermü
- dlich national und international und erfreuen sich dabei großer Beliebthe
- it. Zahlreiche Festivals mit Tausenden begeisterten Fans sind das Ergebnis
- . \n\nDie Besucher dürfen sich auf eine einzigartige Auswahl der schönst
- en italienischen Popsongs der letzten Jahrzehnte freuen\, verpackt in ein 
- besonders unterhaltsames und kurzweiliges Bühnenprogramm. Unvergessliche 
- Hits von Eros Ramazzotti\, Zucchero\, Adriano Celentano\, Al Bano Carrisi\
- , den neapolitanischen Barden Renato Carosone und Cantautori sowie Lucio D
- alla dürfen dabei natürlich nicht fehlen. Im Mittelpunkt stehen die beid
- en italienischen Frontmänner Rocky Verardo (Gesang) und Gianni Carrera (G
- itarre\, Gesang). Mit Charme\, Witz und Sympathie übernehmen sie die Mode
- ration und überzeugen zusammen mit ihren Bandkollegen Ricardo Belli (Gita
- rre\, Mandoline\, Gesang)\, Giulio de Fabri (Bass)\, Bernd Meyer (Keyboard
- \, Akkordeon\, Gesang) und Michael Thomas (Schlagzeug\, Percussion) durch 
- mitreißende Darbietungen auf der Bühne. Die Konzerte von I Dolci Signori
-  entwickeln sich zu großen Partys\, bei denen zusammen mit dem Publikum g
- efeiert\, getanzt und gesungen wird – ganz nach dem Motto der Band: „M
- usica\, Passione e Emozioni!“ ! Gut zu wissen! \n\nDie Erfolgsgeschich
- te dieser Band inspirierten Regisseur und Theaterintendant Stefan Tilch im
-  Jahr 2017 dazu\, sogar ein eigenes Italo-Pop-Musical namens „Azzurro“
-  und „AzzurroDue“ (Teil 2) mit der Band zu inszenieren. In diesem Musi
- cal übernehmen die Musiker von I Dolci Signori nicht nur ihre musikalisch
- e Rolle\, sondern brillieren auch als Schauspieler. Seit 2018 wird das Mus
- ical kontinuierlich in meist ausverkauften Häusern aufgeführt.
-LOCATION:Turm Baur Freilichtbühne\, Parkstraße 1\, 85049 Ingolstadt
-X-SCORE:58
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hinter den Kulissen der Brauerei - erleben Sie Nordbräu hautnah!
 DTSTART;TZID=Europe/Berlin:20260806T190000
 DTEND;TZID=Europe/Berlin:20260806T210000
@@ -3542,5 +3506,46 @@ DESCRIPTION:Zaubershow mit  André Hieronymus\n\nEinlass: 17:45\n\n"Fauler
  ieses Vollblutmagiers als Solo-Show\n\nMehr Infos:  www.hieronymus.biz
 LOCATION:Zum Gutmann\, Am Graben 36\, 85072 Eichstätt
 X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:K-POP LIVE! Die Hits. Die Moves. Die Show.
+DTSTART;TZID=Europe/Berlin:20261103T190000
+DTEND;TZID=Europe/Berlin:20261103T213000
+DTSTAMP:20260719T065608Z
+UID:k-pop-live-die-hits-die-moves-die-show-20261103-1800@ifg-plattform.de
+DESCRIPTION:Das K-Pop-Erlebnis\, auf das alle gewartet haben\n\nEinlass: 1
+ 7:00\n\nBereit für eine Show\, die Euch komplett aus dem Alltag reißt? F
+ ür einen Abend voller Beats\, Emotionen\, spektakulärer Moves und echtem
+  Idol-Feeling? Dann heißt es jetzt: \nLicht aus\, Musik an und Bühne fre
+ i für K-POP LIVE!\n\nDiese Show ist eine Explosion aus Sound\, Style\, En
+ ergie und Gänsehaut. Inspiriert von der faszinierenden Welt des K-Pop bri
+ ngt Sweeney Production aus England ein Live-Erlebnis auf die Bühne\, das 
+ Fans mitten hinein katapultiert in eine Welt aus großen Gefühlen\, ikoni
+ schen Choreografien und purem Hype. Hier wird nicht nur performt – hier 
+ wird geflasht\, mitgerissen und gefeiert.\n\nFreut Euch auf die Songs und 
+ Vibes großer K-Pop-Acts wie Blackpink\, Twice\, Katseye sowie auf musikal
+ ische Highlights aus „Demon Hunters“. Ein starkes Ensemble aus 12 Sän
+ ger- und Tänzerinnen liefert eine energiegeladene Performance mit Power\,
+  Ausstrahlung und absolutem Wow-Effekt. Jede Nummer knallt\, jede Szene ü
+ berrascht\, jeder Moment fühlt sich an wie ein live gewordener Fantraum.\
+ n\nAtemberaubende Choreografien\, kraftvoller Gesang\, beeindruckende Visu
+ als und echte Fanchant-Momente machen diese Show zu einem Erlebnis\, das u
+ nter die Haut geht. Hier treffen glitzernde Bühnenmagie und mitreißende 
+ Konzertstimmung aufeinander – laut\, emotional und unvergesslich.\n\nK-P
+ OP LIVE! ist das perfekte Event für junge K-Pop-Fans\, die ihre Lieblings
+ welt endlich live auf der Bühne erleben wollen. Und für Eltern\, die ihr
+ en Kindern ein besonderes Erlebnis schenken möchten\, das begeistert\, ve
+ rbindet und noch lange in Erinnerung bleibt.\nWer K-Pop liebt\, darf diese
+  Show nicht verpassen. Und wer ihn gerade erst entdeckt\, wird ihn nach di
+ esem Abend nie wieder vergessen.\n\nJetzt Tickets sichern und live dabei s
+ ein\, wenn aus Hype ein echtes Bühnen-Erlebnis wird.\n\nTickets &amp\; In
+ formationen:  	www.resetproduction.de/k-pop-live/\nTicket Ermäßigungen: 
+ 	Family Ticket gilt für 5 Vollzahler (davon mind. eine volljährige Perso
+ n) \n-&gt\; 5€ Rabatt pro Ticket\n Freier Eintritt für die Begleitperso
+ n bei Gästen mit einem „B“ im Ausweis \nService Hotline:  			+49 / (0
+ )365 – 54 818 30 \nPressekontakt: 			marketing@resetproduction.de  \nPre
+ ssematerial: 			www.resetproduction.de/presse
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:29
 END:VEVENT
 END:VCALENDAR
