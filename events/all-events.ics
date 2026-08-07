@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:SUNSET SOCIETY Ingolstadt - SHADES of SUNSET
-DTSTART;TZID=Europe/Berlin:20260807T210000
-DTEND;TZID=Europe/Berlin:20260808T030000
-DTSTAMP:20260719T065607Z
-UID:sunset-society-ingolstadt-shades-of-sunset-20260807-1900@ifg-plattform
- .de
-DESCRIPTION:Celebrate Life Together - feiert mit uns auf der Terrasse des 
- Golfclub Ingolstadt\n\nEinlass: 19:00\n\nDie SUNSET SOCIETY Ingolstadt ste
- ht für außergewöhnliche Sommerabende an außergewöhnlichen Locations.\
- nJeder Abend hat seinen eigenen Character\, seine eigene Stimmung und sein
- e eigene Kulisse.\n\nAm Freitag\, 07.08.2026 feiern wir unsere SUNSET SOCI
- ETY - SHADES of SUNSET  auf der Terrasse des Golfclubs Ingolstadt.\nMit fr
- eiem Blick über den Golfplatz\, umgeben von Natur und einer einzigartigen
-  Sunset Kulisse entsteht genau die Atmospäre\, für die die SUNSET SOCIET
- Y steht.\n\nDieses Mal wird der Sonnenuntergang nicht nur unsere Kulisse 
- – wir alle werden Teil davon.\n\nDresscode: SHADES OF SUNSET \n\nLasst e
- uch von den Farbschattierungen eines Sonnenuntergangs inspirieren – von 
- Gold und Gelb über Orange\, Koralle und Rot bis hin zu Rosa\, Violett sow
- ie Hell- und Dunkelblau.\n\nGemeinsam lassen wir die Farben des Sonnenunte
- rgangs lebendig werden.\n\nFreut euch auf: \n- DJ Sonic &amp\; friends (Lo
- unge • House • Sunset Vibes)\n- Special Live Performance \n- sommerlic
- he Drinks und Food Specials \n\nWir freuen uns diesen Ort und unvergesslic
- he Momente mit euch zu teilen.\n\nSUNSET SOCIETY Ingolstadt\nCelebrate Lif
- e Together
-LOCATION:Golfclub Ingolstadt\, Krumenauerstr. 1\, 85049 Ingolstadt
-X-SCORE:22
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SWIM &amp\; VIBE mit DJ VanHees
 DTSTART;TZID=Europe/Berlin:20260808T150000
 DTEND;TZID=Europe/Berlin:20260808T230000
@@ -3466,5 +3438,55 @@ DESCRIPTION:Das K-Pop-Erlebnis\, auf das alle gewartet haben\n\nEinlass: 1
  ssematerial: 			www.resetproduction.de/presse
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hinter den Kulissen der Brauerei - erleben Sie Nordbräu hautnah!
+DTSTART;TZID=Europe/Berlin:20261105T180000
+DTEND;TZID=Europe/Berlin:20261105T200000
+DTSTAMP:20260719T065608Z
+UID:hinter-den-kulissen-der-brauerei-erleben-sie-nordbr-u-hautnah-20261105
+ -1700@ifg-plattform.de
+DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nVon den Jesuiten-Mönche
+ n bis zum heutigen modernen Unternehmen: Blicken Sie hinter die Kulissen v
+ on Nordbräu und erleben Sie\, wie wir heute brauen. Vom Hopfen ins Glas 
+ – wie funktioniert das eigentlich? Wie entsteht das beliebte Nordbräu H
+ elle\, das würzige Dunkle\, und was ist eigentlich das Besondere am Brauv
+ organg für unser kultiges Privat Pilsener?\n\nWenn Sie auf diese Fragen s
+ chon immer nach Antworten gesucht haben\, sind Sie bei unserer Führung ge
+ nau richtig! Erfahren Sie\, wie die Biere zu ihrem charakteristischen Gesc
+ hmack kommen\, was es mit der Stammwürze auf sich hat und wie die Filtrat
+ ion gelingt – oder eben nicht\, denn auch ungefilterte Biere haben etwas
+  ganz Besonderes an sich.\n\nIn ca. 1\,5 Stunden erleben Sie dabei alle Sc
+ hritte der Braukunst und erfahren jede Menge Wissenswertes rund um das woh
+ l beliebteste Getränk der Bayern.\n\nDie maximale Teilnehmerzahl beträgt
+  25 Personen – in einer überschaubaren Gruppe wird es schließlich gem
+ ütlicher\, und es ist genug Zeit\, alle Fragen zu beantworten. Nach der F
+ ührung gibt es eine kleine Verkostung mit Brotzeit in unserer Brauereisch
+ enke im Kastaniengarten.
+LOCATION:Brauerei Nordbräu\, Gutsstraße 5\, 85055 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sarah Hakenberg
+DTSTART;TZID=Europe/Berlin:20261105T210000
+DTEND;TZID=Europe/Berlin:20261106T005900
+DTSTAMP:20260719T065608Z
+UID:sarah-hakenberg-20261105-2000@ifg-plattform.de
+DESCRIPTION:Ich war´s nicht\n\nEinlass: 19:00\n\nEs gibt Zeiten\, in dene
+ n der letzte Witz erzählt ist und alle fröhlichen Melodien dieser Welt v
+ erklungen sind. Aber diese Zeiten sind ja zum Glück noch nicht angebroche
+ n! Denn die mit dem "Deutschen Kabarettpreis" ausgezeichnete Liedermacheri
+ n zeigt\, dass man über fast alles lachen kann - sogar über das\, was we
+ h tut. Mit scharfsinnigen Liedern\, bissigen Texten und entwaffnendem Char
+ me verwandelt sie Alltagsabsurditäten in brillante Satire. Arme alte wei
+ ße Männer\, die mit Veränderungen nicht klar kommen\, bleiben genauso w
+ enig verschont wie Schnitzeljagd spielende Kinder auf dem Schlachthof. Sar
+ ah Hakenberg haut vergnügt in die Tasten\, schrummt ihre Ukulele und erz
+ ählt dabei gleichermaßen von Abgründen\, die in unserem Inneren schlumm
+ ern und vom großen Wirrwarr da draußen. Besser wird die Welt dadurch vie
+ lleicht auch nicht\, aber zumindest besser erträglich. Ein Abend voller W
+ itz und wunderbarer Musik - dreist\, klug und herrlich befreiend!
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:12
 END:VEVENT
 END:VCALENDAR
