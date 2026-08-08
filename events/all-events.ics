@@ -2,96 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:SWIM &amp\; VIBE mit DJ VanHees
-DTSTART;TZID=Europe/Berlin:20260808T150000
-DTEND;TZID=Europe/Berlin:20260808T230000
-DTSTAMP:20260719T065608Z
-UID:swim-amp-vibe-mit-dj-vanhees-20260808-1300@ifg-plattform.de
-DESCRIPTION:Sonnenbrille auf\, Cocktails kalt und Beach Club Sounds an!\n\
- nEinlass: 10:00\n\nWo? Thermenbereich\n\nWann? Ab 13 Uhr jeden zweiten Sam
- stag im Monat von Mai bis September\n\nWas? Vergesst Ibiza\, Saint-Tropez 
- oder Malibu. Ausgelassene Stimmung\, freshe Beats und spritzige Cocktails 
- gibt es auch in der Donautherme. Mit Swim &amp\; Vibe kommt der Beach Club
-  nach Ingolstadt. Live DJs und Poolbar Specials sorgen für ein einzigarti
- ges Erlebnis in unserem Thermenbereich.\n\nSeid dabei und feiert mit uns!
-LOCATION:Donautherme\, Südliche Ringstraße 63\, 85053 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kuschelparty Ingolstadt August
-DTSTART;TZID=Europe/Berlin:20260808T200000
-DTEND;TZID=Europe/Berlin:20260809T000000
-DTSTAMP:20260719T065607Z
-UID:kuschelparty-ingolstadt-august-20260808180000-1800@ifg-plattform.de
-DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
- hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
- ass: 18:00\n\nACHTUNG: Teilnahme nur mit online gekauften Ticket möglich!
- \n\nIn unseren Kuschelpartys in Ingolstadt öffnen wir einen Raum\, in dem
-  du Geborgenheit und Wärme findest und den Mut entwickelst\, deinem Inner
- en und anderen Menschen ehrlich zu begegnen. Hier kannst du Nähe und Dist
- anz bewusst erfahren\, deine Grenzen spüren und achten. Worte treten in d
- en Hintergrund\, während Vertrauen wächst und achtsame Begegnungen mit n
- euen Menschen dich bereichern.\n\nStärke dein inneres Wohlbefinden\, lass
-  los und entspanne dich – dieser Raum ist Balsam für Körper und Seele\
- , ein Zuhause für Lachen\, Tränen\, Stille und ganz besonders für dich.
-  Wir glauben fest daran\, dass liebevolle Berührungen uns alle bereichern
- .\n\nDeshalb bringen unsere Kuschelpartys in Ingolstadt Menschen jeden Alt
- ers (von 18 bis 99 Jahre) und mit unterschiedlichsten Lebenserfahrungen zu
- sammen. Wir öffnen unsere Türen für jede*n – Singles und Paare sind g
- leichermaßen willkommen\, diese nährende Erfahrung zu teilen.
-LOCATION:Soul Studio\, Am Stein 8\, 85049 Ingolstadt
-X-SCORE:16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ü30 Open Air im Schutterhof\, Ingolstadt
-DTSTART;TZID=Europe/Berlin:20260808T210000
-DTEND;TZID=Europe/Berlin:20260809T030000
-DTSTAMP:20260719T065608Z
-UID:30-open-air-im-schutterhof-ingolstadt-20260808-1900@ifg-plattform.de
-DESCRIPTION:Einlass: 19:00\n\nSommer 2026 und wir haben erneut unsere Part
- yreihe am Start. Ü30 Open-Air im Schutterhof\, Ingolstadt\, direkt beim K
- reuztor. Beginn ist am Sa.\, 08.08.26 um 19 Uhr und es geht in die Nacht. 
- Tickets gibt es ab 19 Uhr vor Ort oder im VVK. Wer danach noch feiern\, wi
- ll\, einfach in die City\, 2 Minuten entfernt. Das ist die letzte Open Air
-  2026 im Schutterhof\, also: Dabei sein! Auf einen tollen Sommer in einem 
- der schönsten Biergärten Ingolstadts!
-LOCATION:Schutterhof\, Friedhofstraße 1a\, 85049 Ingolstadt
-X-SCORE:18
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: Oh La La 2 – neue Tests\, neues Chaos
-DTSTART;TZID=Europe/Berlin:20260808T230000
-DTEND;TZID=Europe/Berlin:20260809T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-oh-la-la-2-neue-tests-neues-chaos-20260808-2100@ifg-plat
- tform.de
-DESCRIPTION:Spielfilm | Frankreich 2026 | Komödie | Regie: Julien Hervé\
- n\nEinlass: 18:30\n\nFrédéric (Christian Clavier) und Gérard (Didier Bo
- urdon) haben die schockierende Wahrheit über ihre Herkunft gerade erst ve
- rarbeitet. Eigentlich wollen die beiden Erzfeinde das Kriegsbeil begraben 
- und sich ganz auf die gemeinsame Hochzeit ihrer Kinder konzentrieren. Doch
-  der brüchige Familienfrieden hält nicht lange. Ein plötzlich auftauche
- nder Cousin bringt mit einem neuen DNA-Test alles durcheinander und stellt
-  die bisherigen Gewissheiten erneut infrage.\nWas als Versöhnungsversuch 
- beginnt\, entwickelt sich schnell zu einem neuen Familienchaos. Alte Vorur
- teile brechen wieder auf\, neue Geheimnisse kommen ans Licht. Frédéric u
- nd Gérard müssen erkennen\, dass ihre Stammbäume mehr Überraschungen b
- ereithalten\, als ihnen lieb ist. Und dass Herkunft manchmal komplizierter
-  ist als jede Beziehung.\nDarsteller: Christian Clavier\, Didier Bourdon\,
-  Marianne Denicourt
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Radtour NaTourGenuss zum Hirschenwirt in Wasserzell
 DTSTART;TZID=Europe/Berlin:20260809T120000
 DTEND;TZID=Europe/Berlin:20260809T190000
@@ -3488,5 +3398,40 @@ DESCRIPTION:Ich war´s nicht\n\nEinlass: 19:00\n\nEs gibt Zeiten\, in dene
  itz und wunderbarer Musik - dreist\, klug und herrlich befreiend!
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Eisi Gulp
+DTSTART;TZID=Europe/Berlin:20261106T210000
+DTEND;TZID=Europe/Berlin:20261107T005900
+DTSTAMP:20260719T065608Z
+UID:eisi-gulp-20261106-2000@ifg-plattform.de
+DESCRIPTION:"Tagebuch eines Komikers 2" - das neue Solo-Comedy-Programm vo
+ n "Papa Eberhofer"\n\nEinlass: 19:00\n\nNach dem enormen Erfolg von Eisi G
+ ulps Comeback-Show „Tagebuch eines Komikers 1“\, die seit 2024 auf gro
+ ßer Tournee im gesamten deutschsprachigen Raum viele Hallen ausverkauft h
+ at\, kehrt „Papa Eberhofer“ nun mit dem Folgeprogramm zurück und erz
+ ählt auf höchst amüsante Weise\, wie es in der Jugend und Pubertät wei
+ ter ging auf seinem Weg – beruflich wie privat. Spätestens seit den bal
+ d zehn Eberhofer-Krimi-Verfilmungen kennt Eisi Gulp wohl jeder als den Fil
+ m-Papa des Polizisten Franz Eberhofer. Seit 2015 spielt er in "Dahoam is d
+ aoham" und er hat in unzähligen anderen Spielfilmen und Serien mitgewirkt
+ .  Bereits Anfang der 1980er Jahre wurde er bekannt durch die die BR-Sendu
+ ng "Live aus dem Alabama".  Nach vielen Jahren\, in denen er vor allem als
+  Film- und Theaterschauspieler aktiv war\, was ihm zu großer Bekanntheit 
+ und Beliebtheit verhalf\, meldete er sich 2024 nach langer Bühnenabstinen
+ z als Stand-Up-Comedian zurück und eroberte die Herzen seiner Fans auch a
+ ußerhalb von Bayern und über Deutschland hinaus im Sturm. Eisi ist ein v
+ ielseitiger Komiker\, dessen Körper so sprachgewaltig ist wie sein Geist 
+ und der gleichzeitig mit Wortwitz\, Mimik und Bewegungen perfekt zu jongli
+ eren weiß\, während er unterhaltsame Anekdoten aus seinem Leben erzählt
+ .   Werner Eisenrieder\, wie der Münchener bürgerlich heißt\, ist aber 
+ nicht nur Schauspieler und Komiker\, er hat ebenso Tanz in New York sowie 
+ Akrobatik und Stunt in Paris studiert - ein wahrer Allround-Künstler. Ein
+  Abend\, der sicher die Lachmuskeln bis zum äußersten strapazieren wird\
+ , ist garantiert. Wer Teil 1 verpasst hat – kein Problem\, das neue Stü
+ ck funktioniert auch bestens für Neulinge. Und natürlich darf sich das P
+ ublikum WIEDER auf mitreißende Tanzeinlagen freuen.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:34
 END:VEVENT
 END:VCALENDAR
