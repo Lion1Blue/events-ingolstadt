@@ -2,147 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Radtour NaTourGenuss zum Hirschenwirt in Wasserzell
-DTSTART;TZID=Europe/Berlin:20260809T120000
-DTEND;TZID=Europe/Berlin:20260809T190000
-DTSTAMP:20260719T065607Z
-UID:radtour-natourgenuss-zum-hirschenwirt-in-wasserzell-20260809-1000@ifg-
- plattform.de
-DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nEine NaTourGenuss Radtour verbindet die genüssliche Fahrt durch die
-  heimische Natur mit der Einkehr in einer guten Gaststätte und dem Abschl
- uss in einem Biergarten. Wegen der zahlreich befahrenen Naturwege durch h
- ügeliges Gelände wird ein robustes Treckingrad (Pedelec) mit geländetau
- glichem Reifenprofil empfohlen.\nBio-Bike-Tour: Die Radtour ist besonders 
- auf die Bedürfnisse von Bio-Radler*innen abgestimmt\, die Ihre Touren ohn
- e elektrische Unterstützung unternehmen. Radler*innen mit Pedelec sind he
- rzlich willkommen\, müssen sich aber an Tempo und Kondition der Bio-Radle
- r*innen orientieren.\nAnmeldung erwünscht\, aber nicht erforderlich.
-LOCATION:Willner Fahrradzentrum\, Friedrichshofener Straße 1e\, 85049 Ing
- olstadt
-X-SCORE:114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vom Scherbelberg in den Schutterhof
-DTSTART;TZID=Europe/Berlin:20260809T153000
-DTEND;TZID=Europe/Berlin:20260809T173000
-DTSTAMP:20260719T065608Z
-UID:vom-scherbelberg-in-den-schutterhof-20260809-1330@ifg-plattform.de
-DESCRIPTION:Der Scherbelbergbunker in Ingolstadt\n\nEinlass: 13:30\n\nWie 
- kaum eine andere Stadt in Deutschland ist Ingolstadt geprägt von seinen F
- estungsbauten.\n\nBesonders im Bereich der westlichen Altstadt zwischen Sc
- herbelberg\, Glacis\, Künettegraben und Schutterhof findet man auf engste
- m Raum konzentriert eine Vielzahl von Gebäuden\, die in weniger friedlich
- en Epochen verschiedenste militärische Funktionen erfüllten.\n\nHeutzuta
- ge dienen sie als Parkanlage oder Biergarten der Erholung der Ingolstädte
- r und Ihrer Gäste. Lassen Sie sich bei dieser außergewöhnlichen Führun
- g die Augen öffnen!\n\nGeeignet ab 12 Jahre.
-LOCATION:Zugang Scherbelbergbunker\, Jahnstraße 27a\, 85049 Ingolstadt
-X-SCORE:19
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Führung in der Fronte Rechberg
-DTSTART;TZID=Europe/Berlin:20260809T170000
-DTEND;TZID=Europe/Berlin:20260809T190000
-DTSTAMP:20260719T065607Z
-UID:f-hrung-in-der-fronte-rechberg-20260809-1500@ifg-plattform.de
-DESCRIPTION:der vollständigst erhaltene Festungsbereich Ingolstadts\n\nDa
- s Areal der Fronte Rechberg zählt zu den am besten erhaltenen Abschnitten
-  des ersten Festungsrings der königlich bayerischen Landesfestung Ingolst
- adt. Der Grundstein zur Festung wurde auf dem rechten Donauufer im Jahre 1
- 828 gelegt\, auf der Nordseite im Jahr 1834 bei der Fronte Raglovich\, wel
- che sich an die Fronte Rechberg zur Donau hin anschloss. Die im Osten und 
- Norden der Stadt regelmäßig angelegten fünf Festungsabschnitte\, die so
- genannten Fronten\, besaßen grundsätzlich alle den gleichen Aufbau. Dies
- e waren\, im Osten vor dem Neuen Schloss gegen den Uhrzeigersinn beginnend
- \, Fronte Raglovich\, Fronte Rechberg\, Fronte Zoller\, Fronte Vieregg und
-  Fronte Pappenheim. Die weiteren vier Fronten der Festung waren anders auf
- gebaut und befanden sich im Westen der Stadt und auf dem Südufer der Dona
- u.\nNur bei der Fronte Rechberg ist der ursprüngliche Aufbau mit allen Ge
- bäudebestandteilen noch sichtbar. Viele der Bauten sind frei von außen z
- ugänglich und können jederzeit begangen werden. So sind neben der ehemal
- igen Zufahrt zum Torgebäude mit seinem Torwärterhäuschen auch die die F
- ronte flankierenden beiden Kavaliersgebäude\, Kavalier Heydeck und Kavali
- er Elbracht\, erhalten. Dazwischen finden sich noch der Hauptwall mit der 
- Infanteriegalerie\, der Hauptgraben mit Kontereskarpenmauer\, ein Traversg
- ebäude auf dem Wall\, ein Reduit\, eine Geschützremise\, das Glacis mit 
- Brustwehr\, Teile des Konterminensystems\, Teile der Kaponniere und Teile 
- der Kontergarde. Nach der Aufhebung der Festungseigenschaft 1938 fungierte
-  ein Teil der Fronte Rechberg im Zweiten Weltkrieg als Luftschutzraum und 
- nach 1945 kamen Flüchtlinge aus den ehemaligen deutschen Ostgebieten auf 
- dem Areal unter. Spuren von diesen Nutzungen werden bei den Führungen sic
- htbar gemacht. Bei den exklusiven Führungen durch den Förderverein Bayer
- ische Landesfestung Ingolstadt für das Armeemuseum können allerdings auc
- h Einblicke in einige Bestandteile der Fronte Rechberg gewonnen werden\, d
- ie normalerweise nicht zugänglich sind.
-LOCATION:Fronte Rechberg\, Tor Heydeck\, Heydeckstrasse 2\, 85049 Ingolsta
- dt\, Festes Schuhwerk ist dringend geboten.
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Öffentliche Führung
-DTSTART;TZID=Europe/Berlin:20260809T170000
-DTEND;TZID=Europe/Berlin:20260809T180000
-DTSTAMP:20260719T065608Z
-UID:ffentliche-f-hrung-20260809-1500@ifg-plattform.de
-DESCRIPTION:Becoming MKKD. Vom Planen und Entstehen eines Museums\n\nEinla
- ss: 14:45\n\nDer Umbau der sogenannten Gießereihalle zur neuen Heimstätt
- e des Museums für Konkrete Kunst und Design (MKKD) nach Plänen des Wiene
- r Architekturbüros querkraft steht kurz vor seinem Abschluss. Planung und
-  Einrichtung eines Museums beinhalten aber entschieden mehr als die reine 
- Architektur eines Gebäudes.\n\nMit der Ausstellung Becoming MKKD. Vom Pla
- nen und Entstehen eines Museums bekommen Sie ganz konkrete Einblicke in di
- e Konzeption des neuen Museums – von der Gestaltung der neuen Corporate 
- Identity bis hin zur genauen Dimensionierung und Abfolge der einzelnen Aus
- stellungsräume. In kurzen Filmen lernen Sie dabei auch einige Mitarbeiter
- *innen des Museums und der Stiftung für Konkrete Kunst und Design (SKKD) 
- sowie weitere an den Planungen Beteiligte kennen.
-LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
- adt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: Ein Münchner im Himmel – der Tod ist erst der An
- fang
-DTSTART;TZID=Europe/Berlin:20260809T230000
-DTEND;TZID=Europe/Berlin:20260810T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-ein-m-nchner-im-himmel-der-tod-ist-erst-der-anfang-20260
- 809-2100@ifg-plattform.de
-DESCRIPTION:Spielfilm | Deutschland 2026 | 94 min | Komödie | Regie: Davi
- d Dietl | FSK 6\n\nEinlass: 18:30\n\nHalleluja! Luhja! Luhja\, sog i! 'zee
- fix Halleluja!\nFrei nach der berühmten Satire von Ludwig Thoma kommt der
-  grantelnde Münchner im Himmel nun auf die große Kinoleinwand\nTaxifahre
- r und Münchner Original Wiggerl landet nach einem Autounfall im Himmel 
- – aber statt Bier und Blasmusik gibt’s hier nur Soja-Manna und Yoga zu
-  Harfenklängen. Ein Albtraum für den aufmüpfigen bayerischen Dickkopf. 
- Damit im Himmel wieder Ruhe und Frieden einkehrt\, schickt man ihn kurzerh
- and mit einer Mission zurück. Wenn er es schafft sein Karma-Konto auf Vor
- dermann zu bringen\, darf er auf der Erde bleiben. Allerdings ist Wiggerls
-  Tochter Toni die Einzige\, die ihn jetzt noch sehen und hören kann. Für
-  alle anderen ist er Luft. Seine Bitte\, ihm zu helfen\, schmettert Toni a
- b – schließlich hat sich ihr Vater zu Lebzeiten kaum um sie und ihre Mu
- tter gekümmert. Nur mit einer ordentlichen Portion Selbsterkenntnis gelin
- gt es Wiggerl schließlich wieder\, etwas Vertrauen zurückzugewinnen. Abe
- r der Wettlauf gegen die Zeit ist noch nicht vorbei und Wiggerl dämmert s
- o langsam\, worum es bei seiner Mission eigentlich geht…\nMit viel bayer
- ischem Humor und Starbesetzung ist beste Unterhaltung garantiert. Darauf e
- ine Maß und kein Manna!\n\nDarsteller: Maximilian Brückner\, Hannah Herz
- sprung\, Momo Beier\, Heiner Lauterbach\, Michaela May\, Olli Schulz\, Ina
-  Müller\, Maxi Schaffroth
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:39
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: The History of Sound
 DTSTART;TZID=Europe/Berlin:20260810T230000
 DTEND;TZID=Europe/Berlin:20260811T015900
@@ -3433,5 +3292,136 @@ DESCRIPTION:"Tagebuch eines Komikers 2" - das neue Solo-Comedy-Programm vo
  ublikum WIEDER auf mitreißende Tanzeinlagen freuen.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmieren und Robotik entdecken
+DTSTART;TZID=Europe/Berlin:20261107T110000
+DTEND;TZID=Europe/Berlin:20261107T133000
+DTSTAMP:20260719T065607Z
+UID:programmieren-und-robotik-entdecken-20261107-1000@ifg-plattform.de
+DESCRIPTION:Alle Kinder im Alter von 9 bis zu 11 Jahren sind herzlich eing
+ eladen\, im Bürgerhaus Neuburger Kasten die spannende Welt der Technik un
+ d des Programmierens zu entdecken - ganz spielerisch mit einer grafischen 
+ Benutzeroberfläche. Schritt für Schritt werden die jungen Teilnehmerinne
+ n und Teilnehmer einen Modell-Roboter zum Leben erwecken. Er reagiert auf 
+ Taster und Bewegungen\, zeigt Nachrichten auf einem Display an und setzt s
+ ogar einen Motor in Bewegung. Dabei lernen die Kinder\, logisch zu denken\
+ , kreativ zu tüfteln und eigene Ideen umzusetzen – ganz ohne Vorkenntni
+ sse. Der Kurs wird altersgerecht\, verständlich und mit viel Spaß durchg
+ eführt und fördert wichtige Zukunftskompetenzen. Programmieren lernen\, 
+ Technik verstehen und stolz auf das eigene Werk sein!\nDamit viele Kinder 
+ in kleinen Gruppen teilnehmen können\, wird der Kurs inhaltsgleich an meh
+ reren Samstagen angeboten. Im Juli sind dies der 11. und 18.07. und im Her
+ bst der 26.09.\, der 10. und 24.10. sowie der 07. und 21.11. \nEine Anmeld
+ ung für sämtliche Kurse ist unter www.kidnetting.de möglich. Die Kosten
+  pro Termin liegen bei 6 Euro.
+LOCATION:Bürgerhaus Neuburger Kasten\, Fechtgasse 6\, 85049 Ingolstadt
+X-SCORE:200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kuschelparty Ingolstadt November
+DTSTART;TZID=Europe/Berlin:20261107T190000
+DTEND;TZID=Europe/Berlin:20261107T230000
+DTSTAMP:20260719T065608Z
+UID:kuschelparty-ingolstadt-november-20261107-1800@ifg-plattform.de
+DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
+ hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
+ ass: 18:00\n\nACHTUNG: Teilnahme nur mit online gekauften Ticket möglich!
+ \n\nIn unseren Kuschelpartys in Ingolstadt öffnen wir einen Raum\, in dem
+  du Geborgenheit und Wärme findest und den Mut entwickelst\, deinem Inner
+ en und anderen Menschen ehrlich zu begegnen. Hier kannst du Nähe und Dist
+ anz bewusst erfahren\, deine Grenzen spüren und achten. Worte treten in d
+ en Hintergrund\, während Vertrauen wächst und achtsame Begegnungen mit n
+ euen Menschen dich bereichern.\n\nStärke dein inneres Wohlbefinden\, lass
+  los und entspanne dich – dieser Raum ist Balsam für Körper und Seele\
+ , ein Zuhause für Lachen\, Tränen\, Stille und ganz besonders für dich.
+  Wir glauben fest daran\, dass liebevolle Berührungen uns alle bereichern
+ .\n\nDeshalb bringen unsere Kuschelpartys in Ingolstadt Menschen jeden Alt
+ ers (von 18 bis 99 Jahre) und mit unterschiedlichsten Lebenserfahrungen zu
+ sammen. Wir öffnen unsere Türen für jede*n – Singles und Paare sind g
+ leichermaßen willkommen\, diese nährende Erfahrung zu teilen.
+LOCATION:Soul Studio\, Am Stein 8\, 85049 Ingolstadt
+X-SCORE:16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Catello Zaubermenü in der Präsidentensuite des Maritim Hotels
+DTSTART;TZID=Europe/Berlin:20261107T193000
+DTEND;TZID=Europe/Berlin:20261108T000000
+DTSTAMP:20260719T065608Z
+UID:catello-zaubermen-in-der-pr-sidentensuite-des-maritim-hotels-20261107-
+ 1830@ifg-plattform.de
+DESCRIPTION:Menü und Zaubershow als exklusives Event\n\nEinlass: 18:15\n\
+ nEine Show voller Staunen. \nEin unvergesslicher Abend mit tollem 3-Gang-M
+ enü bei dem alle Getränke inklusive sind.  \nVeranstaltung für nur 28 P
+ ersonen im exklusivsten Raum der Stadt - der Präsidentensuite des Hotels 
+ Maritim.\n\nIm Ticketpreis enthalten:\n* 3-Gang-Menü\n* Zaubershow\n* all
+ e Getränke\n\nDresscode: Cocktail / Festive Attire\n\nFür das Menü habe
+ n Sie die Auswahl aus verschiedenen Gerichten - falls Sie Sonderwünsche h
+ insichtlich veganem Essen oder Allergien haben\, können diese gerne berü
+ cksichtigt werden\, wenden Sie sich hier im Vorfeld einfach an den Veranst
+ alter\n\nAlle Infos und Tickets unter: http://www.zaubertage.de/catello/Se
+ iten/catellomenue.htm
+LOCATION:Congress Centrum Ingolstadt\, Gießerei-Platz 1\, 85049 Ingolstad
+ t
+X-SCORE:21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stromlos Bigband (Leitung: Robert Aichner)\, Moderation: Sebastian
+  Reier a.k.a. Booty Carrell &amp\; Fadime Gültekin
+DTSTART;TZID=Europe/Berlin:20261107T210000
+DTEND;TZID=Europe/Berlin:20261108T005900
+DTSTAMP:20260719T065608Z
+UID:stromlos-bigband-leitung-robert-aichner-moderation-sebastian-reier-a-k
+ -a-booty-carrell-amp-fadime-g-ltekin-20261107-2000@ifg-plattform.de
+DESCRIPTION:Die Ingolstädter Jazztage eröffnen zum dritten Mal mit ihrem
+  „Grand Opening“ – einem Abend mit Gala-Charme\, der bewusst entspan
+ nt bleibt. Zwischen Glamour und lässiger Attitüde entsteht ein Auftakt\,
+  der festlich wirkt\, ohne steif zu sein.\n\nDurch den Abend führen Sebas
+ tian Reier (besser bekannt als Booty Carrell) und Fadime Gültekin. Reier 
+ ist Schauspieler und Performer\, u. a. an den Münchner Kammerspielen\, un
+ d zugleich als DJ eine eigene Marke: Booty Carrell forscht in den Weiten d
+ es Vinyls\, spürt der zweiten Welle musikalischer Globalisierung nach und
+  verbindet regionale Traditionen mit westlichen Einflüssen. Seit Jahren b
+ ringt er diese Sounds auf Europas Tanzflächen.\n\nAn seiner Seite: Fadime
+  „Fadi“ Gültekin vom Stadtensemble Ingolstadt und Teil der Critical F
+ riends. Sie kuratierte „Istanbul“ mit und spielte „Rüya“ in „L
+ ücke zum Glück“. Als Netzwerkerin setzt sie sich für Diversität und 
+ Pluralismus ein – und versteht sich augenzwinkernd als „Ziehkind“ vo
+ n Sebastian Reier. In ihrer Arbeit verbindet sie persönliche Perspektiven
+  mit gesellschaftlichen Fragen.\n\nDas musikalische Herzstück bildet die 
+ Stromlos Jugend Bigband der Kunst- und Kulturbastei unter der Leitung von 
+ Robert Aichner. Das preisgekrönte Ensemble vereint junge Jazzmusike*rinne
+ n zwischen 12 und 27 Jahren und arbeitete bereits mit Dozent*innen wie Har
+ ald Rüschenbaum\, Julian Ritter oder Jörn Marcussen-Wulf. Regelmäßige 
+ Konzertauftritte und Workshopphasen prägen die kontinuierliche Entwicklun
+ g der Band.\n\n„Community Music“ setzt in diesem Jahr einen Akzent: Ei
+ n Aufeinandertreffen von Hip-Hop und Jazz verspricht neue Impulse. Höhepu
+ nkt ist die Verleihung des Jazzförderpreises – inklusive musikalischem 
+ Beitrag der Preisträgerin oder des Preisträgers.
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:43
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ringsgwandl &amp\; Band
+DTSTART;TZID=Europe/Berlin:20261107T210000
+DTEND;TZID=Europe/Berlin:20261108T005900
+DTSTAMP:20260719T065608Z
+UID:ringsgwandl-amp-band-20261107-2000@ifg-plattform.de
+DESCRIPTION:"Schawumm!"\n\nEinlass: 19:00\n\nSchawumm! macht es\, wenn der
+  Paketbote die Seitentür seines Transporters zuschiebt. \nEin Soundsampl
+ e davon ist in „Götterbote“ verewigt\, einem Song über den eiligen 
+ Arbeitstag eines Lieferdienstfahrers. \n\nSchawumm! Die Welt ist voller Ka
+ tastrophen\, aber hier weht Optimismus durchs Programm. Freud und Leid\, L
+ iebe in der Großstadt und draußen auf dem Lande. Anständige Gaudi\, kei
+ n Schmarrn. Microplastique im Organismus. Songs vom neuen Album und alte R
+ eißer von den ersten zwölf Platten. Die erste erschien 1986 und hieß 
+ „Das Letzte.“ 2026 wird sie vierzig. So schnell kann’s gehn. \n\nDie
+  Pfiffigen und Gescheiten halten sich den Abend frei und wundern sich\, wa
+ s R und Kollegen auf der Bühne alles anstellen. \n\nGeorg Ringsgwandl: S
+ timme\, Saiten\, Tasten u. Körperarbeit (Hink&amp\;Stolper\, Tanz&amp\;Kr
+ ümm) \nDaniel Stelter: Gitarre\, Mandoline. \nChristian Diener: E-Bass\,
+  Moog. \nTommy Baldu: Drums.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:20
 END:VEVENT
 END:VCALENDAR
