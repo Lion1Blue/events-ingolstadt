@@ -2,40 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: The History of Sound
-DTSTART;TZID=Europe/Berlin:20260810T230000
-DTEND;TZID=Europe/Berlin:20260811T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-the-history-of-sound-20260810-2100@ifg-plattform.de
-DESCRIPTION:Spielfilm | USA/Vereinigtes Königreich 2025 | 127 min | Drama
-  | Regie: Oliver Hermanus | FSK 6\n\nEinlass: 18:30\n\nIm Jahr 1917 versch
- lägt es den zurückhaltenden und talentierten Musikstudenten Lionel (Paul
-  Mescal) vom ländlichen Kentucky an die Ostküste\, wo er am Boston Conse
- rvatory seinen charmanten und selbstbewussten Kommilitonen David (Josh O
- ’Connor) kennenlernt. Über ihre gemeinsame\, tief empfundene Liebe zu t
- raditioneller Folk-Musik kommen sich die beiden näher\, doch dann wird Da
- vid als Soldat eingezogen. Einige Jahre später erreicht Lionel ein Brief\
- , in dem David seinen Freund bittet\, ihn auf einer Reise durch die Wälde
- r von Maine zu begleiten. Die beiden Männer teilen nicht nur Momente inni
- ger Zweisamkeit\, sondern entdecken in ländlichen Gemeinden auch fast in 
- Vergessenheit geratene Folk-Musik. Das sehnlich erwartete Wiedersehen\, ih
- re leidenschaftliche Liebesgeschichte und die von ihnen gesammelte und bew
- ahrte Musik werden den Verlauf von Lionels Leben für immer prägen.\n\nDa
- rsteller: Paul Mescal\, Josh O’Connor\, Molly Price\, Chris Cooper\, Leo
-  Cocovinis
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:35
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: 22 BAHNEN
 DTSTART;TZID=Europe/Berlin:20260811T230000
 DTEND;TZID=Europe/Berlin:20260812T015900
@@ -3423,5 +3389,70 @@ DESCRIPTION:"Schawumm!"\n\nEinlass: 19:00\n\nSchawumm! macht es\, wenn der
   Moog. \nTommy Baldu: Drums.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:„MEMENTO“ – Sebastian Studnitzky mit der Kammerphilharmonie 
+ Ingolstadt\; Komposition &amp\; Dirigat: Sebastian Studnitzky
+DTSTART;TZID=Europe/Berlin:20261108T190000
+DTEND;TZID=Europe/Berlin:20261109T005900
+DTSTAMP:20260719T065607Z
+UID:memento-sebastian-studnitzky-mit-der-kammerphilharmonie-ingolstadt-kom
+ position-amp-dirigat-sebastian-studnitzky-20261108-1800@ifg-plattform.de
+DESCRIPTION:Die Kammerphilharmonie Ingolstadt steht für eine außergewöh
+ nliche Verbindung von Tradition\, Wandel und kultureller Offenheit. Hervor
+ gegangen aus dem 1961 in Tiflis gegründeten Ensemble\, ist der Klangkörp
+ er seit 1990 in Ingolstadt beheimatet und prägt seither das Musikleben de
+ r Region nachhaltig. Mit einem Repertoire von Barock bis Moderne\, interna
+ tionaler Konzerttätigkeit und zahlreichen Bildungsprojekten verbindet das
+  Orchester künstlerische Exzellenz mit gesellschaftlichem Engagement. Sei
+ ne Geschichte als Ensemble im Übergang zwischen Kulturen verleiht ihm bis
+  heute eine besondere Identität – klanglich flexibel\, stilistisch offe
+ n und geprägt von hoher kammermusikalischer Präzision.\n\nAuch Sebastian
+  Studnitzky bewegt sich souverän zwischen den musikalischen Welten. Als T
+ rompeter und Pianist verbindet er Jazz\, Klassik und elektronische Einflü
+ sse zu einer eigenständigen Klangsprache. International gefragt\, arbeite
+ te er u. a. mit Künstlern wie Nils Landgren oder Wolfgang Haffner und wur
+ de als einziger deutscher Musiker sowohl mit dem ECHO Jazz als auch dem OP
+ US Klassik ausgezeichnet. Sein Spiel zeichnet sich durch Klarheit\, emotio
+ nale Tiefe und eine reduzierte\, zugleich hoch expressive Formsprache aus.
+ \n\nMit „MEMENTO – orchestral experience“ treffen beide Klangkörper
+  bei den Jazztagen aufeinander. Studnitzkys Werk entfaltet sich im Spannun
+ gsfeld von komponierter Struktur und improvisatorischer Offenheit: Minimal
+ istische Motive\, fragile Klangflächen und subtile Grooves verbinden sich
+  mit orchestraler Dichte zu einem vielschichtigen Ganzen. Gemeinsam entste
+ ht eine Musik\, die Genregrenzen hinter sich lässt und im Dialog zwischen
+  Solist und Orchester eine eindringliche\, zeitgenössische Klangwelt form
+ t.
+LOCATION:St. Augustin Kirche\, Pettenkoferstraße 12\, 85053 Ingolstadt
+X-SCORE:27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Young Jazz Session
+DTSTART;TZID=Europe/Berlin:20261108T210000
+DTEND;TZID=Europe/Berlin:20261109T005900
+DTSTAMP:20260719T065608Z
+UID:young-jazz-session-20261108-2000@ifg-plattform.de
+DESCRIPTION:In diesem Format präsentieren junge Musiker*innen sowie etabl
+ ierte Jazzmusiker*innen und Jazzförderpreisträger*innen ihr Können und 
+ geben einen Einblick in die lebendige regionale Nachwuchsszene.\n\nDer Ein
+ tritt zu dieser Veranstaltung ist kostenfrei.
+LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
+X-SCORE:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stefan Danziger
+DTSTART;TZID=Europe/Berlin:20261108T210000
+DTEND;TZID=Europe/Berlin:20261108T233000
+DTSTAMP:20260719T065608Z
+UID:stefan-danziger-20261108-2000@ifg-plattform.de
+DESCRIPTION:Dann isset halt so\n\nEinlass: 19:00\n\nManchmal ändern sich 
+ die Dinge im Leben so\, dass man feststellen muss\, dass man selbst gar ni
+ cht so wichtig ist.\n\nUnd das ist für Stefan Danziger ein befreiendes Ge
+ fühl. Er nimmt sich und seine Bedeutungslosigkeit auf die Schippe.\nAngef
+ angen bei ganz persönlichen\, alltäglichen Dingen bis hin zu weltgeschic
+ htlichen Ereignissen\, die vielleicht nur durch Scheitern möglich wurden.
+  Stefan Danziger zeigt auf\, dass Misslungenes allemal witzig ist.
+LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
+X-SCORE:12
 END:VEVENT
 END:VCALENDAR
