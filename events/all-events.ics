@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: 22 BAHNEN
-DTSTART;TZID=Europe/Berlin:20260811T230000
-DTEND;TZID=Europe/Berlin:20260812T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-22-bahnen-20260811-2100@ifg-plattform.de
-DESCRIPTION:Spielfilm | Deutschland 2025 | 102 min | Drama | Regie: Mia Ma
- ariel Meyer | FSK 12\n\nEinlass: 18:30\n\nCaroline Wahls Debutroman entwic
- kelte sich zu einem absoluten Bestseller. Nun kommt die Verfilmung des Buc
- hes mit der großartigen Luna Wedler in der Hauptrolle.\nTilda lebt mit ih
- rer alkoholkranken Mutter und ihrer zehnjährigen Halbschwester Ida in ein
- er Kleinstadt. Neben ihrem Mathematikstudium jobbt sie an der Supermarktka
- sse\, um das Familieneinkommen aufzubessern. Nur die innige Liebe zu ihrer
-  Schwester und die gemeinsamen Routinen bilden einen Gegenpol zum chaotisc
- hen Familienleben. Doch das Angebot einer Promotionsstelle in Berlin und d
- er mysteriöse Viktor\, der unerwartet Tildas regelmäßige Bahnen im Schw
- immbad kreuzt\, könnten alles verändern.\nDie hochsommerlich flirrende O
- berfläche des Films steht in starkem Kontrast zur Melancholie der Charakt
- ere. Tildas innerer Monolog transportiert als Stimme aus dem Off den zärt
- lich-lakonischen Ton der Romanvorlage in den Film. Er geht auch da in die 
- Tiefe\, wo das Buch hin und wieder etwas stereotyp bleibt.\n„Am Ende ist
-  es allein die Wahrscheinlichkeit dieser Lovestory\, mit der niemand gerec
- hnet hat\, die „22 Bahnen“ zu einem herzzerreißenden Film umwerfender
-  Wahrhaftigkeit macht\, in den man sich auch dann verlieben kann\, wenn ma
- n nicht zu den Millionen Fans der Romanvorlage gehören sollte.“ (Blickp
- unkt:Film)\n\nDarsteller: Luna Wedler\, Zoë Baier\, Jannis Niewöhner\, L
- aura Tonke
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:27
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Ein fast perfekter Antrag
 DTSTART;TZID=Europe/Berlin:20260812T230000
 DTEND;TZID=Europe/Berlin:20260813T015900
@@ -3454,5 +3415,34 @@ DESCRIPTION:Dann isset halt so\n\nEinlass: 19:00\n\nManchmal ändern sich
   Stefan Danziger zeigt auf\, dass Misslungenes allemal witzig ist.
 LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
 X-SCORE:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Landgren  Wollny / Danielsson / Haffner
+DTSTART;TZID=Europe/Berlin:20261109T210000
+DTEND;TZID=Europe/Berlin:20261110T005900
+DTSTAMP:20260719T065608Z
+UID:landgren-wollny-danielsson-haffner-20261109-2000@ifg-plattform.de
+DESCRIPTION:Das erste Grand Concert gestalten Landgren / Wollny / Danielss
+ on / Haffner. Das Debüt der deutsch-schwedischen Supergroup wurde 2019 zu
+ r erfolgreichsten Jazzeinspielung in Deutschland – getragen von vier eig
+ enständigen Persönlichkeiten\, die den europäischen Jazz seit Jahren pr
+ ägen.\n\nNils Landgren gilt mit seinem unverwechselbaren Ton und großer 
+ stilistischer Offenheit als einer der international erfolgreichsten Jazzmu
+ siker Skandinaviens. Pianist Michael Wollny zählt zu den einflussreichste
+ n Stimmen seiner Generation und verbindet Virtuosität mit experimenteller
+  Neugier. Lars Danielsson steht für lyrische Tiefe und einen charakterist
+ ischen\, warmen Klang\, während Wolfgang Haffner als einer der vielseitig
+ sten europäischen Drummer mit untrüglichem Gespür für Groove und Dynam
+ ik gilt.\n\nGemeinsam entfalten sie eine Musik\, die stilistische Grenzen 
+ spielerisch überschreitet. Jazz trifft auf Pop\, Improvisation auf klare 
+ Form\, energetische Verdichtung auf große klangliche Weite. Das Repertoir
+ e aus eigenen Kompositionen und neu gedachten Klassikern dient dabei vor a
+ llem als Ausgangspunkt für ein hochflexibles Zusammenspiel\, das von Spon
+ taneität und gegenseitigem Vertrauen lebt.\n\nSo entsteht ein Sound\, der
+  gleichermaßen zugänglich und komplex ist – geprägt von vier unverwec
+ hselbaren Handschriften\, die sich im gemeinsamen Spiel zu einer intensive
+ n\, lebendigen Einheit verbinden.
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:21
 END:VEVENT
 END:VCALENDAR
