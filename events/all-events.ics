@@ -2,43 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Ein fast perfekter Antrag
-DTSTART;TZID=Europe/Berlin:20260812T230000
-DTEND;TZID=Europe/Berlin:20260813T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-ein-fast-perfekter-antrag-20260812-2100@ifg-plattform.de
-DESCRIPTION:Spielfilm | Deutschland 2026 | 105 min | Komödie | Regie: Mar
- c Rothemund | FSK 0\n\nEinlass: 18:30\n\nDer eigenwillige Witwer Walter ve
- rtreibt sich seine Zeit im Ruhestand damit\, Restaurants zu testen und akr
- ibisch im Internet zu bewerten. Bei einem seiner Restaurantbesuche trifft 
- er zufällig seine Jugendliebe Alice wieder. Vor 40 Jahren hatte er ihr ei
- nen Heiratsantrag gemacht und war spektakulär gescheitert. Die lebensfroh
- e und freigeistige Kunstprofessorin ist auch heute noch das genaue Gegente
- il des altmodischen\, akkuraten Walter. Der Ehrgeiz des pensionierten Inge
- nieurs ist geweckt. Er will es diesmal besser machen\, während Alice gar 
- nicht daran denkt\, denn sie liebt ihr unabhängiges Leben und braucht kei
- nen Beziehungsstress. Sie stellt eine Bedingung: Erst wenn er echtes Inter
- esse an ihrer Welt zeigt\, bekommt er vielleicht eine zweite Chance. Und s
- o schreibt sich Walter\, der sich nie für Kunst interessiert hat\, zu Ali
- ce Entsetzen als Gaststudent in ihrem Kurs ein. Und so stellt ihn nicht nu
- r Alice vor ungeahnte Herausforderungen\, sondern auch die Begegnung mit s
- einen 40 Jahre jüngeren Kommilitonen.\nKaum zu glauben\, aber in dieser u
- nterhaltsamen Komödie spielen Iris Berben und Heiner Lauterbach zum erste
- n mal ein Liebespaar. Wurde aber auch Zeit!\n\n\nDarsteller: Iris Berben\,
-  Heiner Lauterbach\, Amira Demirkiran
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:27
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Macht und Pracht des mavi kral. Max Emanuel und die Türkenkriege
 DTSTART;TZID=Europe/Berlin:20260813T200000
 DTEND;TZID=Europe/Berlin:20260813T210000
