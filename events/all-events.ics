@@ -2,87 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Macht und Pracht des mavi kral. Max Emanuel und die Türkenkriege
-DTSTART;TZID=Europe/Berlin:20260813T200000
-DTEND;TZID=Europe/Berlin:20260813T210000
-DTSTAMP:20260719T065608Z
-UID:macht-und-pracht-des-mavi-kral-max-emanuel-und-die-t-rkenkriege-202608
- 13-1800@ifg-plattform.de
-DESCRIPTION:Kuratorenführung am Abend\n\nKurfürst Max Emanuel gehört zu
-  den schillerndsten Persönlichkeiten der bayerischen Geschichte. Sein Ruh
- m auf den Schlachtfeldern des Balkans ist ebenso legendär wie sein Scheit
- ern im Spanischen Erbfolgekrieg und die anschließende Verbannung aus Baye
- rn. Die Führung hinterfragt Max Emanuels Inszenierung als „Türkensiege
- r“ und frag: Was ist Wahrheit\, was ist Dichtung?\n\nDas Format der Kura
- torenführung bietet einet im Anschluss an die bewusst kurz gehaltene Füh
- rung von etwa 30 bis 40 Min die Möglichkeit\, mit der Kuratorin der Ausst
- ellung Dr. Priscilla Pfannmüller ins Gespräch zu kommen und diskutieren 
- zu können.\nDie Führung ist kostenlos. Es ist nur der Museumseintritt zu
-  entrichten.
-LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DONOVAN KEITH
-DTSTART;TZID=Europe/Berlin:20260813T220000
-DTEND;TZID=Europe/Berlin:20260814T000000
-DTSTAMP:20260719T065608Z
-UID:donovan-keith-20260813-2000@ifg-plattform.de
-DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nDONOVAN 
- KEITH\n— Donnerstag\, 13/08 um 20 Uhr —\n\n\nDonovan Keith ist Sänger
- \, Songwriter und Entertainer aus Austin\, Texas\, und bringt den Spirit v
- on klassischem Soul und früherem Rock ’n’ Roll auf die Bühne. Mit se
- iner mitreißenden Bühnenenergie\, markanten Stimme und unverwechselbaren
-  Tanzmoves begeistert er sein Publikum - authentisch\, leidenschaftlich un
- d voller Gefühl. \n\n\nZwischen den USA und Europa unterwegs\, spielte Do
- novan bereits in zahlreichen Clubs und auf Festivals. Seine Musik verbinde
- t nostalgische America-Klänge mit modernem Soul und schafft eine Atmosph
- äre\, die Menschen unterschiedlichster Kulturen zusammenbringt. Seine Kon
- zerte sind intensiv\, tanzbar\, emotional und hinterlassen garantiert eine
- n bleibenden Eindruck. \n\n\nIm Rahmen seiner Europa Tour macht Donovan Ke
- ith Halt im TAGTRAUM Biergarten und sorgt für einen Sommerabend voller Gr
- oove\, Soul und handgemachter Musik unter freiem Himmel. \n\n\nWir freuen 
- uns auf euch! \n\n\nDas Konzept „Pay What You Want“ macht die TAGTRAUM
-  Biergartenkonzerte bewusst offen und für jeden zugänglich.\n\n\nVielen 
- Dank an unseren diesjährigen Partner der TAGTRAUM BIERGARTENKONZERTE - di
- e Sparkasse Ingolstadt Eichstätt.
-LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:55
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: ALPEN FILM FESTIVAL 2026
-DTSTART;TZID=Europe/Berlin:20260813T224500
-DTEND;TZID=Europe/Berlin:20260814T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-alpen-film-festival-2026-20260813-2045@ifg-plattform.de
-DESCRIPTION:100 min | Kurzfilm | Deutschland 2026\n\nEinlass: 18:30\n\nFü
- nf beeindruckende Bergfilme erzählen von Leidenschaft\, Mut und dem Leben
-  in den Bergen – ein bewegendes Kinoerlebnis voller inspirierender Gesch
- ichten und atemberaubender Emotionen. Nanga Parbat - Mit david göttler - 
- 45 min 50:50 - Mit Ines Papert und Sarah Huenekin - 11 min Fathom - Mit Ja
- kob und Matthias Weger - 10 min Steile Karrieren - Mit Markus Hildebrandt 
- und Caja Geyer - 10 min Ein ganz normales Leben - Mit Ilse und Fritz Pries
- ner - 20 min\nDie besten Bergfilme des Jahres. Drei exklusiv für das Alpe
- n Film Festival produzierte Filme bilden das Herzstück der „Passion“-
- Tour 2026 – in der David Göttler Sinn in alpinistischem Streben findet\
- , ein Ehepaar auch nach 60 Jahren gemeinsame Abenteuer erlebt\, Förster a
- us Leidenschaft den Bergwald zum Schutzwald machen\, Ines Papert und Sarah
-  Huenekin eindrucksvoll dem Alter trotzen und zwei Südtiroler Brüder gem
- einsam durch Himmel und Hölle des Freeridens gehen.\nMit: Angela Percival
- \nRegie: Hermann Erber\, Jakob Schweighofer\, Tom Dauer
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:37
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Extrawurst
 DTSTART;TZID=Europe/Berlin:20260814T224500
 DTEND;TZID=Europe/Berlin:20260815T015900
@@ -3407,5 +3326,76 @@ DESCRIPTION:Das erste Grand Concert gestalten Landgren / Wollny / Danielss
  n\, lebendigen Einheit verbinden.
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Concert: Hauptact t.b.a\, Support: Bella Wakame
+DTSTART;TZID=Europe/Berlin:20261111T210000
+DTEND;TZID=Europe/Berlin:20261112T005900
+DTSTAMP:20260719T065608Z
+UID:grand-concert-hauptact-t-b-a-support-bella-wakame-20261111-2000@ifg-pl
+ attform.de
+DESCRIPTION:Im Kulturzentrum neun findet heute das zweite Grand Concert st
+ att. Im Mittelpunkt steht ein Hauptact\, der derzeit noch nicht genannt we
+ rden kann – weitere Informationen folgen am 10. Juni. So viel vorab: Es 
+ handelt sich um eine international renommierte Band\, die seit Jahren zu d
+ en prägenden Formationen zwischen Indie\, Electronica und avantgardistisc
+ hem Pop zählt und weit über die Landesgrenzen hinaus für ihren unverwec
+ hselbaren Sound gefeiert wird. Ein Abend für alle\, die Entdeckungen lieb
+ en – und große Namen auch ohne Ankündigung erkennen.\n\nDen Auftakt ge
+ staltet das Berliner Duo Bella Wakame. Mit Perkussion und modularen Synthe
+ sizern entwickeln sie einen eigenständigen Sound zwischen Experiment und 
+ Groove. Ihr Debütalbum (2025) zeigt eine stilistische Offenheit\, die von
+  dichten Texturen bis zu eingängigen\, schwebenden Motiven reicht – ein
+  konzentrierter\, vielversprechender Einstieg in den Abend.\n\nEin Hinweis
+ : Die mit 30 Prozent rabattierten Early Bird Tickets bleiben bis zur Bekan
+ ntgabe des Hauptacts im Vorverkauf.
+LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
+X-SCORE:15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hendrik Brehmer
+DTSTART;TZID=Europe/Berlin:20261111T210000
+DTEND;TZID=Europe/Berlin:20261112T005900
+DTSTAMP:20260719T065608Z
+UID:hendrik-brehmer-20261111-2000@ifg-plattform.de
+DESCRIPTION:bisschen reingesteigert\n\nEinlass: 19:00\n\nHendrik Brehmer k
+ ommt am Mittwoch\, den 11.11.2026 um 20:00 Uhr mit seinem neuen Programm 
+ „bisschen reingesteigert“ in die eventhalle Westpark nach Ingolstadt. 
+ \n„Was soll die Scheiße?!“ – diese Frage hat sich wohl jeder schon 
+ einmal gestellt. Hendrik Brehmer stellt sie sich regelmäßig. Leben ist k
+ ompliziert\, und während viele versuchen\, irgendwie klarzukommen oder Di
+ nge einfach hinzunehmen\, macht er genau das Gegenteil: Er nimmt nichts ei
+ nfach hin. Er ändert aber auch nichts. Stattdessen steigert er sich ein b
+ isschen rein. In seinem ersten Soloprogramm „bisschen reingesteigert“ 
+ nimmt Hendrik das Publikum mit in seine ganz persönliche Überforderung: 
+ Ein 30-Jähriger\, irgendwo zwischen Vaterrolle\, Beziehung und dem ganzen
+  Rest– und der dringenden Frage: „Wo ist eigentlich mein Lego-Technik?
+ “ Eigentlich wollte er als Physiker das Universum verstehen. Heute ist e
+ r Comedian – und versteht nicht einmal seine eigenen Gefühle oder waru
+ m es so viele unterschiedliche Nudelsorgen gibt. Auf der Bühne steht er 
+ als junger Erwachsener\, der überfordert ist mit seinen Ängsten – und
+  Angst hat\, noch überforderter zu werden. Hendrik Brehmer will die Welt
+  nicht erklären – das kann er auch gar nicht. Aber er zeigt\, wie absur
+ d der Versuch ist\, darin klarzukommen. Mit trockenem Humor\, ehrlichen Ge
+ schichten und einem Blick fürs Absurde spricht er über die Ansichten s
+ einer Oma\, das fehlende Bein seines Vaters oder wie es ist\, als ostdeuts
+ ches Kleinstadtkind in der Hauptstadt eine Familie zu gründen. Hendrik z
+ eigt\, dass die Wahrheit nicht immer bequem sein muss\, um lustig zu sein.
+  Echte Vorlagen. Kein Disney. Am Ende versucht Hendrik nur\, mit Kreativit
+ ät und Empathie ein Stück Gelassenheit im Chaos zu finden. \nOb ihm das
+  gelingt? Findet es heraus – LIVE auf der Bühne
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:42
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazzpreisträgerkonzert
+DTSTART;TZID=Europe/Berlin:20261111T210000
+DTEND;TZID=Europe/Berlin:20261112T005900
+DTSTAMP:20260719T065608Z
+UID:jazzpreistr-gerkonzert-20261111-2000@ifg-plattform.de
+DESCRIPTION:Die Preisträgerin oder der Preisträger werden zeitnah bekann
+ t gegeben.\n\nDer Eintritt zu dieser Veranstaltung ist kostenfrei.
+LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
+X-SCORE:25
 END:VEVENT
 END:VCALENDAR
