@@ -2,44 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Extrawurst
-DTSTART;TZID=Europe/Berlin:20260814T224500
-DTEND;TZID=Europe/Berlin:20260815T015900
-DTSTAMP:20260719T065608Z
-UID:freilichtkino-extrawurst-20260814-2045@ifg-plattform.de
-DESCRIPTION:Spielfilm | Deutschland 2026 | 98 min | Komödie | Regie: Marc
- us H. Rosenmüller | FSK 12\n\nEinlass: 18:30\n\nEigentlich ist es reine F
- ormsache: Heribert\, langjähriger Vorsitzender des Tennisclubs Lengenheid
- e\, und sein ehrgeiziger Stellvertreter Matthias lassen über die Anschaff
- ung eines Grills für die nächste Vereinsfeier abstimmen. Der hippe Werbe
- texter Torsten\, von Berlin in die Provinz ausgewandert\, haut noch einen 
- flotten Spruch raus\, damit die dröge Versammlung ein schnelles Ende find
- et. Da schlägt seine Frau Melanie vor\, für ihren Doppelpartner Erol\, d
- as einzige muslimische Mitglied des Vereins\, einen zweiten Grill zu kaufe
- n. Denn gläubige Muslime dürfen ihre Grillwürste bekanntlich nicht auf 
- einen Rost mit Schweinefleisch legen. Die gut gemeinte Idee führt Satz f
- ür Satz zu einem turbulenten Schlagabtausch\, bei dem Atheisten und Gläu
- bige\, Deutsche und Türken\, Gutmenschen und Hardliner frontal aufeinande
- rprallen…\nMit jeder Wendung der Geschichte wird es ein bisschen absurde
- r\, und doch kommt einem sehr vieles auch nur allzu bekannt vor. Bundesdeu
- tsche Wirklichkeiten konzentrieren sich in einer einzigen Vereinssitzung\,
-  und Hape Kerkeling führt den Vorsitz. Kurzweilige Unterhaltung und Train
- ing für die Lachmuskeln sind garantiert.\n\n\nDarsteller: Hape Kerkeling\
- , Christoph Maria Herbst\, Fahri Yardim\, Anja Knauer\, Gaby Dohm\, Milan 
- Peschel
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:32
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Alpha (OmU - Spätvorstellung)
 DTSTART;TZID=Europe/Berlin:20260815T010000
 DTEND;TZID=Europe/Berlin:20260815T015900
@@ -3397,5 +3359,100 @@ DESCRIPTION:Die Preisträgerin oder der Preisträger werden zeitnah bekann
  t gegeben.\n\nDer Eintritt zu dieser Veranstaltung ist kostenfrei.
 LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
 X-SCORE:25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kriegsbeute und Souvenirs aus dem Krieg 187071
+DTSTART;TZID=Europe/Berlin:20261112T190000
+DTEND;TZID=Europe/Berlin:20261112T200000
+DTSTAMP:20260719T065608Z
+UID:kriegsbeute-und-souvenirs-aus-dem-krieg-187071-20261112-1800@ifg-platt
+ form.de
+DESCRIPTION:Kuratorenführung am Abend\n\nDie bayerische Armee erbeutete i
+ m Deutsch-Französischen Krieg zahlreiche Fahnen\, Waffen und Ausrüstungs
+ stücke. Diese bildeten den Grundstock des wenige Jahre später gegründet
+ en Bayerischen Armeemuseums. Nach und nach gelangten auch verschiedenste E
+ rinnerungsstücke\, welche die Soldaten aus dem Krieg mit nach Hause brach
+ ten\, ins Museum.\nDie Kuratorenführung durch die Dauerausstellung „Kri
+ eg und Frieden“ zeigt\, dass hinter diesen Objekten vielfach bewegende S
+ chicksale stehen. Sie vermittelt zugleich ein spannendes Stück deutsch-fr
+ anzösischer Beziehungen\, das von 1870 bis in unsere Gegenwart reicht.\n\
+ nDas Format der Kuratorenführung bietet einet im Anschluss an die bewusst
+  kurz gehaltene Führung von etwa 30 bis 40 Min die Möglichkeit\, mit dem
+  Kurator der Ausstellung Dr. Oliver Stein ins Gespräch zu kommen und disk
+ utieren zu können.
+LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazz in den Kneipen: 16 Acts in 10 Locations der Altstadt
+DTSTART;TZID=Europe/Berlin:20261112T200000
+DTEND;TZID=Europe/Berlin:20261113T005900
+DTSTAMP:20260719T065607Z
+UID:jazz-in-den-kneipen-16-acts-in-10-locations-der-altstadt-20261112-1900
+ @ifg-plattform.de
+DESCRIPTION:„Jazz in den Kneipen“ ist eines der Highlights der Ingolst
+ ädter Jazztage. Es spielen 16 Acts in 10 Locations der Altstadt und zeige
+ n die ganze Bandbreite von Jazz bis weit darüber hinaus.\n\nMit dabei sin
+ d: Backstage\, das „Mo“\, Diagonal.\, Neue Welt\, ZWØLF by Yankee&amp
+ \;Kraut\, Tagtraum\, Rosengasse 2\, Weinraum Bar\, Städtische Galerie im 
+ Theater und Griesmüllers Altstadtbrauerei – überall gibt es Neues zu e
+ ntdecken.\n\nEs spielen: Cosmica Bandida\, Lisa Wahllandt &amp\; Band\, Ad
+ am Ben Ezra Duo\, Syncopa\, Sufi Dub Brothers\, REG10N\, Kildan World Proj
+ ect\, Ida Valentina Trio\, Ellie Harris (form of four)\, DJ Allynx\,\, Joh
+ annes Enders Quartett\, O/H/R\, Thomas Stieger &amp\; Band\, Benedikt Stre
+ icher Quartett feat. Mishell Ivon\, NYMMER Band und Joshua Milo &amp\; Ban
+ d.\n\nDer Abend steht für Vielfalt\, Energie und musikalische Neugier –
+  gekrönt von einer mittlerweile legendären Aftershow-Party.\n\nDie einze
+ lnen Auftrittszeiten der Bands werden zeitnah auf der Homepage des Kultura
+ mts bekannt gegeben.
+LOCATION:Innenstadt Ingolstadt\, Am Stein 1\, 85049 Ingolstadt
+X-SCORE:41
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Abonnementkonzert
+DTSTART;TZID=Europe/Berlin:20261112T210000
+DTEND;TZID=Europe/Berlin:20261113T005900
+DTSTAMP:20260719T065608Z
+UID:3-abonnementkonzert-20261112-2000@ifg-plattform.de
+DESCRIPTION:Ariel Zuckermann: Flöte &amp\; Leitung\n\nWelches Orchester h
+ at einen international renommierten Flötisten als Chefdirigenten? Mit Ari
+ el Zuckermann verfügt die Kammerphilharmonie über diese einzigartige Dop
+ pelkraft. Unvergessen der CPE-Bach-Zyklus\, der auch auf CD erschienen ist
+ . Auch François Deviennes Flötenkonzert Nr. 7 in e-Moll fügt sich als b
+ rillantes Beispiel klassischer Flötenkunst stimmig in dieses Profil ein.\
+ n\nProgramm:\n\nBéla Bartók: Divertimento für Streichorchester\nFranço
+ is Devienne: Flötenkonzert Nr. 7 in e-Moll\nGrazyna Bacewitz: Concerto fo
+ r string orchestra\nJoseph Haydn: Sinfonie Nr. 52 c-Moll\n\nAriel Zuckerma
+ nn: Flöte &amp\; Leitung
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:31
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Max von Milland &amp\; Die Brennenden Herzen
+DTSTART;TZID=Europe/Berlin:20261112T210000
+DTEND;TZID=Europe/Berlin:20261113T005900
+DTSTAMP:20260719T065608Z
+UID:max-von-milland-amp-die-brennenden-herzen-20261112-2000@ifg-plattform.
+ de
+DESCRIPTION:Lei Liebe Tour\n\nEinlass: 19:00\n\nDer Südtiroler Singer-Son
+ gwriter nimmt dich mit seiner Band auf eine musikalische Reise\, die durch
+  die ganze Welt führt\, aber immer Südtirol im Gepäck hat. Wenn man Sü
+ dtirol in Songs packen könnte\, Max von Milland käme dem Sound ganz sich
+ er am nächsten. Seine Musik verkörpert die Essenz der Region rund um Bri
+ xen – seiner Heimat. Der Singer-Songwriter packt die Sprache und das Leb
+ ensgefühl Südtirols in einen einzigartigen Stil\, der zwar tief in seine
+ r Heimat wurzelt\, aber dennoch so kosmopolit wie Max selbst ist. Denn Max
+  von Milland trägt die Welt im Herzen. Und seine Heimat auf der Zunge. Na
+ ch der erfolgreichen HOI TOUR (2025) mit ausverkauften Shows in Bayern\, 
+ Österreich und Südtirol geht der Brixner Musiker Max von Milland in 2026
+ /2027 mit neuen Songs und mit frischer Bandformation erneut auf Tour. Begl
+ eitet wird Max dabei von seiner neuen Live-Formation "Die Brennenden Herze
+ n". Emily Ferri (Backings\, Piano) und Simon Gamper (Multiinstrumentalist)
+  waren bereits Teil der Trio-Version. Neu dabei für die Live-Tour sind Te
+ resa Staffler (Backings\, Synthesizer) und Roby Nogler (Drums). Offizielle
+  Schreibweise der Band: “Max von Milland &amp\; Die Brennenden Herzen”
+ .
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:23
 END:VEVENT
 END:VCALENDAR
