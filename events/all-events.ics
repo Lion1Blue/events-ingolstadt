@@ -2,93 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Alpha (OmU - Spätvorstellung)
-DTSTART;TZID=Europe/Berlin:20260815T010000
-DTEND;TZID=Europe/Berlin:20260815T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-alpha-omu-sp-tvorstellung-20260814-2300@ifg-plattform.de
-DESCRIPTION:Spielfilm | Frankreich/Belgien 2025 | 128 min | Drama/Horror |
-  Regie: Julia Ducournau | FSK 16 | OmU\n\nEinlass: 18:30\n\nIm Frankreich 
- der 1980er Jahre bricht eine rätselhafte Epidemie aus\, die Menschen lang
- sam in Marmorstatuen verwandelt. Inmitten dieser bedrohlichen Zeit kämpft
-  die 13-jährige Alpha mit ihrer eigenen Verwandlung – dem schmerzhaften
-  Übergang zwischen Kindheit und Erwachsenwerden. Als mysteriöse Gerücht
- e über eine Infektion die Runde machen und ihr furchtloser Onkel Amin auf
- taucht\, gerät das fragile Gleichgewicht ihrer Familie endgültig ins Wan
- ken. Julia Ducournau (TITANE) erschafft ein fiebriges Werk von außergewö
- hnlicher emotionaler Wucht\, in dem Tahar Rahim (UN PROPHÈTE) und Golshif
- teh Farahani (PATERSON) mit intensiven Darstellungen beeindrucken. Ein vis
- ionäres Körperkino über Transformation\, Familie und die schmerzhafte S
- chönheit des Loslassens.\n\nDarsteller: Emma Mackey\, Golshifteh Farahani
- \, Tahar Rahim\, Finnegan Oldfield\nDer Film wird in der Originalfassung m
- it deutschen Untertiteln gezeigt
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Google Pixel Supercup der Frauen
-DTSTART;TZID=Europe/Berlin:20260815T213000
-DTEND;TZID=Europe/Berlin:20260816T015900
-DTSTAMP:20260719T065608Z
-UID:google-pixel-supercup-der-frauen-20260815-1930@ifg-plattform.de
-DESCRIPTION:FC Bayern München - VfL Wolfsburg\n\nDer Google Pixel Supercu
- p der Frauen findet in diese Jahr in Ingolstadt statt und markiert den off
- iziellen Auftakt der Saison 2026/2027. Im Supercup treffen die Deutschen M
- eisterinnen 2026 des FC Bayern München auf Pokalfinalist und Vize-Meister
-  VfL Wolfsburg.\n\nDer Fanblock des FC Bayern München befindet sich in de
- n Blöcken T (Sitzplätze) und U (Stehplätze)\, der Fanblock des VfL Wolf
- sburg in den Blöcken I (Sitzplätze) und H (Stehplätze). Der Verkauf der
-  Fanblöcke erfolgt zu gegebener Zeit über die Vereine oder direkt über 
- das DFB-Ticketportal.\n\nFreu dich auf hochklassigen Fußball mit vielen N
- ationalspielerinnen\, große Emotionen und beste Stadionatmosphäre - live
-  beim Google Pixel Supercup der Frauen 2026.
-LOCATION:Audi Sportpark\, Schloßlände 26\, 85049 Ingolstadt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: Michael
-DTSTART;TZID=Europe/Berlin:20260815T224500
-DTEND;TZID=Europe/Berlin:20260816T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-michael-20260815-2045@ifg-plattform.de
-DESCRIPTION:Spielfilm | USA 2025 | 126 min | Biografie/Drama/Musikfilm | R
- egie: Antoine Fuqua | FSK 6\n\nEinlass: 18:30\n\nDer junge Michael Jackson
-  (Juliano Krue Valdi) wird als achtes von zehn Kindern unter der strengen 
- Führung seines Vaters Joe (Colman Domingo) früh für eine Musikkarriere 
- gedrillt wird. Mit der Familienband Jackson Five feiert er erste Erfolge\,
-  im Alter von 13 Jahren startet er bereits die Solokarriere. Auch im Erwac
- hsenenalter (Jaafar Jackson) ist sein Leben von der Musik dominiert. Ende 
- der 1970er-Jahre lernt er bei Filmarbeiten Diana Ross (Kat Graham) und den
-  Produzenten Quincy Jones (Kendrick Sampson) kennen\, was seine musikalisc
- he Ausrichtung grundlegend verändert. Das von Jones produzierte Album "Of
- f the Wall" (1979) wird ein großer Erfolg\, der 1982 durch die bahnbreche
- nde und meistverkaufte Platte "Thriller" noch übertroffen wird. Parallel 
- zu diesem Aufstieg kommt es zum Bruch mit seinem Vater Joe\, den Jackson a
- ls Manager entlässt und durch den Anwalt John Branca (Miles Teller) erset
- zt.\n\nDarsteller: Jaafar Jackson Juliano Krue Valdi Miles Teller Colman D
- omingo Nia Long
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Radtour zum Biergarten im Schloss Ratzenhofen
 DTSTART;TZID=Europe/Berlin:20260816T110000
 DTEND;TZID=Europe/Berlin:20260816T200000
@@ -3454,5 +3367,73 @@ DESCRIPTION:Lei Liebe Tour\n\nEinlass: 19:00\n\nDer Südtiroler Singer-Son
  .
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Workshop-Abschlusskonzert
+DTSTART;TZID=Europe/Berlin:20261113T200000
+DTEND;TZID=Europe/Berlin:20261114T005900
+DTSTAMP:20260719T065607Z
+UID:workshop-abschlusskonzert-20261113-1900@ifg-plattform.de
+DESCRIPTION:Am Mittwoch\, 11. November\, startet der Workshop „Jazz an d
+ en Schulen“\, der bis zum Freitag\, 13. November\, läuft. Unter Anleitu
+ ng erfahrener Musiker*innen können Teilnehmende selbst aktiv werden und i
+ hre musikalischen Fähigkeiten erweitern. Was die Nachwuchstalente in dies
+ en drei Tage gelernt haben\, präsentieren sie heute\, am letzten Workshop
+ tag\, in einem Abschlusskonzert.\n\nDer Eintritt zu dieser Veranstaltung i
+ st kostenfrei.
+LOCATION:Sparkasse\, Rathausplatz 6\, 85049 Ingolstadt
+X-SCORE:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazzparty: Auf Du und Du mit den Künstler*innen
+DTSTART;TZID=Europe/Berlin:20261113T200000
+DTEND;TZID=Europe/Berlin:20261114T005900
+DTSTAMP:20260719T065608Z
+UID:jazzparty-auf-du-und-du-mit-den-k-nstler-innen-20261113-1900@ifg-platt
+ form.de
+DESCRIPTION:Die legendäre Jazzparty der Ingolstädter Jazztage wird 2026 
+ zu einem Abschied voller Glanz: Bevor der Hämer-Buro-Bau seine Türen sch
+ ließt\, verwandeln sich Festsaal\, Foyers\, Backstage und Galerie ein let
+ ztes Mal in vibrierende Klangräume.\n\nAcht Acts sorgen für einen Abend 
+ zwischen Jazz\, Groove und elektronischen Sounds. Erleben Sie die einzigar
+ tige Nähe von Publikum und Künstler*innen – intensiv\, urban und unver
+ gesslich. Jetzt Tickets sichern und Teil dieses besonderen Moments werden!
+ \n\nFestsaal\, Foyers\, das Restaurant Backstage und die Städtische Galer
+ ie im Stadttheater – in der parallel das jazz:lab stattfindet – werden
+  zur Bühne einer rauschenden Huldigung an Musik\, Architektur und urbane 
+ Kultur. Nirgendwo sonst begegnen sich Künstler*innen und Publikum so unmi
+ ttelbar.\n\nInsgesamt werden acht faszinierende Formationen den Partyabend
+  gestalten: Nik Bärtsch´s Ronin\, Electro Deluxe\, Heavytones\, Ida Sand
+  &amp\; Magnus Lindgren\, Peki Momés\, DJ Allynx\,\, Robinson Khoury und 
+ CHRIS MINH DOKY &amp\; THE NOMADS feat. Chris Minh Doky\, Manu Katché\, T
+ ill Brönner\, Simon Oslender.\n\nJazzparty-Tickets gelten auch für das p
+ arallel stattfindende jazz:lab. Alternativ sind separate jazz:lab-Tickets 
+ erhältlich.
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:44
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Coldheart
+DTSTART;TZID=Europe/Berlin:20261113T210000
+DTEND;TZID=Europe/Berlin:20261114T005900
+DTSTAMP:20260719T065608Z
+UID:coldheart-20261113-2000@ifg-plattform.de
+DESCRIPTION:Rock Classics\n\nEinlass: 19:00\n\nCOLDHEART – Classic Rock 
+ live &amp\; in Perfektion! \n\nErlebt eine Zeitreise durch die goldene Är
+ a des Rock – mit einer Show\, die begeistert! \n\nCOLDHEART steht für h
+ andgemachten\, stilechten Classic Rock\, mit höchster Spielfreude und bee
+ indruckender musikalischer Präzision. Die sechs erfahrenen Musiker bringe
+ n die größten Rockhits aller Zeiten auf die Bühne – von Led Zeppelin\
+ , Deep Purple\, Metallica über Queen\, Pink Floyd\, Bon Jovi\, AC/DC\, Jo
+ urney bis hin zu Gotthard\, Judas Priest\, Guns N’ Roses und vielen mehr
+ . \n\nDas besondere Markenzeichen: vier charismatische Sänger\, die für 
+ Abwechslung\, Power und ein besonders breites Repertoire sorgen – von Ha
+ rd Rock bis Ballade\, von Gänsehaut bis Headbangen. Ob „hart“ oder 
+ „zart“ – Coldheart trifft genau den Nerv aller Rockfans. Das Publiku
+ m feiert ihre energiegeladene Bühnenshow und die leidenschaftliche Hommag
+ e an die größten Rocklegenden. \n\nThe show must go on – seid dabei\, 
+ wenn Coldheart den Rock zurück auf die Bühne bringt!
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:28
 END:VEVENT
 END:VCALENDAR
