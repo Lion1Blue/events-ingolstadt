@@ -2,92 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Radtour zum Biergarten im Schloss Ratzenhofen
-DTSTART;TZID=Europe/Berlin:20260816T110000
-DTEND;TZID=Europe/Berlin:20260816T200000
-DTSTAMP:20260719T065607Z
-UID:radtour-zum-biergarten-im-schloss-ratzenhofen-20260816-0900@ifg-plattf
- orm.de
-DESCRIPTION:Einlass: 09:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nDurch die Hallertau und den Dürnbucher Forst zum Schlossgarten. Der
-  Schlossherr sorgt mit süffigem Bier im Steinkrug und deftigen Brotzeiten
-  für gute Stimmung. Vielleicht gibt es auch zünftige Musik.\nBio-Bike-To
- ur: Die Radtour ist besonders auf die Bedürfnisse von Bio-Radler*innen ab
- gestimmt\, die Ihre Touren ohne elektrische Unterstützung unternehmen. Ra
- dler*innen mit Pedelec sind herzlich willkommen\, müssen sich aber an Tem
- po und Kondition der Bio-Radler*innen orientieren.\nAnmeldung erwünscht\,
-  aber nicht erforderlich.
-LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Führung im Fort Prinz Karl
-DTSTART;TZID=Europe/Berlin:20260816T130000
-DTEND;TZID=Europe/Berlin:20260816T150000
-DTSTAMP:20260719T065607Z
-UID:f-hrung-im-fort-prinz-karl-20260816-1100@ifg-plattform.de
-DESCRIPTION:das letzte vollständig erhaltene Festungswerk Ingolstadts\n\n
- Einlass: 11:00\n\nDas Fort Prinz Karl\nDas Fort Prinz Karl wurde 1877-1881
-  erbaut. Es gehörte zur letzten Ausbaustufe der bayerischen Landesfestung
-  Ingolstadt\, die 1828 neu gegründet worden war. Zwar wurde die Festung n
- ie unmittelbar angegriffen\, aber das Bauwerk diente doch sehr unterschied
- lichen Nutzungen. So wurde es während des Ersten Weltkriegs Kriegsgefange
- nenlager für später so berühmte Gefangene wie den sowjetischen Marschal
- l Michail Tuchatschewski und den französischen Staatspräsidenten Charles
-  de Gaulle.\nAuch in späteren Jahren war das Fort Gefängnis und Lager: V
- on November 1918 bis Juli 1919 brachte man hier als politische Häftlinge 
- die Teilnehmer am Spartakusaufstand unter.  Und von 1920–24 warteten im 
- so genannten Ausländersammellager Fort Prinz Karl viele \nunerwünschte P
- ersonen\, überwiegend Ausländer (u.a. so genannte „Ostjuden“)\, auf 
- ihre Ausweisung aus Bayern.\nWährend des Zweiten Weltkriegs wurde hier Mu
- nition abgefüllt und sowohl die US Armee (1945/46) als auch die Bundesweh
- r (1957–1971) nutzten den ehemaligen Festungsbau als Munitionslager.\nEi
- ne reguläre Nutzung dieses Gebäudekomplexes ist schwer möglich. Die Rä
- ume sind feucht\, dunkel und kaum zu heizen. Seit dem Ende des Zweiten Wel
- tkriegs befindet sich der Kampfmittelräumdienst in Teilen des Forts\, der
-  Rest steht weitgehend leer.\nDurch umfangreiche Verkehrssicherungsmaßnah
- men in den vergangenen Jahren und die Kooperation zwischen der Immobilien 
- Freistaat Bayern und dem Bayerischen Armeemuseum wurde nun die Möglichkei
- t geschaffen\, in diesem hochspannenden Gebäude Führungen anzubieten und
-  neben der Geschichte auch die Funktionen dieses komplexen Festungswerks z
- u erklären.\nDas Fort ist nicht barrierefrei erschlossen.
-LOCATION:Fort Prinz Karl\, Fort Prinz Karl 1\, 85098 Großmehring\, Festes
-  Schuhwerk ist zwingend erforderlich.
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: Pumuckl und das große Missverständnis
-DTSTART;TZID=Europe/Berlin:20260816T224500
-DTEND;TZID=Europe/Berlin:20260817T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-pumuckl-und-das-gro-e-missverst-ndnis-20260816-2045@ifg-
- plattform.de
-DESCRIPTION:Spielfilm | Deutschland 2025 | 99 min | Familienfilm/Kinderfil
- m | Regie: Marcus H. Rosenmüller | FSK 0\n\nEinlass: 18:30\n\nEine Schild
- kröte\, ein Ausflug aufs Land und dann auch noch Nachbar Burkes Geburtsta
- g: Bei Pumuckl und Eder ist in diesem Sommer ganz schön viel los! Zu viel
-  vielleicht – denn bei so vielen Ereignissen schaffen es die beiden kaum
-  noch\, ordentlich miteinander zu sprechen. Zwischen Eder und Pumuckl komm
- t es zu einem großen Missverständnis und die beschauliche Welt der beide
- n droht auseinanderzubrechen.\nNiemand geringerer als Regie-Legende Marcus
-  H. Rosenmüller („Wer früher stirbt ist länger tot“) katapultiert d
- en rotzfrechen\, reimenden\, liebenswerten kleinen Kobold und seinen Meist
- er Eder in die Gegenwart. Kurzweilig-vergnügliche Unterhaltung für Klein
-  und Groß sind garantiert!\n\n\nDarsteller: Florian Brückner\, Maximilia
- n Schafroth\, Anja Knauer
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Ein Kuchen für den Präsidenten
 DTSTART;TZID=Europe/Berlin:20260817T224500
 DTEND;TZID=Europe/Berlin:20260818T015900
@@ -3435,5 +3349,43 @@ DESCRIPTION:Rock Classics\n\nEinlass: 19:00\n\nCOLDHEART – Classic Rock
  wenn Coldheart den Rock zurück auf die Bühne bringt!
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jazz for Kids
+DTSTART;TZID=Europe/Berlin:20261114T150000
+DTEND;TZID=Europe/Berlin:20261115T005900
+DTSTAMP:20260719T065608Z
+UID:jazz-for-kids-20261114-1400@ifg-plattform.de
+DESCRIPTION:Ein besonderes Highlight ist „Jazz for Kids“\, heuer zum e
+ rsten Mal in Zusammenarbeit mit der Kammerphilharmonie Ingolstadt. Nach in
+ ternen Schulvorstellungen steht heute die öffentliche Aufführung auf dem
+  Programm.\n\nDieses Format richtet sich speziell an ein junges Publikum u
+ nd verbindet spielerisch klassische und jazzige Elemente.
+LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
+X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tango mit da Ziach - Eberwein
+DTSTART;TZID=Europe/Berlin:20261114T200000
+DTEND;TZID=Europe/Berlin:20261115T005900
+DTSTAMP:20260719T065608Z
+UID:tango-mit-da-ziach-eberwein-20261114-1900@ifg-plattform.de
+DESCRIPTION:bairischer Kammersound\n\nEinlass: 18:00\n\nDie Formation um M
+ arlene Eberwein und ihre blaue Harfe setzt mit ihrem „bairischen Kammers
+ ound“ ganz besondere Akzente im Kosmos der Neuen Heimatmusik.\nDie fünf
+  Musiker kommen aus der bairischen Musiktradition\, musizieren kammermusik
+ alisch-intim und kreieren einen unverwechselbar-sympathischen crossover-So
+ und zwischen Tradition und Moderne. Bestimmt vom Klang der Harfe spielen s
+ ie wunderbar virtuos mit den Grenzen der Musikstile.\neberwein lässt die 
+ tänzerische Polka mit verspieltem Jazz oder melancholischem Klezmer versc
+ hmelzen. Duftige Walzer und rhythmische Zwiefache erfahren ihre Verjüngun
+ gskur durch gekonnte Improvisationen. Dazwischen wird herzerfrischend gesu
+ ngen: Lustige Gstanzl und Vierzeiler erklingen zu mitreißenden Rhythmen\,
+  aktuelle Geschichten werden zu fröhlichen Couplets und Chansons.\n\neber
+ wein- das sind die Musiker um die Harfenistin Marlene Eberwein: Stephan Re
+ iser (Saxophon.\, Klarinette)\, Stefan Lang (Trompeter/Percussion.) Michae
+ l Reiß (Gitarre) und Max Seefelder (Keyboard).\n \nwww.eberwein-musik.de
+LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
+X-SCORE:29
 END:VEVENT
 END:VCALENDAR
