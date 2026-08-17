@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Ein Kuchen für den Präsidenten
-DTSTART;TZID=Europe/Berlin:20260817T224500
-DTEND;TZID=Europe/Berlin:20260818T015900
-DTSTAMP:20260719T065608Z
-UID:freilichtkino-ein-kuchen-f-r-den-pr-sidenten-20260817-2045@ifg-plattfo
- rm.de
-DESCRIPTION:Spielfilm | USA/Irak/Katar 2025 | 105 min | Drama/Historienfil
- m | Regie: Hasan Hadi | FSK 6\n\nEinlass: 18:30\n\nIm Marschland im Süden
-  des Iraks führt die kleine Lamia (Baneen Ahmed Nayyef) Anfang der 1990er
- -Jahre zusammen mit ihrer betagten Großmutter Bibi (Waheed Thabet Khreiba
- t) ein einfaches bäuerliches Leben. Kurz vor dem Geburtstag von Staatsobe
- rhaupt Saddam Hussein steht in der Schule\, die sie und ihr Freund Saeed (
- Sajad Mohamad Qasem) mit dem Boot erreichen\, eine traditionelle (auch in 
- der damaligen Realität existierende) Lotterie an. Jedes Jahr wird ein Kin
- d der Klasse ausgelost\, das zu Ehren des Diktators für die örtlichen Fe
- ierlichkeiten einen Kuchen backen muss. Kommt es dem Auftrag nicht nach\, 
- drohen seiner Familie drakonische Strafen. Dieses Mal trifft es Lamia\, f
- ür die eine eigentlich so alltägliche Aufgabe zu einer schier unüberwin
- dbaren Herausforderung werden könnte\, ächzt doch das ganze Land im Zuge
-  des Zweiten Golfkriegs unter internationalen Sanktionen.\n\nDarsteller: B
- aneen Ahmad Nayyef (Lamia) · Sajad Mohamad Qasem (Saeed) · Waheed Thabet
-  Khreibat (Bibi) · Rahim AlHaj (Jasim) · Muthanna Malaghi (Muthanna)
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Glenkill – Ein Schafskrimi
 DTSTART;TZID=Europe/Berlin:20260818T224500
 DTEND;TZID=Europe/Berlin:20260819T015900
