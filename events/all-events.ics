@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Glenkill – Ein Schafskrimi
-DTSTART;TZID=Europe/Berlin:20260818T224500
-DTEND;TZID=Europe/Berlin:20260819T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-glenkill-ein-schafskrimi-20260818-2045@ifg-plattform.de
-DESCRIPTION:Spielfilm | Grossbritannien/USA 2025 | 110 min | Komödie | Re
- gie: Kyle Balda | FSK 6\n\nEinlass: 18:30\n\nEin Schäfer in der irischen 
- Provinz liest seinen Tieren regelmäßig Krimis vor. Als er eines Tages er
- mordet wird\, übernehmen die unbedarften Tiere die Ermittlungen und suche
- n den Täter unter den kauzigen Dorfbewohnern\, von denen fast jeder ein M
- otiv hat. Dem Einsatz der Schafe begegnen die Menschen zunächst allerding
- s mit völligem Unverständnis. Die Krimikomödie in nostalgischem Ambient
- e schöpft ihren Humor aus den Missverständnissen zwischen Menschen und T
- ieren und erzählt über die sprechenden Schafe davon\, wie man die Wirkli
- chkeit akzeptieren und durch schlechte Erfahrungen wachsen kann. Ein warmh
- erziger\, versöhnlicher\, zu Herzen gehender und lustiger Genre-Mix für 
- die ganze Familie.\n\nDarsteller: Hugh Jackman\, Emma Thompson\, Nicholas 
- Braun\, Nicholas Galitzine\, Molly Gordon
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:27
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Das Drama – nochmal auf Anfang (OmU)
 DTSTART;TZID=Europe/Berlin:20260819T224500
 DTEND;TZID=Europe/Berlin:20260820T015900
