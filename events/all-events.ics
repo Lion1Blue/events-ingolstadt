@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Das Drama – nochmal auf Anfang (OmU)
-DTSTART;TZID=Europe/Berlin:20260819T224500
-DTEND;TZID=Europe/Berlin:20260820T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-das-drama-nochmal-auf-anfang-omu-20260819-2045@ifg-platt
- form.de
-DESCRIPTION:Spielfilm | USA 2025 | 105 min | Drama | Regie: Kristoffer Bor
- gli | FSK 12 | OmU\n\nEinlass: 18:30\n\nEin schockierendes Geständnis bri
- ngt eine anstehende Hochzeit in Gefahr und schüttelt eine glückliche Bez
- iehung kräftig durch. Das ist die Prämisse von Kristoffer Borglis zweite
- r englischsprachiger Regiearbeit\, in der Zendaya und Robert Pattinson ers
- tmals gemeinsam auf der großen Leinwand agieren. „Das Drama – Noch ma
- l auf Anfang“ ist zweifellos provokant\, vielleicht sogar etwas geschmac
- klos. Dem so ausgelutschten Genre der romantischen Komödie verleiht der F
- ilm mit ebenso schrägen wie abgründigen Ideen aber einen interessanten D
- reh.\n\nDarsteller: Robert Pattinson Zendaya Alana Haim Hailey Gates\n\nDe
- r Film wird in der Originalfassung mit deutschen Untertiteln gezeigt
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herrliches Herrnbräu live erleben!
 DTSTART;TZID=Europe/Berlin:20260820T190000
 DTEND;TZID=Europe/Berlin:20260820T210000
