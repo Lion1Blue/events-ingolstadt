@@ -2,36 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Der Teufel trägt Prada 2
-DTSTART;TZID=Europe/Berlin:20260821T223000
-DTEND;TZID=Europe/Berlin:20260822T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-der-teufel-tr-gt-prada-2-20260821-2030@ifg-plattform.de
-DESCRIPTION:Spielfilm | USA 2026 | 119 min | Komödie | Regie: David Frank
- el | FSK 0\n\nEinlass: 18:30\n\nAndi Sacks hat gerade einen Preis für ein
- en Artikel bekommen\, als sie per SMS erfährt\, dass ihre Kollegen\, aber
-  auch sie entlassen sind. Darüber macht sie sich in ihrer Rede Luft\, was
-  wiederum die Aufmerksamkeit des Eigentümers des Magazins Runway erregt. 
- Denn Runway\, das Modemagazin\, für das Andi einst als Assistentin der fi
- esen Chefredakteurin tätig war\, hat gerade einen Skandal erlebt\, wesweg
- en journalistische Integrität nottut. Aber Miranda ist gar nicht froh üb
- er die Rückkehr ihrer alten Assistentin. Als wäre das noch nicht genug\,
-  steht schon bald mehr auf dem Spiel: das Überleben des Magazins an sich.
-  \n\nDarsteller: Meryl Streep Anne Hathaway Emily Blunt Stanley Tucci Kenn
- eth Branagh Simone Ashley Justin Theroux Lucy Liu
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Pillion (OmU - Spätvorstellung)
 DTSTART;TZID=Europe/Berlin:20260822T010000
 DTEND;TZID=Europe/Berlin:20260822T015900
@@ -3214,5 +3184,65 @@ DESCRIPTION:bairischer Kammersound\n\nEinlass: 18:00\n\nDie Formation um M
  l Reiß (Gitarre) und Max Seefelder (Keyboard).\n \nwww.eberwein-musik.de
 LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
 X-SCORE:29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Herrliches Herrnbräu live erleben!
+DTSTART;TZID=Europe/Berlin:20261119T180000
+DTEND;TZID=Europe/Berlin:20261119T200000
+DTSTAMP:20260719T065608Z
+UID:herrliches-herrnbr-u-live-erleben-20261119-1700@ifg-plattform.de
+DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nBesuchen Sie uns in unse
+ rer Brauerei und erleben Sie\, mit wie viel Sorgfalt und modernster Techni
+ k unsere Herrnbräu Bierspezialitäten nach alt überlieferten Rezepturen 
+ und altbayerischer Braukunst gebraut werden. \nBei einem geführten Rundga
+ ng hinter die Kulissen erfahren Sie mehr über unser Traditionsunternehmen
+  und die Kunst des Bierbrauens. Der Rundgang beginnt im Sudhaus. Von hier 
+ aus kommen Sie an Gär- und Lagerkeller vorbei weiter zur Flaschenabfüllu
+ ng.\nUnd das Beste kommt zum Schluss: Mit der Verkostung unserer frisch ge
+ zapften Bierspezialitäten und Brezen lassen wir Ihren Besuch bei uns ausk
+ lingen.\n\nOder beenden Sie den Rundgang bei einem köstlichen Herrnbräu 
+  und lassen Sie sich gute bayerische Küche schmecken. Unser Brauereigasth
+ aus „Zur Sudpfanne“ bildet den perfekten Ausklang der Tour\, wo Sie Ih
+ re Bierfavoriten in aller Ruhe genießen können. Zum Wohl!\n\nMindestteil
+ nehmerzahl: 10 Personen\n\nWir freuen uns auf Ihren Besuch!
+LOCATION:Brauerei Herrnbräu\, Manchinger Straße 95\, 85053 Ingolstadt
+X-SCORE:26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Claudia Pichler
+DTSTART;TZID=Europe/Berlin:20261119T210000
+DTEND;TZID=Europe/Berlin:20261120T005900
+DTSTAMP:20260719T065608Z
+UID:claudia-pichler-20261119-2000@ifg-plattform.de
+DESCRIPTION:Kopfnuss und Konterbier\n\nEinlass: 19:00\n\nClaudia Pichler i
+ st ein Unikum: Die Münchnerin wirkt auf den ersten Blick so sanft und cha
+ rmant wie ein Frühlingsmorgen\, seziert in feiner Sprache mit bairischem 
+ Einschlag allzu menschliche Abgründe und beherrscht dabei gekonnt die ges
+ amte Klaviatur der Komik. Ein Abend mit Fr. Dr. Pichler - sie promovierte 
+ über keinen Geringeren als Gerhard Polt - verbindet scharfzüngige Gesell
+ schaftsbeobachtungen mit herrlich trockenem Humor. \n\nMan muss nicht im B
+ oxring stehen\, um Schläge zu kassieren. Das Leben verteilt ständig Lebe
+ rhaken\, Magenschwinger und Gnackwatschn. Plötzliche Krankheit\, der Papa
+  stirbt\, Beziehungsdrama und der Hamster hustet auch bedenklich. Ständig
+  muss man folgenreiche Entscheidungen treffen und ist doch schon bei Allta
+ gsfragen wie dem Kauf eines neuen WC-Sitzes hoffnungslos überfordert. Von
+  globalen Krisen ganz zu schweigen! Wie soll man damit nur fertig werden? 
+ Auf jeden Fall nicht alleine. Der Mensch ist ein soziales Wesen und funkti
+ oniert am besten in Kooperation. Deshalb ist Einsamkeit eine der bedrohlic
+ hen Zivilisationskrankheiten unserer Zeit. Jeder kennt sie\, niemand spric
+ ht gern darüber. Sie lauert hinter jedem Eck\, nach dem verkackten Tinder
+ -Date\, der gekündigten Freundschaft oder im nächsten perfekten Social-M
+ edia-Feed. Denn das Gras auf der anderen Seite scheint immer grüner - inz
+ wischen immerhin legal. Resilienz ist das Zauberwort\, weil nicht jede Kri
+ se mit einem Konterbier beantwortet werden kann. Schon gar nicht\, wenn ei
+ ne plötzliche Histamin-Intoleranz den Biergenuss verdirbt. Kein Bier\, ke
+ in Schweinsbraten - was bleibt da noch von der bayerischen Identität? Ein
+ e ganze Menge\, wie Claudia Pichler auf der Bühne beweist\, viel Tiefgrü
+ ndiges\, herrlicher Schmarrn\, haarsträubende Aufreger und spaßige Liede
+ r. Denn wenn die Zeiten dunkler werden\, wird auch der Humor schwärzer un
+ d notwendiger denn je. Ein Abend voller Charme\, Satire und treffsicherer 
+ Beobachtungen.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:33
 END:VEVENT
 END:VCALENDAR
