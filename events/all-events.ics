@@ -2,59 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Radtour NatTourGenuss - Schellenberg und Enkering
-DTSTART;TZID=Europe/Berlin:20260823T120000
-DTEND;TZID=Europe/Berlin:20260823T200000
-DTSTAMP:20260719T065607Z
-UID:radtour-nattourgenuss-schellenberg-und-enkering-20260823-1000@ifg-plat
- tform.de
-DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nRadtour hin und zurück auf Natur- und Forstwegen. Ziel ist der Sche
- llenberg oberhalb von Enkering. Einkehr im Gasthof Zum Bräu in Enkering\n
- Eine NaTourGenuss Radtour verbindet die genüssliche Fahrt durch die heimi
- sche Natur mit der Einkehr in einer guten Gaststätte und dem Abschluss in
-  einem Biergarten. Wegen der zahlreich befahrenen Naturwege durch hügelig
- es Gelände wird ein robustes Treckingrad (Pedelec) mit geländetauglichem
-  Reifenprofil empfohlen.\nAnmeldung erwünscht\, aber nicht erforderlich.
-LOCATION:Willner Fahrradzentrum\, Friedrichshofener Straße 1e\, 85049 Ing
- olstadt
-X-SCORE:114
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Auf den Spuren der Auto Union
-DTSTART;TZID=Europe/Berlin:20260823T153000
-DTEND;TZID=Europe/Berlin:20260823T170000
-DTSTAMP:20260719T065608Z
-UID:auf-den-spuren-der-auto-union-20260823-1330@ifg-plattform.de
-DESCRIPTION:Die Geschichte des Weltkonzerns Audi\n\nEinlass: 13:30\n\nWer 
- an Audi denkt\, der denkt unweigerlich an das weitläufige Fabrikareal im 
- Norden Ingolstadts.\n\nDoch es ist noch gar nicht so lange her\, da produz
- ierte der renommierte Automobilhersteller noch mitten in der Ingolstädter
-  Altstadt: Unsere Gästeführer/-innen führen Sie an die Orte der frühen
-  Fahrzeug- und Motorradfertigung\, rund um den Josef-Strobl-Platz\, die Ke
- imzelle der Autoindustrie in Ingolstadt.\n\nErfahren Sie viel Wissenswerte
- s über die Anfänge der automobilen Fließbandfertigung und lassen Sie si
- ch überraschen\, in welchen historischen Gebäuden die Wurzeln des heutig
- en Weltkonzerns liegen.
-LOCATION:Tourist Information\, Moritzstraße 19\, 85049 Ingolstadt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Schanzer Tanzboden Musikanten - Tanzleitung: Hildegard Babel
-DTSTART;TZID=Europe/Berlin:20260823T180000
-DTEND;TZID=Europe/Berlin:20260824T015900
-DTSTAMP:20260719T065608Z
-UID:schanzer-tanzboden-musikanten-tanzleitung-hildegard-babel-20260823-160
- 0@ifg-plattform.de
-DESCRIPTION:Die kultURIG Veranstaltungsreihe vereint ihre Einzelveranstalt
- ungen Volkstanz\, Volksmusik\, Musik aus Alt-Ingolstadt und den traditione
- llen Kocherlball zu einem vielfältigen Brauchtumserlebnis.\n\nTauchen Sie
-  ein und erleben Sie Ingolstadts kulturelle Vielfalt in ihrer ganzen Prach
- t!\n\nDer Eintritt zu dieser Reihe ist kostenfrei
-LOCATION:Schutterhof\, Friedhofstraße 1a\, 85049 Ingolstadt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Nawi – Dear Future Me
 DTSTART;TZID=Europe/Berlin:20260824T223000
 DTEND;TZID=Europe/Berlin:20260825T015900
@@ -3252,5 +3199,107 @@ DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  cht werden.
 LOCATION:Stadtmuseum\, Auf d. Schanz 45\, 85049 Ingolstadt
 X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Programmieren und Robotik entdecken
+DTSTART;TZID=Europe/Berlin:20261121T110000
+DTEND;TZID=Europe/Berlin:20261121T133000
+DTSTAMP:20260719T065607Z
+UID:programmieren-und-robotik-entdecken-20261121-1000@ifg-plattform.de
+DESCRIPTION:Alle Kinder im Alter von 9 bis zu 11 Jahren sind herzlich eing
+ eladen\, im Bürgerhaus Neuburger Kasten die spannende Welt der Technik un
+ d des Programmierens zu entdecken - ganz spielerisch mit einer grafischen 
+ Benutzeroberfläche. Schritt für Schritt werden die jungen Teilnehmerinne
+ n und Teilnehmer einen Modell-Roboter zum Leben erwecken. Er reagiert auf 
+ Taster und Bewegungen\, zeigt Nachrichten auf einem Display an und setzt s
+ ogar einen Motor in Bewegung. Dabei lernen die Kinder\, logisch zu denken\
+ , kreativ zu tüfteln und eigene Ideen umzusetzen – ganz ohne Vorkenntni
+ sse. Der Kurs wird altersgerecht\, verständlich und mit viel Spaß durchg
+ eführt und fördert wichtige Zukunftskompetenzen. Programmieren lernen\, 
+ Technik verstehen und stolz auf das eigene Werk sein!\nDamit viele Kinder 
+ in kleinen Gruppen teilnehmen können\, wird der Kurs inhaltsgleich an meh
+ reren Samstagen angeboten. Im Juli sind dies der 11. und 18.07. und im Her
+ bst der 26.09.\, der 10. und 24.10. sowie der 07. und 21.11. \nEine Anmeld
+ ung für sämtliche Kurse ist unter www.kidnetting.de möglich. Die Kosten
+  pro Termin liegen bei 6 Euro.
+LOCATION:Bürgerhaus Neuburger Kasten\, Fechtgasse 6\, 85049 Ingolstadt
+X-SCORE:200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ACDX
+DTSTART;TZID=Europe/Berlin:20261121T210000
+DTEND;TZID=Europe/Berlin:20261122T005900
+DTSTAMP:20260719T065608Z
+UID:acdx-20261121-2000@ifg-plattform.de
+DESCRIPTION:The ultimate AC/DC Rock Show\n\nEinlass: 19:00\n\n... die AC/D
+ C-Show der besonderen Art! Andere Bands spielen Stromgitarren – AC/DX si
+ nd wahre Energie! \n\nWer kennt sie nicht? Bon Scott\, Angus Young\, Brian
+  Johnson – die Götter des Rock’n’Roll aus Down Under. Songs vom For
+ mat eines ‚Thunderstruck‘\, ‚Highway To Hell‘ oder ‚Hells Bells
+ ‘ haben ihnen einen Platz im Musikolymp eingebracht. Aber Australien ist
+  weit und die Truppe nicht oft unterwegs – Darben ist angesagt für den 
+ echten Fan. Oder doch nicht? \n\nFünf Jungs aus der Oberpfalz machen sich
+  auf\, dem Erbe ihrer Idole gerecht zu werden: "AC/DX. ist zwar nur eine T
+ ributeband von soooo vielen\, leben und celebrieren das Original aber wie 
+ keine Zweite!“ Gut\, auch das mögen bestimmt noch einige andere Konkurr
+ enzcombos - wovon es ja eine Menge zu geben scheint - von sich behaupten\,
+  aber belegen können dies musikalisch wie auch showtechnisch nur die Krea
+ tivrocker um AC/DX.!\n\nWo sonst werden schon echte Kanonen zu `For those 
+ about to rock` abgefeuert? - Wer sonst - außer das Original - hämmert ´
+ live-haftig´ mit Hammer &amp\; Galle auf die Glocken der Finsternis ein? 
+ - Wer sonst bläst schon einen Dudelsack zu `It´s a long way to the top`\
+ , wirft auch noch bandeigene Geld- scheine verbunden mit einem Meet &amp\;
+  Greet unter die gröhlende Meute? - Wer lässt auch noch passend zu all d
+ em Höllenspektakel ehrfürchtig züngelnde Flammensäulen in die Lüfte t
+ anzen? - Und wer zum Teufel kann schon den einmaligen Blickfang einer mons
+ trösen wie ulkigen\, aber eben lebendigen "Rosie" auf der Bühne präsent
+ ieren? Genau\, nicht einmal das Original! Hoffentlich schauen sich Angus &
+ amp\; Co diese Idee mal nicht bei AC/DX ab \;-) ?! "AC/DX bringen die Luft
+  zum Kochen\, eine lebendige Tesla-Spule in musikalischer Form. \n\nDie gr
+ oßen Klassiker der Australier werden nicht einfach 1:1 nachgespielt\, jed
+ er Song entfaltet dank der einzigartigen optischen und musikalischen Umset
+ zung seine pure Magie\, wie man dies sonst nur in großen Stadien zu spür
+ en bekommt! For Those About To Rock – AC/DX. Salute You!
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ABBA World Revival Live Band mit anschließender DJ Party
+DTSTART;TZID=Europe/Berlin:20261121T213000
+DTEND;TZID=Europe/Berlin:20261122T030000
+DTSTAMP:20260719T065607Z
+UID:abba-world-revival-live-band-mit-anschlie-ender-dj-party-20261121-2030
+ @ifg-plattform.de
+DESCRIPTION:ABBA Live Band in Allershausen\n\nEinlass: 18:00\n\nABBA-Fiebe
+ r kommt nach Allershausen: Große Revival Party mit Live-Band und Disco Ni
+ ght am 21. November 2026\nAllershausen darf sich auf ein außergewöhnlich
+ es Musikevent freuen: Am Samstag\, den 21. November 2026\, verwandelt sich
+  die Ampertalhalle in Allershausen in eine große Bühne für eine unverge
+ ssliche musikalische Zeitreise.\nMit der ABBA World Revival Party erwartet
+  Besucher ein Abend voller Nostalgie\, großer Emotionen und echter Live-M
+ usik. Im Mittelpunkt steht eine 10-köpfige professionelle Live-Band\, die
+  die legendären Welthits der schwedischen Kultgruppe ABBA in einer aufwen
+ dig produzierten Tribute Show auf die Bühne bringt.\nSongs wie Dancing Qu
+ een\, Mamma Mia\, Waterloo\, Gimme! Gimme! Gimme! oder The Winner Takes It
+  All versprechen Gänsehaut\, Mitsing-Momente und echtes Konzertfeeling.\n
+ Doch damit endet der Abend noch lange nicht.\nIm Anschluss an die Live-Sho
+ w startet die große Disco Party mit DJ Groove\, bei der bis spät in die 
+ Nacht zu den größten Disco-\, 70er- und Partyklassikern weiter gefeiert 
+ werden darf.\nBereits jetzt läuft der Vorverkauf – aktuell sind für Sc
+ hnellentschlossene vergünstigte Early Bird Tickets erhältlich.\nDie Vera
+ nstaltung richtet sich an Musikliebhaber\, Freunde legendärer Popmusik un
+ d alle\, die einen besonderen Abend mit Live-Entertainment und ausgelassen
+ er Partystimmung erleben möchten.\nMit Gästen aus dem Raum München\, Fr
+ eising\, Dachau\, Pfaffenhofen und Umgebung verspricht die Veranstaltung e
+ ines der musikalischen Highlights im Herbst 2026 in der Region zu werden.\
+ nVeranstaltungsdetails\nDatum: Samstag\, 21. November 2026\nOrt: Ampertalh
+ alle Allershausen\nEinlass: 19 Uhr\nBeginn Live Show: 20 30Uhr\nAnschließ
+ end Disco Party mit DJ Groove\nTickets: Early Bird Vorverkauf läuft aktue
+ ll\nWeitere Informationen und Tickets unter:\nwww.abba-allershausen.de\nPr
+ essekontakt\nKUNO GmbH\n01704313259]\nabba-allershausen@kuno-gmbh.de\nwww.
+ abba-allershausen.de
+LOCATION:Ampertalhalle Allershausen\, Am Amperknie 1\, 85391 Allershausen\
+ , Parkplätze direkt vor Ort kostenlos verfügbar
+X-SCORE:27
 END:VEVENT
 END:VCALENDAR
