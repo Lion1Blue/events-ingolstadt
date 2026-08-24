@@ -2,40 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Nawi – Dear Future Me
-DTSTART;TZID=Europe/Berlin:20260824T223000
-DTEND;TZID=Europe/Berlin:20260825T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-nawi-dear-future-me-20260824-2030@ifg-plattform.de
-DESCRIPTION:Spielfilm | Kenia/Deutschland 2024 | 99 min | Drama | Regie: T
- oby Schmutzler\, Kevin Schmutzler\, Vallentine Chelluget\, Apuu Mourin | F
- SK 12\n\nEinlass: 18:30\n\nNAWI – DEAR FUTURE ME basiert auf wahren Erei
- gnissen\, auf der preisgekrönten Geschichte eines landesweiten Schreibwet
- tbewerbs der kenianischen Teenager-Beraterin Milcah Cherotich. Der Film wu
- rde als offizieller kenianischer Oscar-Beitrag 2025 ausgewählt\, gewann e
- inen African Academy Award für die Hauptdarstellerin Michelle Lemuya sowi
- e 25 internationale Auszeichnungen\, darunter Raindance\, das Beijing Inte
- rnational Film Festival und das LA Pan African Film Festival.\nDie Erzähl
- ung spielt in der filmisch unerkundeten Region Turkana im Norden Kenias. D
- er Spielfilm beleuchtet das komplexe Thema der Kinderehen in ländlichem A
- frika und folgt einem Mädchen\, das sich uralten sozialen Traditionen wid
- ersetzt. NAWI – DEAR FUTURE ME ist ein Film über Hoffnung\, Opfer und T
- räume\, der wichtige Gespräche über Bildung und Geschlechtergerechtigke
- it anstoßen möchte.\n\nDarsteller: Michelle Lemuya Ikeny Joel Liwan Ochu
- ngo Benson Ben Tekee Michelle Chebet Tiren Patrick Oketch
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:27
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Ach\, diese Lücke\, diese entsetzliche Lücke
 DTSTART;TZID=Europe/Berlin:20260825T223000
 DTEND;TZID=Europe/Berlin:20260826T015900
