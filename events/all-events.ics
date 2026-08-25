@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Ach\, diese Lücke\, diese entsetzliche Lücke
-DTSTART;TZID=Europe/Berlin:20260825T223000
-DTEND;TZID=Europe/Berlin:20260826T015900
-DTSTAMP:20260719T065607Z
-UID:freilichtkino-ach-diese-l-cke-diese-entsetzliche-l-cke-20260825-2030@i
- fg-plattform.de
-DESCRIPTION:Spielfilm | Deutschland 2025 | 137 min | Komödie | Regie: Sim
- on Verhoeven | FSK 6\n\nEinlass: 18:30\n\nRegisseur Simon Verhoeven („Al
- ter weißer Mann“) verfilmt den gleichnamigen Bestseller von Joachim Mey
- erhoff. Mit dabei natürlich seine Mutter Senta Berger.\nJoachim wird übe
- rraschend an der renommierten Schauspielschule in München aufgenommen und
-  zieht in die herrschaftliche Villa seiner Großeltern ein. Dort erlebt er
-  einen Alltag voller kurioser Rituale\, geprägt von der charmanten Exzent
- rik und den alkoholgetränkten Gewohnheiten seiner Großmutter und seines 
- Großvaters. Gleichzeitig taucht Joachim in die intensive und oft skurrile
-  Welt des Theaters ein\, wo Leidenschaft\, Konkurrenz und Selbstdarstellun
- g den Ton angeben. Zwischen den Bühnenproben und den Eigenheiten des Fami
- lienlebens gerät Joachim in einen Strudel aus Selbstzweifeln\, skurrilen 
- Begegnungen und inspirierenden Momenten. Auf seinem Weg versucht er\, sich
-  nicht nur in der Theaterwelt zu behaupten\, sondern auch herauszufinden\,
-  wer er wirklich ist.\n\nDarsteller: Bruno Alexander\, Senta Berger\, Mich
- ael Wittenborn
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:28
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Der Astronaut - Projekt Hail Mary
 DTSTART;TZID=Europe/Berlin:20260826T223000
 DTEND;TZID=Europe/Berlin:20260827T015900
