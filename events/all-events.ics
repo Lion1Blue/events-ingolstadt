@@ -2,77 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:MELLI ZECH
-DTSTART;TZID=Europe/Berlin:20260827T220000
-DTEND;TZID=Europe/Berlin:20260828T000000
-DTSTAMP:20260826T220008Z
-UID:melli-zech-20260827-2000@ifg-plattform.de
-DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nMELLI ZE
- CH\n— Donnerstag\, 27/08 um 20 Uhr —\n\n\nMelli Zech ist Singer-Songwr
- iterin mit Herz und beschreibt sich selbst als hängen gebliebene Romantik
- erin irgendwo zwischen Fernweh und Zuhause. Wenn ihr die Worte fehlen\, sc
- hreibt sie Songs darüber. Mit Akustikgitarre und einer tief berührenden 
- Stimme verwandelt Melli Emotionen in poetische Songs voller Intimität\, H
- erzschmerz und Lebensfreude. Zwischen leiser Melancholie und ehrlichen Gef
- ühlen schafft sie Momente\, die lange nachklingen. \n\n\nIhre Musik ist e
- in kunterbuntes Gefühlschaos mit jeder Menge Seele - und genau deshalb so
-  echt. Auf der Bühne begegnet Melli ihrem Publikum mit Offenheit\, Humor 
- und besonderen Gänsehautmomenten\, die bleiben. \n\n\nMelli Zech kommt be
- reits zum dritten Mal in den TAGTRAUM Biergarten - wir freuen uns auf euch
- \, sie und einen schönen Sommerabend zusammen! \n\n\nDas Konzept „Pay W
- hat You Want“ macht die TAGTRAUM Biergartenkonzerte bewusst offen und f
- ür jeden zugänglich.\n\n\nVielen Dank an unseren diesjährigen Partner d
- er TAGTRAUM BIERGARTENKONZERTE - die Sparkasse Ingolstadt Eichstätt.
-LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:27
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz the Kiesch! - Vol. 4 | Eintritt frei!
-DTSTART;TZID=Europe/Berlin:20260827T220000
-DTEND;TZID=Europe/Berlin:20260827T233000
-DTSTAMP:20260826T220008Z
-UID:jazz-the-kiesch-vol-4-eintritt-frei-20260827-2000@ifg-plattform.de
-DESCRIPTION:Summertime Jazzband\n\nEinlass: 19:00\n\nLive-Musik im Außenb
- ereich des Kulturbistros "kiss the kiesch". \nBei schlechtem Wetter findet
-  das Konzert innen statt. \n\n„Jazz the Kiesch! Vol. 4“ diesmal mit:\n
- \nSummertime Jazzband\n\nManfred See (Bass\, flute) Max Spranger (gui) Cha
- rlie Böck (Percussion)\nBenedikt Heine (Piano)\nConny Loos (Altsaxophon)\
- nMechthild Lauerer (Tenorsaxophon)\nKurt Fonfara (Gesang)
-LOCATION:kiss the kiesch\, Pfarrgasse 8\, 85049 Ingolstadt
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: The Bride! – Es lebe die Braut
-DTSTART;TZID=Europe/Berlin:20260827T221500
-DTEND;TZID=Europe/Berlin:20260828T015900
-DTSTAMP:20260826T220008Z
-UID:freilichtkino-the-bride-es-lebe-die-braut-20260827-2015@ifg-plattform.
- de
-DESCRIPTION:Spielfilm | USA 2026 | 126 min | Drama/Horror/Romanze | Regie:
-  Maggie Gyllenhaal | FSK 16\n\nEinlass: 18:30\n\nDer einsame Frankenstein 
- (Bale) reist ins Chicago der 1930er-Jahre\, um die geniale Wissenschaftler
- in Dr. Euphronius (gespielt von der für fünf Oscars® nominierten Annett
- e Bening) zu bitten\, eine Gefährtin für ihn zu erschaffen. Die beiden r
- eanimieren eine ermordete junge Frau – „die Braut“ (Buckley) ist geb
- oren. Doch was sich daraufhin entfaltet\, sprengt all ihre Erwartungen: Mo
- rd! Besessenheit! Eine entfesselte\, radikale Kulturbewegung! Und mitten i
- n diesem Strudel ein geächtetes Paar\, verstrickt in eine Romanze\, deren
-  heiße Glut zugleich entflammt und zerstört.\n\nDarsteller: Jessie Buckl
- ey\, Christian Bale\, Peter Sarsgaard\, Jake Gyllenhaal\, Penélope Cruz\,
-  Julianne Hough\, Annette Bening\, John Magaro
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:28
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Kill Bill – The Whole Bloody Affair (OmU)
 DTSTART;TZID=Europe/Berlin:20260828T221500
 DTEND;TZID=Europe/Berlin:20260829T015900
@@ -4411,5 +4340,62 @@ DESCRIPTION:ABBA Live Band in Allershausen\n\nEinlass: 18:00\n\nABBA-Fiebe
 LOCATION:Ampertalhalle Allershausen\, Am Amperknie 1\, 85391 Allershausen\
  , Parkplätze direkt vor Ort kostenlos verfügbar
 X-SCORE:27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bayerns Pompeji der Jungsteinzeit
+DTSTART;TZID=Europe/Berlin:20261125T190000
+DTEND;TZID=Europe/Berlin:20261125T203000
+DTSTAMP:20260826T220008Z
+UID:bayerns-pompeji-der-jungsteinzeit-20261125-1800@ifg-plattform.de
+DESCRIPTION:Die UNESCO-Welterbe-Siedlung von Pestenacker\n\nEinlass: 16:00
+ \n\nKostenfreier Vortrag von Dr. Anneli Wanger-O’Neill (Bayerisches Land
+ esamt für Denkmalpflege) und Barbara Limmer M.A. (kelten römer museum ma
+ nching) \n\nDas 1934 entdeckte Steinzeitdorf von Pestenacker ist eine arch
+ äologische Stätte der Superlative. Sie ist nicht nur die besterhaltene F
+ euchtbodensiedlung Bayerns\, sondern zählt auch zu den am besten ausgegra
+ benen\, dokumentierten und datierten Fundstellen Deutschlands. Dank der he
+ rausragenden Erhaltungsbedingungen im feuchten Milieu\, tausender Funde\, 
+ naturwissenschaftlicher Proben und moderner 3D-Visualisierung der Grabungs
+ aufzeichnungen erlaubt der Fundplatz einen einzigartigen Einblick in das L
+ eben und die Landschaft vor 5500 Jahren im bayerischen Alpenvorland.\n\nAu
+ f Basis zahlreicher Forschungsarbeiten sowie ihrer eigenen wissenschaftlic
+ hen Untersuchungen zeichnen Anneli Wanger-O’Neill und Barbara Limmer ein
+  detailreiches Bild vom Alltag der Bewohnerinnen und Bewohner dieser Siedl
+ ung\, die aufgrund ihrer großen überregionalen Bedeutung seit 2011 Teil 
+ des UNESCO-Welterbes »Prähistorische Pfahlbauten um die Alpen« ist. Sie
+  liegt im Tal des Verlorenen Baches bei Landsberg am Lech und wurde zwisch
+ en 1988 und 2004 großflächig ausgegraben. Ihre Gründung kann dendrochro
+ nologisch exakt auf das Jahr 3495 v. Chr. datiert werden\, wie die teils k
+ omplett erhaltenen Hölzer von Hausfundamenten und des ersten Dorfzaunes b
+ elegen.\n\nWerkzeuge\, Vorräte\, Alltagsgegenstände\, Abfall sowie deren
+  Verteilung in der Siedlung geben Auskünfte über Handwerkstechniken\, We
+ rkplätze\, das Speisenangebot\, bis nach Italien reichende Handelsbeziehu
+ ngen und sogar über die Hut-Mode der damaligen Zeit. Lediglich die Mensch
+ en selbst bleiben uns bislang verborgen\, denn Bestattungen fehlen nach wi
+ e vor. Liefern möglicherweise DNA-Spuren aus den in Pestenacker gefundene
+ n Steinzeitkaugummis nun erstmals Hinweise auf ihre Benutzerinnen und Benu
+ tzer?\n\nDie Dauerausstellung des kelten römer museums ist am 25.11.2026 
+ bis zum Beginn des Vortrags geöffnet. Eine Anmeldung zur kostenfreien Ver
+ anstaltung ist nicht erforderlich.
+LOCATION:kelten römer museum manching\, Im Erlet 2\, 85077 Manching
+X-SCORE:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stefan Leonhardsberger
+DTSTART;TZID=Europe/Berlin:20261125T210000
+DTEND;TZID=Europe/Berlin:20261126T005900
+DTSTAMP:20260826T220009Z
+UID:stefan-leonhardsberger-20261125-2000@ifg-plattform.de
+DESCRIPTION:Herzklopfen\n\nEinlass: 19:00\n\nWie überlebt man Sperrmüll-
+ Dates mit der Ehefrau\, spontanen Kontrollbesuch vom Jugendamt und einen N
+ achbarn\, der besser nagelt als man selbst? \n\nIn „Herzklopfen“ erzä
+ hlt Stefan Leonhardsberger von der täglichen Herausforderung\, als Partne
+ r\, Heimwerker und Familienoberhaupt zu bestehen. Zwischen Meniskus-OPs\, 
+ Grillabenden mit Profi-Besserwissern und heimlichen Haschkeksen fragt er s
+ ich: Bin ich mit 40 noch cool oder schon wie mein eigener Vater? \n\nHerau
+ s kommt ein Abend voller Gags\, Gesang und intimer Geständnisse – witzi
+ g\, unverschämt und mitten ins Herz.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:10
 END:VEVENT
 END:VCALENDAR
