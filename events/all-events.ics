@@ -2,42 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Kill Bill – The Whole Bloody Affair (OmU)
-DTSTART;TZID=Europe/Berlin:20260828T221500
-DTEND;TZID=Europe/Berlin:20260829T015900
-DTSTAMP:20260826T220008Z
-UID:freilichtkino-kill-bill-the-whole-bloody-affair-omu-20260828-2015@ifg-
- plattform.de
-DESCRIPTION:Spielfilm | USA 2026 | 247 min | Action/Martial Arts | Regie: 
- Quentin Tarantino | FSK 18 | OmU\n\nEinlass: 18:30\n\nDer vierte Film von 
- Quentin Tarantino kam vor mehr als 20 Jahren in zwei Volumes in die Kinos\
- , weil der Verleih Sorgen hatte\, ein vierstündiges Epos würde kommerzie
- ll untergehen. Der Regisseur sah später in der Zweiteilung durchaus Vorte
- ile\, hatte aber immer auch eine Fassung von „Kill Bill: The Whole Blood
- y Affair“\, der den Film in seiner Gesamtheit zeigt. Diese Fassung – u
- .a. mit einer neuen Animationssequenz – kommt in die Kinos. Und nur dort
- hin\, wie Tarantino sagte\, denn eine Heimkinoauswertung schließt er aus.
-  \nDie Braut erwacht aus dem Koma – jahrelang lag sie darin\, verlor ihr
-  Kind und sinnt nun auf Rache an Bill\, der sie zusammen mit seiner Killer
- truppe dorthin brachte. Nach und nach besucht sie jeden der Deadly Assassi
- n Viper Squad\, um abzurechnen\, immer mit dem Ziel\, am Ende Bill\, den s
- ie und der sie einst liebte\, zu töten.\n\nDarsteller: Uma Thurman\, Lucy
-  Liu Vivica A. Fox Michael Madsen Daryl Hannah David Carradine Julie Dreyf
- us Chiaki Kuriyama Sonny Chiba Michael Parks\n\nDieser Film wird in der Or
- iginalfassung mit deutschen Untertiteln gezeigt
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kombiführung Lechner Museum und Skulpturenpark
 DTSTART;TZID=Europe/Berlin:20260830T160000
 DTEND;TZID=Europe/Berlin:20260830T190000
@@ -4395,6 +4359,46 @@ DESCRIPTION:Herzklopfen\n\nEinlass: 19:00\n\nWie überlebt man Sperrmüll-
  ich: Bin ich mit 40 noch cool oder schon wie mein eigener Vater? \n\nHerau
  s kommt ein Abend voller Gags\, Gesang und intimer Geständnisse – witzi
  g\, unverschämt und mitten ins Herz.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jasmin Bayer Trio
+DTSTART;TZID=Europe/Berlin:20261126T190000
+DTEND;TZID=Europe/Berlin:20261127T005900
+DTSTAMP:20260826T220008Z
+UID:jasmin-bayer-trio-20261126-1800@ifg-plattform.de
+DESCRIPTION:Christmas Jazz mit Jasmin Bayer Trio: Das ist überzeugend und
+  meisterlich interpretierte Weihnachtsliteratur in Jazzgewand\, abseits vo
+ n süßlichem Kitsch und Kommerz. Jasmin Bayer weiß die Songs auf unnacha
+ hmliche Weise mit ihrer Liebe zu Weihnachten zu vermählen. Mit ihrer make
+ llos warmen Intonation\, ihrer charismatischen Bühnenpräsenz überrascht
+  die gebürtige Pforzheimerin\, die in ganz jungen Jahren eine veritable K
+ arriere als Schauspielerin absolvierte\, sogar erfahrene Zeitgenossen. Jas
+ min Bayer präsentiert sich als gestandene Frau\, als Künstlerin\, die ge
+ nau weiß\, was sie tut\, die ihr Publikum mit musikalischer Qualität zu 
+ überzeugen versteht und es mit ungekünsteltem Charme umgarnt. Unterstüt
+ zt von ihren Partnern Davide Roberts (Piano) und Gary Todd (Bass)\, kreden
+ zt sie eine stimmige Mischung aus Lebensfreude\, Melancholie und gesunder 
+ Wut. Die präsentieren Jazz\, feine Originals und souligen Pop mit einer T
+ iefe und Leichtigkeit\, die berührt und elektrisiert. Die Balance zwische
+ n den Genres stimmt einfach! Das hört man\, das fühlt man\, das sieht ma
+ n!\n\n→ Bar und Lounge im Audi Forum Ingolstadt\n→ Freier Eintritt
+LOCATION:Audi Forum\, Ettinger Straße Audi Piazza\, 85045 Ingolstadt
+X-SCORE:29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Helmfried von Lüttichau
+DTSTART;TZID=Europe/Berlin:20261126T210000
+DTEND;TZID=Europe/Berlin:20261127T005900
+DTSTAMP:20260826T220008Z
+UID:helmfried-von-l-ttichau-202611261100000000-2000@ifg-plattform.de
+DESCRIPTION:„neues Soloprogramm“\n\nEinlass: 19:00\n\nJa steckt denn d
+ ieser Helmfried von Lüttichau seine Nase überall hinein? Tut er und zwa
+ r mit Leidenschaft und Verve und jetzt auch mit einem eigenen Soloprogramm
+ : plugged. Das ist nicht nur etwas für Hubert und Staller-Fans. In seinem
+  Bühnenprogramm lernt man den bekannten Schauspieler in ganz unterschiedl
+ ichen Facetten kennen – persönlich\, sympathisch\, echt.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:10
 END:VEVENT
