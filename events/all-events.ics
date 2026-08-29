@@ -4402,4 +4402,52 @@ DESCRIPTION:„neues Soloprogramm“\n\nEinlass: 19:00\n\nJa steckt denn d
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:10
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ingmar Stadelmann
+DTSTART;TZID=Europe/Berlin:20261127T210000
+DTEND;TZID=Europe/Berlin:20261128T005900
+DTSTAMP:20260826T220009Z
+UID:ingmar-stadelmann-20261127-2000@ifg-plattform.de
+DESCRIPTION:„Stadelmann liest Höcke – ein satirischer Diskurs vor der
+  Machtergreifung“\n\nEinlass: 19:00\n\nIngmar Stadelmann kommt am Freita
+ g\, den 27.11.2026 um 19:33 Uhr mit seinem neuen Programm „Stadelmann li
+ est Höcke – ein satirischer Diskurs kurz vor der Machtergreifung“ in 
+ die Eventhalle Westpark nach Ingolstadt. \n\nIngmar Stadelmann\, gefeierte
+ r Stand-up-Comedian\, sezierte in seinen bisherigen Bühnenprogrammen (u.
+ a. „#humorphob“\, „Fressefreiheit“\, „Verschissmus“ und „Kom
+ m ihr klar?“)\, breit angelegt gesellschaftliche Phänomene. Nun nimmt e
+ r eine umstrittene Figur\, die durch die politischen Landschaft trampelt\,
+  ins Visier: Björn Uwe Höcke. Mit seinem satirischen Diskurs widmet sich
+  Stadelmann ganz und gar den bizarren Verwerfungen und Versprechungen\, de
+ n Worten und dem Werdegang des AfD-Chefs aus Thüringen. Inmitten der ges
+ ellschaftlichen Explosionen verharren viele sprachlos in Schockstarre oder
+  Gleichgültigkeit. Einzelne jedoch putzen sich heraus\, um die Gunst der
+  Stunde zu nutzen. Der Wolf im Schafspelz trägt jetzt Anzug. Einst Vertra
+ uenslehrer strebt Björn Höcke zum nationalen Frontalunterricht. Aber auc
+ h ein Wolf findet eben manchmal seinen Jäger. Hier trifft der Populist au
+ f Satiriker. Ingmar Stadelmann\, bekannt als „Meister des bösen Wortes
+ “ und virtuoser Standup- Comedian\, knöpft sich in diesem satirischen D
+ iskurs die hinterhältigen „Unterrichtsvorbereitungen“ des thüringis
+ chen AfD-Chefs\, von dem nicht wenige sagen\, er sei der wahre Kopf der Pa
+ rtei\, genauer vor. Stadelmann setzt den queerbunten Rotstift an und zerpf
+ lückt in Buchform publizierte Gespräche sowie öffentliche Reden Höcke
+ s. Was ist jetzt eigentlich so rechtsextrem an Herrn Höcke? Schließlich 
+ benutzt er im Fernsehen nicht das NWort\, weiß sich auch sonst passabel z
+ u artikulieren und ist brav gescheitelt. Was findet man inhaltlich\, wenn 
+ die Pointe nicht „Bernd“ ist? Es sind diese offensichtlich faschistisc
+ hen wie auch völkischen Ideen\, von denen der allgemeine Deutsche 70 Jahr
+ e nichts mehr gehört hat. \n\nOder sie ignoriert hat. Ingmar Stadelmann m
+ acht das getreu dem Motto: Antifaschismus kann auch Spaß machen! Befreien
+  wir uns für diesen Abend mal von linker moralischer Überhöhung und g
+ önnen uns politisch inkorrekte Pointen bis das Grundgesetz glüht. Geht 
+ es Stadelmann ums Belehren? Bekehren? Nein. Die\, die nicht mehr zu erreic
+ hen sind\, sind nicht mehr zu erreichen. Keine Pointe. Aber die\, die das 
+ Ganze sprachlos mit ansehen … ob aus Gleichgültigkeit oder Schreck\, f
+ ür die ist diese Show! Mit Humor auflösen\, was als unerträglich gilt.
+  Dafür hat jeder nach dieser Show genug Argumente. Kann am Ende also nie
+ mand mehr sagen: „Wir haben von nichts gewusst!“ \n\n© Ingmar Stadelm
+ ann
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:27
+END:VEVENT
 END:VCALENDAR
