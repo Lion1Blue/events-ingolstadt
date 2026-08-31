@@ -2,49 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Gelbe Briefe
-DTSTART;TZID=Europe/Berlin:20260831T221500
-DTEND;TZID=Europe/Berlin:20260901T015900
-DTSTAMP:20260826T220008Z
-UID:freilichtkino-gelbe-briefe-20260831-2015@ifg-plattform.de
-DESCRIPTION:Spielfilm | Deutschland\, Frankreich\, Türkei 2025 | 128 min 
- | Drama | Regie: İlker Çatak | FSK 12\n\nEinlass: 18:30\n\nErstmals seit
-  über zwanzig Jahren ging der Goldene Bär wieder an einen deutschen Film
- . Und so früh war ein frisch gekürter Gewinnerfilm der Berlinale wohl no
- ch nie im Casablanca zu sehen!\nDerya und Aziz\, ein gefeiertes Künstlere
- hepaar aus Ankara\, führen mit ihrer 13-jährigen Tochter Ezgi ein erfül
- ltes Leben – bis ein Vorfall bei der Premiere ihres neuen Theaterstücks
-  alles verändert. Über Nacht geraten sie ins Visier des Staates und verl
- ieren ihre Arbeit und ihre Wohnung. Sie gehen nach Istanbul\, wo sie vorl
- äufig bei der Mutter von Aziz unterkommen. Während sich Aziz mit Gelegen
- heitsjobs durchschlägt und an seinen Überzeugungen festhält\, sucht Der
- ya nach einem Ausweg\, der sie finanziell unabhängig macht. Nach und nach
-  vergrößert sich die Distanz zwischen ihnen und ihrer Tochter\, bis sie 
- sich zwischen ihren Wertvorstellungen und der gemeinsamen Zukunft als Fami
- lie entscheiden müssen.\nNach dem preisgekrönten Film „Das Lehrerzimme
- r“ legt Regisseur İlker Çatak mit „Gelbe Briefe“ erneut ein brisan
- tes und packendes Meisterwerk vor. Eindrucksvoll getragen von den türkisc
- hen Schauspielstars Özgü Namal und Tansu Biçer entwickelt sich ein inte
- nsives und brandaktuelles Drama über Mut und Macht\, das hochaktuelle\, g
- esellschaftspolitische Fragen in den Fokus nimmt.\n„İlker Çatak erzäh
- lt in seinem Goldener-Bär-Gewinner vom (Über-)Leben in einer autokratisc
- hen Gesellschaft\, aber nicht didaktisch oder moralisch\, sondern schmerzh
- aft ehrlich – und so zieht sich die Schlinge nicht nur für die Familie 
- im Zentrum\, sondern auch fürs Publikum unaufhaltsam zu.“\n\nDarsteller
- : Özgü Namal\, Tansu Biçer\, Leyla Smyrna Cabas
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:28
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Jubiläumskonzert : „1 Jahr Amal goes Diagonal“ mit der Summer
  time-Jazzband
 DTSTART;TZID=Europe/Berlin:20260901T220000
