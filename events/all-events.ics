@@ -2,63 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Jubiläumskonzert : „1 Jahr Amal goes Diagonal“ mit der Summer
- time-Jazzband
-DTSTART;TZID=Europe/Berlin:20260901T220000
-DTEND;TZID=Europe/Berlin:20260902T010000
-DTSTAMP:20260826T220008Z
-UID:jubil-umskonzert-1-jahr-amal-goes-diagonal-mit-der-summertime-jazzband
- -20260901-2000@ifg-plattform.de
-DESCRIPTION:Eintritt 10€\n\nEinlass: 19:00\n\nSeit September 2025 läuft
-  die Musikkneipe Diagonal unter neuer Leitung.\nZum 1 jährigen Jubiläum 
- lädt das Diagonal in Zusammenarbeit mit den Jazzfreunden Ingolstadt e. V.
-  zu einem Konzert mit der Summertime-Jazzband ein\; eine Formation aus ren
- ommierten Ingolstädter Jazzmusikern:\nBenedikt Heine: Piano  \nCharly Bö
- ck: Percussion\nMaximilian Spranger: Gitarre \nManfred See: Bass\nConny Lo
- os: Altsaxophon\nMechthild Lauerer: Tenorsaxophon\nKurt Fonfara: Gesang
-LOCATION:Diagonal Ingolstadt\, Kreuzstr. 12\, 85049 Ingolstadt
-X-SCORE:14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: Verflucht normal
-DTSTART;TZID=Europe/Berlin:20260901T221500
-DTEND;TZID=Europe/Berlin:20260902T015900
-DTSTAMP:20260826T220008Z
-UID:freilichtkino-verflucht-normal-20260901-2015@ifg-plattform.de
-DESCRIPTION:Spielfilm | UK 2025 | 121 min | Biografie/Drama/Komödie | Reg
- ie: Kirk Jones | FSK 12\n\nEinlass: 18:30\n\nDass die Queen ein unkontroll
- ierbares „Problemkind“ mal mit dem Orden des British Empire auszeichne
- n würde\, damit hätte wohl niemand gerechnet\, am allerwenigsten John Da
- vidson selbst. In den frühen 1980er Jahren wächst John (Scott Ellis Wats
- on) in einer schottischen Kleinstadt auf. Im Alter von 12 Jahren beginnt u
- nter heftigen Nerven-Tics zu leiden. Unter der erst Jahre später als Tour
- ette-Syndrom diagnostizierten Erkrankung wird sein Leben zu einem endlosen
-  Spießrutenlauf.\nMit Mitte 20 lebt John (Robert Aramayo) noch bei seiner
-  Mutter (Shirley Henderson). Die Nebenwirkungen der starken Medikamente au
- f die er angewiesen ist\, rauben ihm fast jeden Lebensmut\, als die zufäl
- lige Begegnung mit seinem Schulfreund Murray und dessen Mutter Dottie (Max
- ine Peake) endlich eine Wendung bringt.\nDottie ist Krankenschwester und a
- kzeptiert John\, so wie er ist. Sie nimmt ihn in ihrer Familie auf und fin
- det sogar einen Job für ihn als Assistent des Gemeindezentrum-Hausmeister
- s Tommy (Peter Mullan). Ein aberwitziges Vorstellungsgespräch\, bei dem T
- ommy wie kein anderer auf Johns Tics reagiert\, legt den Grundstein für e
- ine innige Freundschaft. Langsam findet John den Mut und die Zuversicht\, 
- ein selbstbestimmtes Leben zu führen und erkennt\, wie wertvoll seine Erf
- ahrungen auch für andere sind.\n\nDarsteller: Robert Aramayo\, Maxine Pea
- ke\, Peter Mullan
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Hamnet (OmU)
 DTSTART;TZID=Europe/Berlin:20260902T221500
 DTEND;TZID=Europe/Berlin:20260903T015900
