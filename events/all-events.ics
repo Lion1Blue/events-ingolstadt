@@ -2,48 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Hamnet (OmU)
-DTSTART;TZID=Europe/Berlin:20260902T221500
-DTEND;TZID=Europe/Berlin:20260903T015900
-DTSTAMP:20260826T220008Z
-UID:freilichtkino-hamnet-omu-20260902-2015@ifg-plattform.de
-DESCRIPTION:Spielfilm | Großbritannien\, USA 2025 | 125 min | Drama | Reg
- ie: Chloé Zhao | FSK 12 | OmU\n\nEinlass: 18:30\n\nBasierend auf dem Roma
- n von Maggie O’Farrell erzählt Regisseurin Chloé Zhao die fiktive Lebe
- nsgeschichte William Shakespeares und seiner Frau.\n“Hamnet" erzählt vo
- m Tod des elfjährigen Sohnes von William Shakespeare und davon\, wie sein
- e Familie – besonders seine Mutter Agnes – diesen Verlust erlebt. Der 
- Roman zeigt ihr früheres Leben\, ihre Ehe mit dem jungen William und die 
- enge Bindung der Kinder. Nach Hamnets Tod zerbricht die Familie beinahe. J
- ahre später verarbeitet William den Schmerz\, indem er das Theaterstück 
- Hamlet schreibt\, was Agnes erst verletzt\, dann aber als Versuch versteht
- \, ihren Sohn im Gedächtnis zu bewahren.\nMit betörenden Bildern und get
- ragen von herausragenden schauspielerischen Leistungen erzählt der Film s
- eine Geschichte hochemotional und voller tiefer Symbolik. Das ist großes 
- Kino in Reinform und gilt zu Recht als heißester Kandidat im Oscar-Rennen
- .\n„“Hamnet“ ist einer der wenigen Filme\, die nicht nur mit grossar
- tigem Storytelling glänzen\, sondern auch technisch nahezu makellos sind.
-  Chloé Zhaos Regie vereint einen packenden Score\, atemberaubende Bilder 
- und herausragende Schauspielkunst zu einem harmonischen Ganzen. Sie nimmt 
- uns mit auf eine emotionale Achterbahnfahrt und zeigt eindringlich\, was e
- s heisst\, zu lieben\, zu verlieren und wie aus der Verarbeitung dieser gr
- ossen Gefühle und den dunkelsten Tragödien bittersüsse\, zeitlose Kunst
-  entstehen kann…“\n\n\nDarsteller: Jessie Buckley\, Paul Mescal\, Emil
- y Watson\, Joe Alwyn\n\nDieser Film wird in der Originalfassung mit deutsc
- hen Untertiteln gezeigt
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:26
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Großer Kurfürst und goldene Trommeln. Auf den Spuren Max Emanuel
  s
 DTSTART;TZID=Europe/Berlin:20260903T120000
