@@ -2,199 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Großer Kurfürst und goldene Trommeln. Auf den Spuren Max Emanuel
- s
-DTSTART;TZID=Europe/Berlin:20260903T120000
-DTEND;TZID=Europe/Berlin:20260903T150000
-DTSTAMP:20260826T220009Z
-UID:gro-er-kurf-rst-und-goldene-trommeln-auf-den-spuren-max-emanuels-20260
- 903-1000@ifg-plattform.de
-DESCRIPTION:Familienführung mit anschließendem Bastelworkshop (für Kind
- er von 6 bis 10 Jahren)\n\nKurfürst Maximilian II. Emanuel von Bayern war
-  ein ehrgeiziger Herrscher\, der Bayern zu größerer Bedeutung in Europa 
- führen wollte. Doch sein Weg war nicht nur von Erfolgen geprägt. Neben g
- lanzvollen Auftritten\, prächtigen Festen und militärischem Ruhm gehört
- en auch Niederlagen\, Exil und politische Rückschläge zu seinem Leben. U
- mso spannender ist die Überlegung\, wie trotz dieser Widersprüche das Bi
- ld eines großen Helden entstehen konnte. Wir fragen uns: Wie wurde Max Em
- anuel zu diesem Helden\, zu der Legende\, als die man ihn heute kennt?\nIn
-  der Führung entdecken Kinder ausgewählte Objekte der Ausstellung und le
- rnen\, wie sich Max Emanuel gezielt inszenierte\, als mutiger Feldherr\, a
- ls kunstsinniger Fürst und als Teil einer glanzvollen Hofkultur. Ein beso
- nderer Blick gilt dabei auch Objekten aus den sogenannten Türkenkriegen. 
- Sie zeigen\, wie eine andere Kultur historisch wahrgenommen wurde und wie 
- daraus Geschichten entstanden\, die bis heute unser Bild der Vergangenheit
-  prägen.\nIm anschließenden Workshop werden die Kinder selbst aktiv. Ins
- piriert von historischen Instrumenten gestalten sie eigene goldene Handpau
- ken und erleben\, welche Rolle Musik und Inszenierung am Hof spielten. So 
- wird Geschichte nicht nur erzählt\, sondern sinnlich erfahrbar gemacht.\n
- Das Programm verbindet eine altersgerechte Wissensvermittlung im Armeemuse
- um mit kreativen Elementen und fördert die Auseinandersetzung mit histori
- schen Narrativen\, Symbolen und kulturellen Ausdrucksformen.\n\nDie Verans
- taltung richtet sich an Kinder im Alter von sechs bis zehn Jahren in Begle
- itung eines Erziehungsberechtigten.\n\nDie Eltern müssen nur den Museumse
- intritt entrichten\, die Kinder haben freien Eintritt. Es wird pro Kind je
- doch ein Unkostenbeitrag von 2 € für den Workshop erhoben.\n\nEine Anme
- ldung ist bis 3. September unter info@armeemuseum.de nötig.
-LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:35
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hinter den Kulissen der Brauerei - erleben Sie Nordbräu hautnah!
-DTSTART;TZID=Europe/Berlin:20260903T190000
-DTEND;TZID=Europe/Berlin:20260903T210000
-DTSTAMP:20260826T220008Z
-UID:hinter-den-kulissen-der-brauerei-erleben-sie-nordbr-u-hautnah-20260903
- -1700@ifg-plattform.de
-DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nVon den Jesuiten-Mönche
- n bis zum heutigen modernen Unternehmen: Blicken Sie hinter die Kulissen v
- on Nordbräu und erleben Sie\, wie wir heute brauen. Vom Hopfen ins Glas 
- – wie funktioniert das eigentlich? Wie entsteht das beliebte Nordbräu H
- elle\, das würzige Dunkle\, und was ist eigentlich das Besondere am Brauv
- organg für unser kultiges Privat Pilsener?\n\nWenn Sie auf diese Fragen s
- chon immer nach Antworten gesucht haben\, sind Sie bei unserer Führung ge
- nau richtig! Erfahren Sie\, wie die Biere zu ihrem charakteristischen Gesc
- hmack kommen\, was es mit der Stammwürze auf sich hat und wie die Filtrat
- ion gelingt – oder eben nicht\, denn auch ungefilterte Biere haben etwas
-  ganz Besonderes an sich.\n\nIn ca. 1\,5 Stunden erleben Sie dabei alle Sc
- hritte der Braukunst und erfahren jede Menge Wissenswertes rund um das woh
- l beliebteste Getränk der Bayern.\n\nDie maximale Teilnehmerzahl beträgt
-  25 Personen – in einer überschaubaren Gruppe wird es schließlich gem
- ütlicher\, und es ist genug Zeit\, alle Fragen zu beantworten. Nach der F
- ührung gibt es eine kleine Verkostung mit Brotzeit in unserer Brauereisch
- enke im Kastaniengarten.
-LOCATION:Brauerei Nordbräu\, Gutsstraße 5\, 85055 Ingolstadt
-X-SCORE:14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weinschmecker Weinfest 03.-05.09.26
-DTSTART;TZID=Europe/Berlin:20260903T190000
-DTEND;TZID=Europe/Berlin:20260905T020000
-DTSTAMP:20260826T220008Z
-UID:weinschmecker-weinfest-03-05-09-26-20260903-1700@ifg-plattform.de
-DESCRIPTION:im Biergarten Schutterhof - Ingolstadt\n\nEinlass: 17:00\n\nLi
- ebe Weinfreunde\,\n\n\nvom 03.-05.09.2026 verwandelt sich der Biergarten S
- chutterhof endlich wieder in einen Weingarten!\n\nWinzer aus Deutschland\,
-  Italien\, Spanien und Österreich erwarten Euch\,\n\num das Jubiläums-We
- inschmecker Weinfest zum 10. Mal gemeinsam zu genießen.\n\n \n\nWir freue
- n uns auf Euch!
-LOCATION:Schutterhof\, Friedhofstraße 1a\, 85049 Ingolstadt
-X-SCORE:19
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fade Out
-DTSTART;TZID=Europe/Berlin:20260903T200000
-DTEND;TZID=Europe/Berlin:20260928T015900
-DTSTAMP:20260826T220008Z
-UID:fade-out-20260903-1800@ifg-plattform.de
-DESCRIPTION:Im Rahmen der Ausstellung „Fade Out“ mit Fotografien von H
- ubert P. Klotzeck öffnen sich die Türen zu fotografischen Erinnerungsrä
- umen in Ingolstadt. Die gezeigten Fotografien widmen sich Orten zwischen V
- ergangenheit und Zukunft – verschwunden\, verändert oder neu gedacht.\n
- \nManche Orte verschwinden lautlos. Andere verändern sich und erhalten ei
- ne neue Bedeutung.\nWo einst Menschen zusammenkamen\, Kultur erlebt\, gefe
- iert oder gearbeitet wurde\, bleiben heute leere Räume\, veränderte Geb
- äude oder nur noch Erinnerungen zurück. Die Fotografien dieser Ausstellu
- ng zeigen Orte im Übergang – zwischen Vergangenheit und Gegenwart\, urs
- prünglicher Nutzung und neuer Zukunft.\nIm Mittelpunkt stehen das Alte Ha
- llenbad\, das Eisstadion Ingolstadt\, das Stadttheater\, der Kavalier Dalw
- igk und die Alte Gießereihalle. Einige dieser Orte sind bereits verschwun
- den oder grundlegend verändert. Andere werden neu genutzt und schreiben i
- hre Geschichte fort. Das Stadttheater wiederum bleibt erhalten\, wird jedo
- ch für lange Zeit leer stehen. Wie ein langsames Ausblenden im Film erzä
- hlt „Fade Out“ von Vergänglichkeit\, Erinnerung und Wandel. Die Fotog
- rafien halten Momente fest\, in denen Orte ihre Gestalt verändern und aus
-  vertrauten Räumen etwas Neues entsteht – oder nur noch die Erinnerung 
- bleibt.
-LOCATION:Städtische Galerie im Theater\, Schloßlände 1\, 85049 Ingolsta
- dt
-X-SCORE:35
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Besser als Fernsehen
-DTSTART;TZID=Europe/Berlin:20260903T213000
-DTEND;TZID=Europe/Berlin:20260903T230000
-DTSTAMP:20260826T220008Z
-UID:besser-als-fernsehen-20260903-1930@ifg-plattform.de
-DESCRIPTION:In der Glotze kommt immer nur der gleiche langweilige Blödsin
- n? Wir schaffen Abhilfe!\n\nEinlass: 19:00\n\nPascal Simon\, Jens Rohrer\,
-  Dominik Neumayr und Neuzugang Daniela Plößner sind wie immer eure Gastg
- eber.\n\n\nGäste: Martina Pahr / Musik: Ronja Künstler\n\n\nIn der Glotz
- e kommt immer nur der gleiche langweilige Blödsinn? Wir schaffen Abhilfe!
-  Mit einem Mix aus Literatur\, Musik und Comedy und dem unvergleichlichen 
- Gefühl einer Live-Performance vertreiben wir euch die Sorgen des Alltags.
-  Ob wir nun extravagant gut\, oder übertrieben krass okay sind\, bleibt d
- ahingestellt. Immerhin sind wir besser als Fernsehen.
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KOELLE
-DTSTART;TZID=Europe/Berlin:20260903T220000
-DTEND;TZID=Europe/Berlin:20260904T000000
-DTSTAMP:20260826T220008Z
-UID:koelle-20260903-2000@ifg-plattform.de
-DESCRIPTION:TAGTRAUM BIERGARTENKONZERTE 2026\n\nEinlass: 18:00\n\nKOELLE\n
- — Donnerstag\, 03/09 um 20 Uhr —\n\n\nWillkommen daheim!\n\n\nHinter K
- OELLE steckt der Ingolstädter Produzent Christoph Kelle\, der seit rund 2
- 0 Jahren elektronische Musik erschafft. \n\n\nAusgehend von seinen musikal
- ischen Wurzeln am Cello entwickelte er einen ganz eigenen Sound\, in dem e
- r seine klassischen Einflüsse mit elektronischen Beats verbindet und so e
- inen unverwechselbaren Sound aus treibender Elektronik\, harmonischen Melo
- dien und emotionaler Tiefe erschafft. Für KOELLE ist Musik weit mehr als 
- Unterhaltung: Sie ist Ausdruck von Selbstfindung\, Meditation und Emotion.
-  Mit bewegenden Harmonien und treibenden Bässen möchte er Menschen berü
- hren und eine echte Verbindung zu seinem Publikum schaffen. \n\n\nMit Rele
- ases auf renommierten Labels wie Traumschallplatten\, Get Physical\, Anjun
- adeep\, Armada oder Needwant sowie Zusammenarbeiten mit Künstlern wie Ben
-  Böhmer\, Nils Hoffmann und Jody Wisternoff hat sich KOELLE auch internat
- ional einen Namen gemacht.\n\n\nFreut euch auf einen etwas anderen\, aber 
- umso besonderen Sommerabend mit elektronischen Klängen\, bewegenden Harmo
- nien und einer Atmosphäre\, die zum Tanzen\, Abschalten und Genießen ein
- lädt - unter freiem Himmel im TAGTRAUM Biergarten. \n\n\nUnd damit: Herzl
- ich willkommen zu unserem vorletzten Biergartenkonzert in diesem Jahr! \n\
- n\nDas Konzept „Pay What You Want“ macht die TAGTRAUM Biergartenkonzer
- te bewusst offen und für jeden zugänglich.\n\n\nVielen Dank an unseren d
- iesjährigen Partner der TAGTRAUM BIERGARTENKONZERTE - die Sparkasse Ingol
- stadt Eichstätt.
-LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: Steckerlfischfiasko
-DTSTART;TZID=Europe/Berlin:20260903T221500
-DTEND;TZID=Europe/Berlin:20260904T015900
-DTSTAMP:20260826T220008Z
-UID:freilichtkino-steckerlfischfiasko-20260903-2015@ifg-plattform.de
-DESCRIPTION:Spielfilm | Deutschland 2026 | 95 min | Komödie | Regie: Ed H
- erzog | FSK 12\n\nEinlass: 18:30\n\nEberhofer (Sebastian Bezzel) im Neubau
- \, Birkenberger (Simon Schwarz) im Saustall und Susi (Lisa Maria Potthoff)
-  (fast) im Bürgermeisteramt – und als wäre das Chaos in Niederkaltenki
- rchen nicht schon perfekt\, geht auch noch die Oma (Enzi Fuchs) auf Kur! G
- ut\, dass die neue Haushaltshilfe Julika (Lara Mandoki) ganz zur Freude vo
- n Papa (Eisi Gulp) und Leopold (Gerhard Wittmann) für Ordnung auf dem Ebe
- rhofer-Hof sorgt\, während Franz sich wohl oder übel zwischen Susis Wahl
- kampf und dem neuen Hobby von Sohn Paul zurechtfinden muss. Als der örtli
- che „Steckerlfischkönig“ plötzlich mausetot auf dem neu errichteten 
- Golfplatz liegt\, kommt das dem Dorfsheriff deshalb gar nicht so ungelegen
- . Gemeinsam mit Rudi Birkenberger macht er sich an die Ermittlungen. Promp
- t geraten die beiden Spezln in eine ausgewachsene Familienfehde zweier Vol
- ksfestclans. „Romeo und Julia“ in Niederbayern! \n\nDarsteller: Sebast
- ian Bezzel\, Simon Schwarz\, Lisa Maria Potthoff\, Enzi Fuchs\, Eisi Gulp\
- , Gerhard Wittmann
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Freilichtkino: Steckerlfischfiasko (Spätvorstellung)
 DTSTART;TZID=Europe/Berlin:20260904T010000
 DTEND;TZID=Europe/Berlin:20260904T015900
@@ -4163,5 +3970,30 @@ DESCRIPTION:Einlass: 18:00\n\nDrei Mal im Jahr gehört die (ganze) Neun de
 LOCATION:Jugendtrendsportzentrum und Bandräume NEUN\, Elisabethstraße 9b
  \, 85051 Ingolstadt\, Einrichtung des Stadtjugendring Ingolstadt
 X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ines Procter
+DTSTART;TZID=Europe/Berlin:20261202T210000
+DTEND;TZID=Europe/Berlin:20261203T005900
+DTSTAMP:20260826T220009Z
+UID:ines-procter-20261202-2000@ifg-plattform.de
+DESCRIPTION:Bäsd off „Die Närrische Putzfraa“\n\nEinlass: 19:00\n\nS
+ eit 2015 in den Mainfrankensälen bei der Fastnacht in Franken zu putzen\,
+  schreit förmlich nach einem „bäsd off“.\n\nDeshalb gibt es 2026 ein
+ e exklusive Tour der besten Nummern aus der Fastnacht. 90 Minuten am Stüc
+ k wischt\, schrubbt und poliert die Putzfraa eure Lachmuskeln und Gehirnwi
+ ndungen in den originalen dazugehörigen Bühnen-Outfits aus der jeweilige
+ n Livesendung\, DES Quotenrenners des BR\, Fastnacht in Franken. Und weil
+ ‘s halt a nur des Bäsde sei soll\, hesst‘s: „Des Konzendraad“. So
+  ganz sauber war ich ja selbst noch nie\, deshalb hatte ich diese glänzen
+ de Idee euch mit auf diese Zeitreise der letzten 10 Jahre zu nehmen. Freut
+  euch auf einen putzigen Abend\, mit Kostümwechsel in Lichtgeschwindigkei
+ t (oder wie schnell bewegen sich Faultiere noch mal?)\, viel sprühendem W
+ itz\, Situationskomik\, dumms Gschmarri aus dem Bägstäidsch\, leuchtende
+  Erinnerungsmomente für euch und für mich und natürlich auf eine funkel
+ nd saubere gemeinsame Zeit in der wir über den Alltag zwar lachen\, aber 
+ ihn gleichzeitig auch vergessen werden. \nIn reiner Liebe Eure Putzfraa
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:17
 END:VEVENT
 END:VCALENDAR
