@@ -3,75 +3,6 @@ VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
 SUMMARY:Freilichtkino: Steckerlfischfiasko (Spätvorstellung)
-DTSTART;TZID=Europe/Berlin:20260904T010000
-DTEND;TZID=Europe/Berlin:20260904T015900
-DTSTAMP:20260826T220008Z
-UID:freilichtkino-steckerlfischfiasko-sp-tvorstellung-20260903-2300@ifg-pl
- attform.de
-DESCRIPTION:Spielfilm | Deutschland 2026 | 95 min | Komödie | Regie: Ed H
- erzog | FSK 12\n\nEinlass: 18:30\n\nEberhofer (Sebastian Bezzel) im Neubau
- \, Birkenberger (Simon Schwarz) im Saustall und Susi (Lisa Maria Potthoff)
-  (fast) im Bürgermeisteramt – und als wäre das Chaos in Niederkaltenki
- rchen nicht schon perfekt\, geht auch noch die Oma (Enzi Fuchs) auf Kur! G
- ut\, dass die neue Haushaltshilfe Julika (Lara Mandoki) ganz zur Freude vo
- n Papa (Eisi Gulp) und Leopold (Gerhard Wittmann) für Ordnung auf dem Ebe
- rhofer-Hof sorgt\, während Franz sich wohl oder übel zwischen Susis Wahl
- kampf und dem neuen Hobby von Sohn Paul zurechtfinden muss. Als der örtli
- che „Steckerlfischkönig“ plötzlich mausetot auf dem neu errichteten 
- Golfplatz liegt\, kommt das dem Dorfsheriff deshalb gar nicht so ungelegen
- . Gemeinsam mit Rudi Birkenberger macht er sich an die Ermittlungen. Promp
- t geraten die beiden Spezln in eine ausgewachsene Familienfehde zweier Vol
- ksfestclans. „Romeo und Julia“ in Niederbayern! \n\nDarsteller: Sebast
- ian Bezzel\, Simon Schwarz\, Lisa Maria Potthoff\, Enzi Fuchs\, Eisi Gulp\
- , Gerhard Wittmann
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: Steckerlfischfiasko
-DTSTART;TZID=Europe/Berlin:20260904T221500
-DTEND;TZID=Europe/Berlin:20260905T015900
-DTSTAMP:20260826T220008Z
-UID:freilichtkino-steckerlfischfiasko-20260904-2015@ifg-plattform.de
-DESCRIPTION:Spielfilm | Deutschland 2026 | 95 min | Komödie | Regie: Ed H
- erzog | FSK 12\n\nEinlass: 18:30\n\nEberhofer (Sebastian Bezzel) im Neubau
- \, Birkenberger (Simon Schwarz) im Saustall und Susi (Lisa Maria Potthoff)
-  (fast) im Bürgermeisteramt – und als wäre das Chaos in Niederkaltenki
- rchen nicht schon perfekt\, geht auch noch die Oma (Enzi Fuchs) auf Kur! G
- ut\, dass die neue Haushaltshilfe Julika (Lara Mandoki) ganz zur Freude vo
- n Papa (Eisi Gulp) und Leopold (Gerhard Wittmann) für Ordnung auf dem Ebe
- rhofer-Hof sorgt\, während Franz sich wohl oder übel zwischen Susis Wahl
- kampf und dem neuen Hobby von Sohn Paul zurechtfinden muss. Als der örtli
- che „Steckerlfischkönig“ plötzlich mausetot auf dem neu errichteten 
- Golfplatz liegt\, kommt das dem Dorfsheriff deshalb gar nicht so ungelegen
- . Gemeinsam mit Rudi Birkenberger macht er sich an die Ermittlungen. Promp
- t geraten die beiden Spezln in eine ausgewachsene Familienfehde zweier Vol
- ksfestclans. „Romeo und Julia“ in Niederbayern! \n\nDarsteller: Sebast
- ian Bezzel\, Simon Schwarz\, Lisa Maria Potthoff\, Enzi Fuchs\, Eisi Gulp\
- , Gerhard Wittmann
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: Steckerlfischfiasko (Spätvorstellung)
 DTSTART;TZID=Europe/Berlin:20260905T010000
 DTEND;TZID=Europe/Berlin:20260905T015900
 DTSTAMP:20260826T220008Z
@@ -3994,6 +3925,62 @@ DESCRIPTION:Bäsd off „Die Närrische Putzfraa“\n\nEinlass: 19:00\n\nS
  nd saubere gemeinsame Zeit in der wir über den Alltag zwar lachen\, aber 
  ihn gleichzeitig auch vergessen werden. \nIn reiner Liebe Eure Putzfraa
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Joe Bawelino – Gige Brunner Duo
+DTSTART;TZID=Europe/Berlin:20261203T190000
+DTEND;TZID=Europe/Berlin:20261204T005900
+DTSTAMP:20260826T220008Z
+UID:joe-bawelino-gige-brunner-duo-20261203-1800@ifg-plattform.de
+DESCRIPTION:20 Finger auf zwei Gitarren: Angesichts der überbordenden Fä
+ higkeiten der beiden Protagonisten verspricht dieses Konzert ein gewaltige
+ s Klangerlebnis bei minimaler Besetzung zu werden. Mit seiner Spielfreude 
+ und Lebenslust\, seinem Talent\, seiner herausragenden Technik und jeder M
+ enge Gefühl setzt Joe Bawelino auf den Stahlsaiten nahezu alles das um\, 
+ was einen perfekten Jazzgitarristen ausmacht. Der fränkische Fingerstyle-
+ Gitarrist Gige Brunner – bisweilen als „kleinstes Swing-Orchester Baye
+ rns“ bezeichnet – verfügt über ein gewaltiges Repertoire an swingend
+  arrangierten Standards. Nach vielen Jahren in der Rockmusik sowie nach Au
+ sflügen zum Bluegrass\, Folk sowie zum Akustik-Pop fand Brunner schließl
+ ich zum Jazz – und zu seinem kongenialen Duopartner Joe Bawelino.\n\n→
+  Bar und Lounge im Audi Forum Ingolstadt\n→ Freier Eintritt
+LOCATION:Audi Forum\, Ettinger Straße Audi Piazza\, 85045 Ingolstadt
+X-SCORE:54
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tom &amp\; Basti
+DTSTART;TZID=Europe/Berlin:20261203T210000
+DTEND;TZID=Europe/Berlin:20261204T005900
+DTSTAMP:20260826T220009Z
+UID:tom-amp-basti-20261203-2000@ifg-plattform.de
+DESCRIPTION:zwoaschneidig\n\nEinlass: 19:00\n\nIm jüngsten\, mittlerweil
+ e fünften Bühnenprogramm zwoaschneidig nehmen Tom &amp\; Basti ihre We
+ lt von den verschiedensten Blickwinkeln aus unter die Lupe. Fluch und Sege
+ n\, soweit das Auge reicht. Alles hat mindestens zwei Seiten – so auch d
+ ie zwoa schneidigen Entertainer und Vollblutmusikanten Tom &amp\; Basti. \
+ n\nBestens bekannt aus Funk und Fernsehen (BR-Brettlspitzen)\, entfachen d
+ ie beiden bei ihren Live-Auftritten eine ganz spezielle Art von Feuerwerk.
+  zwoaschneidig: Beste Unterhaltung garantiert!
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4. Abonnementkonzert
+DTSTART;TZID=Europe/Berlin:20261203T210000
+DTEND;TZID=Europe/Berlin:20261204T005900
+DTSTAMP:20260826T220009Z
+UID:4-abonnementkonzert-20261203-2000@ifg-plattform.de
+DESCRIPTION:Kolja Blacher: Violine &amp\; Leitung\n\nSein Name steht für 
+ höchste Qualität. Als Violinist\, Pädagoge und Konzertmeister der Berli
+ ner Philharmoniker hat Kolja Blacher bereits Maßstäbe gesetzt. Mit der K
+ ammerphilharmonie präsentiert er sich auch als Dirigent.\n\nNeben dem Vio
+ linkonzert in C-Dur von Haydn und den hochromantischen „Metamorphosen“
+  von Richard Strauss reist er auch mit einem Werk seines Vaters Boris Blac
+ her an.\n\nProgramm:\n\nBoris Blacher: Pentagramm für 16 Streichinstrumen
+ te\nJoseph Haydn: Konzert für Violine Nr. 1 C-Dur\, Hob. VIIa:1\nRichard 
+ Strauss: Metamorphosen
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:17
 END:VEVENT
 END:VCALENDAR
