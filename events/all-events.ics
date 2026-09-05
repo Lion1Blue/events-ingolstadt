@@ -2,150 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Freilichtkino: Steckerlfischfiasko (Spätvorstellung)
-DTSTART;TZID=Europe/Berlin:20260905T010000
-DTEND;TZID=Europe/Berlin:20260905T015900
-DTSTAMP:20260826T220008Z
-UID:freilichtkino-steckerlfischfiasko-sp-tvorstellung-20260904-2300@ifg-pl
- attform.de
-DESCRIPTION:Spielfilm | Deutschland 2026 | 95 min | Komödie | Regie: Ed H
- erzog | FSK 12\n\nEinlass: 18:30\n\nEberhofer (Sebastian Bezzel) im Neubau
- \, Birkenberger (Simon Schwarz) im Saustall und Susi (Lisa Maria Potthoff)
-  (fast) im Bürgermeisteramt – und als wäre das Chaos in Niederkaltenki
- rchen nicht schon perfekt\, geht auch noch die Oma (Enzi Fuchs) auf Kur! G
- ut\, dass die neue Haushaltshilfe Julika (Lara Mandoki) ganz zur Freude vo
- n Papa (Eisi Gulp) und Leopold (Gerhard Wittmann) für Ordnung auf dem Ebe
- rhofer-Hof sorgt\, während Franz sich wohl oder übel zwischen Susis Wahl
- kampf und dem neuen Hobby von Sohn Paul zurechtfinden muss. Als der örtli
- che „Steckerlfischkönig“ plötzlich mausetot auf dem neu errichteten 
- Golfplatz liegt\, kommt das dem Dorfsheriff deshalb gar nicht so ungelegen
- . Gemeinsam mit Rudi Birkenberger macht er sich an die Ermittlungen. Promp
- t geraten die beiden Spezln in eine ausgewachsene Familienfehde zweier Vol
- ksfestclans. „Romeo und Julia“ in Niederbayern! \n\nDarsteller: Sebast
- ian Bezzel\, Simon Schwarz\, Lisa Maria Potthoff\, Enzi Fuchs\, Eisi Gulp\
- , Gerhard Wittmann
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:END OF SUMMER MARKET
-DTSTART;TZID=Europe/Berlin:20260905T130000
-DTEND;TZID=Europe/Berlin:20260905T190000
-DTSTAMP:20260826T220008Z
-UID:end-of-summer-market-20260905-1100@ifg-plattform.de
-DESCRIPTION:Second Hand Stuff | Handcraft Goods | Morning Yoga | Tattoo
-  Artist | Kids Area | Music | Food &amp\; Drinks\n\nEinlass: 10:00\n\nHa
- llo Ingolstadt! ☀️\n\n\nEin grandioser Sommer neigt sich so langsam de
- m Ende entgegen. Bevor wir uns wieder für den Herbst einpacken und das TA
- GTRAUM umgestalten\, möchten wir den Sommer mit euch so ausklingen lassen
-  und feiern\, wie er für uns begonnen hat. \n\n\nAm 05.09. laden wir euch
-  daher zum END OF SUMMER MARKET am Paradeplatz ein. \n\n\nDer komplette Pl
- atz wird zum Markt - gefüllt mit Second Hand Schätzen\, Handcraft Goods\
- , Morning Yoga\, Tattoos\, einem Bereich für die Kids und guter Musik - f
- ür Groß &amp\; Klein\, Jung &amp\; Alt\, von uns und mit euch ❣️.\n\
- n\nFür Food &amp\; Drinks ist im TAGTRAUM und CAS gesorgt. \n\n\nLos geht
- ’s um 08.00 Uhr mit einer Good Morning Runde Yoga im Schloss Ingolstadt 
- von Sue. Die Session ist für alle Level geeignet\, kostenlos und ohne Anm
- eldung möglich. \n\n\nDer Markt startet um 11.00 Uhr. ☀️\n\n\nKommt v
- orbei &amp\; genießt den Tag mit uns. \n\n\nSee you there 🌻
-LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSD Ingolstadt
-DTSTART;TZID=Europe/Berlin:20260905T170000
-DTEND;TZID=Europe/Berlin:20260906T015900
-DTSTAMP:20260826T220008Z
-UID:csd-ingolstadt-20260905-1500@ifg-plattform.de
-DESCRIPTION:7. CSD in Ingolstadt mit Demozug\, Bühnenprogramm und Aftersh
- ow Partys. \n\nTickets für die Aftershow Partys separat erhältlich.
-LOCATION:Theaterplatz\, Theaterplatz\, 85049 Ingolstadt
-X-SCORE:20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kuschelparty Ingolstadt September
-DTSTART;TZID=Europe/Berlin:20260905T200000
-DTEND;TZID=Europe/Berlin:20260906T000000
-DTSTAMP:20260826T220008Z
-UID:kuschelparty-ingolstadt-september-20260905-1800@ifg-plattform.de
-DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
- hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
- ass: 18:00\n\nACHTUNG: Teilnahme nur mit online gekauften Ticket möglich!
- \n\nIn unseren Kuschelpartys in Ingolstadt öffnen wir einen Raum\, in dem
-  du Geborgenheit und Wärme findest und den Mut entwickelst\, deinem Inner
- en und anderen Menschen ehrlich zu begegnen. Hier kannst du Nähe und Dist
- anz bewusst erfahren\, deine Grenzen spüren und achten. Worte treten in d
- en Hintergrund\, während Vertrauen wächst und achtsame Begegnungen mit n
- euen Menschen dich bereichern.\n\nStärke dein inneres Wohlbefinden\, lass
-  los und entspanne dich – dieser Raum ist Balsam für Körper und Seele\
- , ein Zuhause für Lachen\, Tränen\, Stille und ganz besonders für dich.
-  Wir glauben fest daran\, dass liebevolle Berührungen uns alle bereichern
- .\n\nDeshalb bringen unsere Kuschelpartys in Ingolstadt Menschen jeden Alt
- ers (von 18 bis 99 Jahre) und mit unterschiedlichsten Lebenserfahrungen zu
- sammen. Wir öffnen unsere Türen für jede*n – Singles und Paare sind g
- leichermaßen willkommen\, diese nährende Erfahrung zu teilen.
-LOCATION:Soul Studio\, Am Stein 8\, 85049 Ingolstadt
-X-SCORE:16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:CSD Afterparty
-DTSTART;TZID=Europe/Berlin:20260905T220000
-DTEND;TZID=Europe/Berlin:20260906T015900
-DTSTAMP:20260826T220008Z
-UID:csd-afterparty-20260905-2000@ifg-plattform.de
-DESCRIPTION:Glitter is Our Protest\n\nEinlass: 20:00\n\nDie CSD‑Afterpar
- ty im Kap94 wird zur lautesten\, buntesten und glitzernden Nacht des Jahre
- s. Unter dem Motto „Glitter is Our Protest“ feiern Rainbow No.2 gemein
- sam mit der LGBTQ+ Community und ihren Friends eine Afterparty nach der De
- monstration voller Energie\, Show\, Musik und Liebe.\n\nDich erwartet ein 
- abwechslungsreiches Programm mit starken Künstler*innen\, die die Bühne 
- zum Leuchten bringen:\n\nDie Drei Warmen Brüder – elektrisierendes DJ
- ‑Set mit queerer Power\n\nDie Zuckerpuppen – eine glamouröse Cabaret
- ‑Show voller Humor\, Glitzer und Attitude\n\nSamantha Jackson – Drag
- ‑Star\, Diva und absolute Bühnenexplosion\nZusätzlich sorgt eine heiß
- e Stripper‑Show für Überraschungen und extra Fun. Die BeSick‑Brüder
-  übernehmen das Mischpult als Special Guests und garantieren einen Sound\
- , der die Nacht durchträgt.\n\nDie CSD‑Afterparty ist mehr als ein Even
- t – sie ist ein Statement für Vielfalt\, Sichtbarkeit und Community.
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: Toy Story 5
-DTSTART;TZID=Europe/Berlin:20260905T221500
-DTEND;TZID=Europe/Berlin:20260906T015900
-DTSTAMP:20260826T220008Z
-UID:freilichtkino-toy-story-5-20260905-2015@ifg-plattform.de
-DESCRIPTION:Spielfilm | USA 2026 | 102 min | Animation/Abenteuer/Familienf
- ilm | Regie: McKenna Harris Andrew Stanton | FSK 6\n\nEinlass: 18:30\n\nDi
- e Spielzeuge sind zurück in Disney und Pixar’s „Toy Story 5“ und di
- eses Mal heißt es: Spielzeug trifft High-Tech. Der Job von Buzz\, Woody\,
-  Jessie und ihren Freunden wird deutlich härter\, als sie sich dieser vö
- llig neuen Bedrohung im Kinderzimmer stellen müssen. Regie führt Andrew 
- Stanton\, Co-Regie Kenna Harris. Produzentin ist Lindsey Collins.\n\nDarst
- eller:  Keanu Reeves\, Tom Hanks\, Annie Potts
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Die Festung Ingolstadt
 DTSTART;TZID=Europe/Berlin:20260906T153000
 DTEND;TZID=Europe/Berlin:20260906T170000
@@ -3982,5 +3838,41 @@ DESCRIPTION:Kolja Blacher: Violine &amp\; Leitung\n\nSein Name steht für
  Strauss: Metamorphosen
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chris Boettcher
+DTSTART;TZID=Europe/Berlin:20261204T210000
+DTEND;TZID=Europe/Berlin:20261205T005900
+DTSTAMP:20260826T220009Z
+UID:chris-boettcher-20261204-2000@ifg-plattform.de
+DESCRIPTION:Baby Boomer\n\nEinlass: 19:00\n\nSie hatten ein tolles Leben\,
+  sie wuchsen auf als es Deutschland am Besten ging. Ihre Welt war noch ros
+ ig und voller Optimismus\, sie bestand aus Quelle-Katalog und ZDF-Hitparad
+ e\, aus Schlaghosen und Pril-Blumen an der Küchenwand\, aus Badewanne nur
+  am Samstag und einmal Fleisch die Woche. Jetzt haben sie\, wenn sie wolle
+ n\, 7 mal Fleisch am Tag\, kurven regelmäßig auf der Aida über die Welt
+ meere und sind trotzdem nicht zufrieden. Oder doch? Sie stehen kurz vor de
+ r Rente oder befinden sich schon mittendrin. Und außerdem sind sie - klar
+  - an Allem schuld!! \n\nWer? Die Baby Boomer ! \n\nChris Boettcher ist Ei
+ ner von ihnen. Er hat viel zu erzählen über seine Generation. Denn nie s
+ tand sie mehr im Mittelpunkt als heute. Wer zahlt ihre Rente? Und soll sie
+  künftig etwa auf regelmäßige Fernreisen nach Dubai und ausgiebige Rest
+ aurantbesuche verzichten\, bloß weil Generation X\, Y und Z nur noch 35 S
+ tunden pro Woche arbeiten will? Ist doch ungerecht\, oder? Erleben Sie Ein
+ blicke in eine Welt\, in der nur noch die Prostata mit positiven Wachstums
+ kurven von sich reden macht! Erleben Sie die Welt der Baby Boomer! Der Aut
+ or unvergessener Radio-Comedies wie Lothar &amp\; Franz (Bayern 3)\, der e
+ hemalige Antenne Bayern-Frühaufsänger\, der Schöpfer vom Wiesn-Hit „1
+ 0 Meter geh´“ und von Internet-Schlagern wie „In der Pubertät“ erk
+ lärt die schöne und wundersame Welt der Baby-Boomer. Ein Comedy-Programm
+  über die zahlenmäßig stärkste Generation in Deutschland. Sie mussten 
+ noch in Telefonzellen telefonieren und haben heute TikTok-Accounts. Deshal
+ b\, lieber Comedy-Fan: fühlen Sie sich von modernen Entwicklungen wie kü
+ nstlicher Intelligenz verunsichert? Wollen Sie lieber nochmal in guten\, a
+ lten Zeiten schwelgen\, in denen sogar die Wahlscheibentelefone noch Stoff
+ Verkleidungen hatten? \n\nDann besuchen Sie Chris Boettcher´s „ Baby Bo
+ omer “ - auf allen guten Comedy- und Kabarettbühnen.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:10
 END:VEVENT
 END:VCALENDAR
