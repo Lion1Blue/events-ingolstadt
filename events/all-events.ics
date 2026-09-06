@@ -2,146 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Die Festung Ingolstadt
-DTSTART;TZID=Europe/Berlin:20260906T153000
-DTEND;TZID=Europe/Berlin:20260906T170000
-DTSTAMP:20260826T220009Z
-UID:die-festung-ingolstadt-20260906-1330@ifg-plattform.de
-DESCRIPTION:Bayerische Landesfestung\n\nEinlass: 13:30\n\nIngolstadt gilt 
- gemeinhin als größtes Freilichtmuseum für deutsche Festungsarchitektur.
- \nDer Grund dafür ist nicht zuletzt der von König Ludwig I. von Bayern i
- n Auftrag gegebene Bau der klassizistischen Landesfestung\, mit dem er sei
- nen berühmten Hofarchitekten Leo von Klenze beauftragte.\nErobern Sie das
-  Herz der Festung bei einem Rundgang durch die einzigartige Festungsanlage
-  des Brückenkopfs. Dort erwarten Sie – auf dem Gelände des weitläuf
- igen Klenzeparks – imposante Bauten wie das Reduit Tilly oder der Turm T
- riva.
-LOCATION:Tourist Information\, Moritzstraße 19\, 85049 Ingolstadt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonntagsführung durch die Dauerausstellung
-DTSTART;TZID=Europe/Berlin:20260906T163000
-DTEND;TZID=Europe/Berlin:20260906T180000
-DTSTAMP:20260826T220008Z
-UID:sonntagsf-hrung-durch-die-dauerausstellung-20260906-1430@ifg-plattform
- .de
-DESCRIPTION:mit Sonja Stopschinski\n\nWer die Alte Anatomie noch von früh
- eren Besuchen kennt\, wird staunen: Alles ist heller und freundlicher gewo
- rden\, die modernen Vitrinen fügen sich zurückhaltend in die Räume ein 
- und lassen die Objekte zur Wirkung kommen. Das restaurierte Deckenfresko i
- m Anatomiesaal ist perfekt ausgeleuchtet und erstmals detailgenau zu erken
- nen. Statt des früheren chronologischen Aufbaus „von der Antike bis heu
- te“ betritt man die Dauerausstellung nun im Obergeschoss und taucht hier
-  gleich tief ein in die medizinische Welt des 18. Jahrhunderts – in eben
-  jene Zeit\, in der das Museumsgebäude eine zentrale Rolle für die Ausbi
- ldung der bayerischen Ärzte spielte. Anschließend geht es in das Erdgesc
- hoss\, wo 21 „Starke Dinge“ aus der Museumssammlung vorgestellt werden
- \, die immer wieder andere Schlaglichter auf die Geschichte der Medizin we
- rfen\, von „Atmen“ bis „Zweifeln“. Zwei Kabinette zu den Grenzen d
- er Medizin und zu dem bekanntesten Studenten der Universität Ingolstadt (
- Victor Frankenstein) ergänzen den Rundgang durch das historische Gebäude
- . \nDas Museumscafé hortus medicus hat von 10 bis 17 Uhr geöffnet und l
- ädt zu einem entspannten Auftakt oder Ausklang des Museumsbesuchs ein.\nD
- auer: 90 Minuten\nKosten: 7\,50 € Führungsgebühr zzgl. Museumseintritt
-LOCATION:Deutsches Medizinhistorisches Museum\, Anatomiestraße 18-20\, 85
- 049 Ingolstadt
-X-SCORE:20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Audi Race Bar Monza: Formel 1® live
-DTSTART;TZID=Europe/Berlin:20260906T170000
-DTEND;TZID=Europe/Berlin:20260907T015900
-DTSTAMP:20260826T220009Z
-UID:audi-race-bar-monza-formel-1-live-20260906-1500@ifg-plattform.de
-DESCRIPTION:mit der Übertragung des Rennens aus Monza\n\nEinlass: 13:30\n
- \nErlebt gemeinsam mit Familie\, Freunden und Kollegen live die Formel 1 
- ® Übertragungen in Audi-Markenatmosphäre. Fiebert gemeinsam Runde für 
- Runde mit!\nDie Bar und Lounge im Audi Forum Ingolstadt bietet euch heiße
-  und kalte Getränke sowie Speisen an. \nAm Audi Forum Ingolstadt können 
- die Plätze online über den untenstehenden Link\, per Telefon oder per Ma
- il vorangemeldet werden.\n\nTel.: 0841 89-41071 \nMail: ingolstadt@marche-
- int.com
-LOCATION:Audi Forum\, Ettinger Straße Audi Piazza\, 85045 Ingolstadt
-X-SCORE:24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Audi Race Bar Madrid: Formel 1® live
-DTSTART;TZID=Europe/Berlin:20260906T170000
-DTEND;TZID=Europe/Berlin:20260907T015900
-DTSTAMP:20260826T220009Z
-UID:audi-race-bar-madrid-formel-1-live-20260906-1500@ifg-plattform.de
-DESCRIPTION:mit der Übertragung des Rennens aus Madrid\n\nEinlass: 13:30\
- n\nErlebt gemeinsam mit Familie\, Freunden und Kollegen live die Formel 1 
- ® Übertragungen in Audi-Markenatmosphäre. Fiebert gemeinsam Runde für 
- Runde mit!\nDie Bar und Lounge im Audi Forum Ingolstadt bietet euch heiße
-  und kalte Getränke sowie Speisen an. \nAm Audi Forum Ingolstadt können 
- die Plätze online über den untenstehenden Link\, per Telefon oder per Ma
- il vorangemeldet werden.\n\nTel.: 0841 89-41071 \nMail: ingolstadt@marche-
- int.com
-LOCATION:Audi Forum\, Ettinger Straße Audi Piazza\, 85045 Ingolstadt
-X-SCORE:24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Freilichtkino: The Rocky Horror Picture Show
-DTSTART;TZID=Europe/Berlin:20260906T221500
-DTEND;TZID=Europe/Berlin:20260907T015900
-DTSTAMP:20260826T220008Z
-UID:freilichtkino-the-rocky-horror-picture-show-20260906-2015@ifg-plattfor
- m.de
-DESCRIPTION:Musical | England 1977 | 100 min | Musikfilm\, Musical\, Komö
- die | Regie: Jim Sharman | FSK 12\n\nEinlass: 18:30\n\nFrisch verlobt reis
- t das verliebte Pärchen Brad (Barry Bostwick) und Janet (Susan Sarandon) 
- quer durchs Land. Nach einer Autopanne irgendwo im Nirgendwo suchen sie na
- ch Hilfe in einem Schloss. Doch dort finden sie sich inmitten einer skurri
- len Festgesellschaft wieder\, die von dem Strapsen tragenden Schlossherr F
- rank N. Furter (Tim Curry) angeleitet wird. Janet ist sowohl der Schlosshe
- rr als auch das Schloss selbst mehr als suspekt\, weswegen sie diesen Ort 
- unbedingt so schnell wie möglich verlassen will. Doch bevor das passieren
-  kann\, lädt sie Mr. Furter zu einem Rundgang durch die Hallen des Anwese
- ns ein\, wo gerade eine gigantische Party gefeiert wird. Es wird ein Rundg
- ang\, den das Pärchen nie vergessen soll...\n\nDarsteller: Tim Curry\, Su
- san Sarandon\, Barry Bostwick
-LOCATION:Freilichtkino Turm Baur\, Brückenkopf 14\, 85051 Ingolstadt\, So
- mmer\, Open-Air\, Turm Baur: Kino im Festungsrund\nWer Kino liebt\, sucht 
- das besondere Filmerlebnis – und das kriegt im Turm Baur eine ziemlich e
- inzigartige Kulisse. Der historische Festungsbau aus dem 19. Jahrhundert i
- st im Sommer die wohl spannendste Open-Air-Location der Region.\nLeinwand\
- , rundherum die meterdicken Festungsmauern und oben der offene Abendhimmel
- . Die kreisrunde Architektur schirmt die Stadt perfekt ab\, sorgt für ein
- e dichte Akustik und schafft ein fokussiertes\, fast intimes Kino-Feeling.
- \nHier trifft das urbane Lebensgefühl eines lauen Sommerabends auf echte 
- Kinoleidenschaft. Drinks holen\, zurücklehnen und Film ab.
-X-SCORE:42
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Rocky Horror Picture Show
-DTSTART;TZID=Europe/Berlin:20260906T221500
-DTEND;TZID=Europe/Berlin:20260907T015900
-DTSTAMP:20260826T220008Z
-UID:the-rocky-horror-picture-show-20260906-2015@ifg-plattform.de
-DESCRIPTION:DER Kultfilm aller Kultfilme! Seit 30 Jahren hier in Ingolstad
- t! Komödie\,  Science Fiction\,  Fantasy Parodie zum Thema "Frankenstein"
- \n\nEinlass: 18:30\n\nFreilichtkino: The Rocky Horror Picture Show\nMusica
- l | England 1977 | 100 min | Musikfilm\, Musical\, Komödie | Regie: Jim S
- harman | FSK 12\n\nFrisch verlobt reist das verliebte Pärchen Brad (Barry
-  Bostwick) und Janet (Susan Sarandon) quer durchs Land. Nach einer Autopan
- ne irgendwo im Nirgendwo suchen sie nach Hilfe in einem Schloss. Doch dort
-  finden sie sich inmitten einer skurrilen Festgesellschaft wieder\, die vo
- n dem Strapsen tragenden Schlossherr Frank N. Furter (Tim Curry) angeleite
- t wird. Janet ist sowohl der Schlossherr als auch das Schloss selbst mehr 
- als suspekt\, weswegen sie diesen Ort unbedingt so schnell wie möglich ve
- rlassen will. Doch bevor das passieren kann\, lädt sie Mr. Furter zu eine
- m Rundgang durch die Hallen des Anwesens ein\, wo gerade eine gigantische 
- Party gefeiert wird. Es wird ein Rundgang\, den das Pärchen nie vergessen
-  soll...\nDarsteller: Tim Curry\, Susan Sarandon\, Barry Bostwick\nAllgeme
- ine Informationen\n\nEinlass 18:30 Uhr / 20:15 Uhr\nSo. 6. Sept. 2026\nFre
- ilichtkino Turm Baur\nBarrierefreiheit\nFreilichtkino Ingolstadt\nab 11.50
-  €
-LOCATION:Turm Baur Freilichtbühne\, Parkstraße 1\, 85049 Ingolstadt
-X-SCORE:36
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ein Massengrab im Museum
 DTSTART;TZID=Europe/Berlin:20260910T200000
 DTEND;TZID=Europe/Berlin:20260910T210000
@@ -3874,5 +3734,44 @@ DESCRIPTION:Baby Boomer\n\nEinlass: 19:00\n\nSie hatten ein tolles Leben\,
  omer “ - auf allen guten Comedy- und Kabarettbühnen.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teufelssteinfest - Black Metal Festival
+DTSTART;TZID=Europe/Berlin:20261205T160000
+DTEND;TZID=Europe/Berlin:20261206T005900
+DTSTAMP:20260826T220008Z
+UID:teufelssteinfest-black-metal-festival-20261205-1500@ifg-plattform.de
+DESCRIPTION:Black und Death Metal Festival in der Fonte79 Ingolstadt\n\nEi
+ nlass: 14:30\n\nAm Samstag\, den 05.12.2026\, findet zum zweiten Mal das T
+ eufelssteinfest statt. Das Black und Death Metal Festival in der Fronte79 
+ Ingolstadt.\nDas aktuelle Lineup kann auf dem offiziellen Teufelsstein Ins
+ tagram Account gefunden werden @teufelssteinfest
+LOCATION:Fronte 79 - Haus der Jugend\, Jahnstraße 25\, 85049 Ingolstadt
+X-SCORE:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kuschelparty Ingolstadt Dezember
+DTSTART;TZID=Europe/Berlin:20261205T190000
+DTEND;TZID=Europe/Berlin:20261205T230000
+DTSTAMP:20260826T220008Z
+UID:kuschelparty-ingolstadt-dezember-20261205-1800@ifg-plattform.de
+DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
+ hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
+ ass: 18:00\n\nACHTUNG: Teilnahme nur mit online gekauften Ticket möglich!
+ \n\nIn unseren Kuschelpartys in Ingolstadt öffnen wir einen Raum\, in dem
+  du Geborgenheit und Wärme findest und den Mut entwickelst\, deinem Inner
+ en und anderen Menschen ehrlich zu begegnen. Hier kannst du Nähe und Dist
+ anz bewusst erfahren\, deine Grenzen spüren und achten. Worte treten in d
+ en Hintergrund\, während Vertrauen wächst und achtsame Begegnungen mit n
+ euen Menschen dich bereichern.\n\nStärke dein inneres Wohlbefinden\, lass
+  los und entspanne dich – dieser Raum ist Balsam für Körper und Seele\
+ , ein Zuhause für Lachen\, Tränen\, Stille und ganz besonders für dich.
+  Wir glauben fest daran\, dass liebevolle Berührungen uns alle bereichern
+ .\n\nDeshalb bringen unsere Kuschelpartys in Ingolstadt Menschen jeden Alt
+ ers (von 18 bis 99 Jahre) und mit unterschiedlichsten Lebenserfahrungen zu
+ sammen. Wir öffnen unsere Türen für jede*n – Singles und Paare sind g
+ leichermaßen willkommen\, diese nährende Erfahrung zu teilen.
+LOCATION:Soul Studio\, Am Stein 8\, 85049 Ingolstadt
+X-SCORE:16
 END:VEVENT
 END:VCALENDAR
