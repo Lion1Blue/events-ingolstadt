@@ -2,50 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Ausstellung „Abstrakte Landschaft“
-DTSTART;TZID=Europe/Berlin:20260911T210000
-DTEND;TZID=Europe/Berlin:20260912T000000
-DTSTAMP:20260908T220009Z
-UID:ausstellung-abstrakte-landschaft-20260911-1900@ifg-plattform.de
-DESCRIPTION:von Lucas Dietrich\n\nEinlass: 19:00\n\nZur diesjährigen Nach
- t der Museen öffnet der neue Kunsthof in der Milchstraße 8 seine Türen 
- für die Öffentlichkeit.\nDer Ingolstädter Künstler Daniel Malun Lange 
- präsentiert in seinem Atelier junge Kunst des Wahlberliners Lucas Dietric
- h. Die Ausstellung bietet Besucherinnen und Besuchern die Gelegenheit\, ak
- tuelle Positionen zeitgenössischer Kunst kennenzulernen und mit den Küns
- tlern ins Gespräch zu kommen.\nDarüber hinaus lädt die Erlebenswerkstat
- t von Helga Klöckner dazu ein\, selbst kreativ zu werden und gestalterisc
- he Erfahrungen zu sammeln.\nMit der Eröffnung des Kunsthofs entsteht ein 
- neuer Ort für Kunst\, Begegnung und kulturellen Austausch in Ingolstadt. 
- Die Besucherinnen und Besucher der Nacht der Museen sind herzlich eingelad
- en\, die neuen Räumlichkeiten zu entdecken und ein abwechslungsreiches Ku
- nstprogramm zu erleben.\n\nLucas Dietrich\nDie abstrakten Landschaften von
-  Lucas Dietrich beschreiben einen Moment des Sehens\, nicht die wirklichke
- itsgetreue Abbildung eines Orts. Das Aquarell – flüchtig\, transparent\
- , dem Zufall gegenüber offen – ist für diese Art des Arbeitens das pr
- ädestinierte Medium: Die Farbe folgt dem Wasser\, das Licht bleibt als fr
- eigelassenes Papier stehen. \nDie Arbeiten dieser Ausstellung sind in den 
- letzten 12 Monaten in Berlin sowie auf Reisen in Griechenland und Österre
- ich entstanden. Der Horizont kann das Meer sein oder ein Feld\, ein Bergr
- ücken oder das Verschwimmen von Himmel und Erde. Was bleibt\, ist eine Ha
- ltung: Schauen ohne das Festhalten-Wollen.\n\nLucas Dietrich (*1978) stamm
- t aus Österreich und lebt seit 2009 als multidisziplinärer Künstler in 
- Berlin. Er arbeitet in den Bereichen Malerei\, Grafik und Musik.
-LOCATION:Kunsthof\, Milchstraße 8\, 85049 Ingolstadt
-X-SCORE:25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:20-jähriges Jubiläum
-DTSTART;TZID=Europe/Berlin:20260911T220000
-DTEND;TZID=Europe/Berlin:20260914T015900
-DTSTAMP:20260908T220009Z
-UID:20-j-hriges-jubil-um-20260911-2000@ifg-plattform.de
-DESCRIPTION:Jugendfeuerwehr Dünzlau\n\nDJ-Abend\, Dorfabend\, Bobbycar-Re
- nnen
-LOCATION:Festplatz Dünzlau\, Mühlackerweg 2\, 85049 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SWIM &amp\; VIBE mit DJane Sherin
 DTSTART;TZID=Europe/Berlin:20260912T150000
 DTEND;TZID=Europe/Berlin:20260912T230000
@@ -4453,5 +4409,118 @@ DESCRIPTION:„Schön für dich!“\n\nEinlass: 18:00\n\nLisa Feller komm
  er Keil.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:28
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sonne\, Mond und Sterne. Die Reitgarnitur des Kurfürsten Maximili
+ an I. von Bayern
+DTSTART;TZID=Europe/Berlin:20261210T190000
+DTEND;TZID=Europe/Berlin:20261210T200000
+DTSTAMP:20260908T220010Z
+UID:sonne-mond-und-sterne-die-reitgarnitur-des-kurf-rsten-maximilian-i-von
+ -bayern-20261210-1800@ifg-plattform.de
+DESCRIPTION:Kuratorenführung am Abend\n\nDie prunkvolle Reitgarnitur\, di
+ e um 1620 entstanden ist\, bietet einen hohen Schauwert zeigt jedoch auch\
+ , welchen Anspruch der bayerische Herzog und spätere Kurfürst Maximilian
+  I. an sich und seine Dynastie stellte.\n\nDie Kuratorenführung durch den
+  Ausstellungsraum „Bayern wird Kufürstentum“ zeigt Details auf\, die 
+ dem Besucher vielleicht manchmal entgehen.\n\nDas Format der Kuratorenfüh
+ rung bietet einet im Anschluss an die bewusst kurz gehaltene Führung von 
+ etwa 30 bis 40 Min die Möglichkeit\, mit dem Museumsdirekt Dr. Ansgar Rei
+ ß ins Gespräch zu kommen und diskutieren zu können.
+LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
+X-SCORE:13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:cultural.disaster LIVE im Griesmüller
+DTSTART;TZID=Europe/Berlin:20261210T200000
+DTEND;TZID=Europe/Berlin:20261210T230000
+DTSTAMP:20260908T220009Z
+UID:cultural-disaster-live-im-griesm-ller-20261210-1900@ifg-plattform.de
+DESCRIPTION:Einlass: 16:00\n\nEs ist wieder Zeit für LIVE Musik in der Br
+ auerei. Seid dabei wenn cultural.disaster live und unplugged für uns spie
+ len!\n\n\ncultural.disaster steht für guten Sound mit kreativen und vielf
+ ältigen Einflüssen aus mehreren verschiedenen Stilrichtungen! Mit ihrem 
+ feinen\, deutschen Elektro-Rock/Pop machte sich die Band bereits in mehrer
+ en europäischen Staaten und in der USA live on stage und via Radio&amp\;T
+ V einen guten Namen! Seit 2024 ist die Band auf ihrer „Akustisch &amp\; 
+ zu Zweit“ – Tour unterwegs und präsentiert ihre bekannten Lieder in e
+ iner noch gefühlvolleren &amp\; persönlicheren Atmosphäre.
+LOCATION:Griesmüllers Altstadtbrauerei\, Schulstraße 19\, 85049 Ingolsta
+ dt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:145. JAM Session der Jazzfreunde Ingolstadt e. V.
+DTSTART;TZID=Europe/Berlin:20261210T210000
+DTEND;TZID=Europe/Berlin:20261211T000000
+DTSTAMP:20260908T220009Z
+UID:145-jam-session-der-jazzfreunde-ingolstadt-e-v-20261210-2000@ifg-platt
+ form.de
+DESCRIPTION:Eintritt frei\n\nEinlass: 19:00\n\nDie Jazzfreunde Ingolstadt 
+ e. V. laden alle Jazzliebhaber:innen und Musiker:innen ein\, Teil einer be
+ sonderen musikalischen Erfahrung zu werden! Von September bis Juni des Fol
+ gejahres veranstalten wir unsere legendären Jam-Sessions – mit offener 
+ Bühne\, freiem Eintritt und jeder Menge Spielfreude.\n\nWie läuft eine J
+ am-Session ab?\nJede Session beginnt mit einer Opener-Band\, die das erste
+  Set spielt. Danach gehört die Bühne allen\, die mitspielen möchten! Di
+ e Session-Band begleitet die Mitspieler:innen entweder in Teilen oder komp
+ lett.\n\nBeginn: 20:00\, Einlass: 19:00\n\n𝗘𝗶𝗻𝘁𝗿𝗶𝘁
+ 𝘁 𝗳𝗿𝗲𝗶!\n\nSession Band: „The Unions“ aus München\n\nD
+ ie Münchener Jazz-Band "The Unions" haben sich um die Jahrtausendwende in
+  Haidhausen zusammengefunden. Das Unionsbräu spielte nicht nur als Namens
+ geber eine Rolle\, hier hatten die Unions in unterschiedlicher Besetzung i
+ hre ersten Auftritte im Malzboden. Seit 2016 spielt die Jazz-Band in feste
+ r Besetzung mit Rhythmusgruppe und drei Bläsern diverse Jazz Standards un
+ d eigene Kompositionen: Angie Hirsch am Piano\, Herbert Siebler am Bass un
+ d Gerhard Steffen an den Drums geben den Rhythmus vor. Bei den Bläsern wi
+ rken Karl Strasser (tp)\, Wo Stenger (bar\, ts) und Matthias Pfeiffer (as\
+ , ss) zusammen. Mit Herz und Leidenschaft grooven die Unions nun in der ne
+ uen Welt in Ingostadt: der Abend verspricht eine gute Mischung aus Swing\,
+  Blues\, Bebop\, Funk und Latin mit leisen und lauten Tönen in flotten un
+ d ruhigen Rhythmen und in der zweiten Hälfte alle Überraschungen\, die e
+ ine JAM-Session bietet.\n\nhttps://www.stringtheorie.band\n\nWir suchen la
+ ufend Bands\, die bei einer Session als Session-Opener-Band auftreten möc
+ hten. Die Band sollte Realbook-Sicherheit und eine gewisse stilistische Ba
+ ndbreite haben. Bei Interesse tretet bitte der WhatsApp Community „Bands
+  und Musiker der Jazzfreunde Ingolstadt“ bei und bewerbt Euch dort:\n\nh
+ ttps://jazzfreunde-ingolstadt.de/info/sessions/community/invite\n\nNach Ve
+ rifizierung Eurer Email Adresse bekommt ihr einen Einladungslink zu dieser
+  WhatsApp Community.\n\nAblauf:  die Session Band spielt ein erstes Set\, 
+ danach ist die Bühne frei für Mitspieler\n\nVor Ort sind vorhanden:\n- P
+ A mit Mixer\, Mikrophonen und Monitoren\n-       New Real Books Band 1\,2 
+ und 3 je in C\, Bb und Eb\n-       Stage Piano (Roland FP90x)\n-       Dru
+ m Set (ohne Becken)\n-       Gui-Amp (Fender)\n-       Bass-Amp (Eich)\n \
+ nBei Bedarf bitte mitbringen:\n-       Eigenes Musikinstrument\, ggf. Beck
+ en\n-       Unbedingt erforderliches eigenes Equipment mit Verkabelung\n- 
+       Notenständer
+LOCATION:Diagonal Ingolstadt\, Kreuzstr. 12\, 85049 Ingolstadt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rad Gumbo &amp\; Günter Grünwald
+DTSTART;TZID=Europe/Berlin:20261210T210000
+DTEND;TZID=Europe/Berlin:20261211T005900
+DTSTAMP:20260908T220010Z
+UID:rad-gumbo-amp-g-nter-gr-nwald-20261210-2000@ifg-plattform.de
+DESCRIPTION:Bayerisches Kabarett trifft Southern Blues\n\nEinlass: 19:00\n
+ \nGünter Grünwald ist einer der ganz großen bayerischen Kabarettisten u
+ nd das seit über drei Jahrzehnten. Unzählige ausverkaufte Shows\, seit v
+ ielen Jahren eine eigene TV-Sendung und ein einzigartiger Humor. Was viele
+  allerdings nicht wissen: Günter Grünwald ist seit seiner Jugend ein lei
+ denschaftlicher Gitarrist und Musikfan. Und wenn es die Zeit erlaubt dann 
+ steht er mit seinen befreundeten Vollblutmusikern von RAD GUMBO auf der B
+ ühne und lässt es richtig krachen. Das Motto ist „Bayerisches Kabarett
+  trifft Southern Blues“. Was sie dabei erwartet ist eine geniale Mischun
+ g aus höchst unterhaltsamen bayerisch-deftigem Humor mit groovigem Blues-
+ Rock aus den heißen Sümpfen der amerikanischen Südstaaten mit Günter G
+ rünwald selbst an der Sologitarre. Coole Musik und Ablachen ohne Ende. Au
+ f jeden Song folgt eine Kabaretteinlage. So entsteht ein in dieser Form se
+ lten da gewesener musikalisch -komödiantisch dagewesener Cocktail. Eine k
+ urzweilige Show\, Coole Musik &amp\; Ablachen ohne Ende- was will man mehr
+ . So wie das gleichnamige Eintopfgericht aus New Orleans ist die Musik von
+  RAD GUMBO würzig und scharf. Die Zuhörer erwartet ein brodelnder Mix au
+ s Zydeco-Blues und New Orleans-Soul.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:40
 END:VEVENT
 END:VCALENDAR
