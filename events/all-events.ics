@@ -2,83 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:SWIM &amp\; VIBE mit DJane Sherin
-DTSTART;TZID=Europe/Berlin:20260912T150000
-DTEND;TZID=Europe/Berlin:20260912T230000
-DTSTAMP:20260908T220009Z
-UID:swim-amp-vibe-mit-djane-sherin-20260912-1300@ifg-plattform.de
-DESCRIPTION:Sonnenbrille auf\, Cocktails kalt und Beach Club Sounds an!\n\
- nEinlass: 10:00\n\nWo? Thermenbereich\n\nWann? Ab 13 Uhr jeden zweiten Sam
- stag im Monat von Mai bis September\n\nWas? Vergesst Ibiza\, Saint-Tropez 
- oder Malibu. Ausgelassene Stimmung\, freshe Beats und spritzige Cocktails 
- gibt es auch in der Donautherme. Mit Swim &amp\; Vibe kommt der Beach Club
-  nach Ingolstadt. Live DJs und Poolbar Specials sorgen für ein einzigarti
- ges Erlebnis in unserem Thermenbereich.\n\nSeid dabei und feiert mit uns!
-LOCATION:Donautherme\, Südliche Ringstraße 63\, 85053 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die große Johann Strauss Gala
-DTSTART;TZID=Europe/Berlin:20260912T173000
-DTEND;TZID=Europe/Berlin:20260912T200000
-DTSTAMP:20260908T220010Z
-UID:die-gro-e-johann-strauss-gala-20260912-1530@ifg-plattform.de
-DESCRIPTION:Eine Wiener Operetten Revue\n\nEinlass: 14:30\n\nMusiker des G
- ala-Sinfonie Orchesters Prag und  international renommierte Solistinnen un
- d Solisten sowie das Johann Strauß Ballett entfachen einen facettenreiche
- n Konzertnachmittag\, der Musik\, Gesang und Tanz zu einem sinnlichen Gesa
- mterlebnis verbindet.
-LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
-X-SCORE:30
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:90er &amp\; 2000er Megaparty
-DTSTART;TZID=Europe/Berlin:20260912T230000
-DTEND;TZID=Europe/Berlin:20260913T015900
-DTSTAMP:20260908T220010Z
-UID:90er-amp-2000er-megaparty-20260912-2100@ifg-plattform.de
-DESCRIPTION:Deine Retroparty !\n\nEinlass: 21:00\n\nJippie! Die wohl beste
-  Party der Stadt\, mit einer immer wechselnden Deko und immer neuen Eventi
- deen\, feiert mit euch das neue Jahr 2025! Am 02.05.26 ist es wieder sowei
- t: Hits von Haddaway\, Culture Beat und Snap!\, Guano Apes\, Nirvana und G
- uns´n Roses. \n\nNatürlich dürfen auch Hip-Hop-Künstler wie Mc Hammer\
- , Vanilla Ice und 2Pac nicht fehlen. Dazu noch Backstreet Boys\, Take That
-  und Spice Girls! Natürlich mit dabei auch die Stars 2000er: Groove Cover
- age\, Cascada\, Sylver\, Eminem\, Linkin Park\, Jay-Z\, Beyonce\, etc. Unb
- edingt am Start sein! \n\nDas ist geboten: \n- Bester 90/2000er-Sound: Pop
- \, Hip-Hop\, RnB\, Rock\, Techno u.v.m. \n- 90er-Deko \n- Konfettikanonen 
- \n- LED-Sticks \n- 90/2000er-Umfrage mit Verlosung u.v.m.!
-LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Erste 90er2000er Megaparty nach der Sommerpause in der Eventhalle
-DTSTART;TZID=Europe/Berlin:20260912T230000
-DTEND;TZID=Europe/Berlin:20260913T050000
-DTSTAMP:20260908T220010Z
-UID:erste-90er2000er-megaparty-nach-der-sommerpause-in-der-eventhalle-2026
- 0912-2100@ifg-plattform.de
-DESCRIPTION:Einlass: 21:00\n\nJippie! Die wohl beste Party der Stadt\, mit
-  einer immer wechselnden Deko und immer neuen Eventideen\, geht weiter! Am
-  Sa.\, 12.09.26 ist es wieder soweit: Hits von Haddaway\, Culture Beat und
-  Snap!\, Guano Apes\, Nirvana und Guns ´n Roses. Natürlich dürfen auch 
- Hip-Hop-Künstler wie Mc Hammer\, Vanilla Ice und 2Pac nicht fehlen. Dazu 
- noch Backstreet Boys\, Take That und Spice Girls!\n\nNatürlich mit dabei 
- auch die Stars 2000er: Groove Coverage\, Cascada\, Sylver\, Eminem\, Linki
- n Park\, Jay-Z\, Beyonce\, etc.\nUnbedingt am Start sein!\n\nDas ist gebot
- en:\n- Bester 90/2000er-Sound: Pop\, Hip-Hop\, RnB\, Rock\, Techno u.v.m.\
- n- 90er-Deko\n- Konfettikanonen\n- LED-Sticks\n- 90/2000er-Umfrage mit Ver
- losung\nu.v.m.!\n\nAchtung: Hast du Geburtstag im August\, September oder 
- Oktober?\n\nDann feiere doch bei uns. Gratis für dich: 1 LED-Stehtisch &a
- mp\; 1 Flasche Sekt für alle Geburtstagskinder mit 7 Freunden. 2 Flaschen
-  Sekt und 2 Tische bei 14 Personen\, etc. Einfach Mail bis zum 10.09.2026 
- an info@megazin.de\nAchtung: Wir haben nur 10 Tische\, also früh dran sei
- n!\n\nTeile das Event\, lade Freunde ein und feier so\, wie du sonst nirge
- nds feierst.
-LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tag des offenen Denkmals - Eintritt frei!
 DTSTART;TZID=Europe/Berlin:20260913T120000
 DTEND;TZID=Europe/Berlin:20260913T190000
@@ -4522,5 +4445,32 @@ DESCRIPTION:Bayerisches Kabarett trifft Southern Blues\n\nEinlass: 19:00\n
  s Zydeco-Blues und New Orleans-Soul.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Jan van Weyde
+DTSTART;TZID=Europe/Berlin:20261211T210000
+DTEND;TZID=Europe/Berlin:20261212T005900
+DTSTAMP:20260908T220010Z
+UID:jan-van-weyde-20261211-2000@ifg-plattform.de
+DESCRIPTION:IMMER WEYDER...\n\nEinlass: 19:00\n\nAller guten Dinge sind Dr
+ ei! Und daher heißt es ab März 2026:\n\nVorhang auf und Applaus für das
+  dritte Stand-Up Programm von: Jan van Weyde!\n\n„IMMER WEYDER…“ dre
+ ht sich das Hamsterrad des alltäglichen Wahnsinns für den Kölner Comedi
+ an\, Schauspieler und Familienvater. Er\, weiterhin mittendrin im Spagat z
+ wischen Bühnen\, Tv-Shows\, Elternabenden und dem häuslichen Bermuda-Dre
+ ieck aus weiblichen Hormonen: Eine Tochter in der Wackelzahn-Pubertät\, e
+ ine Zweite an der Schwelle zum trotzigen Teenager und eine Ehefrau in der 
+ Prämenopause…\n\nJan van Weyde tanzt auf seinem persönlichen Vulkan. W
+ o andere verzweifeln\, schöpft Jan unermüdlich Comedy-Gold! Er spielt\, 
+ triumphiert und … scheitert. „Falls wat is“\, steht ihm natürlich s
+ ein Kumpel Heiko zur Seite. Mit zuverlässigem Gespür für Fettnäpfchen 
+ lautet Heikos Lebens- Motto: Auf der Welle des Shitstorms surft es sich ei
+ nfach am besten - Eine Parade der Peinlichkeiten im Fahrwasser der Freunds
+ chaft! Dabei will Jan doch nur unterhalten!\n\nUnd das kann er wie kaum ei
+ n anderer. Denn er ist charmant\, er ist schnell\, er ist einfach Jan.\n\n
+ Jan van Weyde nimmt das Publikum mit in seine Welt der absurdesten Beobach
+ tungen.\n\n„IMMER WEYDER“ ist Stand-Up mit Herz und Tempo.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:25
 END:VEVENT
 END:VCALENDAR
