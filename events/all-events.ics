@@ -2,121 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Tag des offenen Denkmals - Eintritt frei!
-DTSTART;TZID=Europe/Berlin:20260913T120000
-DTEND;TZID=Europe/Berlin:20260913T190000
-DTSTAMP:20260908T220010Z
-UID:tag-des-offenen-denkmals-eintritt-frei-20260913-1000@ifg-plattform.de
-DESCRIPTION:Die Museen der Stadt Ingolstadt sind in denkmalgeschützten Ge
- bäuden untergebracht. Deshalb können sie am Tag des offenen Denkmals kos
- tenlos besucht werden. \nFür medizinhistorisch Interessierte gibt es dies
- mal einen besonders faszinierenden Programmpunkt:\n\n13.00–16.00 Uhr | H
- arderstr. 5 | Kloster St. Johann im Gnadenthal mit historischer Kloster-Ap
- otheke\nVor 750 Jahren wurde in Ingolstadt das franziskanische Frauenklost
- er St. Johann im Gnadenthal gegründet. Im Rahmen des Jubiläumsjahrs bete
- iligt sich das Kloster heuer erstmals am Tag des offenen Denkmals. Der Run
- dgang führt auch zu der um 1700 eingerichteten Kloster-Apotheke. Erläute
- rungen vor Ort gibt es durch Prof. Marion Ruisinger\, die Direktorin des D
- eutschen Medizinhistorischen Museums.\nMehr Informationen unter: https://w
- ww.tag-des-offenen-denkmals.de
-LOCATION:Deutsches Medizinhistorisches Museum\, Anatomiestraße 18-20\, 85
- 049 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Frühschoppen im Bauerngerätemuseum Hundszell
-DTSTART;TZID=Europe/Berlin:20260913T130000
-DTEND;TZID=Europe/Berlin:20260913T150000
-DTSTAMP:20260908T220009Z
-UID:fr-hschoppen-im-bauernger-temuseum-hundszell-20260913-1100@ifg-plattfo
- rm.de
-DESCRIPTION:Nacht der Museen 2026\n\nEinlass: 10:00\n\nMusikalischer Früh
- schoppen mit C’est si bon\nIm Museum gastiert eine der beliebtesten Form
- ationen des traditionellen Jazz der Region: Veronika Schnattinger (Geige)\
- , Eduard Israelov (Piano)\, Alexander Fuchs (Kontrabass)\, Bernhard Reitbe
- rger (Schlagzeug)\, Mirelle Hanke (Vocal)\n\nMit einem Repertoire aus Swin
- g\, Oldtime Jazz und bekannten Evergreens entsteht ein Konzert\, das musik
- alische Qualität\, stilistische Vielfalt und zeitlose Klangkultur vereint
- .
-LOCATION:Bauerngerätemuseum Hundszell\, Probststraße 13\, 85051 Ingolsta
- dt
-X-SCORE:31
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tag des offenen Denkmals
-DTSTART;TZID=Europe/Berlin:20260913T130000
-DTEND;TZID=Europe/Berlin:20260914T015900
-DTSTAMP:20260908T220010Z
-UID:tag-des-offenen-denkmals-20260913-1100@ifg-plattform.de
-DESCRIPTION:Einlass: 11:00\n\nAm 13. September ist es wieder so weit: deut
- schlandweit wird der Tag des offenen Denkmals begangen. An diesem Datum bi
- etet das KAP94 Einblick\, was hinter seinen dicken Mauern geschieht. Die A
- teliers werden nach Möglichkeit geöffnet sein und die Künstlerinnen und
-  Künstler nehmen sich Zeit für ein Gespräch vor Ort.\n\nAb 13:00 Uhr wi
- rd die Bar geöffnet\, bei gutem Wetter im Dachgarten. Bei kühlen Geträn
- ken werden unsere Gäste ab ca. 14:00 Uhr eintauchen in die musikalische V
- ielfalt der Ingolstädter Szene. Unter anderem „Funk my Glam“ ab 17:00
- .\n\nFür alle\, die mehr über das Gebäude und den KulturKAP e. V. wisse
- n wollen\, finden um 11:00\, 14:00 und 16:00 Uhr Führungen durch die Kapo
- nniere statt.\n\nDer Eintritt ist frei\, Spenden werden erbeten.
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Öffentliche Führung
-DTSTART;TZID=Europe/Berlin:20260913T170000
-DTEND;TZID=Europe/Berlin:20260913T180000
-DTSTAMP:20260908T220009Z
-UID:ffentliche-f-hrung-20260913-1500@ifg-plattform.de
-DESCRIPTION:für Menschen mit und ohne Hörbeeinträchtigung\n\nEinlass: 1
- 4:45\n\nDer Umbau der sogenannten Gießereihalle zur neuen Heimstätte des
-  Museums für Konkrete Kunst und Design (MKKD) nach Plänen des Wiener Arc
- hitekturbüros querkraft steht kurz vor seinem Abschluss. Planung und Einr
- ichtung eines Museums beinhalten aber entschieden mehr als die reine Archi
- tektur eines Gebäudes.\n\nMit der Ausstellung Becoming MKKD. Vom Planen u
- nd Entstehen eines Museums bekommen Sie ganz konkrete Einblicke in die Kon
- zeption des neuen Museums – von der Gestaltung der neuen Corporate Ident
- ity bis hin zur genauen Dimensionierung und Abfolge der einzelnen Ausstell
- ungsräume. In kurzen Filmen lernen Sie dabei auch einige Mitarbeiter*inne
- n des Museums und der Stiftung für Konkrete Kunst und Design (SKKD) sowie
-  weitere an den Planungen Beteiligte kennen. \n\nDie Führung wird in Deut
- sche Gebärdensprache (DGS) gedolmetscht.\n\nDie Führung findet im Rahmen
-  des Tages des offenen Denkmals statt. \n\nMit freundlicher Unterstützung
-  der Sparkasse Ingolstadt Eichstätt
-LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
- adt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blaskapelle Gaimersheim - Tanzleitung: Franziska Straus
-DTSTART;TZID=Europe/Berlin:20260913T180000
-DTEND;TZID=Europe/Berlin:20260914T015900
-DTSTAMP:20260908T220009Z
-UID:blaskapelle-gaimersheim-tanzleitung-franziska-straus-20260913-1600@ifg
- -plattform.de
-DESCRIPTION:Die kultURIG Veranstaltungsreihe vereint ihre Einzelveranstalt
- ungen Volkstanz\, Volksmusik\, Musik aus Alt-Ingolstadt und den traditione
- llen Kocherlball zu einem vielfältigen Brauchtumserlebnis.\n\nTauchen Sie
-  ein und erleben Sie Ingolstadts kulturelle Vielfalt in ihrer ganzen Prach
- t!\n\nDer Eintritt zu dieser Reihe ist kostenfrei.
-LOCATION:Schutterhof\, Friedhofstraße 1a\, 85049 Ingolstadt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stand-Up Comedy Show auf spanisch
-DTSTART;TZID=Europe/Berlin:20260913T190000
-DTEND;TZID=Europe/Berlin:20260914T015900
-DTSTAMP:20260908T220010Z
-UID:stand-up-comedy-show-auf-spanisch-20260913-1700@ifg-plattform.de
-DESCRIPTION:Chadmax kommt zum ersten Mal in die Stadt! Deutschlands latein
- amerikanische Comedian Nr. 1 mit seiner erfolgreichsten Show „Importado
- “. \n\nKommt vorbei\, lacht gemeinsam und vernetzt euch mit anderen Lati
- nos und Hispanos aus der Region bei dieser fantastischen Stand-up-Comedy-S
- how mit dem Comedian Chadmax aus Mexiko!
-LOCATION:Altstadttheater\, Kanalstraße 1A\, 85049 Ingolstadt
-X-SCORE:25
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Arnd Zeigler Immer Glück ist Können! Zeiglers wunderbare Welt de
  s Fußballs - LIVE
 DTSTART;TZID=Europe/Berlin:20260915T220000
@@ -4472,5 +4357,85 @@ DESCRIPTION:IMMER WEYDER...\n\nEinlass: 19:00\n\nAller guten Dinge sind Dr
  tungen.\n\n„IMMER WEYDER“ ist Stand-Up mit Herz und Tempo.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:25
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Brauereiführung
+DTSTART;TZID=Europe/Berlin:20261212T160000
+DTEND;TZID=Europe/Berlin:20261212T180000
+DTSTAMP:20260908T220009Z
+UID:brauereif-hrung-20261212-1500@ifg-plattform.de
+DESCRIPTION:Einlass: 10:00\n\nBei unseren regelmäßigen Brauereiführunge
+ n führen wir dich ein in die Biergeschichte der Stadt und unserer Brauere
+ i.\n\nVon den Rohstoffen angefangen durchlaufen wir den ganzen Brauprozess
+  in unserer handwerklichen Altstadtbrauerei und schmecken das Erlebte durc
+ h eine parallele Verkostung unserer Biere.\nDas „Zwickeln“ eines unver
+ öffentlichten\, neuen Bieres darf natürlich nicht fehlen!\nWichtig!\nWen
+ n du bereits einen Gutschein hast\, melde Dich mit der Anzahl der Gutschei
+ nen unter info@griesmueller.de und sage uns Deinen Wunschtermin. Der physi
+ sche Gutschein muss zur Veranstaltung mitgenommen werden.
+LOCATION:Griesmüllers Altstadtbrauerei\, Schulstraße 19\, 85049 Ingolsta
+ dt
+X-SCORE:15
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:THERMENKONZERT MIT SOULSISTER
+DTSTART;TZID=Europe/Berlin:20261212T190000
+DTEND;TZID=Europe/Berlin:20261212T230000
+DTSTAMP:20260908T220010Z
+UID:thermenkonzert-mit-soulsister-20261212-1800@ifg-plattform.de
+DESCRIPTION:Musik für die Seele\n\nEinlass: 10:00\n\nMit geballter Frauen
+ power läuten wir das Jahresende ein. Während draußen der Winter Einzug 
+ hält\, wird es in unserer Therme wohlig warm. Und das nicht nur durch die
+  angenehmen Temperaturen.\nSoulsister verzaubern Euch mit gefühlvoller Li
+ ve-Musik\, die direkt ins Herz geht und Euch dem Alltagsstress entzieht. \
+ nGenießt einen stimmungsvollen Abend voller Musik\, Entspannung und schö
+ ner Momente.
+LOCATION:Donautherme\, Südliche Ringstraße 63\, 85053 Ingolstadt
+X-SCORE:13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Catello Zaubermenü in der Präsidentensuite des Maritim Hotels
+DTSTART;TZID=Europe/Berlin:20261212T193000
+DTEND;TZID=Europe/Berlin:20261213T000000
+DTSTAMP:20260908T220009Z
+UID:catello-zaubermen-in-der-pr-sidentensuite-des-maritim-hotels-20261212-
+ 1830@ifg-plattform.de
+DESCRIPTION:Menü und Zaubershow als exklusives Event\n\nEinlass: 18:15\n\
+ nEine Show voller Staunen. \nEin unvergesslicher Abend mit tollem 3-Gang-M
+ enü bei dem alle Getränke inklusive sind.  \nVeranstaltung für nur 28 P
+ ersonen im exklusivsten Raum der Stadt - der Präsidentensuite des Hotels 
+ Maritim.\n\nIm Ticketpreis enthalten:\n* 3-Gang-Menü\n* Zaubershow\n* all
+ e Getränke\n\nDresscode: Cocktail / Festive Attire\n\nFür das Menü habe
+ n Sie die Auswahl aus verschiedenen Gerichten - falls Sie Sonderwünsche h
+ insichtlich veganem Essen oder Allergien haben\, können diese gerne berü
+ cksichtigt werden\, wenden Sie sich hier im Vorfeld einfach an den Veranst
+ alter\n\nAlle Infos und Tickets unter: http://www.zaubertage.de/catello/Se
+ iten/catellomenue.htm
+LOCATION:Congress Centrum Ingolstadt\, Gießerei-Platz 1\, 85049 Ingolstad
+ t
+X-SCORE:21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Catello Zaubermenü in der Präsidentensuite des Maritim Hotels (K
+ opie)
+DTSTART;TZID=Europe/Berlin:20261212T193000
+DTEND;TZID=Europe/Berlin:20261213T000000
+DTSTAMP:20260908T220009Z
+UID:catello-zaubermen-in-der-pr-sidentensuite-des-maritim-hotels-kopie-202
+ 61212-1830@ifg-plattform.de
+DESCRIPTION:Menü und Zaubershow als exklusives Event\n\nEinlass: 18:15\n\
+ nEine Show voller Staunen. \nEin unvergesslicher Abend mit tollem 3-Gang-M
+ enü bei dem alle Getränke inklusive sind.  \nVeranstaltung für nur 28 P
+ ersonen im exklusivsten Raum der Stadt - der Präsidentensuite des Hotels 
+ Maritim.\n\nIm Ticketpreis enthalten:\n* 3-Gang-Menü\n* Zaubershow\n* all
+ e Getränke\n\nDresscode: Cocktail / Festive Attire\n\nFür das Menü habe
+ n Sie die Auswahl aus verschiedenen Gerichten - falls Sie Sonderwünsche h
+ insichtlich veganem Essen oder Allergien haben\, können diese gerne berü
+ cksichtigt werden\, wenden Sie sich hier im Vorfeld einfach an den Veranst
+ alter\n\nAlle Infos und Tickets unter: http://www.zaubertage.de/catello/Se
+ iten/catellomenue.htm
+LOCATION:Congress Centrum Ingolstadt\, Gießerei-Platz 1\, 85049 Ingolstad
+ t
+X-SCORE:21
 END:VEVENT
 END:VCALENDAR
