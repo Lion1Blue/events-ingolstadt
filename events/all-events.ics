@@ -4438,4 +4438,24 @@ LOCATION:Congress Centrum Ingolstadt\, Gießerei-Platz 1\, 85049 Ingolstad
  t
 X-SCORE:21
 END:VEVENT
+BEGIN:VEVENT
+SUMMARY:European Outdoor Film Tour 26I27 - EOFT
+DTSTART;TZID=Europe/Berlin:20261213T190000
+DTEND;TZID=Europe/Berlin:20261213T220000
+DTSTAMP:20260908T220010Z
+UID:european-outdoor-film-tour-26i27-eoft-20261213-1800@ifg-plattform.de
+DESCRIPTION:Ein Abend mit den besten Abenteuerfilmen\n\nEinlass: 17:30\n\n
+ Outdoor- und Abenteuerfilme gemeinsam erleben: Seit 25 Jahren ist die Euro
+ pean Outdoor Film Tour (EOFT) der Startschuss für eure Outdoor-Saison. Da
+ s Basecamp\, in dem ihr eure Outdoor-Crew treffen\, euch austauschen und I
+ deen für eigenen Abenteuertrips sammeln könnt. Ein Abend mit den besten 
+ Abenteuerdokus des Jahres\, ein Brüderpaar auf dem (See-)Weg zu einer fel
+ sigen Herausforderung mitten in der Ägäis\, eine weibliche Seilschaft\, 
+ die auf Madagaskar Klettergeschichte schreibt und weitere Filme für alle\
+ , die gerne draußen unterwegs sind und das Leben ohne Filter genießen wo
+ llen. Denn alles\, was ihr auf der EOFT seht\, ist echt: Ihr schaut nicht 
+ nur zu\, ihr fühlt es. This is real.
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:16
+END:VEVENT
 END:VCALENDAR
