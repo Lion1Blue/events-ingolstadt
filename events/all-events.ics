@@ -2,45 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Arnd Zeigler Immer Glück ist Können! Zeiglers wunderbare Welt de
- s Fußballs - LIVE
-DTSTART;TZID=Europe/Berlin:20260915T220000
-DTEND;TZID=Europe/Berlin:20260916T015900
-DTSTAMP:20260908T220010Z
-UID:arnd-zeigler-immer-gl-ck-ist-k-nnen-zeiglers-wunderbare-welt-des-fu-ba
- lls-live-20260915-2000@ifg-plattform.de
-DESCRIPTION:Immer Glück ist Können! Zeiglers wunderbare Welt des Fußbal
- ls - LIVE\n\nEinlass: 19:00\n\n2024 war ein großes Jahr für Fußball-Deu
- tschland. Die EM fand im eigenen Land statt und auch der Ausblick auf 2025
-  ist rosig: Arnd Zeigler geht mit seinem dritten Bühnenprogramm „Immer 
- Glück ist Können“ auch im nächsten Jahr auf Tour. Premiere feierte di
- e neue und umjubelte Show im September 2024 und bereits jetzt sind die ers
- ten Hallen ausverkauft in diesem und im nächsten Jahr. Der Titel ist Prog
- ramm\, denn nach über 200 Live-Auftritten kann man mit Fug und Recht beha
- upten: Das ist nicht nur Glück - da muss auch Können im Spiel sein. Wir 
- dürfen uns auf eine weitere Runde pickpackevoller Fußballabende freuen. 
- Wer die Fernsehsendung „Zeigler wunderbare Welt des Fußballs“ kennt\,
-  der weiß\, was man von dem Live-Pendant erwarten kann. Kernige Typen\, k
- ultige Sprüche und Kacktore en masse – eine Komposition von und für de
- n Fußball. Erklärtes Ziel bleibt es\, der Faszination Fußball auf den G
- rund zu gehen. Gar nicht so einfach\, denn die Kommerzialisierung wird imm
- er größer\, das Regelwerk immer undurchsichtiger und am Ende gewinnen di
- e Bayern. Doch mit dem Fußball ist es wie mit Darth Vader: Es steckt noch
-  viel Gutes in ihm.  Wer könnte das besser vermitteln als Deutschlands 
- „Fairster Profi“ Arnd Zeigler? Arnd nimmt die Besucher seiner Live-Sho
- ws mit auf eine aufregende Reise durch seine Fußballwelt\, mit allen Höh
- en und Tiefen und immer mit viel Humor und dem typisch ironischen Augenzwi
- nkern\, welches wir schon seit über 15 Jahren kennen und lieben. Denn let
- ztendlich geht es beim Fußball um Emotionen: „Fußball hält uns auf un
- sichtbare Weise zusammen. Wir wissen während eines Spiels\, auch wenn wir
-  es an zwei Orten schauen\, jederzeit\, was der andere denkt\, was er füh
- lt. Auf diese Weise bewahren wir uns die Nähe\, die uns so nur der Fußba
- ll vermitteln kann“. Wer sich darauf rückbesinnen möchte\, ist bei Arn
- d Zeigler goldrichtig.
-LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
-X-SCORE:28
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herrliches Herrnbräu live erleben!
 DTSTART;TZID=Europe/Berlin:20260917T190000
 DTEND;TZID=Europe/Berlin:20260917T210000
