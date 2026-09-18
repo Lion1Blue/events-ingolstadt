@@ -2,46 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Voltraid
-DTSTART;TZID=Europe/Berlin:20260918T220000
-DTEND;TZID=Europe/Berlin:20260919T015900
-DTSTAMP:20260908T220010Z
-UID:voltraid-20260918-2000@ifg-plattform.de
-DESCRIPTION:VOLBEAT TRIBUTE PREMIERE plus Album Release Show\n\nEinlass: 1
- 9:00\n\nVoltraid\nVOLBEAT TRIBUTE PREMIERE plus Album Release Show\nVOLTRA
- ID feiert die Veröffentlichung des neuen Albums und präsentiert erstmals
-  ausgewählte Songs des neuen Volbeat-Tribute-Projekts live auf der Bühne
- . \n\nMit Songs aus dem eigenen Repertoire sowie ausgewählten Volbeat-Kla
- ssikern erwartet die Besucher ein energiegeladener Rockabend voller eingä
- ngiger Melodien\, harter Riffs und mitreißender Live-Atmosphäre. \n\nDie
-  Ingolstädter Band steht seit 2010 für ehrlichen Rock\, Leidenschaft und
-  handgemachte Livemusik. \n\nAm 18. September 2026 feiert VOLTRAID in der 
- Eventhalle Ingolstadt Album Release und Tribute-Premiere zugleich – ein 
- besonderer Abend für Rockfans\, Volbeat-Liebhaber und alle\, die authenti
- sche Live-Musik schätzen. Album Release. Tribute-Premiere. Rock'n'Roll.
-LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:33
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nisse Barfuss „Liebe und Aufmerksamkeit“ – Live
-DTSTART;TZID=Europe/Berlin:20260918T220000
-DTEND;TZID=Europe/Berlin:20260919T015900
-DTSTAMP:20260908T220010Z
-UID:nisse-barfuss-liebe-und-aufmerksamkeit-live-20260918-2000@ifg-plattfor
- m.de
-DESCRIPTION:Einlass: 19:00\n\nEinlass 19:00\,  VVK 15\,-\, AK 20\,-\n\nLie
- be und Aufmerksamkeit\nHerr Müller und sein Chauffeur &amp\; Nisse Barfus
- s\nEin Doppelkonzert\n\nHerr Müller und sein Chauffeur &amp\; Nisse Barfu
- ss laden ein. Mit Akustik-Gitarren\, einer Handvoll Mundharmonikas\, einem
-  Biber voll Schorle und einer leuchtenden Melodika verzaubern die beiden d
- en Moment und ihr Publikum. „Ein Abend in so gelöster und wohlgelaunter
-  Stimmung und so viel Lachen\, dass ich mir vorkam wie unter alten Freunde
- n\, die ich schon aus Kindertagen kenne.“ Zitat Manfred Sei wie Manfred 
- und komm vorbei.
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:11
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Second-Hand-Basar
 DTSTART;TZID=Europe/Berlin:20260919T150000
 DTEND;TZID=Europe/Berlin:20260919T163000
@@ -4320,5 +4280,34 @@ DESCRIPTION:Ein Abend mit den besten Abenteuerfilmen\n\nEinlass: 17:30\n\n
  nur zu\, ihr fühlt es. This is real.
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stephan Bauer
+DTSTART;TZID=Europe/Berlin:20261217T210000
+DTEND;TZID=Europe/Berlin:20261218T005900
+DTSTAMP:20260908T220010Z
+UID:stephan-bauer-20261217-2000@ifg-plattform.de
+DESCRIPTION:Weihnachten fällt aus! Josef gesteht alles!\n\nEinlass: 19:00
+ \n\nKabarett und Comedy auf höchstem Niveau Alle Jahre wieder kommt das C
+ hristuskind... und macht nichts als Ärger. Streitende Familien\, brennend
+ e Tannenbäume und gestresste Menschen\, die in der Vorweihnachtszeit durc
+ h Innenstädte hetzen\, auf der verzweifelten Suche nach Geschenken. Wenn 
+ wir ehrlich sind\, hat man in der Adventszeit den Eindruck\, Bethlehem war
+  eine Filiale von REWE. Und wenn dann alle fix und fertig sind vom Einkauf
+ smarathon\, fällt am Heiligabend die Familie ein: die allein erziehende S
+ chwester\, die schlecht hörende Oma und die zickige Patentante mit ihrem 
+ Schoßhündchen. Mama kocht\, was das Zeug hält und Papa ist total gener
+ vt\, weil die Gans nicht auf dem Teller liegt\, sondern neben ihm sitzt. I
+ deale Voraussetzungen für ein 'rohes Fest'... Stephan Bauers erstes Weih
+ nachtsprogramm ist die gnadenlos komische Antwort auf die apokalyptischen 
+ Seiten des Weihnachtsfestes - mit nur einem Ziel: dass es in dieser Zeit w
+ enigstens einmal ordentlich was zu lachen gibt. Raus also aus der Weihnach
+ tsdepression! Lasst uns dieses Fest mit der winterlichen Idylle\, Tannenba
+ um und Schneeflocken wieder genießen - solange es der Klimawandel noch zu
+ lässt. Denn spätestens in 50 Jahren kommt der Weihnachtsmann mit dem Sur
+ fbrett! Kabarett und Comedy auf höchstem Niveau.... Ein Mann - ein Barhoc
+ ker - ein Gagfeuerwerk - eben Stephan Bauer !
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:31
 END:VEVENT
 END:VCALENDAR
