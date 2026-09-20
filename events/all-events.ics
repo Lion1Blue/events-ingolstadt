@@ -2,75 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Hoffest 2026
-DTSTART;TZID=Europe/Berlin:20260920T120000
-DTEND;TZID=Europe/Berlin:20260920T200000
-DTSTAMP:20260919T220008Z
-UID:hoffest-2026-20260920-1000@ifg-plattform.de
-DESCRIPTION:Einlass: 10:00\n\nHoffest am 20.09.2026\nOb Groß und Klein\, 
- alle Reiter und Nichtreiter sind herzlich willkommen! Es gibt wieder viel 
- zu sehen und zu erleben! Wir haben alte und neue Aussteller für Euch orga
- nisiert\, die ihre Waren präsentieren und verkaufen. Für das leibliche W
- ohl ist bestens gesorgt! In unserem Biergarten gibt es dafür deftige Brot
- zeit und für die Süssen\, Kaffee und Kuchen!\n\n- Verschiedene Ausstelle
- r/kleine Ständchen:\n•Edelschaus\nhttps://www.facebook.com/babsgenussku
- eche\n•Schmuck\nhttps://www.facebook.com/RenaPearls\n•https://www.face
- book.com/EisvomFunck\n•Bienenwachskerzen\n•Handgestrickte Socken/Mütz
- en\n•Blumengestecke\, Türkränze usw.\n•Spielwaren\n•Eier\, Nudeln 
- und Eierlikör vom Riedelshof \numv.\n\n- Kleiner Reiterflohmarkt\n- Reit-
-  und Springvorführungen\n- Pferde reiten (Kinder werden geführt)\n- Hüp
- fburg\nuvm.\n\nWir freuen uns auf Euren Besuch!
-LOCATION:Reiterhof Echenzell\, Böhmfelder Straße 8\, 85139 Wettstetten
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Museumsfest
-DTSTART;TZID=Europe/Berlin:20260920T120000
-DTEND;TZID=Europe/Berlin:20260920T190000
-DTSTAMP:20260919T220008Z
-UID:museumsfest-20260920-1000@ifg-plattform.de
-DESCRIPTION:Tradition erleben und mitmachen!\n\nFreuen Sie sich auf tradit
- ionelles Handwerk und unsere beliebten Museumstraditionen:  den Kartoffeld
- ämpfer und die Schlepperparade des Schleppervereinsfrisches Brot aus dem 
- Museumsofen und handgeschlagene Butter . \nAuch für Kinder gibt es viel z
- u entdecken: Steckenpferde basteln\, Kartoffeldruck ausprobieren und den s
- pannenden Geschichten unserer Geschichtenerzählerin lauschen. In den Muse
- umsgärten darf außerdem reifes Gemüse gegen eine Spende geerntet werden
- . \nUnd wer Lust auf eine Partie hat\, ist herzlich auf der Kegelbahn am R
- osinger Hof willkommen.\nEintritt:  Familie 18€\, Erwachense 8€\, Kind
- er (ab 7)\, Schüler\, Studenten\, Azubis\, Renter 4€\n\nEin Tag für di
- e ganze Familie – zum Staunen\, Mitmachen\, Genießen und Entdecken. Wir
-  freuen uns auf Sie!\n\nDas Ganze Programm finden Sie auf unserer Webseite
- .
-LOCATION:Haus im Moos\, Kleinhohenried 108\, 86668 Karlshuld
-X-SCORE:14
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:American Football - Playoffs
-DTSTART;TZID=Europe/Berlin:20260920T170000
-DTEND;TZID=Europe/Berlin:20260920T200000
-DTSTAMP:20260919T220008Z
-UID:american-football-playoffs-20260920-1500@ifg-plattform.de
-DESCRIPTION:Ingolstadt Dukes vs. Schweinfurt Chargers\n\nEinlass: 14:15\n\
- n🔥 DAS SPIEL DER SPIELE – PLAYOFFS IN INGOLSTADT! 🔥\n\n6 Spiele. 6
-  Siege. UNBESIEGT durch die Saison! 💪🏈\n \nDer Weg war hart. Gegen D
- achau Thunder\, Augsburg Storm und Ansbach Grizzlies wurde uns nichts gesc
- henkt – doch wir haben uns Spiel für Spiel durchgesetzt.\n \nJetzt komm
- t der nächste Schritt: PLAYOFFS. 🏆\n \nAm Sonntag\, 20.09.2026 um 15:0
- 0 Uhr treffen wir auf die Schweinfurt Chargers\, den Sieger der Gruppe 1.\
- n \nUnd das Beste: Das Spiel der Spiele findet zu Hause in Ingolstadt stat
- t!\n \nEs ist unser letztes Heimspiel für dieses Jahr – und dafür brau
- chen wir euch! Macht das Stadion laut und geht diesen nächsten Schritt Ri
- chtung Titel mit uns!\n \n👕 FOOTBALL IST FAMILIE!\nWer im Football-Jers
- ey kommt\, hat freien Eintritt!\n \n🍔 Dukes-Grill &amp\; Getränke\n
- 📣 Cheerleader live\n🎟️ Regulärer Eintritt: 5 €\n \nBringt eure 
- Trommeln\, Familie\, Freunde\, Jerseys &amp\; Co. mit und macht unser letz
- tes Heimspiel des Jahres zu einem echten Football-Fest!\n \n6–0 war der 
- Anfang. Jetzt geht es um alles.\n \n🔥 FAMILY ON 3! PLAYOFFS ON 6!! 🔥
-LOCATION:TV 1861 Ingolstadt\, Richard-Wanger-Straße 65\, 85057 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Nina Michelle Trio
 DTSTART;TZID=Europe/Berlin:20260922T200000
 DTEND;TZID=Europe/Berlin:20260923T015900
@@ -4784,5 +4715,78 @@ DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  cht werden.
 LOCATION:Stadtmuseum\, Auf d. Schanz 45\, 85049 Ingolstadt
 X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Classic Ballet - der Nussknacker
+DTSTART;TZID=Europe/Berlin:20261219T160000
+DTEND;TZID=Europe/Berlin:20261219T180000
+DTSTAMP:20260919T220008Z
+UID:grand-classic-ballet-der-nussknacker-20261219-1500@ifg-plattform.de
+DESCRIPTION:die traditionelle Wintertournee\n\nEinlass: 14:00\n\nErleben S
+ ie zur schönsten Zeit des Jahres die Magie des klassischen Balletts: Das 
+ Grand Classic Ballet präsentiert „Der Nussknacker“ – die traditione
+ lle Wintertournee am 19. und 20. Dezember im Maritim Hotel Ingolstadt.\n\n
+ Wenn sich der Vorhang hebt\, entführt Tschaikowskys weltberühmte Musik d
+ as Publikum in eine zauberhafte Weihnachtswelt voller Fantasie\, Eleganz u
+ nd großer Gefühle. Begleiten Sie Clara auf ihrer märchenhaften Reise du
+ rch funkelnde Schneelandschaften und das geheimnisvolle Reich der Zuckerfe
+ e. Prächtige Kostüme\, eindrucksvolle Bühnenbilder und international au
+ sgezeichnete Tänzerinnen und Tänzer machen „Der Nussknacker“ zu eine
+ m unvergesslichen Erlebnis für die ganze Familie.\n\nDieses Meisterwerk g
+ ehört weltweit zu den beliebtesten Ballettaufführungen der Weihnachtszei
+ t und begeistert Jahr für Jahr Jung und Alt gleichermaßen. Ob als festli
+ cher Abend mit Freunden\, romantisches Wintererlebnis oder besonderes Gesc
+ henk für Ihre Liebsten – diese Aufführung verspricht Momente voller Em
+ otionen und Weihnachtszauber.\n\nSichern Sie sich jetzt Ihre Tickets und e
+ rleben Sie einen unvergesslichen Ballettabend in festlicher Atmosphäre. D
+ ie Plätze sind begrenzt – frühzeitige Buchung empfohlen.
+LOCATION:Maritim Hotel Ingolstadt\, Schloßlände 24\, 85049 Ingolstadt
+X-SCORE:16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Grand Classic Ballet - Schwanensee
+DTSTART;TZID=Europe/Berlin:20261219T210000
+DTEND;TZID=Europe/Berlin:20261219T230000
+DTSTAMP:20260919T220008Z
+UID:grand-classic-ballet-schwanensee-20261219-2000@ifg-plattform.de
+DESCRIPTION:die traditionelle Wintertournee\n\nEinlass: 19:00\n\nEin Meist
+ erwerk voller Anmut\, Leidenschaft und zeitloser Schönheit: Das Grand Cla
+ ssic Ballet präsentiert „Schwanensee“ – die traditionelle Wintertou
+ rnee am 19. Dezember um 20:00 Uhr und am 20. Dezember um 18:00 Uhr im Mari
+ tim Hotel Ingolstadt.\n\nMit der weltberühmten Musik von Pjotr Iljitsch T
+ schaikowski und einer eindrucksvollen Choreografie zählt „Schwanensee
+ “ zu den bedeutendsten und beliebtesten Ballettklassikern aller Zeiten. 
+ Die bewegende Geschichte um Prinz Siegfried und die verzauberte Schwanenpr
+ inzessin Odette begeistert seit Generationen mit romantischer Dramatik\, g
+ roßer Emotion und atemberaubender Tanzkunst.\n\nFreuen Sie sich auf ein h
+ ochklassiges Ensemble internationaler Solistinnen und Solisten\, elegante 
+ Kostüme\, stimmungsvolle Bühnenbilder und unvergessliche Szenen wie den 
+ berühmten Tanz der kleinen Schwäne. Das Grand Classic Ballet bringt die 
+ Magie dieses weltbekannten Werkes mit höchster Präzision und Leidenschaf
+ t auf die Bühne und schafft ein außergewöhnliches Kulturerlebnis in fes
+ tlicher Winteratmosphäre.\n\nOb als besonderes Highlight in der Adventsze
+ it\, stilvoller Abend zu zweit oder kulturelles Erlebnis für die ganze Fa
+ milie – „Schwanensee“ verspricht einen Abend voller Gänsehautmoment
+ e und großer Gefühle.\n\nSichern Sie sich jetzt Ihre Tickets für dieses
+  außergewöhnliche Ballett-Event. Die Nachfrage ist hoch – rechtzeitige
+  Reservierung empfohlen.
+LOCATION:Maritim Hotel Ingolstadt\, Schloßlände 24\, 85049 Ingolstadt
+X-SCORE:34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Tribute to Lemmy feat. The Hellraizörs
+DTSTART;TZID=Europe/Berlin:20261219T210000
+DTEND;TZID=Europe/Berlin:20261220T005900
+DTSTAMP:20260919T220009Z
+UID:a-tribute-to-lemmy-feat-the-hellraiz-rs-20261219-2000@ifg-plattform.de
+DESCRIPTION:+ Why Horse Why &amp\; Juli and the Fuzzy Bears\n\nEinlass: 19
+ :00\n\nDer Lemmy-Kilmister-Tribute 2026 - das R&amp\;R event der Region zw
+ ischen Weihnachtsgans und Bleigießen. \n\nDie Auftaktveranstaltungen der 
+ Vorjahre waren ein Bombenerfolg und somit wurde die Entscheidung zur Wiede
+ rauflage ein no-brainer. Sichert euch eure Karten im Vorverkauf und rockt 
+ euch an Lemmys Todestag den Weihnachtsspeck von den Hüften. \n\nDeaf fore
+ ver!
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:15
 END:VEVENT
 END:VCALENDAR
