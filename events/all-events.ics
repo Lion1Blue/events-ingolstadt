@@ -2,58 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Nina Michelle Trio
-DTSTART;TZID=Europe/Berlin:20260922T200000
-DTEND;TZID=Europe/Berlin:20260923T015900
-DTSTAMP:20260919T220008Z
-UID:nina-michelle-trio-20260922-1800@ifg-plattform.de
-DESCRIPTION:Die kanadische Jazzsängerin Nina Michelle – bestens bekannt
-  durch ihre Auftritte im museum mobile – versteht es immer wieder\, eine
- n Raum sofort in musikalische Spannung zu tauchen. In München zuhause\, i
- nternational erprobt\, verbindet sie stilvolle Ausdruckskraft mit präzise
- m Timing und einer Bühnenpräsenz\, die jedes Stück – von Standards ü
- ber ausgewählte Balladen bis zu Songs ihres Albums „Love Confessions“
-  – leuchten lässt. An ihrer Seite gestalten zwei profilierte Musiker de
- n Klang des Abends: der Augsburger Pianist Heinz Frommeyer\, dessen amerik
- anische Jazzprägung Wärme und Vielseitigkeit einbringt\, sowie Trompeter
-  Peter Tuscher\, seit Jahrzehnten eine feste Größe der heimischen Szene.
-  Gemeinsam formen sie ein Trio\, das Eleganz\, Intensität und feine musik
- alische Kommunikation zu einem eindrucksvollen After-Work-Jazz-Lounge-Erle
- bnis bündelt.\n\n→ Bar und Lounge im Audi Forum Ingolstadt\n→ Freier 
- Eintritt
-LOCATION:Audi Forum\, Ettinger Straße Audi Piazza\, 85045 Ingolstadt
-X-SCORE:42
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:DIYnstag
-DTSTART;TZID=Europe/Berlin:20260922T200000
-DTEND;TZID=Europe/Berlin:20260922T220000
-DTSTAMP:20260919T220008Z
-UID:diynstag-20260922-1800@ifg-plattform.de
-DESCRIPTION:„Fototransfertechnik entdecken“ – Online-Workshop mit Na
- dia-Valeska Devonish\n\nEinlass: 17:45\n\nWie lassen sich Fotografien auf 
- andere Oberflächen übertragen und dadurch in einzigartige Kunstwerke ver
- wandeln? In diesem zweistündigen Online-Workshop gibt Nadia-Valeska Devon
- ish eine praxisnahe Einführung in die vielseitige Fototransfertechnik.\n\
- nSchritt für Schritt zeigt sie\, wie Bilder erfolgreich auf unterschiedli
- che Materialien übertragen werden und welche Grundlagen dabei entscheiden
- d sind. Die Teilnehmenden setzen das Gelernte direkt um und gestalten wäh
- rend des Workshops ihr eigenes kleines Transferwerk.\n\nFür das Transferp
- rojekt kann ein eigenes Motiv verwendet werden – wichtig ist\, dass dies
- es mit einem Laserdrucker ausgedruckt wurde. Alternativ wird ein geeignete
- s Motiv zur Verfügung gestellt\, sodass alle direkt loslegen können.\n\n
- Der Workshop richtet sich sowohl an Anfänger*innen als auch an kreativ ar
- beitende Menschen\, die ihre gestalterischen Möglichkeiten erweitern möc
- hten. Vorkenntnisse sind nicht erforderlich.\n\n \n\nHINWEIS: Die Teilnehm
- enden bekommen per Post das notwendige Workshopmaterial zugeschickt und er
- halten einen Link zum Onlineworkshop.\n\nDas Format „DIYnstag. Design it
-  yourself. Kreativworkshop für Erwachsene“ wird durch Audi ArtExperienc
- e ermöglicht. Für diese freundliche Unterstützung bedankt sich das MKK 
- herzlich.
-LOCATION:Digital\, Videokonferenz
-X-SCORE:28
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Urban Nanas – Mach Dein Viertel kunterbunt!
 DTSTART;TZID=Europe/Berlin:20260923T143000
 DTEND;TZID=Europe/Berlin:20260923T193000
