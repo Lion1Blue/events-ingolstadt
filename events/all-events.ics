@@ -2,93 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Jazz ’o’ Two
-DTSTART;TZID=Europe/Berlin:20260924T200000
-DTEND;TZID=Europe/Berlin:20260925T015900
-DTSTAMP:20260919T220008Z
-UID:jazz-o-two-20260924-1800@ifg-plattform.de
-DESCRIPTION:Swing–Latin–Fusion–Evergreens\n\nWenn sich zwei Musiker 
- aus dem Großraum Nürnberg finden\, die seit Jahren Kleinkunstszenebühne
- n beleben\, entsteht diese besondere Mischung aus Routine und frischer Spi
- ellust. Der Pianist Georg Lörner und der Bassist Joachim Weiß formen als
-  Jazz ’o’ Two ein Duo\, das ohne große Gesten auskommt und gerade dad
- urch besticht. Ihr Programm wandert elegant durch Jazz-Standards\, moderne
-  Balladen\, sanften Bossa Nova und geschmeidigen Swing – mal als feine K
- langkulisse\, mal als Einladung zum entspannten Mitswingen. Mit klarem Ton
- \, geschmackvollen Arrangements und unaufdringlicher Präsenz schaffen die
-  beiden eine Atmosphäre\, die jedes Publikum angenehm umfängt und den Fe
- ierabend in ein kleines musikalisches Vergnügen verwandelt.\n\n→ Bar un
- d Lounge im Audi Forum Ingolstadt\n → freier Eintritt\n\nGeben Sie Ihr F
- eedback zu BizChat ab.
-LOCATION:Audi Forum\, Ettinger Straße Audi Piazza\, 85045 Ingolstadt
-X-SCORE:38
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gankino Circus
-DTSTART;TZID=Europe/Berlin:20260924T220000
-DTEND;TZID=Europe/Berlin:20260925T015900
-DTSTAMP:20260919T220008Z
-UID:gankino-circus-20260924-2000@ifg-plattform.de
-DESCRIPTION:Das Gegenteil von Rock’n’Roll\n\nEinlass: 19:00\n\nGankino
-  Circus sind mit neuem Programm am Start: einer glamourösen Samstag-Abend
- -Show mit einem Hauch provinziellem Wahnsinn! Die aus Funk und Fernsehen b
- ekannten musikalischen Hochseilartisten präsentieren ein ebenso wildes wi
- e virtuoses Rock’n’Roll-Spektakel inklusive entfesseltem Mundart-Pop. 
- Aber anders als bei der Konkurrenz im heimischen Fernseher ist bei Gankino
-  Circus alles live: kein Playback\, kein doppelter Boden\, dafür bahnbrec
- hende Musikalität und spontanes Entertainment! 2007 begannen die vier Jug
- endfreunde aus dem fränkischen Dietenhofen damit\, sämtliche musikalisch
- e Mauern und lästige Stilregeln genüsslich niederzureißen. Heute bewegt
-  sich die Truppe irgendwo zwischen Musikkabarett und Party-Abrisskommando.
-  Ob der augenzwinkernde Titel ihres neuesten Geniestreichs also Programm i
- st? Man darf es bezweifeln. Mittlerweile auf den großen Bühnen unterwegs
- \, kennen die vier Weltmänner aus Ostwestmittelfranken die Turbulenzen\, 
- die entstehen\, wenn man plötzlich wieder ins verschlafene Dorfidyll der 
- eigenen Jugend katapultiert und dort mit dem Gegenteil von Rock’n’Roll
-  konfrontiert wird. Denn immer wieder zieht es die weitgereisten Ausnahmek
- ünstler zurück zu ihren Wurzeln: nach Dietenhofen Rock City\, wo der Bus
-  nur zweimal am Tag hält und die Liebe noch in Hektar gemessen wird\, wo 
- der Sommer nach Spezi riecht und die vier Freunde sich wie Außerirdische 
- vorkommen\, obwohl es doch Heimat ist. Davon berichten die meisterhaften M
- usiker\, kauzigen Charakterköpfen und begnadeten Geschichtenerzähler in 
- ihrem neuen Programm genauso wie sie skurrile Einblicke ins große Kleinku
- nst-Showbiz gewähren. Es wird also wieder schräg\, hintersinnig und sehr
- \, sehr lustig ...\nPressestimmen: \nGanz großes Kino!  Münchner Merkur 
- \nExtrem lässig! Passauer Neue Presse \nAnarchisch\, verrückt\, brillant
- . Süddeutsche Zeitung \nEin kabarettistisches Spektakel der Extraklasse! 
- Augsburger Allgemeine \nHinreißend skurril und unterhaltsam aberwitzig. M
- ainpost \nZum Schießen komisch! Mittelbayerische Zeitung \nEinfach grandi
- os! Westdeutsche Zeitung \nEin einzigartiges Konzerterlebnis. Donaukurier 
- \nUnbedingt sehenswert! Mannheimer Morgen
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:43
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:SWAP KONZERTREIHE: FIONA GROND
-DTSTART;TZID=Europe/Berlin:20260924T220000
-DTEND;TZID=Europe/Berlin:20260924T233000
-DTSTAMP:20260919T220008Z
-UID:swap-konzertreihe-fiona-grond-20260924-2000@ifg-plattform.de
-DESCRIPTION:HEARTS WIDE OPEN\n\nEinlass: 19:30\n\nFiona Gronds Musik zeich
- net sich aus durch ihre zarten Töne\, durch die Räume zwischen den Noten
- \, aber auch durch Kontraste und Reibungen und dem Bruch von Erwartungen u
- nd Konventionen. Mit Hearts Wide Open wendet Fiona Grond nun ihr Innerstes
-  nach außen. Im hochkarätig besetzten Sextett präsentiert sie ein neues
-  Programm\, welches sich irgendwo zwischen Kammer-Jazz\, Avant-Pop und neu
- er Musik bewegt\, wo filigrane Kompositionen auf kollektive Improvisatione
- n und cineastische Klanglandschaften treffen. Dabei bleibt die Musik stets
-  feingliedrig\, transparent und offen. Es entstehen fragile Klangräume\, 
- die sich stetig verändern\, mal klar konturiert\, mal fließend und frei.
-  Gronds Stücke folgen einer natürlichen Logik\, die mehr dem Lauschen al
- s dem Behaupten verpflichtet ist.\nFiona Grond  (Vocals)\nTheresa Allgaier
-   (Violine)\nJuri Kannheiser (Cello)\nLuca Zambito (Klavier)\nRobert Lucac
- iu  (Kontrabass)\nSimon Popp  (Drums/Percussion)\n\nEINTRITT: PAY WHAT YOU
-  CAN\, SPENDENEMPFEHLUNG 15€\, ermäßigt 5€
-LOCATION:Städtische Galerie Harderbastei\, Oberer Graben 55\, 85049 Ingol
- stadt
-X-SCORE:18
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herbstvolksfest
 DTSTART;TZID=Europe/Berlin:20260925T160000
 DTEND;TZID=Europe/Berlin:20261005T015900
@@ -4739,5 +4652,60 @@ DESCRIPTION:Rückspiegel 2026\n\nEinlass: 18:00\n\nWer 2026 auf Langweile
  sem Welttheater nicht im Publikum sitzt\, ist selber schuld!
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winterzauber: Ballett-Geschichten im Kerzenschein mit live Kammero
+ rchester
+DTSTART;TZID=Europe/Berlin:20261223T200000
+DTEND;TZID=Europe/Berlin:20261223T220000
+DTSTAMP:20260919T220008Z
+UID:winterzauber-ballett-geschichten-im-kerzenschein-mit-live-kammerorches
+ ter-20261223-1900@ifg-plattform.de
+DESCRIPTION:Winterzauber\, der nur einmal im Jahr erlebbar ist\n\nEinlass:
+  18:00\n\nPROGRAMM des Winterzauber-Abends*:\n\n    Tschaikowsky – Nussk
+ nacker\, Pas de Deux – das Symbol für Weihnachten und die festlichste M
+ usik des Winters\n    Minkus – La Bayadère\, Begegnung von Nikiya und S
+ olor – eine Legende des orientalischen Ballettklassikers\n    Tschaikows
+ ky – Schwanensee\, Pas de Deux des Schwarzen Schwans (Odile und Prinz) 
+ – eines der dramatischsten und bekanntesten Duette in der Ballettgeschic
+ hte\n    Rimski-Korsakow – Scheherazade\, Adagio der Goldenen Sklavin 
+ – eine bezaubernde orientalische Geschichte auf der Bühne\n    Minkus 
+ – Don Quichotte\, Variation der Kitri – eine lebhafte und virtuose Kla
+ ssik\, erfüllt von spanischem Temperament\n    Adam – Le Corsaire\, Pas
+  de Deux – einer der beliebtesten Nummern der Weltbühne\, ein wahres Ju
+ wel des Galas\n    Asafjew – Die Flammen von Paris\, Pas de Deux – die
+  Energie und Leidenschaft des revolutionären Paris\n    Bizet – Carmen-
+ Suite\, Adagio „Meine Carmen“ – Musik der Leidenschaft und Freiheit\
+ , erkennbar von den ersten Akkorden an\n    Minkus – Don Quichotte\, Pas
+  de Deux (Akt III) – der Höhepunkt der Fröhlichkeit und tänzerischen 
+ Virtuosität\n    Minkus – Le Corsaire\, Coda – ein strahlender\, glan
+ zvoller Abschluss des Abends\n\n*Der Veranstalter behält sich das Recht v
+ or\, das Programm oder die Besetzung zu ändern. Diese Änderungen stellen
+  keinen Grund für eine Rückerstattung der Eintrittskarten dar.\n\n\nErle
+ ben Sie 2026 mit „Winterzauber: Ballettgeschichten im Kerzenschein“ ei
+ n festliches Gala-Ballett der Extraklasse! Begleitet von einem Kammerorche
+ ster und umgeben von tausenden flackernden LED-Kerzen tanzen international
+ e Solistinnen und Solisten die Highlights aus Klassikern wie Schwanensee\,
+  Nussknacker und Carmen.\n\nWas Sie bei unseren Abenden erwartet:\n– ber
+ ühmte Ausschnitte aus weltbekannten Balletten\,\n– die Atmosphäre eine
+ s Kammerkonzerts bei Hunderten von Kerzen\,\n– Live-Musik und die Nähe 
+ zu den Künstlern\, die man in großen Theatern selten spüren kann.\nDie 
+ Anzahl der Plätze ist immer begrenzt! Die Säle sind klein\, und die Tick
+ ets sind oft lange im Voraus ausverkauft.\n\nDE.Light Events ist ein Unter
+ nehmen\, das einzigartige kulturelle Projekte und Ballettproduktionen in g
+ anz Deutschland und Österreich realisiert. Wir schaffen nicht einfach Ver
+ anstaltungen\, sondern echte Emotionen und Kunstwerke. Unsere Liebe zum Ba
+ llett und zur klassischen Musik sowie unsere langjährige Erfahrung in der
+  Organisation kultureller Ereignisse in ganz Europa ermöglichen es uns\, 
+ höchste Professionalität\, kreative Herangehensweise und makellose Quali
+ tät zu vereinen.\n\nVerpassen Sie nicht die Chance\, sich und Ihren Liebe
+ n einen Abend voller Schönheit und Inspiration zu schenken. Wichtig zu be
+ achten: Die Anzahl der Plätze ist begrenzt\, die Säle sind klein und int
+ im\, und die Tickets werden oft im Voraus verkauft. Sichern Sie sich recht
+ zeitig Ihre Plätze!\n\n\nSichern Sie sich rechtzeitig Tickets in Ihrer St
+ adt für einen unvergesslichen Abend voller Magie\, Musik und Emotionen!\n
+ Platz reservieren
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:52
 END:VEVENT
 END:VCALENDAR
