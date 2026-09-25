@@ -2,144 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Herbstvolksfest
-DTSTART;TZID=Europe/Berlin:20260925T160000
-DTEND;TZID=Europe/Berlin:20261005T015900
-DTSTAMP:20260919T220008Z
-UID:herbstvolksfest-20260925-1400@ifg-plattform.de
-DESCRIPTION:Auf dem Festgelände erwarten das Publikum zweimal im Jahr zah
- lreiche Schaustellerinnen und Schausteller mit einer Mischung aus Neuheite
- n und beliebten Klassikern. Von aufregenden Fahrgeschäften bis hin zu bay
- erischer Gemütlichkeit und kulinarischen Highlights in den Festzelten ist
-  für jeden Geschmack etwas dabei. Ein abwechslungsreiches musikalisches P
- rogramm und ein vielfältiger Warenmarkt mit Angeboten von Haushaltswaren 
- bis Modeschmuck runden das Erlebnis für die Besucher*innen ab.
-LOCATION:Volksfestplatz\, Dreizehnerstraße\, 85049 Ingolstadt
-X-SCORE:16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Weißbierkarussell auf dem Herbstvolksfest Ingolstadt
-DTSTART;TZID=Europe/Berlin:20260925T170000
-DTEND;TZID=Europe/Berlin:20261005T015900
-DTSTAMP:20260919T220008Z
-UID:wei-bierkarussell-auf-dem-herbstvolksfest-ingolstadt-20260925-1500@ifg
- -plattform.de
-DESCRIPTION:10 Tage Weißbierkarussell\n10 Tage bestes Bier\n10 Tage beste
-  Stimmung\n\nAll das auf dem Herbstvolksfest.\nKommt vorbei und probiert u
- nsere Karussellweiße!
-LOCATION:Volksfestplatz\, Dreizehnerstraße\, 85049 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KLANGBILDER zwischen TIFLIS und INGOLSTADT
-DTSTART;TZID=Europe/Berlin:20260925T190000
-DTEND;TZID=Europe/Berlin:20260925T230000
-DTSTAMP:20260919T220009Z
-UID:klangbilder-zwischen-tiflis-und-ingolstadt-20260925-1900@ifg-plattform
- .de
-RRULE:FREQ=DAILY;UNTIL=20261004T215959Z;INTERVAL=1
-DESCRIPTION:Ausstellung im Kreuztor umrahmt von einem Kammermusik-Festival
- \n\nEinlass: 00:00\n\nZwischen Freitag\, 25. September 2026 und Sonntag\, 
- 4. Oktober 2026 findet im Kreuztor\, dem Wahrzeichen von Ingolstadt\, eine
-  Fotoausstellung über die Kammerphiharmonie Ingolstadt (ehemals: Georgisc
- hes Kammerorchester Ingolstadt) statt. Gezeigt werden offizielle Konzertfo
- tos\, aber auch Raritäten von Konzertreisen und Backstage-Fotos. Umrahmt 
- wird die Ausstellung von einem Kammermusik-Festival im Kreuztor mit sieben
-  Konzerten von ehemaligen und aktiven Orchestermitgliedern\; mit Beiträge
- n\, die die musikalische Vielfalt des Orchesters demonstrieren. Sieben Tag
- e Bilder und Musik\, ein Genuss für die Sinne.\nEintritt frei\; kostenfre
- ies Einlassticket für die Konzerte erforderlich\, da die Kapazität im Kr
- euztor begrenzt ist\, www.kreuztor.in
-LOCATION:Kreuztor\, Kreuzstraße\, 85049 Ingolstadt
-X-SCORE:36
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kammermusik-Festival: KLANGBILDER zwischen TIFLIS und INGOLSTADT -
-  GEORGISCHE MUSIK von u.a. ZINZADSE UND KANCHRLI
-DTSTART;TZID=Europe/Berlin:20260925T210000
-DTEND;TZID=Europe/Berlin:20260925T230000
-DTSTAMP:20260919T220008Z
-UID:kammermusik-festival-klangbilder-zwischen-tiflis-und-ingolstadt-georgi
- sche-musik-von-u-a-zinzadse-und-kanchrli-20260925-1900@ifg-plattform.de
-DESCRIPTION:Ausstellung im Kreuztor umrahmt von einem Kammermusik-Festival
- \n\nEinlass: 00:00\n\nZwischen Freitag\, 25. September 2026 und Sonntag\, 
- 4. Oktober 2026 findet im Kreuztor\, dem Wahrzeichen von Ingolstadt\, eine
-  Fotoausstellung über die Kammerphiharmonie Ingolstadt (ehemals: Georgisc
- hes Kammerorchester Ingolstadt) statt. Gezeigt werden offizielle Konzertfo
- tos\, aber auch Raritäten von Konzertreisen und Backstage-Fotos. Umrahmt 
- wird die Ausstellung von einem Kammermusik-Festival im Kreuztor mit sieben
-  Konzerten von ehemaligen und aktiven Orchestermitgliedern\; mit Beiträge
- n\, die die musikalische Vielfalt des Orchesters demonstrieren. Sieben Tag
- e Bilder und Musik\, ein Genuss für die Sinne.\nEintritt frei\n\n18 Uhr E
- röffnung der Ausstellung durch Kulturreferent Marc Grandmontagne\n\n19 Uh
- r Konzert\n\nGEORGISCHE MUSIK von u.a.\nZINZADSE UND KANCHELI\nAna Rapsch\
- , Violine\nLevan Kurashvili\, Violine\nSergo Kurashvili\, Viola\nNikoloz S
- hamugia\, Violoncello\nDimitri Gagulidze\, Kontrabass
-LOCATION:Kreuztor\, Kreuzstraße\, 85049 Ingolstadt
-X-SCORE:41
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:ŞAKA GİBİ | Ingolstadt
-DTSTART;TZID=Europe/Berlin:20260925T220000
-DTEND;TZID=Europe/Berlin:20260926T000000
-DTSTAMP:20260919T220008Z
-UID:aka-gi-bi-ingolstadt-20260925-2000@ifg-plattform.de
-DESCRIPTION:Türkisch Stand-Up Show\n\nEinlass: 19:30\n\n🎭 Mustafa Sar
- ıtaş\, gösterisinde başına gelen en olmadık hikayeleri sitem ve şik
- ayet etmeden anlatıyor. Tercihli gurbet ile zorunlu gurbet arasındaki fa
- rkı ince bir işçilikle izleyicilere izah ediyor. Türkiye'den Almanya'y
- a uzanan bu absürt serüvene seyirci kalmayın. Ama seyirci olun. 🙂
-LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
-X-SCORE:20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:20 Jahre g´scheiterhaufen - RollenrauschStr. 21 - ein Haus viele 
- Geschichten - mit Rollenrausch aus Nürnberg
-DTSTART;TZID=Europe/Berlin:20260925T220000
-DTEND;TZID=Europe/Berlin:20260926T000000
-DTSTAMP:20260919T220008Z
-UID:20-jahre-g-scheiterhaufen-rollenrauschstr-21-ein-haus-viele-geschichte
- n-mit-rollenrausch-aus-n-rnberg-20260925-2000@ifg-plattform.de
-DESCRIPTION:20 Jahre g’scheiterhaufen theater e.V. – Wir feiern Impro 
- mit Freunden!\n\nZwei Jahrzehnte Impro-Faszination! Seit 20 Jahren bringt 
- das g’scheiterhaufen theater e.V. aus Ingolstadt spannende Geschichten\,
-  überraschende Wendungen und kreative Unterhaltung auf die Bühne. Aus ei
- ner kleinen Idee wurde ein lebendiges Ensemble\, das die Region mit facett
- enreichem Improtheater bereichert – mal nachdenklich\, mal poetisch\, ma
- l wild und schräg.\n\nImpro ist vielseitig – ein Spiel mit Emotionen\, 
- Ideen und Momenten. Genau diese Facetten des Improtheaters wollen wir in u
- nserem Jubiläumsjahr gemeinsam mit großartigen Gästen aus Süddeutschla
- nd zeigen.\n\nIm September freuen wir uns auf unsere Gäste aus Nürnberg\
- , Rollenrausch\, mit ihrem spannenden Format „RollenrauschStr. 23“! Hi
- er wechseln die Spielerinnen zwischen den verschiedenen Stockwerken eines 
- Hauses und improvisieren Szenen\, die sich zu einer überraschenden\, zusa
- mmenhängenden Geschichte verweben. In der zweiten Halbzeit geht es weiter
-  mit kurzen Szenen\, die das Publikum aktiv einbeziehen. Und wie immer spi
- elt Musik eine große Rolle: Sie begleitet\, verstärkt und verbindet Szen
- en\, Songs und Momente zu einem einzigartigen Abend. Am Ende gehen die Zus
- chauerinnen garantiert gut unterhalten und mit einem Lächeln nach Hause.
-LOCATION:diagonal\, Kreuzstraße 12\, 85049 Ingolstadt\, Amadeus goes Diag
- onal
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Elektronisches KAP
-DTSTART;TZID=Europe/Berlin:20260925T220000
-DTEND;TZID=Europe/Berlin:20260926T015900
-DTSTAMP:20260919T220008Z
-UID:elektronisches-kap-20260925-2000@ifg-plattform.de
-DESCRIPTION:Die Zweite\n\nEinlass: 20:00\n\nBeginn 20:00 Uhr\; AK 15\,- 
- €\n\nAm 25.09.2026 drehen wir die Regler auf Anschlag. Bereit für eine 
- Nacht voller elektronischer Ekstase?\nVon treibenden Beats bis zu emotiona
- len Techno-Hymnen: Wir kreieren einen Safe Space voller Liebe\, Tanz und u
- nvergesslicher Momente.\nLass uns zusammen die Nacht durchtanzen und den S
- onnenaufgang begrüßen.\n\nLINE-UP:\n\nChristoph Grünwald\nFlusstreibwer
- k\nNikolas Gagarin\nAlex Gut b2b Saibot\nLasst uns die Festungsmauern zusa
- mmen zum Beben bringen.
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:IN.KRAFT  ERLEBNISTAG VON FRAUEN FÜR FRAUEN
 DTSTART;TZID=Europe/Berlin:20260926T093000
 DTEND;TZID=Europe/Berlin:20260926T210000
@@ -4707,5 +4569,40 @@ DESCRIPTION:Winterzauber\, der nur einmal im Jahr erlebbar ist\n\nEinlass:
  Platz reservieren
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:52
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Heiligabend in Gemeinschaft feiern
+DTSTART;TZID=Europe/Berlin:20261224T173000
+DTEND;TZID=Europe/Berlin:20261224T213000
+DTSTAMP:20260919T220008Z
+UID:heiligabend-in-gemeinschaft-feiern-20261224-1630@ifg-plattform.de
+DESCRIPTION:Es ist ein großartiges ökumenisches Projekt\, das heuer bere
+ its zum dritten Mal in der "Halle Neun" stattfinden wird: "Heiligabend in 
+ Gemeinschaft feiern." Auch in den vergangenen Jahren waren die Gemeinde St
+ . Markus schon daran beteiligt: als Mitveranstalter auf struktureller Eben
+ e\, durch mehrere Helfer zudem ganz praktisch. In diesem Jahr ist St. Mark
+ us nun Veranstalter dieses besonderen Projekts\, in Kooperation mit mehrer
+ en anderen Gemeinden.\nAn Weihnachten sollte niemand allein sein. Deshalb 
+ sind alle eingeladen\, Heiligabend zusammen zu verbringen mit Punsch\, ein
+ em festlichen Abendessen\, einer kleinen Weihnachtsandacht und gemeinsamem
+  Singen. Aus vielen Einzelnen wird so eine Gemeinschaft: eine Heiligabendg
+ emeinschaft\, die zusammen isst und trinkt\, sich fröhlich unterhält\, s
+ ingt und die Weihnachtsbotschaft hört.  \nWir wollen zum dritten Mal in d
+ er Halle neun gemeinsam Heiligabend feiern – und laden herzlich dazu ein
+ \, auch zur Mitarbeit. \n\n\nDie Vorbereitungsabende werden in den Gemeind
+ eräumen der Markusgemeinde stattfinden - und schon heute laden wir dazu e
+ in\, daran teilzunehmen und dann an Heiligabend als Gastgeber mit dabei zu
+  sein! Am 15. Oktober und 3. Dezember\, jeweils 19.30 Uhr\, wird das beson
+ dere Projekt mit den verschiedenen Möglichkeiten zur Mitarbeit näher vor
+ gestellt. An Heiligabend selbst dauert die Veranstaltung dann\, wie gewohn
+ t\, von 16.30 bis 20.30 Uhr - Auf- und Abbau finden naturgemäß davor und
+  danach statt. Wir freuen uns sehr auf diesen besonderen Heiligen Abend\, 
+ der inmitten aller Einsamkeit unserer Zeit Menschen beschenken wird: die G
+ äste und die Helfer!\nZum Vormerken schon die genauen Uhrzeiten für Heil
+ igabend selbst:\nAufbau ab 10 Uhr\nAbbau bis 22 Uhr\nMitarbeit in einzelne
+ n Schichten möglich: 10-12\, 15:30-20:30\, 20-22\nDer Eintritt ist frei\,
+  eine Anmeldung ist nicht erforderlich.
+LOCATION:Halle 9\, Elisabethstraße 69\, 85051 Ingolstadt
+X-SCORE:11
 END:VEVENT
 END:VCALENDAR
