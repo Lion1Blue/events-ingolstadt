@@ -2,156 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:IN.KRAFT  ERLEBNISTAG VON FRAUEN FÜR FRAUEN
-DTSTART;TZID=Europe/Berlin:20260926T093000
-DTEND;TZID=Europe/Berlin:20260926T210000
-DTSTAMP:20260919T220009Z
-UID:in-kraft-erlebnistag-von-frauen-f-r-frauen-20260926-0930@ifg-plattform
- .de
-RRULE:FREQ=DAILY;UNTIL=20260926T215959Z;INTERVAL=1
-DESCRIPTION:Die erste Erlebnistag von Frauen für Frauen in der Region Ing
- olstadt\, 14 Workshops und 7 Bühnen-Impulsen\, Speaker\n\nEinlass: 08:45\
- n\nIN.KRAFT – Erlebnistag von Frauen für Frauen\n\nIN.KRAFT ist die ers
- te  Erlebnistag  von Frauen für Frauen in der Region Ingolstadt – ein T
- ag\, an dem du dich wiederfindest.\n\nAm 26.09.2026 öffnen sich in Halle 
- 9 und im Trendsportzentrum die Türen zu einem Tag\, wie es ihn hier noch 
- nie gab. Kein Vorbeilaufen an Ständen\, sondern wirklich ankommen: bei di
- r selbst\, bei Frauen\, die dich verstehen\, bei Angeboten\, die du sonst 
- nie entdeckt hättest.\n\n14 Workshops zum Mitmachen\, 7 Bühnen-Impulse\,
-  2 Keynote-Speakerin\, echte Gespräche statt Flyer in die Hand gedrückt 
- bekommen.\n\nGönn dir diesen Tag. Nicht als Ausgabe\, sondern als Investi
- tion in dich selbst.\n\n🎁 Nur bis Montag\, 24:00 Uhr: Wer bis dahin sei
- n Ticket sichert\, bekommt automatisch einen Gutschein von einem unserer S
- ponsoren dazu.\n\n👉 Jetzt Ticket sichern – Plätze und Workshops sind
-  begrenzt.\n\nIch hab den ursprünglichen Text größtenteils erhalten (de
- r Stil passt gut zu euch)\, nur am Ende die Aktion mit Frist und einen deu
- tlicheren Kauf-Button-Satz ergänzt\, statt es nur beschreibend enden zu l
- assen.\nIN.KRAFT ist die erste Erlebnistag von Frauen für Frauen in der R
- egion Ingolstadt – ein Tag\, an dem du dich wiederfindest.\n\nAm 26.09.2
- 026 öffnen sich in Kulturzentrum Neun und im Trendsportzentrum die Türen
-  zu einem Tag\, wie es ihn hier noch nie gab. \n\nKein Vorbeilaufen an St
- änden\, sondern wirklich ankommen: bei dir selbst\, bei Frauen\, die dich
-  verstehen\, bei Angeboten\, die du sonst nie entdeckt hättest. \n\n14 Wo
- rkshops zum Mitmachen\, Bühnen-Impulse\, eine Keynote-Speakerin\, echte G
- espräche statt Flyer in die Hand gedrückt bekommen.\n\nGönn dir diesen 
- Tag. Nicht als Ausgabe\, sondern als Investition in dich selbst. \n\n🎁 
- Zusätzliches Gewinnspiel bis Montag\, 24:00 Uhr!\n\nWer bis dahin sein Ti
- cket sichert\, nimmt automatisch an der Verlosung von zwei besonderen Guts
- cheinen teil:\n\nEin Gutschein im Wert von über 100 € für eine ganzhei
- tliche Gesichtsbehandlung (manuelles Sculptural Face Lifting)\nEin Gutsche
- in von Xavier Mayer in Ingolstadt\n\n👉 Jetzt Ticket sichern und die Cha
- nce auf einen der beiden Gutscheine nutzen. \nhttps://inkraftmesse.netlify
- .app/#tickets
-LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
-X-SCORE:11
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Programmieren und Robotik entdecken
-DTSTART;TZID=Europe/Berlin:20260926T120000
-DTEND;TZID=Europe/Berlin:20260926T143000
-DTSTAMP:20260919T220008Z
-UID:programmieren-und-robotik-entdecken-20260926-1000@ifg-plattform.de
-DESCRIPTION:Alle Kinder im Alter von 9 bis zu 11 Jahren sind herzlich eing
- eladen\, im Bürgerhaus Neuburger Kasten die spannende Welt der Technik un
- d des Programmierens zu entdecken - ganz spielerisch mit einer grafischen 
- Benutzeroberfläche. Schritt für Schritt werden die jungen Teilnehmerinne
- n und Teilnehmer einen Modell-Roboter zum Leben erwecken. Er reagiert auf 
- Taster und Bewegungen\, zeigt Nachrichten auf einem Display an und setzt s
- ogar einen Motor in Bewegung. Dabei lernen die Kinder\, logisch zu denken\
- , kreativ zu tüfteln und eigene Ideen umzusetzen – ganz ohne Vorkenntni
- sse. Der Kurs wird altersgerecht\, verständlich und mit viel Spaß durchg
- eführt und fördert wichtige Zukunftskompetenzen. Programmieren lernen\, 
- Technik verstehen und stolz auf das eigene Werk sein!\nDamit viele Kinder 
- in kleinen Gruppen teilnehmen können\, wird der Kurs inhaltsgleich an meh
- reren Samstagen angeboten. Im Juli sind dies der 11. und 18.07. und im Her
- bst der 26.09.\, der 10. und 24.10. sowie der 07. und 21.11. \nEine Anmeld
- ung für sämtliche Kurse ist unter www.kidnetting.de möglich. Die Kosten
-  pro Termin liegen bei 6 Euro.
-LOCATION:Bürgerhaus Neuburger Kasten\, Fechtgasse 6\, 85049 Ingolstadt
-X-SCORE:200
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Schwendner Klaus &amp\; Weiss Leonore - Was bleibt. Was zählt.
-DTSTART;TZID=Europe/Berlin:20260926T120000
-DTEND;TZID=Europe/Berlin:20260926T200000
-DTSTAMP:20260919T220008Z
-UID:schwendner-klaus-amp-weiss-leonore-was-bleibt-was-z-hlt-20260926-1200@
- ifg-plattform.de
-RRULE:FREQ=WEEKLY;UNTIL=20261018T215959Z;INTERVAL=1;BYDAY=SU,SA,TH,FR
-DESCRIPTION:Ausstellungsreihe "Kunststücke"\n\nBildhauerei / Arbeiten auf
-  Leinwand und Papier. \nVergänglichkeit und Erinnerung\, Präsenz und Geg
- enwart. Die Bilder von Leonore Weiss treten mit den Skulpturen von Klaus S
- chwendner in Dialog.\n------------------------------\nVernissage: 26.09. 1
- 9:00 Uhr\n------------------------------\nÖffnungszeiten: \nDo\, Fr: 14 -
- 18 Uhr\nSa\, So\, Feiertag: 12-18 Uhr\n------------------------------\nEin
- tritt frei. Um eine Spende von 3 € wird gebeten.
-LOCATION:Städtische Galerie Harderbastei\, Oberer Graben 55\, 85049 Ingol
- stadt
-X-SCORE:20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Letzte Open Air Party 2026 im Schutterhof\, Ingolstadt
-DTSTART;TZID=Europe/Berlin:20260926T210000
-DTEND;TZID=Europe/Berlin:20260927T020000
-DTSTAMP:20260919T220008Z
-UID:letzte-open-air-party-2026-im-schutterhof-ingolstadt-20260926-1900@ifg
- -plattform.de
-DESCRIPTION:Einlass: 19:00\n\n2025 war es Ende September noch bombastisch 
- warm\, darum legen wir heuer noch einen drauf und feiern ein letztes Mal d
- as Open-Air-Feeling im Schutterhof\, Ingolstadt\, direkt beim Kreuztor. Be
- ginn ist am Sa.\, 26.09.26 um 19 Uhr und es geht in die Nacht. Tickets gib
- t es ab 19 Uhr vor Ort oder im VVK. Wer danach noch feiern\, will\, einfac
- h in die City\, 2 Minuten entfernt. Das ist definitiv die letzte Open Air 
- 2026 im Schutterhof\, also: Dabei sein!\n\nPS: Nach 24 Uhr geht es weiter 
- im Eiskeller\, gleich ums Eck. Mit deinem Band vom Schutterhof bekommst du
-  freien Eintritt in den Eiskeller!
-LOCATION:Schutterhof\, Friedhofstraße 1a\, 85049 Ingolstadt
-X-SCORE:11
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kammermusik-Festival: KLANGBILDER zwischen TIFLIS und INGOLSTADT -
-  VIOLIN-DUO
-DTSTART;TZID=Europe/Berlin:20260926T210000
-DTEND;TZID=Europe/Berlin:20260926T230000
-DTSTAMP:20260919T220008Z
-UID:kammermusik-festival-klangbilder-zwischen-tiflis-und-ingolstadt-violin
- -duo-20260926-1900@ifg-plattform.de
-DESCRIPTION:Ausstellung im Kreuztor umrahmt von einem Kammermusik-Festival
- \n\nEinlass: 00:00\n\nZwischen Freitag\, 25. September 2026 und Sonntag\, 
- 4. Oktober 2026 findet im Kreuztor\, dem Wahrzeichen von Ingolstadt\, eine
-  Fotoausstellung über die Kammerphiharmonie Ingolstadt (ehemals: Georgisc
- hes Kammerorchester Ingolstadt) statt. Gezeigt werden offizielle Konzertfo
- tos\, aber auch Raritäten von Konzertreisen und Backstage-Fotos. Umrahmt 
- wird die Ausstellung von einem Kammermusik-Festival im Kreuztor mit sieben
-  Konzerten von ehemaligen und aktiven Orchestermitgliedern\; mit Beiträge
- n\, die die musikalische Vielfalt des Orchesters demonstrieren. Sieben Tag
- e Bilder und Musik\, ein Genuss für die Sinne.\nEintritt frei\; kostenfre
- ies Einlassticket erforderlich\, da die Kapazität im Kreuztor begrenzt is
- t.\n\nVIOLIN-DUO\nRaluca-Diana Badescu\, Violine\nChristian Roibu\, Violin
- e
-LOCATION:Kreuztor\, Kreuzstraße\, 85049 Ingolstadt
-X-SCORE:36
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:MAMAGEHTTANZEN
-DTSTART;TZID=Europe/Berlin:20260926T213000
-DTEND;TZID=Europe/Berlin:20260927T010000
-DTSTAMP:20260919T220008Z
-UID:mamagehttanzen-20260926-1930@ifg-plattform.de
-DESCRIPTION:Die erfolgreiche Partyreihe für Mütter\n\nEinlass: 19:00\n\n
- MAMAGEHTTANZEN\,  DAS ORIGINAL in INGOLSTADT! \n\nMAMAGEHTTANZEN  is
- t eine 'after care party' von Mamas für Mamas. Endlich mal wieder tanzen 
- gehen\, ohne am nächsten Tag todmüde zu sein. Deshalb startet unsere P
- arty um 20 Uhr und endet um 23 Uhr.  180 Minuten tanzen\, Me-Time und "f
- eiern wie früher". Glücklich und Erfüllt wirst Du mit Deinen Freundin
- nen nach diesen 180 Minuten die Tanzfläche verlassen und am nächsten Mor
- gen topfit in den Tag starten. Die Musik wird gemischt sein und auf UNS 
- eingehen!  WIR werden unter uns bleiben... also eine vollständige 'safe
-  space' Komfortzone nur für Frauen.
-LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:19
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Radtour zum Apfelfest im Canisiushof
 DTSTART;TZID=Europe/Berlin:20260927T120000
 DTEND;TZID=Europe/Berlin:20260927T190000
@@ -4604,5 +4454,29 @@ DESCRIPTION:Es ist ein großartiges ökumenisches Projekt\, das heuer bere
   eine Anmeldung ist nicht erforderlich.
 LOCATION:Halle 9\, Elisabethstraße 69\, 85051 Ingolstadt
 X-SCORE:11
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Größte Singleparty der Region
+DTSTART;TZID=Europe/Berlin:20261225T220000
+DTEND;TZID=Europe/Berlin:20261226T005900
+DTSTAMP:20260919T220009Z
+UID:gr-te-singleparty-der-region-20261225-2100@ifg-plattform.de
+DESCRIPTION:Herbst/Winter 2026\n\nEinlass: 21:00\n\nEs ist wieder soweit: 
+ Die größte SINGLE PARTY der Region macht Station in Ingolstadt\, am 1. W
+ eihnachtstag\, den 25.12.2026. Hier treffen sich jung und jung gebliebene\
+ , die Kontakt suchen. Top Party-DJs lassen mit Charts\, Evergreens und gut
+ er Laune bei der SINGLE-PARTY schnell eine herzliche Stimmung aufkommen\, 
+ die anfängliche Berührungsängste und Vorbehalte vergessen lässt. Numme
+ rierte Herzen sind die Adresse für die „Liebespost“ im Liebespostamt.
+  Eine große Leinwand zeigt die Nummer des Wunschpartners\, der dort den B
+ rief abholt. Zusätzlich überreichen zwei Liebesengel Briefe an die Wunsc
+ hpartner vor Ort. Auch stehen zwei Flirtbäume bereit\, an die jeder Besuc
+ her eine Botschaft mit seiner Nummer hängen kann. Interessierte haben som
+ it gleich ein Einstiegsthema. Natürlich ist Party\, Flirt und Spaß von 2
+ 1 Uhr bis in die frühen Morgenstunden angesagt und das in der eventhalle 
+ am Westpark\, die dafür eine perfekte Kulisse bietet. Unbedingt dabei sei
+ n – auch für Nicht-Singles empfehlenswert!
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:19
 END:VEVENT
 END:VCALENDAR
