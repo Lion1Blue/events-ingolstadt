@@ -2,150 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Radtour zum Apfelfest im Canisiushof
-DTSTART;TZID=Europe/Berlin:20260927T120000
-DTEND;TZID=Europe/Berlin:20260927T190000
-DTSTAMP:20260919T220008Z
-UID:radtour-zum-apfelfest-im-canisiushof-20260927-1000@ifg-plattform.de
-DESCRIPTION:Einlass: 10:00\n\nDer ADFC Ingolstadt lädt zu einer Radtour e
- in. \nDer Canisiushof zwischen Demling und Kasing ist ein regional bekannt
- er Bio-Erzeuger mit dem Schwerpunkt auf dem Anbau von Tafeläpfeln. Das j
- ährlich am letzten Sonntag im September stattfindende Apfelfest bietet ne
- ben der Möglichkeit der Hofbesichtigung auch einen kleinen Bauernmarkt. E
- in Erlebnis für die ganze Familie.\nAnfahrt über den Schambachtalbahnrad
- weg\, Rückfahrt über den Radwanderweg nach Bettbrunn und den Köschinger
-  Forst. Familien und Bio-Bike-Radfahrende können auch über den Schambach
- talbahnradweg zurückfahren\, da die Radtour über Bettbrunn einige Steigu
- ngen aufweist.\nBio-Bike-Tour: Die Radtour ist besonders auf die Bedürfni
- sse von Bio-Radler*innen abgestimmt\, die Ihre Touren ohne elektrische Unt
- erstützung unternehmen. Radler*innen mit Pedelec sind herzlich willkommen
- \, müssen sich aber an Tempo und Kondition der Bio-Radler*innen orientier
- en.\nAnmeldung erwünscht\, aber nicht erforderlich.
-LOCATION:Radhaus\, Bei der Arena 7\, 85053 Ingolstadt
-X-SCORE:21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Insectophobie Riesenspinnen &amp\; Insekten Ausstellung
-DTSTART;TZID=Europe/Berlin:20260927T130000
-DTEND;TZID=Europe/Berlin:20260927T200000
-DTSTAMP:20260919T220009Z
-UID:insectophobie-riesenspinnen-amp-insekten-ausstellung-20260927-1100@ifg
- -plattform.de
-DESCRIPTION:Das Original mit über 500 Exemplaren\n\nEinlass: 11:00\n\nDas
-  Original Insectophobie\nLebende Riesenspinnen und Insekten Ausstellung\nM
- it dabei die größten Vogelspinnen der Welt und Über 500 Exemplaren\n\n1
- . Die größten Vogelspinnen der Welt !\n2. Mit Über 500 Exemplaren die g
- rößte und Artenreichste Spinnen &amp\; Insekten Ausstellung in Deutschla
- nd\n3. In speziell gestalteten Lebensräumen erfahren Besucher alles über
-  Lebensweise\, Verhalten und spannende Fakten zu Spinnen\, Skorpionen\, Ri
- esentausendfüßlern und seltenen Insektenarten.\n\n\nErfahren und erleben
-  Sie die Faszination ungewöhnlicher Ureinwohner unserer Erde und tauchen 
- Sie ein in eine Lehrreiche Tierwelt mit dem Ziel\, Ihnen Grundkenntnisse b
- etreffend der Insekten Welt zu vermitteln\, um so nach und nach Ihnen Ihre
-  Angst und Ekel vor diesen Tieren zu nehmen.\n\nWie viele Spinnentiere es 
- auf der Erde gibt\, weiß niemand genau.\nDie ersten Spinnen waren schon v
- or 300 Millionen Jahren Bewohner der Erde.\n\nWir präsentiert Ihnen eine 
- lehrreiche Ausstellung mit lebenden Tieren aus allen Kontinenten\, um eine
- n Einblick in das Leben und Verhalten von Spinnenarten\, verschiedenen Sko
- rpionen\, Riesentausendfüßlern und seltenen Insekten wie Käfer \,Gottes
- anbeterinnen\, Wandelnde Blätter oder Gespenstheuschrecken im Großformat
-  zu bekommen !\nAuf einer Fläche von mehreren hundert qm (je nach Halleng
- röße) werden exotische Spinnen und Insekten aus aller Welt in eigens hie
- rfür gestalteten Lebensräumen vorgestellt . Die attraktiv eingerichteten
-  Terrarien und eine passende Soundkulisse schaffen dabei eine besondere At
- mosphäre. Diese soll gerade ängstlicheren Menschen helfen sich den verka
- nnten Insassen zu nähern und sie nicht als bösartige Kreaturen zu sehen.
-  Die detaillierten Beschreibungen von Lebensräumen\, Lebensgewohnheiten u
- nd Beute jedes einzelnen Tieres runden den Besuch der Ausstellung zu einer
-  kleinen Bildungsreise ins Reich der Gliederfüßer ab.
-LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
-X-SCORE:19
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Donau-Stadt Ingolstadt
-DTSTART;TZID=Europe/Berlin:20260927T153000
-DTEND;TZID=Europe/Berlin:20260927T180000
-DTSTAMP:20260919T220008Z
-UID:donau-stadt-ingolstadt-20260927-1330@ifg-plattform.de
-DESCRIPTION:Raus aus der Stadt\, rein in die Natur\n\nEinlass: 13:30\n\nEr
- leben Sie Natur pur entlang der Donau auf dem Weg vom KAP94\, der Kunst un
- d Kultur Werkstatt\, bis zur Ingolstädter Staustufe und zurück: erstaunl
- iche Flora und Fauna in unmittelbarer Altstadtnähe\, Geschichte und Verla
- uf der Donau damals und heute\, die große Bedeutung der Donau-Auen und de
- ren Zukunft.\nBeeindruckende Bauten der ehemaligen Bayerischen Landesfestu
- ng bilden dabei eine einzigartige Verbindung zur Stadtgeschichte. Werfen S
- ie einen Blick auf die “Vogelinsel”\, auf den neu entstandenen Donau-L
- oop\, in das kleinste Museum Ingolstadts und natürlich über die wundersc
- höne Donau!\nWährend der Führung sind mehrere Pausen eingeplant.\nStr
- ecke: ca. 4 km\nDas Ticket gilt ggf. automatisch für einen kurzfristig an
- beraumten Ersatztermin\, sollte das Wetter zu schlecht sein.
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:33
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kombiführung Lechner Museum und Skulpturenpark
-DTSTART;TZID=Europe/Berlin:20260927T160000
-DTEND;TZID=Europe/Berlin:20260927T190000
-DTSTAMP:20260919T220008Z
-UID:kombif-hrung-lechner-museum-und-skulpturenpark-20260927-1400@ifg-platt
- form.de
-DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
- nEinlass: 13:45\n\nEntdecken Sie das Lechner Museum und den Skulpturenpark
-  Obereichstätt auf einer Kombi-Führung\, die jeden letzten Sonntag im Mo
- nat stattfindet. Erleben Sie so Kunst und Natur in einer malerischen Umgeb
- ung und lassen Sie sich von fachkundigen Expert*innen durch die jeweiligen
-  Ausstellungen führen. \n‍\nFür die öffentlichen Kombi-Führungen ist
-  keine Anmeldung erforderlich. Treffpunkt und Beginn ist am Museum in Ingo
- lstadt. Insgesamt dauert die Veranstaltung ca. 3 Stunden. \nBitte beachten
-  Sie\, dass der Transfer vom Museum zum Skulpturenpark in Obereichstätt e
- igenverantwortlich stattfindet und eine Fahrtzeit von ca. 30-35 Minuten mi
- t dem PKW beträgt.\n‍\nEine Anreise mit öffentlichen Verkehrsmitteln i
- st leider nicht möglich.\n‍\nKommen Sie vorbei und lassen Sie sich von 
- der Kunst und der Natur begeistern!
-LOCATION:Lechner Museum\, Esplanade 9\, 85049 Ingolstadt
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die Farbe ROT im Museum
-DTSTART;TZID=Europe/Berlin:20260927T163000
-DTEND;TZID=Europe/Berlin:20260927T180000
-DTSTAMP:20260919T220008Z
-UID:die-farbe-rot-im-museum-20260927-1430@ifg-plattform.de
-DESCRIPTION:Führung im Neuen Schloss\n\nROT gilt als die emotionale Farbe
-  schlechthin. Sie steht für starke Gefühle und wird daher oft im Zusamme
- nhang mit Protest und Gefahrenwarnung gebraucht.\nIm Bayerischen Polizeimu
- seum finden wir viele Objekte\, bei denen die Farbe ROT im historischen Ko
- ntext zu verorten ist. \nAuf einer Zeitreise von 1918 bis heute erleben w
- ir diese starke Farbe in verschiedenen Facetten und können uns Gedanken 
- über deren Wirkung machen. \n\nDie Führung ist kostenlos. Es ist nur de
- r Museumseintritt zu entrichten.
-LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonntags?Kunst!
-DTSTART;TZID=Europe/Berlin:20260927T170000
-DTEND;TZID=Europe/Berlin:20260927T190000
-DTSTAMP:20260919T220008Z
-UID:sonntags-kunst-20260927-1500@ifg-plattform.de
-DESCRIPTION:Pastell Workshop mit Marija vom malemal e.v.\n\nEinlass: 14:45
- \n\nIn entspannter Atmosphäre gestalten die Teilnehmenden individuelle Pa
- stellbilder und lassen sich dabei intuitiv von den leuchtenden Farben insp
- irieren. Nach einer kurzen Einführung beginnt direkt die Experimentierpha
- se.\n\nDie weichen Pastellkreiden zeichnen sich durch ihre hohe Leuchtkraf
- t aus und lassen sich besonders leicht verreiben. Sanfte\, harmonische Far
- bübergänge entstehen\, indem die Pigmente mit den Fingern oder Wattepads
-  über das Papier gestrichen werden. Gleichzeitig ermöglichen die Kanten 
- der Pastellkreiden auch lineare und zeichnerische Elemente.\n\nVorkenntnis
- se sind nicht erforderlich.\n\nMaterialien sind vor Ort vorhanden. Die Auf
- sichtspflicht für die teilnehmenden Kinder liegt bei den Eltern.\n\nDas F
- ormat „Sonntags? Kunst!“ wird durch Audi ArtExperience ermöglicht. F
- ür diese freundliche Unterstützung bedankt sich das MKK herzlich.
-LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
- adt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kammermusik-Festival: KLANGBILDER zwischen TIFLIS und INGOLSTADT -
   STREICHERENSEMBLE ehemalige Mitglieder der Kammerphilharmonie Ingolstadt 
   GKO Ingolstadt
@@ -4478,5 +4334,44 @@ DESCRIPTION:Herbst/Winter 2026\n\nEinlass: 21:00\n\nEs ist wieder soweit:
  n – auch für Nicht-Singles empfehlenswert!
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:19
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BACH TOTAL (2)
+DTSTART;TZID=Europe/Berlin:20261226T190000
+DTEND;TZID=Europe/Berlin:20261226T200000
+DTSTAMP:20260919T220008Z
+UID:bach-total-2-20261226-1800@ifg-plattform.de
+DESCRIPTION:Das gesamte Orgelwerk Johann Sebastian  Bachs in 16 Konzerten 
+ (02/16)\n\nEinlass: 17:00\n\nOliver Scheffels interpretiert in 16 Konzerte
+ n das gesamte Orgelwerk Johann Sebastian Bachs. In der festlich beleuchtet
+ en Matthäuskirche erklingen Präludien\, Fugen\, Concerti und Choralbearb
+ eitungen zu Weihnachten.\n\nKMD Oliver Scheffels I Orgel\n\nEintritt frei!
+LOCATION:Matthäuskirche\, Schrannenstraße 11\, 85049 Ingolstadt
+X-SCORE:12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Kuschelparty Ingolstadt Weihnachten
+DTSTART;TZID=Europe/Berlin:20261226T190000
+DTEND;TZID=Europe/Berlin:20261226T230000
+DTSTAMP:20260919T220008Z
+UID:kuschelparty-ingolstadt-weihnachten-20261226-1800@ifg-plattform.de
+DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
+ hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
+ ass: 18:00\n\nACHTUNG: Teilnahme nur mit online gekauften Ticket möglich!
+ \n\nIn unseren Kuschelpartys in Ingolstadt öffnen wir einen Raum\, in dem
+  du Geborgenheit und Wärme findest und den Mut entwickelst\, deinem Inner
+ en und anderen Menschen ehrlich zu begegnen. Hier kannst du Nähe und Dist
+ anz bewusst erfahren\, deine Grenzen spüren und achten. Worte treten in d
+ en Hintergrund\, während Vertrauen wächst und achtsame Begegnungen mit n
+ euen Menschen dich bereichern.\n\nStärke dein inneres Wohlbefinden\, lass
+  los und entspanne dich – dieser Raum ist Balsam für Körper und Seele\
+ , ein Zuhause für Lachen\, Tränen\, Stille und ganz besonders für dich.
+  Wir glauben fest daran\, dass liebevolle Berührungen uns alle bereichern
+ .\n\nDeshalb bringen unsere Kuschelpartys in Ingolstadt Menschen jeden Alt
+ ers (von 18 bis 99 Jahre) und mit unterschiedlichsten Lebenserfahrungen zu
+ sammen. Wir öffnen unsere Türen für jede*n – Singles und Paare sind g
+ leichermaßen willkommen\, diese nährende Erfahrung zu teilen.
+LOCATION:Soul Studio\, Am Stein 8\, 85049 Ingolstadt
+X-SCORE:16
 END:VEVENT
 END:VCALENDAR
