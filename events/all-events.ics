@@ -3,35 +3,6 @@ VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
 SUMMARY:Kammermusik-Festival: KLANGBILDER zwischen TIFLIS und INGOLSTADT -
-  STREICHERENSEMBLE ehemalige Mitglieder der Kammerphilharmonie Ingolstadt 
-  GKO Ingolstadt
-DTSTART;TZID=Europe/Berlin:20260928T210000
-DTEND;TZID=Europe/Berlin:20260928T230000
-DTSTAMP:20260919T220008Z
-UID:kammermusik-festival-klangbilder-zwischen-tiflis-und-ingolstadt-streic
- herensemble-ehemalige-mitglieder-der-kammerphilharmonie-ingolstadt-gko-ing
- olstadt-20260928-1900@ifg-plattform.de
-DESCRIPTION:Ausstellung im Kreuztor umrahmt von einem Kammermusik-Festival
- \n\nEinlass: 00:00\n\nZwischen Freitag\, 25. September 2026 und Sonntag\, 
- 4. Oktober 2026 findet im Kreuztor\, dem Wahrzeichen von Ingolstadt\, eine
-  Fotoausstellung über die Kammerphiharmonie Ingolstadt (ehemals: Georgisc
- hes Kammerorchester Ingolstadt) statt. Gezeigt werden offizielle Konzertfo
- tos\, aber auch Raritäten von Konzertreisen und Backstage-Fotos. Umrahmt 
- wird die Ausstellung von einem Kammermusik-Festival im Kreuztor mit sieben
-  Konzerten von ehemaligen und aktiven Orchestermitgliedern\; mit Beiträge
- n\, die die musikalische Vielfalt des Orchesters demonstrieren. Sieben Tag
- e Bilder und Musik\, ein Genuss für die Sinne.\nEintritt frei\; kostenfre
- ies Einlassticket erforderlich\, da die Kapazität im Kreuztor begrenzt is
- t.\n\nSTREICHERENSEMBLE\nehemalige Mitglieder der Kammerphilharmonie\nIngo
- lstadt / GKO Ingolstadt\nSamson Gonashvili\, Violine\, Igor Loboda\, Violi
- ne\,\nLia Chkhartishvili\, Violine\, Tamas Chikobava\, Violine\,\nVadim Ma
- khovskiy\, Viola\, David Tsadaia\, Violoncello\,\nDimitri Gagulidze\, Kont
- rabass
-LOCATION:Kreuztor\, Kreuzstraße\, 85049 Ingolstadt
-X-SCORE:36
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kammermusik-Festival: KLANGBILDER zwischen TIFLIS und INGOLSTADT -
   TANGOS AND MORE
 DTSTART;TZID=Europe/Berlin:20260929T210000
 DTEND;TZID=Europe/Berlin:20260929T230000
