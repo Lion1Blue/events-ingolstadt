@@ -3,63 +3,6 @@ VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
 SUMMARY:Kammermusik-Festival: KLANGBILDER zwischen TIFLIS und INGOLSTADT -
-  TANGOS AND MORE
-DTSTART;TZID=Europe/Berlin:20260929T210000
-DTEND;TZID=Europe/Berlin:20260929T230000
-DTSTAMP:20260919T220008Z
-UID:kammermusik-festival-klangbilder-zwischen-tiflis-und-ingolstadt-tangos
- -and-more-20260929-1900@ifg-plattform.de
-DESCRIPTION:Ausstellung im Kreuztor umrahmt von einem Kammermusik-Festival
- \n\nEinlass: 00:00\n\nZwischen Freitag\, 25. September 2026 und Sonntag\, 
- 4. Oktober 2026 findet im Kreuztor\, dem Wahrzeichen von Ingolstadt\, eine
-  Fotoausstellung über die Kammerphiharmonie Ingolstadt (ehemals: Georgisc
- hes Kammerorchester Ingolstadt) statt. Gezeigt werden offizielle Konzertfo
- tos\, aber auch Raritäten von Konzertreisen und Backstage-Fotos. Umrahmt 
- wird die Ausstellung von einem Kammermusik-Festival im Kreuztor mit sieben
-  Konzerten von ehemaligen und aktiven Orchestermitgliedern\; mit Beiträge
- n\, die die musikalische Vielfalt des Orchesters demonstrieren. Sieben Tag
- e Bilder und Musik\, ein Genuss für die Sinne.\nEintritt frei\; kostenfre
- ies Einlassticket erforderlich\, www.kreuztor.in\n\nTANGOS AND MORE\nAlexa
- nder Konjaev\, Violine\, Ia Khartonishvili\, Viola\,\nDimitri Gagulidze\, 
- Kontrabass
-LOCATION:Kreuztor\, Kreuzstraße\, 85049 Ingolstadt
-X-SCORE:40
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:VIP - Özcan Cosar
-DTSTART;TZID=Europe/Berlin:20260929T220000
-DTEND;TZID=Europe/Berlin:20260930T015900
-DTSTAMP:20260919T220008Z
-UID:vip-zcan-cosar-20260929-2000@ifg-plattform.de
-DESCRIPTION:Einlass: 18:30\n\nÖzcan Cosar ist zurück – mit „VIP“!\
- nSeit 2026 bundesweit auf Tour\n\nAufgrund der großen Nachfrage Zusatzter
- mine für 2027 im Vorverkauf!\n\nÖzcan Cosar ist seit 2026 mit seiner neu
- en Show auf großer Tour: „VIP“ - Comedy\, die unterhält und nachhall
- t. Hier geht er der Frage nach: „Wer ist hier eigentlich wichtig?!“ In
-  „VIP“ rechnet Özcan humorvoll und gleichsam scharfzüngig mit dem ab
- surden VIP-Kult ab. Der Lieblingsschwabe aller Herzen zeigt\, wer in Wahrh
- eit wirklich wichtig ist. Die Menschen\, die nie im Rampenlicht stehen.\n\
- n„VIP“ steht für ein Leben im Rampenlicht: exklusive Partys\, First-C
- lass-Flüge\, Bodyguards am Frühstücksbuffet – zumindest in der Vorste
- llung vieler. Özcan Cosar weiß es besser. Mit „VIP“ nimmt Özcan das
-  Konzept von „Very Important Person“ humorvoll auseinander. VIP: „Ve
- ry Irritierende Prominenz“. Als Comedian steht er seit Jahren auf den gr
- ößten Bühnen des Landes\, doch in seiner neuen Show zeigt er: Hinter de
- r Fassade von Blitzlicht und Applaus sieht es oft ziemlich normal – oder
-  ziemlich absurd – aus. \n\nWer entscheidet eigentlich\, wer wichtig ist
- ? Und warum benehmen sich manche Leute\, als wären sie es\, obwohl sie es
-  einfach nicht sind? Gleichzeitig lenkt er den Blick auf die wahren Stars 
- des Alltags – Menschen\, die nie auf roten Teppichen stehen\, aber das F
- undament unseres Zusammenlebens bilden: Erzieherinnen\, Altenpfleger\, Elt
- ern\, Paketboten\, Notärztinnen – echte Held*innen im Schatten der Self
- ie-Scheinwerfer. Natürlich bleibt Özcan dabei Özcan: Intelligent\, iron
- isch\, charmant und mit seinem unverkennbaren Mix aus Comedy\, Schauspiel 
- und Tanz auf der Bühne. „VIP“ - Stand-up mit Herz\, Witz und Haltung.
-LOCATION:SATURN-Arena\, Südliche Ringstraße 64\, 85053 Ingolstadt
-X-SCORE:24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kammermusik-Festival: KLANGBILDER zwischen TIFLIS und INGOLSTADT -
   DIE WELT DES JAZZ &amp\; BOSSA NOVA
 DTSTART;TZID=Europe/Berlin:20260930T210000
 DTEND;TZID=Europe/Berlin:20260930T230000
