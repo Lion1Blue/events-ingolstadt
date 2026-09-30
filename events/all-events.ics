@@ -2,31 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Kammermusik-Festival: KLANGBILDER zwischen TIFLIS und INGOLSTADT -
-  DIE WELT DES JAZZ &amp\; BOSSA NOVA
-DTSTART;TZID=Europe/Berlin:20260930T210000
-DTEND;TZID=Europe/Berlin:20260930T230000
-DTSTAMP:20260919T220008Z
-UID:kammermusik-festival-klangbilder-zwischen-tiflis-und-ingolstadt-die-we
- lt-des-jazz-amp-bossa-nova-20260930-1900@ifg-plattform.de
-DESCRIPTION:Ausstellung im Kreuztor umrahmt von einem Kammermusik-Festival
- \n\nEinlass: 00:00\n\nZwischen Freitag\, 25. September 2026 und Sonntag\, 
- 4. Oktober 2026 findet im Kreuztor\, dem Wahrzeichen von Ingolstadt\, eine
-  Fotoausstellung über die Kammerphiharmonie Ingolstadt (ehemals: Georgisc
- hes Kammerorchester Ingolstadt) statt. Gezeigt werden offizielle Konzertfo
- tos\, aber auch Raritäten von Konzertreisen und Backstage-Fotos. Umrahmt 
- wird die Ausstellung von einem Kammermusik-Festival im Kreuztor mit sieben
-  Konzerten von ehemaligen und aktiven Orchestermitgliedern\; mit Beiträge
- n\, die die musikalische Vielfalt des Orchesters demonstrieren. Sieben Tag
- e Bilder und Musik\, ein Genuss für die Sinne.\nEintritt frei\; kostenfre
- ies Einlassticket erforderlich\, www.kreuztor.in\n\nDIE WELT DES JAZZ &amp
- \; BOSSA NOVA\nLika Megrelishvili\, Flöte\, Alexei Tchubini\, Violine und
- \nGitarre\, Levan Kurashvili\, Violine\, Nikoloz Shamugia\,\nVioloncello\,
-  Dimitri Gagulidze\, Kontrabass
-LOCATION:Kreuztor\, Kreuzstraße\, 85049 Ingolstadt
-X-SCORE:41
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ingolstädter Stiftungstag
 DTSTART;TZID=Europe/Berlin:20261001T180000
 DTEND;TZID=Europe/Berlin:20261001T220000
