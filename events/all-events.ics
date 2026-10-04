@@ -2,113 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Kocherlball beim Herbstvolksfest
-DTSTART;TZID=Europe/Berlin:20261004T120000
-DTEND;TZID=Europe/Berlin:20261005T015900
-DTSTAMP:20260919T220008Z
-UID:kocherlball-beim-herbstvolksfest-20261004-1000@ifg-plattform.de
-DESCRIPTION:Volkstanz für Anfänger*innen und Fortgeschrittene inkl. Tanz
- vorführungen der Vereine mit den Dellnhauser Musikanten\nTanzleitung und 
- Moderation: Franziska Straus und Monika Ketterl
-LOCATION:Festzelt/Festplatz\, Dreizehnerstraße 1\, 85049 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Öko-Bauernmarkt
-DTSTART;TZID=Europe/Berlin:20261004T120000
-DTEND;TZID=Europe/Berlin:20261004T190000
-DTSTAMP:20260919T220008Z
-UID:ko-bauernmarkt-20261004-1000@ifg-plattform.de
-DESCRIPTION:Die Ökomodellregion Stadt.Land.Ingolstadt lädt alle großen 
- und kleinen Besucherinnen und Besucher ein zum traditionellen Öko-Bauernm
- arkt\n\nEinlass: 10:00\n\nAm Erntedanksonntag findet der Öko-Bauernmarkt 
- der Ökomodellregion in Ingolstadt im Exerzierhaus statt. Marktstände mit
-  Bioregionalen Produkten\,  Infostände\, Mitmachaktionen\, Kutsche fahren
-  und der Besuch der Bayerischen Bio-Königin erwarten die Besucherinnen un
- d Besucher den ganzen Sonntag. Feierliche Eröffnung mit Schirmherr 2.Bür
- germeister der Stadt Ingolstadt Franz Wöhrl ist um  10.00 Uhr.  Der Wildl
- ebensraumberater stellt seine Arbeit vor und um 11.00 lädt Irina Kuttenre
- ich zur Kräuterwanderung ein. \nNatürlich gibt es leckere und erlesene S
- peisen und Getränke mit 100 % Biozutaten ! \nSeien Sie gespannt und reser
- vieren Sie diesen Tag für den Öko-Bauernmarkt in Ihrem Kalender!
-LOCATION:Exerzierhaus\, Klenzepark\, 85049 Ingolstadt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Festakt - 50 Jahre BUND Naturschutz in Ingolstadt
-DTSTART;TZID=Europe/Berlin:20261004T130000
-DTEND;TZID=Europe/Berlin:20261004T160000
-DTSTAMP:20260919T220008Z
-UID:festakt-50-jahre-bund-naturschutz-in-ingolstadt-20261004-1100@ifg-plat
- tform.de
-DESCRIPTION:50 Jahre und kein bisschen leise!\n\nWas 1976 mit der Gründun
- g unserer Kreisgruppe und einer Hand voll aktiver Mitglieder begann\, hat 
- sich stetig entwickelt: Rund 3.000 FörderInnen und Mitglieder zählt der 
- BUND Naturschutz (BN) heute in Ingolstadt und ist damit ein wichtiger Best
- andteil der Stadtgesellschaft.\nÜber das gesamte Jubiläumsjahr verteilt 
- feiern wir das 50-jährige Bestehen mit verschiedensten Veranstaltungen an
-  ganz unterschiedlichen Orten \, um möglichst viele Menschen darauf aufme
- rksam zu machen\, dass der Natur- und Umweltschutz nichts an seiner Bedeut
- ung verloren hat. Höhepunkt der Feierlichkeiten ist unser 50-Jahre-Festak
- t.\n\nNeben der Festrede von dem Texter und Musiker Hans Well und der „m
- usikalischen Laudatio“ seiner Wellbappn mit Sarah Well und Komalé Akakp
- o erwarten wir weitere Beiträge von OB Dr. Michael Kern\, dem BN-Landesvo
- rsitzenden Martin Geilhufe und dem BN-Kreisvorsitzenden Michael Würflein.
- \n\nDarüber hinaus wollen wir die Gelegenheit nutzen\, um uns mit wichtig
- en Wegbegleitern\, mit unseren Mitgliedern\, Ehrenamtlichen und Unterstüt
- zern des BN auszutauschen und mit ihnen zu feiern.\n\nAuch die Ingolstädt
- er Bürgerinnen und Bürger laden wir hierzu im Namen des gesamten Vorstan
- ds der BN-Kreisgruppe herzlich ein.
-LOCATION:Foyer Stadttheater Ingolstadt\, Schlosslände 1\, 85049 Ingolstad
- t
-X-SCORE:25
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Böhmischer Abend mit Allgäu 6
-DTSTART;TZID=Europe/Berlin:20261004T210000
-DTEND;TZID=Europe/Berlin:20261005T015900
-DTSTAMP:20260919T220008Z
-UID:b-hmischer-abend-mit-allg-u-6-20261004-1900@ifg-plattform.de
-DESCRIPTION:Berthold Schick und seine Allgäu 6\n\nBerthold Schick und sei
- ne Allgäu 6 – das ist Blasmusik vom Kleinsten und vom Feinsten.\n\nDie 
- Formation begeistert seit vielen Jahren auf den großen Bühnen\, u. a. 
- beim Woodstock der Blasmusik\, der Brasswiesn oder dem Winterwoodstock.
- 🎺 Mit einem musikalischen Repertoire\, das von feinster böhmischer Bla
- smusik über Klassiker von James Last\, Bert Kaempfert und Herb Alpert bis
-  hin zu eigenen Kompositionen reicht. Ein Abend\, der traditionelle Blasmu
- sik\, musikalische Virtuosität und stilvolles Ambiente miteinander verbin
- det.🍻🎶
-LOCATION:Congress Centrum Ingolstadt\, Gießerei-Platz 1\, 85049 Ingolstad
- t
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kammermusik-Festival: KLANGBILDER zwischen TIFLIS und INGOLSTADT -
-  STIMMFÜHRER-QUINTETT DER KAMMERPHILHARMONIE INGOLSTADT
-DTSTART;TZID=Europe/Berlin:20261004T210000
-DTEND;TZID=Europe/Berlin:20261004T230000
-DTSTAMP:20260919T220008Z
-UID:kammermusik-festival-klangbilder-zwischen-tiflis-und-ingolstadt-stimmf
- -hrer-quintett-der-kammerphilharmonie-ingolstadt-20261004-1900@ifg-plattfo
- rm.de
-DESCRIPTION:Ausstellung im Kreuztor umrahmt von einem Kammermusik-Festival
- \n\nEinlass: 00:00\n\nZwischen Freitag\, 25. September 2026 und Sonntag\, 
- 4. Oktober 2026 findet im Kreuztor\, dem Wahrzeichen von Ingolstadt\, eine
-  Fotoausstellung über die Kammerphiharmonie Ingolstadt (ehemals: Georgisc
- hes Kammerorchester Ingolstadt) statt. Gezeigt werden offizielle Konzertfo
- tos\, aber auch Raritäten von Konzertreisen und Backstage-Fotos. Umrahmt 
- wird die Ausstellung von einem Kammermusik-Festival im Kreuztor mit sieben
-  Konzerten von ehemaligen und aktiven Orchestermitgliedern\; mit Beiträge
- n\, die die musikalische Vielfalt des Orchesters demonstrieren. Sieben Tag
- e Bilder und Musik\, ein Genuss für die Sinne.\nEintritt frei\; kostenfre
- ies Einlassticket erforderlich www.kreuztor.in\n\nSTIMMFÜHRER-QUINTETT DE
- R\nKAMMERPHILHARMONIE INGOLSTADT\nFriedemann Breuninger\, Violine\, Alexan
- der Konjaev\,\nVioline\, Vadim Makhovskiy\, Viola\, Nikoloz Samugia\,\nVio
- loncello\, Dimitri Gagulidze\, Kontrabass
-LOCATION:Kreuztor\, Kreuzstraße\, 85049 Ingolstadt
-X-SCORE:36
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Factory-Tour über KI in der Praxis
 DTSTART;TZID=Europe/Berlin:20261006T150000
 DTEND;TZID=Europe/Berlin:20261006T184500
@@ -3847,5 +3740,17 @@ DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  leichermaßen willkommen\, diese nährende Erfahrung zu teilen.
 LOCATION:Soul Studio\, Am Stein 8\, 85049 Ingolstadt
 X-SCORE:16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nussknacker - International Festival Ballet &amp\; Orchestra
+DTSTART;TZID=Europe/Berlin:20270102T160000
+DTEND;TZID=Europe/Berlin:20270103T005900
+DTSTAMP:20260919T220009Z
+UID:nussknacker-international-festival-ballet-amp-orchestra-20270102-1500@
+ ifg-plattform.de
+DESCRIPTION:Alle Info´s zur Veranstaltung unter https://www.saturn-arena.
+ de/events-und-konzerte/
+LOCATION:SATURN-Arena\, Südliche Ringstraße 64\, 85053 Ingolstadt
+X-SCORE:23
 END:VEVENT
 END:VCALENDAR
