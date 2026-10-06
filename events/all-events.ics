@@ -2,65 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Factory-Tour über KI in der Praxis
-DTSTART;TZID=Europe/Berlin:20261006T150000
-DTEND;TZID=Europe/Berlin:20261006T184500
-DTSTAMP:20260919T220008Z
-UID:factory-tour-ber-ki-in-der-praxis-20261006-1300@ifg-plattform.de
-DESCRIPTION:Factory-Tour: KI in der Praxis – von der Idee zur produktive
- n Anwendung in Unternehmensprozessen\n\nViele Unternehmen beschäftigen si
- ch mit Künstlicher Intelligenz – doch wie gelingt der Weg von ersten Ex
- perimenten hin zu produktiven Anwendungen im Unternehmensalltag?\n\n\nAls 
- Handels- und Dienstleistungsunternehmen für Antriebstechnik gibt Ludwig M
- eister bei der Factory-Tour des Mittelstand-Digital Zentrums Augsburg Einb
- licke in die eigene KI-Reise und zeigt anhand praxisnaher Beispiele\, wie 
- sich aus ersten Use Cases schrittweise skalierbare Prozesse entwickeln. Im
-  Mittelpunkt stehen dabei weniger einzelne Technologien als vielmehr die V
- orgehensweise\, organisatorische Erfahrungen und Erfolgsfaktoren auf dem W
- eg zu einer produktiven KI-Nutzung.\n\n\nZum Einstieg wird Ihnen erklärt\
- , welche technologischen Möglichkeiten heute bereits bestehen. Dazu wird 
- veranschaulicht\, wie mobile Roboter mithilfe moderner Sensorik und KI ihr
- e Umgebung erfassen\, verstehen und autonom intralogistische Aufgaben übe
- rnehmen können.\n\nAnschließend wird die Perspektive gewechselt und erl
- äutert\, wie KI-Projekte bei Ludwig Meister von der ersten Idee bis zur p
- roduktiven Anwendung entwickelt werden. Im Fokus stehen die Identifikation
-  geeigneter Anwendungsfälle\, der Weg vom Experiment zur skalierbaren Lö
- sung sowie die organisatorischen und technischen Voraussetzungen für eine
- n erfolgreichen KI-Einsatz. Darüber hinaus erhalten die Teilnehmenden Ein
- blicke in verschiedene Geschäftsprozesse\, in denen KI bereits heute zum 
- Einsatz kommt.\n\nIm Rahmen der anschließenden Unternehmensführung gewin
- nen die Teilnehmenden Einblicke in die Logistik von Ludwig Meister und ler
- nen die Abläufe eines modernen technischen Handelsunternehmens kennen.\n\
- n\nZielgruppe: \nDie Veranstaltung ist kostenfrei und richtet sich an Digi
- talisierungsverantwortliche\, Betriebs- und Produktionsleitende sowie Gesc
- häftsleitende.\n\n\nBitte beachten Sie: Die Zahl der Teilnehmenden ist be
- schränkt und Plätze werden nach dem Eingangsdatum vergeben. Eine Teilnah
- me kann aus verschiedenen Gründen nicht garantiert werden (z. B. Wettbewe
- rbssituation).
-LOCATION:Ludwig Meister GmbH &amp\; Co. KG\, Otto-Hahn-Straße 11\, 85221 
- Dachau
-X-SCORE:10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:KALLIGRAFIE Workshop
-DTSTART;TZID=Europe/Berlin:20261006T200000
-DTEND;TZID=Europe/Berlin:20261006T230000
-DTSTAMP:20260919T220008Z
-UID:kalligrafie-workshop-20261006-1800@ifg-plattform.de
-DESCRIPTION:Wollen Sie das sinnliche Gefühl erleben\, wie Tinte auf das P
- apier fließt\, zu Formen und Buchstaben wird?\n\nJohann Maierhofer führt
-  Sie ein in die Kunst der Kalligrafie.\n\nDabei lernen Sie verschiedene We
- rkzeuge kennen\, üben sich am Alphabet der Antiqua\, und erfahren Wissens
- wertes rund um das Schreiben.\n\nLassen Sie sich von einem Profi seines Fa
- ches an der Hand nehmen und zu eigenen Wegen dieses künstlerischen Ausdru
- cks führen.\n\nVorkenntnisse sind nicht nötig.\n\nBenötigtes Material:\
- nBleistifte und/oder Buntstifte/Wachsmalkreiden\, Lineal\n3mm Brause Bandz
- ugfeder*\, Tinte*\, Federhalter*\, Spitzpinsel*\, Papier*\n* kann beim Kur
- s für einen Unkostenbeitrag von 10\,00 € erworben werden
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Bernd Hackl
 DTSTART;TZID=Europe/Berlin:20261007T220000
 DTEND;TZID=Europe/Berlin:20261008T015900
