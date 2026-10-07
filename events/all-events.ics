@@ -2,37 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Bernd Hackl
-DTSTART;TZID=Europe/Berlin:20261007T220000
-DTEND;TZID=Europe/Berlin:20261008T015900
-DTSTAMP:20260919T220009Z
-UID:bernd-hackl-20261007-2000@ifg-plattform.de
-DESCRIPTION:Ohne Brems’ und Lenkung\n\nEinlass: 19:00\n\nBernd Hackl On 
- Stage –  Das neue Comedy-Programm von und mit Bernd Hackl! \n\nNach de
- m erfolgreichen Auftakt seiner Comedy-Tour kommt der bekannte Pferdetraine
- r und VOX TV-Star der Serie „Die Pferdeprofis“ Bernd Hackl mit seinem 
- neuen Bühnenprogramm zurück\, nicht im Sattel\, sondern auf der Bühne u
- nd das noch wilder\, noch schräger und garantiert bauchmuskelstrapazieren
- d! \n\nUnter dem Titel „Ohne Brems’ und Lenkung“ präsentiert er s
- ein brandneues Programm für alle Pferdeliebhaber und das mit Vollgas! Ber
- nd Hackl gewährt dem Publikum humorvolle Einblicke in das oft chaotische 
- Leben mit Pferden. Dabei stellt er fest: Sattelfest? Bremse und Lenkung 
- beim Reiten? Manchmal leider Fehlanzeige! Und selbst am Boden läuft nic
- ht immer alles nach Plan – denn ein Pferd lässt sich oft zwar lenken\, 
- aber wo\, um Himmels willen\, ist eigentlich die Bremse? Mit viel Witz\, C
- harme und einer ordentlichen Portion Selbstironie berichtet Hackl von Plei
- ten\, Pech und Pannen aus dem Reiteralltag: Sture Pferde\, unfreiwillige A
- bgänge\, kurioses aus dem Pferdestall – alles ist dabei. \n\nDenn ein
- es steht fest: Das Leben mit Pferden ist nicht immer einfach – schon gar
-  nicht\, wenn man drauf sitzt! Freuen Sie sich auf einen Abend voller humo
- rvoller Anekdoten\, lustiger Erlebnisse und jede Menge Spaß – für Pfer
- defreunde\, Reitsportneulinge und Comedy-Fans gleichermaßen! \n\n„Bernd
-  Hackl On Stage – Ohne Brems’ und Lenkung“ Wer Pferde liebt (oder 
- sie einfach noch nicht versteht)\, sollte diesen Abend nicht verpassen!
-LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:27
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:zwIsCHen-menschlICHes
 DTSTART;TZID=Europe/Berlin:20261008T213000
 DTEND;TZID=Europe/Berlin:20261009T015900
@@ -3693,5 +3662,34 @@ DESCRIPTION:Alle Info´s zur Veranstaltung unter https://www.saturn-arena.
  de/events-und-konzerte/
 LOCATION:SATURN-Arena\, Südliche Ringstraße 64\, 85053 Ingolstadt
 X-SCORE:23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Mamma Mia Party
+DTSTART;TZID=Europe/Berlin:20270105T210000
+DTEND;TZID=Europe/Berlin:20270106T005900
+DTSTAMP:20260919T220009Z
+UID:mamma-mia-party-20270105-2000@ifg-plattform.de
+DESCRIPTION:Das Musical als Party\n\nEinlass: 20:00\n\nTauche ein in eine 
+ unvergessliche Reise\, wenn die Mamma Mia Party auf ihrer großen Deutschl
+ andtour Halt macht! Von 20:00 bis 24:00 verwandeln wir den Abend in ein mi
+ treißendes Konzert. Diese Veranstaltung verspricht\, einzigartig und spek
+ takulär zu werden – ein Erlebnis\, das du nicht verpassen darfst! \n\nB
+ egib dich auf eine musikalische Zeitreise mit den größten Hits von ABBA.
+  Die Mamma Mia Party wird dich mitreißen und in die 70er Jahre zurückver
+ setzen\, als die schwedische Band die Charts dominierte und die Tanzfläch
+ en der Welt eroberte. Lass dich von den mitreißenden Rhythmen\, glitzernd
+ en Kostümen und der elektrisierenden Atmosphäre verzaubern. \n\nUnd das 
+ ist erst der Anfang! Die Mamma Mia Party bietet zahlreiche Specials\, die 
+ diesen Abend noch unvergesslicher machen. Exklusive Überraschungen\, inte
+ raktive Elemente sorgen dafür\, dass du dich wie ein Teil der Show fühls
+ t. Jeder Song bringt dich näher zu dem unvergesslichen Finale\, wenn "Dan
+ cing Queen" gespielt wird und die gesamte Halle sich in eine einzige tanze
+ nde Masse verwandelt. \n\nEgal ob du ein langjähriger ABBA-Fan bist oder 
+ die Hits zum ersten Mal erlebst – die Mamma Mia Party wird dich begeiste
+ rn. \n\nSichere dir jetzt deine Tickets und sei dabei\, wenn die Mamma Mia
+  Party in deiner Stadt Halt macht. Wir sehen uns dort – es wird eine Nac
+ ht\, die du nie vergessen wirst!
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:29
 END:VEVENT
 END:VCALENDAR
