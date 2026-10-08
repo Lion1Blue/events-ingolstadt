@@ -2,29 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:zwIsCHen-menschlICHes
-DTSTART;TZID=Europe/Berlin:20261008T213000
-DTEND;TZID=Europe/Berlin:20261009T015900
-DTSTAMP:20260919T220008Z
-UID:zwischen-menschliches-20261008-1930@ifg-plattform.de
-DESCRIPTION:Szenische Lesung: Drei Menschen und ein Potpourri aus Geschich
- ten. Lustiges\, Nachdenkliches\, und alles dazwischen\, darüber und daneb
- en.\n\nEinlass: 19:00\n\nEine szenische Lesung voller Musik\, Liebe und Z
- ärtlichkeit zum Wohlfühlen\, durchgerüttelt und wieder hingestellt werd
- en. Zwei Frauen ein Mann – und viele Verirrungen\, Verwirrungen\, Leiden
- schaftliches\, Lustiges und herzliches.\n\nREGENSBURGER KULTURBÜHNE IM KA
- P94\n\nDas KAP94 startet mit einer neuen Produktion in den Herbst. Die Reg
- ensburger Kulturbühne ist zu Gast und präsentiert am 08.10.26 um 19:30 z
- wIsCHen?menschlICHes. Mit Bettina Birnbach aus Nürnberg\, Johann Maierhof
- er aus Regensburg und Nicole Titus als „Heimspielerin“ des KAP94 erleb
- en die Zuschauer*innen in einer szenischen Lesung lustiges\, nachdenkliche
- s und alles dazwischen\, darüber und daneben. Die Zuschauer*innen dürfen
-  sich erstmal wohlfühlen\, werden dann durchgerüttelt und wieder mit neu
- en altbekannten Erfahrungen und Erkenntnissen hingestellt.
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:SCHANZER DEATH MARCH VOL. 2.0
 DTSTART;TZID=Europe/Berlin:20261009T210000
 DTEND;TZID=Europe/Berlin:20261010T013000
