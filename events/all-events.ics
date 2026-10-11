@@ -2,108 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Audi Race Bar Singapur: Formel 1® live
-DTSTART;TZID=Europe/Berlin:20261011T160000
-DTEND;TZID=Europe/Berlin:20261012T015900
-DTSTAMP:20261009T220008Z
-UID:audi-race-bar-singapur-formel-1-live-20261011-1400@ifg-plattform.de
-DESCRIPTION:mit der Übertragung des Rennens aus Singapur\n\nEinlass: 12:3
- 0\n\nErlebt gemeinsam mit Familie\, Freunden und Kollegen live die Formel 
- 1 ® Übertragungen in Audi-Markenatmosphäre. Fiebert gemeinsam Runde fü
- r Runde mit!\nDie Bar und Lounge im Audi Forum Ingolstadt bietet euch hei
- ße und kalte Getränke sowie Speisen an. \nAm Audi Forum Ingolstadt könn
- en die Plätze online über den untenstehenden Link\, per Telefon oder per
-  Mail vorangemeldet werden.\n\nTel.: 0841 89-41071 \nMail: ingolstadt@marc
- he-int.com
-LOCATION:Audi Forum\, Ettinger Straße Audi Piazza\, 85045 Ingolstadt
-X-SCORE:24
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonntagsführung durch die Dauerausstellung
-DTSTART;TZID=Europe/Berlin:20261011T163000
-DTEND;TZID=Europe/Berlin:20261011T180000
-DTSTAMP:20261009T220008Z
-UID:sonntagsf-hrung-durch-die-dauerausstellung-20261011-1430@ifg-plattform
- .de
-DESCRIPTION:mit Irene Oberle\n\nDas barocke Museumsgebäude wurde vor 300 
- Jahren für die Medizinische Fakultät der Bayerischen Landesausstellung e
- rrichtet. Heute ist es daher auch als „Alte Anatomie" bekannt. Im Oktobe
- r 2020 wurde in dem frisch sanierten Gebäude eine neue Dauerausstellung e
- röffnet\, die ein Jahr später mit dem Bayerischen Museumspreis ausgezeic
- hnet wurde.\nÜbrigens: Das Museumscafé hortus medicus hat von 10 bis 17 
- Uhr geöffnet und erwartet Sie mit selbstgebackenem Kuchen!
-LOCATION:Deutsches Medizinhistorisches Museum\, Anatomiestraße 18-20\, 85
- 049 Ingolstadt
-X-SCORE:21
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Öffentliche Führung
-DTSTART;TZID=Europe/Berlin:20261011T170000
-DTEND;TZID=Europe/Berlin:20261011T180000
-DTSTAMP:20261009T220008Z
-UID:ffentliche-f-hrung-20261011-1500@ifg-plattform.de
-DESCRIPTION:Einlass: 14:45\n\nDer Umbau der sogenannten Gießereihalle zur
-  neuen Heimstätte des Museums für Konkrete Kunst und Design (MKKD) nach 
- Plänen des Wiener Architekturbüros querkraft steht kurz vor seinem Absch
- luss. Planung und Einrichtung eines Museums beinhalten aber entschieden me
- hr als die reine Architektur eines Gebäudes.\n\nMit der Ausstellung „Be
- coming MKKD. Vom Planen und Entstehen eines Museums” bekommen Sie ganz k
- onkrete Einblicke in die Konzeption des neuen Museums – von der Gestaltu
- ng der neuen Corporate Identity bis hin zur genauen Dimensionierung und Ab
- folge der einzelnen Ausstellungsräume. In kurzen Filmen lernen Sie dabei 
- auch einige Mitarbeiter*innen des Museums und der Stiftung für Konkrete K
- unst und Design (SKKD) sowie weitere an den Planungen Beteiligte kennen.
-LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
- adt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Johannes Brahms: EIN DEUTSCHES REQUIEM op. 45
-DTSTART;TZID=Europe/Berlin:20261011T200000
-DTEND;TZID=Europe/Berlin:20261011T213000
-DTSTAMP:20261009T220009Z
-UID:johannes-brahms-ein-deutsches-requiem-op-45-20261011-1800@ifg-plattfor
- m.de
-DESCRIPTION:für Soli\, Chor und Orchester\n\nEinlass: 17:00\n\nMarina Szu
- dra I Sopran \nAnton Haupt I Bariton \n \nKammerchor Ingolstadt \nVogtland
-  Philharmonie Greiz Reichenbach\n\nKMD Oliver Scheffels I Leitung
-LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
-X-SCORE:26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die Zauberflöte
-DTSTART;TZID=Europe/Berlin:20261011T210000
-DTEND;TZID=Europe/Berlin:20261012T015900
-DTSTAMP:20261009T220008Z
-UID:die-zauberfl-te-20261011-1900@ifg-plattform.de
-DESCRIPTION:The Opera but not the Opera von Nils Strunk und Lukas Schrenk 
- • nach Wolfgang Amadeus Mozart und Emanuel Schikaneder\n\nPrinz Tamino u
- nd Vogelfänger Papageno begeben sich abenteuerlich durch diverse Prüfung
- en\, um Pamina zu retten. Die Tochter der Königin der Nacht wurde vom Fü
- rsten Sarastro entführt. Damit die Rettung gelingen kann\, müssen sie al
- le Hindernisse\, die ihnen Sarastro\, Monostatos und die Königin der Nach
- t in den Weg stellen\, überwinden. Als „Die Zauberflöte“ 1791 uraufg
- eführt wurde\, war sie ein Singspiel voller populärer Musik. Nicht umson
- st ist es weiterhin eines der meistgespieltesten Werke. Der Ohrwurmcharakt
- er steckt schon im Original. Nils Strunk und Lukas Schrenk haben in ihrer 
- Version „Die Zauberflöte  – The Opera but not the Opera“ Moza
- rts Werk mit Witz und Popmusik-Referenzen quer durch die Generationen aufg
- eladen. Doch keine Sorge: Mozarts berühmten Arien verschwinden dabei nich
- t. Sie tauchen nur hier und da in neuem Gewand auf. Diese „Zauberflöte
- “ ist ein Riesen-Spaß  –  voll Huldigung Mozarts und Modernis
- ierung des Librettos. Mit Ironie\, Witz und Spielfreude schmeißt sich uns
- er Ensemble in dieses fulminante Werk\, das am Wiener Burgtheater uraufgef
- ührt wurde.\n\nNils Strunk ist Komponist\, Schauspieler und Musiker und h
- at zusammen mit dem Schauspieler und Autor Lukas Schrenk die Figuren in ei
- n Setting zwischen Vaudeville\, Variété und düsterer Komödie versetzt.
-  Inszeniert wird dieser Abend bunt\, mutig und mit gutem Gespür für Timi
- ng von Philipp Moschitz. Bekannt ist dieser dem Ingolstädter Publikum ber
- eits durch „Cabaret“\, „Der kleine Horrorladen“\, „Floh im Ohr
- “ und „Hedwig and the Angry Inch“.
-LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
-X-SCORE:14
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Die Zauberflöte
 DTSTART;TZID=Europe/Berlin:20261012T213000
 DTEND;TZID=Europe/Berlin:20261013T015900
@@ -5488,5 +5386,16 @@ DESCRIPTION:Das Musical als Party\n\nEinlass: 20:00\n\nTauche ein in eine
  ht\, die du nie vergessen wirst!
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Krönungsball - Save the Date
+DTSTART;TZID=Europe/Berlin:20270109T210000
+DTEND;TZID=Europe/Berlin:20270110T005900
+DTSTAMP:20261009T220008Z
+UID:kr-nungsball-save-the-date-20270109-2000@ifg-plattform.de
+DESCRIPTION:Save the Date (Verkaufsstart mitte November)\n\nLetzter Narrwa
+ lla Krönungsball im Stadttheater
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:17
 END:VEVENT
 END:VCALENDAR
