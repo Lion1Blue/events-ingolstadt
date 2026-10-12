@@ -2,39 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Die Zauberflöte
-DTSTART;TZID=Europe/Berlin:20261012T213000
-DTEND;TZID=Europe/Berlin:20261013T015900
-DTSTAMP:20261009T220008Z
-UID:die-zauberfl-te-20261012-1930@ifg-plattform.de
-DESCRIPTION:The Opera but not the Opera von Nils Strunk und Lukas Schrenk 
- • nach Wolfgang Amadeus Mozart und Emanuel Schikaneder\n\nPrinz Tamino u
- nd Vogelfänger Papageno begeben sich abenteuerlich durch diverse Prüfung
- en\, um Pamina zu retten. Die Tochter der Königin der Nacht wurde vom Fü
- rsten Sarastro entführt. Damit die Rettung gelingen kann\, müssen sie al
- le Hindernisse\, die ihnen Sarastro\, Monostatos und die Königin der Nach
- t in den Weg stellen\, überwinden. Als „Die Zauberflöte“ 1791 uraufg
- eführt wurde\, war sie ein Singspiel voller populärer Musik. Nicht umson
- st ist es weiterhin eines der meistgespieltesten Werke. Der Ohrwurmcharakt
- er steckt schon im Original. Nils Strunk und Lukas Schrenk haben in ihrer 
- Version „Die Zauberflöte  – The Opera but not the Opera“ Moza
- rts Werk mit Witz und Popmusik-Referenzen quer durch die Generationen aufg
- eladen. Doch keine Sorge: Mozarts berühmten Arien verschwinden dabei nich
- t. Sie tauchen nur hier und da in neuem Gewand auf. Diese „Zauberflöte
- “ ist ein Riesen-Spaß  –  voll Huldigung Mozarts und Modernis
- ierung des Librettos. Mit Ironie\, Witz und Spielfreude schmeißt sich uns
- er Ensemble in dieses fulminante Werk\, das am Wiener Burgtheater uraufgef
- ührt wurde.\n\nNils Strunk ist Komponist\, Schauspieler und Musiker und h
- at zusammen mit dem Schauspieler und Autor Lukas Schrenk die Figuren in ei
- n Setting zwischen Vaudeville\, Variété und düsterer Komödie versetzt.
-  Inszeniert wird dieser Abend bunt\, mutig und mit gutem Gespür für Timi
- ng von Philipp Moschitz. Bekannt ist dieser dem Ingolstädter Publikum ber
- eits durch „Cabaret“\, „Der kleine Horrorladen“\, „Floh im Ohr
- “ und „Hedwig and the Angry Inch“.
-LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
-X-SCORE:14
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:AufStand! - Jugendimpro (13-17 Jahre)
 DTSTART;TZID=Europe/Berlin:20261013T171500
 DTEND;TZID=Europe/Berlin:20261013T211500
@@ -5397,5 +5364,122 @@ DESCRIPTION:Save the Date (Verkaufsstart mitte November)\n\nLetzter Narrwa
  lla Krönungsball im Stadttheater
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Magic Show mit Sven Catello
+DTSTART;TZID=Europe/Berlin:20270110T120000
+DTEND;TZID=Europe/Berlin:20270110T130000
+DTSTAMP:20261009T220008Z
+UID:family-magic-show-mit-sven-catello-20270110-1100@ifg-plattform.de
+DESCRIPTION:Eine Veranstaltung für die ganze Familie\n\nEinlass: 10:45\n\
+ nFamily Magic Show - \nSven Catello lädt zur Zaubershow.\n\nEingeladen si
+ nd erwachsene Zuschauer ebenso wie Kinder\, denn Sven Catello versteht es\
+ , alle in den Bann zu ziehen. Als Deutscher Meister der Kinderzauberei wur
+ de er vom Magischen Zirkel ausgezeichnet und im Bereich der Illusionen fü
+ r Erwachsene belegte er gar den dritten Platz bei der Zauberweltmeistersch
+ aft. \n\nStaunen und eine unvergessliche Zeit sind garantiert\, wenn Sven 
+ Catello zaubert. Dieses Programm ist für Kinder ab 4 Jahren geeignet – 
+ und auch Erwachsene werden ihre Freude daran haben. Sven Catello lässt ge
+ meinsam mit seinen jugendlichen Zuschauern eine magische Atmosphäre entst
+ ehen\, in der eigentlich unmögliche Dinge doch passieren. Kinder werden e
+ rnst genommen und in das Geschehen eingebunden. Lauthals mitlachen oder au
+ ch mal leise einen Zauberspruch murmeln – jeder macht mit\, kein Kind wi
+ rd allein gelassen. Aber auch die Erwachsenen können sich der Magie von S
+ ven Catello nicht entziehen und miterleben\, wie Naturgesetze außer Kraft
+  gesetzt werden. \n\nMehr Informationen über Sven Catello gibt es hier: w
+ ww.catello. de\n\nEine Show mit vielen neuen Kunststücken und fester Sitz
+ platzwahl. Also kein Gedränge beim Einlass\, dafür aber wie gewohnt pün
+ ktlicher Beginn.\nDauer 1 Stunde\nInfos: http://www.zaubertage.de/show.htm
+ l\nVorverkauf: Westpark oder Ticket Regional
+LOCATION:Altstadttheater\, Kanalstraße 1A\, 85049 Ingolstadt
+X-SCORE:23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Magic Show mit Sven Catello
+DTSTART;TZID=Europe/Berlin:20270110T150000
+DTEND;TZID=Europe/Berlin:20270110T160000
+DTSTAMP:20261009T220008Z
+UID:family-magic-show-mit-sven-catello-20270110-1400@ifg-plattform.de
+DESCRIPTION:Eine Veranstaltung für die ganze Familie\n\nEinlass: 13:45\n\
+ nFamily Magic Show - \nSven Catello lädt zur Zaubershow.\n\nEingeladen si
+ nd erwachsene Zuschauer ebenso wie Kinder\, denn Sven Catello versteht es\
+ , alle in den Bann zu ziehen. Als Deutscher Meister der Kinderzauberei wur
+ de er vom Magischen Zirkel ausgezeichnet und im Bereich der Illusionen fü
+ r Erwachsene belegte er gar den dritten Platz bei der Zauberweltmeistersch
+ aft. \n\nStaunen und eine unvergessliche Zeit sind garantiert\, wenn Sven 
+ Catello zaubert. Dieses Programm ist für Kinder ab 4 Jahren geeignet – 
+ und auch Erwachsene werden ihre Freude daran haben. Sven Catello lässt ge
+ meinsam mit seinen jugendlichen Zuschauern eine magische Atmosphäre entst
+ ehen\, in der eigentlich unmögliche Dinge doch passieren. Kinder werden e
+ rnst genommen und in das Geschehen eingebunden. Lauthals mitlachen oder au
+ ch mal leise einen Zauberspruch murmeln – jeder macht mit\, kein Kind wi
+ rd allein gelassen. Aber auch die Erwachsenen können sich der Magie von S
+ ven Catello nicht entziehen und miterleben\, wie Naturgesetze außer Kraft
+  gesetzt werden. \n\nMehr Informationen über Sven Catello gibt es hier: w
+ ww.catello. de\n\nEine Show mit vielen neuen Kunststücken und - ganz neu 
+ - mit fester Sitzplatzwahl. Also kein Gedränge beim Einlass\, dafür aber
+  wie gewohnt pünktlicher Beginn.\nDauer 1 Stunde\nInfos: http://www.zaube
+ rtage.de/show.html\nVorverkauf: Westpark oder Ticket Regional
+LOCATION:Altstadttheater\, Kanalstraße 1A\, 85049 Ingolstadt
+X-SCORE:23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Family Magic Show mit Sven Catello
+DTSTART;TZID=Europe/Berlin:20270110T170000
+DTEND;TZID=Europe/Berlin:20270110T180000
+DTSTAMP:20261009T220008Z
+UID:family-magic-show-mit-sven-catello-20270110-1600@ifg-plattform.de
+DESCRIPTION:Eine Veranstaltung für die ganze Familie\n\nEinlass: 15:45\n\
+ nFamily Magic Show - \nSven Catello lädt zur Zaubershow.\n\nEingeladen si
+ nd erwachsene Zuschauer ebenso wie Kinder\, denn Sven Catello versteht es\
+ , alle in den Bann zu ziehen. Als Deutscher Meister der Kinderzauberei wur
+ de er vom Magischen Zirkel ausgezeichnet und im Bereich der Illusionen fü
+ r Erwachsene belegte er gar den dritten Platz bei der Zauberweltmeistersch
+ aft. \n\nStaunen und eine unvergessliche Zeit sind garantiert\, wenn Sven 
+ Catello zaubert. Dieses Programm ist für Kinder ab 4 Jahren geeignet – 
+ und auch Erwachsene werden ihre Freude daran haben. Sven Catello lässt ge
+ meinsam mit seinen jugendlichen Zuschauern eine magische Atmosphäre entst
+ ehen\, in der eigentlich unmögliche Dinge doch passieren. Kinder werden e
+ rnst genommen und in das Geschehen eingebunden. Lauthals mitlachen oder au
+ ch mal leise einen Zauberspruch murmeln – jeder macht mit\, kein Kind wi
+ rd allein gelassen. Aber auch die Erwachsenen können sich der Magie von S
+ ven Catello nicht entziehen und miterleben\, wie Naturgesetze außer Kraft
+  gesetzt werden. \n\nMehr Informationen über Sven Catello gibt es hier: w
+ ww.catello. de\n\nEine Show mit vielen neuen Kunststücken und - ganz neu 
+ - mit fester Sitzplatzwahl. Also kein Gedränge beim Einlass\, dafür aber
+  wie gewohnt pünktlicher Beginn.\nDauer 1 Stunde\nInfos: http://www.zaube
+ rtage.de/show.html\nVorverkauf: Westpark oder Ticket Regional
+LOCATION:Altstadttheater\, Kanalstraße 1A\, 85049 Ingolstadt
+X-SCORE:23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Best of Musicals
+DTSTART;TZID=Europe/Berlin:20270110T200000
+DTEND;TZID=Europe/Berlin:20270110T223000
+DTSTAMP:20261009T220008Z
+UID:best-of-musicals-20270110-1900@ifg-plattform.de
+DESCRIPTION:DAS ORIGINAL\, IMMER WIEDER NEU!\n\nEinlass: 18:00\n\nINGOLSTA
+ DT DARF SICH FREUEN: Am Sonntag\, den 10. Januar 2027\, wird das Stadtthea
+ ter Ingolstadt zur Bühne für große Emotionen: Best of Musicals gastiert
+  im Rahmen der neuen Tournee 2026/27 in der oberbayerischen Stadt. Von Dez
+ ember bis März ist die erfolgreiche Show in ganz Deutschland unterwegs un
+ d bringt zum Jahresbeginn musikalische Highlights nach Ingolstadt. \n\nBes
+ t of Musicals steht für einen mitreißenden Abend voller Energie\, Emotio
+ n und Unterhaltung. Die Show vereint die schönsten Songs und eindrucksvol
+ lsten Momente aus der Welt des Musicals – von Klassikern wie Der König 
+ der Löwen\, Das Phantom der Oper und Tanz der Vampire bis hin zu neueren 
+ Erfolgen wie Die Eiskönigin oder The Greatest Showman. \n\nEin hochkarät
+ iges Ensemble bringt diese Vielfalt mit starker Bühnenpräsenz und beeind
+ ruckenden Stimmen live auf die Bühne. Dabei entsteht weit mehr als eine k
+ lassische Musical-Gala: Charmante Moderationen\, humorvolle Szenen und üb
+ erraschende Inszenierungen sorgen für ein lebendiges Gesamterlebnis\, bei
+  dem das Publikum nicht nur zuschaut\, sondern Teil des Abends wird. Ein A
+ bend\, der verbindet\, begeistert und lange nachklingt: Wenn große Musica
+ lhits auf Spielfreude\, Nähe und echte Live-Atmosphäre treffen\, entsteh
+ t ein Erlebnis für alle Generationen. \n\nTickets für Best of Musicals i
+ n Ingolstadt sind ab sofort erhältlich. Weitere Informationen und Karten 
+ gibt es bei allen bekannten Vorverkaufsstellen sowie online.
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:34
 END:VEVENT
 END:VCALENDAR
