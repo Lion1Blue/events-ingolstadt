@@ -2,49 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:AufStand! - Jugendimpro (13-17 Jahre)
-DTSTART;TZID=Europe/Berlin:20261013T171500
-DTEND;TZID=Europe/Berlin:20261013T211500
-DTSTAMP:20261009T220007Z
-UID:aufstand-jugendimpro-13-17-jahre-20261013-1715@ifg-plattform.de
-RRULE:FREQ=WEEKLY;UNTIL=20270126T225959Z;INTERVAL=1;BYDAY=TU
-DESCRIPTION:AufStand! – Improtheater für Jugendliche von 13 bis 17 Jahr
- en. In zwölf Trainings geht es um Spontanität\, Fantasie\, Ausdruck und 
- Zusammenspiel. Vorerfahrung ist nicht erforderlich. Ein freiwilliger Auftr
- itt bei der Weihnachtsshow am 18.12.2026 ist möglich.
-LOCATION:Trainingsraum g'scheiterhaufen theater e.V.\, Am Stein 5\, 85049 
- Ingolstadt
-X-SCORE:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Murzarella - Bauchgesänge und andere Ungereimtheiten
-DTSTART;TZID=Europe/Berlin:20261013T220000
-DTEND;TZID=Europe/Berlin:20261014T003000
-DTSTAMP:20261009T220008Z
-UID:murzarella-bauchges-nge-und-andere-ungereimtheiten-20261013-2000@ifg-p
- lattform.de
-DESCRIPTION:Music-Puppet-Comedy\n\nEinlass: 19:40\n\nJeder kennt Bauchredn
- er\, mit Murzarella alias Sabine Murza erleben Sie die Kunst des Bauchgesa
- ngs. Murzarella singt nicht nur selbst\, sie lässt ihre Puppen singen. Di
- e preisgekrönte Bauchsängerin\, mit Wurzeln in Gelsenkirchen\, ist in al
- l ihrer Vielseitigkeit– zwischen musikalischer Professionalität\, defti
- gem Ruhrwitz und perfekter Bauchrednerkunst – vor allem eines: ein Phän
- omen. Da gibt es Kalle\, die Kanalratte und Heavy-Metal-Fan aus Wanne-Eick
- el\, Frau Adelheid\, die Opern schmetternde Diva und Dudu\, der freche Kak
- adu und Möchtegern-Schlager-Star. Die selbstbewussten Puppen genießen ih
- ren Auftritt und lassen keine Gelegenheit aus\, Murzarella die Show zu ste
- hlen. Ohne Mühe haucht Murzarella den Puppen herzerfrischende Individuali
- tät und Leben ein. Sie sind das attraktive Highlight einer Show voller Ra
- sanz und in bester Comedy-Manier. Mit ihren Puppen begibt sich Murzarella 
- in witzige\, wortgewaltige Dialoge\, unterbrochen von gelungener musikalis
- cher Performance. Alles ist live gesungen. Überzeugen Sie sich selbst\, u
- nd lassen Sie sich von dieser einzigartigen Show begeistern. Wetten\, dass
-  Sie anschließend glauben\, Sie hätten wirklich singende Puppen erlebt?
-LOCATION:Stadttheater Neuburg\, Residenzstraße A 67\, 86633 Neuburg a.d.D
- onau
-X-SCORE:26
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lesung aus dem Buch "Reden wir über Sterben" von Petra Bartoli y 
  Eckert
 DTSTART;TZID=Europe/Berlin:20261014T200000
