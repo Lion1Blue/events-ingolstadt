@@ -2,85 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Lesung aus dem Buch "Reden wir über Sterben" von Petra Bartoli y 
- Eckert
-DTSTART;TZID=Europe/Berlin:20261014T200000
-DTEND;TZID=Europe/Berlin:20261015T015900
-DTSTAMP:20261009T220007Z
-UID:lesung-aus-dem-buch-reden-wir-ber-sterben-von-petra-bartoli-y-eckert-2
- 0261014-1800@ifg-plattform.de
-DESCRIPTION:Lesung im Elisabeth Hospiz\n\nEinlass: 17:30\n\nKurzinfo zum B
- uch:\nPetra Bartoli y Eckert hat sich mit dem Sachbuch „Reden wir übers
-  Sterben“ einem\nThema gestellt\, das zu den wenigen Tabuthemen unserer 
- Gesellschaft zählt. Denn\nfest steht: Mit dem Tod werden wir früher oder
-  später alle konfrontiert. Für ihre\nRecherche hat sie sich zu Fuß auf 
- den Münchner Jakobsweg gemacht. Dabei ist sie\nmit Menschen ins Gespräch
-  gekommen\, die ihre ganz eigene Beziehung zum\nSterben haben: mit einer B
- estatterin\, einem Sargmaler\, einer Trauerrednerin\, dem\nKabarettisten G
- erhard Polt und einer Palliativmedizinerin. Am Ende ihres Weges\nstand fes
- t: Reden über den Tod macht ihn nicht besser\, aber es nimmt die Angst un
- d\nden Schrecken davor. Und über den Tod reden hat viele Facetten: Es ist
-  traurig\,\nberühren\, aber es kann auch heiter und humorvoll sein. Die A
- utorin liest aus ihrem\nBuch. Anschließend ist Möglichkeit zum Gespräch
- .
-LOCATION:Elisabeth Hospiz Ingolstadt\, Unterer Graben 26b\, 85049 Ingolsta
- dt\, Parkmöglichkeiten: \nSchlossparkplatz oder Volkfestparkplatz.
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wann wird es endlich wieder so\, wie es nie war
-DTSTART;TZID=Europe/Berlin:20261014T220000
-DTEND;TZID=Europe/Berlin:20261015T015900
-DTSTAMP:20261009T220008Z
-UID:wann-wird-es-endlich-wieder-so-wie-es-nie-war-20261014-2000@ifg-plattf
- orm.de
-DESCRIPTION:Kinofilm (Deutschland\, 2023)\n\nAuf dem Gelände der größte
- n psychiatrischen Klinik Schleswig-Holsteins aufzuwachsen ist irgendwie 
- – anders. Für Joachim\, den jüngsten Sohn von Direktor Meyerhoff (Devi
- d Striesow)\, gehören die Patient*innen quasi zur Familie. Sie sind auch 
- viel netter zu ihm als seine beiden älteren Brüder\, die ihn in rasende 
- Wutanfälle treiben. Seine Mutter (Laura Tonke) sehnt sich Aquarelle malen
- d nach italienischen Sommernächten statt norddeutschem Dauerregen\, währ
- end der Vater heimlich\, aber doch nicht diskret genug\, seine eigenen Weg
- e geht. Doch während Joachim langsam erwachsen wird\, bekommt seine Welt\
- , nicht nur durch den Verlust der ersten Liebe\, immer mehr Risse... (Quel
- le: Warner Bros. Entertainment Inc.)\n\n\nIm Anschluss an den Film findet 
- eine Diskussion statt.
-LOCATION:Audi Programmkino\, Ettinger Str.\, 85045 Ingolstadt
-X-SCORE:16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:T.Raum.Phase #06
-DTSTART;TZID=Europe/Berlin:20261014T220000
-DTEND;TZID=Europe/Berlin:20261014T230000
-DTSTAMP:20261009T220008Z
-UID:t-raum-phase-06-20261014-2000@ifg-plattform.de
-DESCRIPTION:T.Raum.Phase #06 – Anëira: Die Stadt\, in der Träume abgeg
- eben werden\n\nEinlass: 19:00\n\nT.Raum.Phase #06 – Anëira: Die Stadt\,
-  in der Träume abgegeben werden\n\nWillkommen in Anëira – einer Stadt 
- aus Atem\, Licht und Erwartung. Ein Ort zwischen Verheißung und Irritatio
- n\, zwischen Aufbruch und Erinnerung. Wer Anëira betritt\, wird Teil eine
- r Welt\, in der Träume\, Wünsche und Sorgen plötzlich eine ganz eigene 
- Bedeutung bekommen.\n\nT.Raum.Phase #06 verbindet Schauspiel\, Live-Musik\
- , Licht und Raum zu einer immersiven Inszenierung\, bei der die Grenze zwi
- schen Bühne und Publikum immer wieder verschwindet. Wie viel Raum geben w
- ir unseren Träumen? Was tragen wir mit uns\, was lassen wir zurück – u
- nd was geschieht\, wenn persönliche Wünsche auf die Regeln einer Gemeins
- chaft treffen?\n\nDurch Anëira führt Benjamin Dami als Gastgeber des Abe
- nds. Die Musik wird live gespielt von Claudius Konrad (Gesang\, Gitarre)\,
-  Stefan Puppele (Gitarre)\, Benedikt Streicher (Piano\, Rhodes\, Synthesiz
- er)\, Tom Sendtner (Bass) und Tom Diewock (Schlagzeug). Ava Konrad ist als
-  Sängerin Teil der Inszenierung.\n\nIn sechs ineinander übergehenden Pha
- sen entsteht eine Geschichte\, die weniger erklärt als erleben lässt. Mu
- sik wird zu Handlung\, Raum wird Teil der Erzählung und das Publikum selb
- st zu einem Bestandteil von Anëira.\n\nEine Reise über Träume\, Zugehö
- rigkeit und die Frage\, was wir bewahren wollen.\n\nMit freundlicher Unter
- stützung der Stadt Ingolstadt und des Lions Club Ingolstadt.
-LOCATION:Foyer des Stadttheaters Ingolstadt\, Schlosslände 1\, 85049 Ingo
- lstadt
-X-SCORE:32
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herrliches Herrnbräu live erleben!
 DTSTART;TZID=Europe/Berlin:20261015T190000
 DTEND;TZID=Europe/Berlin:20261015T210000
@@ -5438,5 +5359,41 @@ DESCRIPTION:DAS ORIGINAL\, IMMER WIEDER NEU!\n\nEinlass: 18:00\n\nINGOLSTA
  gibt es bei allen bekannten Vorverkaufsstellen sowie online.
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:34
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Impro ausprobieren – 5x eintauchen!
+DTSTART;TZID=Europe/Berlin:20270112T193000
+DTEND;TZID=Europe/Berlin:20270112T223000
+DTSTAMP:20261009T220008Z
+UID:impro-ausprobieren-5x-eintauchen-20270112-1930@ifg-plattform.de
+RRULE:FREQ=WEEKLY;UNTIL=20270216T225959Z;INTERVAL=1;BYDAY=TU
+DESCRIPTION:Fünf Einheiten zum Kennenlernen des Improvisationstheaters: s
+ pielerische Warm-ups\, einfache Impro-Übungen\, erste Szenen\, Figuren un
+ d Beziehungen sowie gemeinsames Geschichtenerzählen. Geeignet für Einste
+ iger:innen ohne Vorerfahrung.
+LOCATION:Trainingsraum g'scheiterhaufen theater e.V.\, Am Stein 5\, 85049 
+ Ingolstadt
+X-SCORE:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Les Nuits Barbares
+DTSTART;TZID=Europe/Berlin:20270112T210000
+DTEND;TZID=Europe/Berlin:20270112T233000
+DTSTAMP:20261009T220008Z
+UID:les-nuits-barbares-20270112-2000@ifg-plattform.de
+DESCRIPTION:Ballet\n\nEinlass: 19:40\n\n„This is a story about a path\, 
+ it's always about a path....“ (Hervé Koubi)\n\nFünf Jahre Leben zwisch
+ en Frankreich und Algerien inspirierten Hervé Koubi mit seinen Tänzern z
+ u einer Zeitreise zu den vergangenen Kulturen der sogenannten barbarischen
+  Völker rund um das Mittelmeer. Er entdeckt\, dass die verschiedenen Kult
+ uren bis in die Gegenwart hinein in uns weiterleben und dass sie die heuti
+ gen orientalischen und westlichen Mittelmeerländer stärker verbinden als
+  trennen. Im Lichte der gemeinsamen Geschichte streckt er die Hand nach de
+ n gar nicht so fremden Nachbarn aus und glaubt an eine universale Kultur u
+ nd eine gemeinsame Zukunft.\nWir beginnen bewußt zu ahnen\, daß Erinneru
+ ngen und Spuren längst vergangener Generationen in uns fortleben.
+LOCATION:Stadttheater Neuburg\, Residenzstraße A67\, 86633 Neuburg an der
+  donau
+X-SCORE:23
 END:VEVENT
 END:VCALENDAR
