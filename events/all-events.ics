@@ -2,71 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:drink&amp\;draw
-DTSTART;TZID=Europe/Berlin:20261016T200000
-DTEND;TZID=Europe/Berlin:20261016T220000
-DTSTAMP:20261009T220008Z
-UID:drink-amp-draw-20261016-1800@ifg-plattform.de
-DESCRIPTION:Für Erwachsene · 2\,5 Stunden · Material und ein Spritzgetr
- änk inklusive ·  50 € pro Person\n\nEinlass: 18:00\n\nBeim Drink &amp\
- ; Draw verbringen wir einen entspannten kreativen Abend im KUNSCHT. Ihr ma
- lt zu einem gemeinsamen Thema oder entwickelt euer ganz eigenes Motiv. Dab
- ei könnt ihr verschiedene Farben und Techniken ausprobieren und bekommt U
- nterstützung\, wo ihr sie braucht.\n\nVorkenntnisse sind nicht nötig. Es
-  geht um die Freude am Gestalten\, ums Zusammensitzen und darum\, am Ende 
- mit einem eigenen Bild nach Hause zu gehen – oder aber noch auf ein weit
- eres Getränk gegenüber ins KIESCH mit Konzert.
-LOCATION:kunSCHT\, Pfarrgasse 2-4\, 85049 Ingolstadt
-X-SCORE:19
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Abba
-DTSTART;TZID=Europe/Berlin:20261016T220000
-DTEND;TZID=Europe/Berlin:20261017T015900
-DTSTAMP:20261009T220008Z
-UID:abba-202610161000000000-2000@ifg-plattform.de
-DESCRIPTION:Unforgettable\n\nEinlass: 19:00\n\nEine unvergessliche Show er
- wartet Sie bei Abba - Unforgettable\, welche Sie in IhreKindheit und Jugen
- d zurück katapultiert und Ihnen mit ihrer einzigartigen Stimmung einunver
- gessliches Erlebnis bereiten wird!\nBei Welthits wie „Dancing Queen“\,
-  „S.O.S“ oder „Super Trooper“ ist mitsingen undmittanzen nicht nur
-  erlaubt\, sondern erwünscht!Abba - Unforgettable nimmt Sie mit auf eine 
- unvergessliche Zeitreise. Erleben SiePartystimmung pur bei Hits wie „Mam
- ma Mia“ oder „Lay all your Love on Me“ aber auchgefühlvolle Momente
-  und Gänsehaut pur bei Songs wie „I Have a Dream“ oder „Fernando“
- . Bei Abba - Unforgettable können Sie die nächste Dancing Queen werden 
- – lassen Sie sich ineine schillernde Welt voller Glitzer\, Disco- und Pa
- rtyfeeling entführen und erleben Sieunvergessliche Stunden. Sie erwarten 
- professionelle Künstler\, die mit ihrem Auftritt den vierSchweden alle Eh
- re machen und eine einzigartige Show aufs Parkett bringen. Ihre Zeitreise 
- zurück in die 70er!
-LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:20
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tango mit da Ziach - Großstadt Boazn
-DTSTART;TZID=Europe/Berlin:20261016T220000
-DTEND;TZID=Europe/Berlin:20261017T015900
-DTSTAMP:20261009T220008Z
-UID:tango-mit-da-ziach-gro-stadt-boazn-20261016-2000@ifg-plattform.de
-DESCRIPTION:Barhocker\n\nEinlass: 19:00\n\nDie Großstadt Boazn entführt 
- die Zuhörer mit ihrem neuen Programm quasi direkt an den Tresen einer uri
- gen Münchner Kneipe und fesselt sie auf den imaginären Barhocker. Die dr
- ei Musiker unterhalten ihr Publikum mit origineller Volksmusik\, sie schre
- iben Lieder\, die eins zu eins in eine Boazn-Jukebox passen würden und gr
- aben alt-bekannte Songs aus\, von denen man schon längst vergessen hat\, 
- dass man sie mal mochte. Elegant pendeln sie dabei zwischen Tradition und 
- Moderne\, zwischen tiefgründigen Texten und satirisch-unterhaltsamen Gass
- enhauern. Längst haben sich die drei Musiker einen wieder erkennbaren und
-  einzigartigen Sound erspielt\, der sie nicht nur auf diversen Kleinkunst-
-  und Festivalbühnen\, sondern auch bei verschiedenen Fernsehproduktionen 
- wie den BR Brettl-Spitzen oder den BR Wirtshausmusikanten zu gern gesehene
- n Gästen macht. \n\nBirgit Tomys (Baritonsaxofon)\nMatthias Pürner (Ziac
- h)\nBeni Landenhammer (Gitarre)\n\nwww.grossstadtboazn.de
-LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
-X-SCORE:46
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:"HERBSCHT" im Zehenthof
 DTSTART;TZID=Europe/Berlin:20261017T120000
 DTEND;TZID=Europe/Berlin:20261017T180000
@@ -5234,5 +5169,23 @@ DESCRIPTION:Ballet\n\nEinlass: 19:40\n\n„This is a story about a path\,
 LOCATION:Stadttheater Neuburg\, Residenzstraße A67\, 86633 Neuburg an der
   donau
 X-SCORE:23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5. Abonnementkonzert
+DTSTART;TZID=Europe/Berlin:20270114T210000
+DTEND;TZID=Europe/Berlin:20270115T005900
+DTSTAMP:20261009T220008Z
+UID:5-abonnementkonzert-20270114-2000@ifg-plattform.de
+DESCRIPTION:Hayoung Choi: Violoncello -     Jascha von der Goltz: Leitung\
+ n\n„Selbst im Orchester gespielt zu haben\, das eröffnet Verständnis f
+ ür die andere Seite“\, so Jascha von der Goltz. Er muss es wissen. Aufg
+ ewachsen in einer bekannten Musikerfamilie\, beherrscht er Cello\, Klavier
+  und Schlagwerk. Auch als Dirigent hat er sich längst einen Namen gemacht
+ . Mit der Jungcellistin Hayoung Choi stellt er sich in Ingolstadt vor.\n\n
+ Programm:\n\nEdvard Grieg: Two Elegiac Melodies\, op. 34\nJoseph Haydn: Ce
+ llokonzert Nr. 1 C-Dur\nEdvard Grieg: Two Melodies op. 53\nWolfgang Amadeu
+ s Mozart: Sinfonie Nr. 29 A-Dur\, KV 201
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:26
 END:VEVENT
 END:VCALENDAR
