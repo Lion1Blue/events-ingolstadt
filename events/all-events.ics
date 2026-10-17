@@ -2,170 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:"HERBSCHT" im Zehenthof
-DTSTART;TZID=Europe/Berlin:20261017T120000
-DTEND;TZID=Europe/Berlin:20261017T180000
-DTSTAMP:20261009T220008Z
-UID:herbscht-im-zehenthof-20261017-1000@ifg-plattform.de
-DESCRIPTION:Herbstmarkt im Zehenthof mit kiesch + kunscht + Wilde 13\n\nEi
- nlass: 10:00\n\nDer Herbst steht vor der Tür – und mit ihm das gemütli
- chste Event der Saison! \n\nAm Herbscht-Markt im historischen Zehenthof In
- golstadt verwandelt sich der charmante Innenhof in eine Oase für Entdecke
- r\, Kreative und Vintage-Liebhaber.\n\nWenn du Lust hast auf einen entspan
- nten Tag voller Inspiration\, bist du hier genau richtig. \n\nDas erwartet
-  dich beim „Herbscht“:\n\n• Vintage-Schätze von "Wilde 13": Schnapp
-  dir einen heißen Kaffee und stöbere durch Kleiderstangen voller einziga
- rtiger Vintage-Klamotten. Perfekt\, um deinen Kleiderschrank mit nachhalti
- gen Key-Pieces für die kühlere Jahreszeit aufzupeppen.\n\n• Kleine St
- ände zum Stöbern: Lokale Aussteller und kleine Manufakturen bringen lieb
- evoll ausgewählte Kleinigkeiten mit. Von handgemachten Deko-Ideen über A
- ccessoires bis hin zu kulinarischen Kleinigkeiten gibt es an jeder Ecke et
- was Neues zu entdecken.\n\n• Die künstlerische Ecke von "kunscht": Lass
-  dich treiben und tauche ein in unsere Kreativ-Zone.\nKlecksen\, basteln\,
-  Malen ist die Devise! \n\nKomm vorbei\, schnapp dir deine Freunde oder Fa
- milie und genieße die besondere Atmosphäre im Zehenthof. Der „Herbscht
- “ ist die perfekte Gelegenheit\, um das Wochenende gemütlich einzuläut
- en\, Kunst zu genießen und das eine oder andere Lieblingsstück zu ergatt
- ern.
-LOCATION:kiss the kiesch\, Pfarrgasse 8\, 85049 Ingolstadt
-X-SCORE:11
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Führung Kreuztor
-DTSTART;TZID=Europe/Berlin:20261017T130000
-DTEND;TZID=Europe/Berlin:20261017T140000
-DTSTAMP:20261009T220008Z
-UID:f-hrung-kreuztor-20261017-1100@ifg-plattform.de
-DESCRIPTION:Förderverein Kreuztor lädt zu Führungen im Wahrzeichen\n\nE
- inlass: 10:55\n\nMehr über das Kreuztor und seine Geschichte können Inte
- ressierte bei monatlichen Führungen erfahren. Zu diesem Angebot laden die
-  Mitglieder des Fördervereins einmal monatlich ins Kreuztor\, jeweils am 
- Samstagvormittag.\n\nDabei geht es um die Entstehungsgeschichte des Festun
- gsbaus\, seine Funktion als Stadttor\, und seine heutige Nutzung. Auch dar
- um\, was Kaiser Napoleon und den Märchenkönig Ludwig II. mit dem Kreuzto
- r verbindet und welche Bedeutung der Halbmond auf der Turmspitze hat. Der 
- Eintritt zu den Führungen ist kostenlos\, eine Anmeldung ist nicht erford
- erlich.
-LOCATION:Kreuztor\, Kreuzstraße\, 85049 Ingolstadt
-X-SCORE:12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Zwergenwerkstatt im Museum: Herbst
-DTSTART;TZID=Europe/Berlin:20261017T163000
-DTEND;TZID=Europe/Berlin:20261017T183000
-DTSTAMP:20261009T220008Z
-UID:zwergenwerkstatt-im-museum-herbst-20261017-1430@ifg-plattform.de
-DESCRIPTION:Als Einstimmung werden herbstliche Geschichten vorgelesen und 
- danach farbenfrohe Herbstkunstwerke gestaltet. Ob aus gepressten Blättern
-  oder mit Farben\, die Ergebnisse werden so bunt und schön wie die Natur 
- draußen.\n\nReservierungen sind nicht möglich. Karten sind im Vorverkauf
-  in unserem Onlineshop oder an der Kasse des jeweiligen Museums erhältlic
- h. An der Kasse des Stadtmuseums gibt es auch Tickets für die Veranstaltu
- ngen im Bauerngerätemuseum und im Marieluise-Fleißerhaus. Kartenzahlung 
- nur im Stadtmuseum möglich! Bei den Karten für die Kinderprogramme hande
- lt es sich lediglich um die Tickets für die Kinder. Falls Erwachsene ihre
-  Kinder begleiten möchten\, können sie ein reguläres Eintrittsticket an
-  der Kasse erwerben. Bei den angegebenen Zeiten handelt es sich um von bis
-  Uhrzeiten.\n\nDas Programm ist für Kinder ab 3 Jahren.
-LOCATION:Stadtmuseum\, Auf d. Schanz 45\, 85049 Ingolstadt
-X-SCORE:10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Theater Kaviar trifft Currywurst
-DTSTART;TZID=Europe/Berlin:20261017T213000
-DTEND;TZID=Europe/Berlin:20261018T015900
-DTSTAMP:20261009T220007Z
-UID:theater-kaviar-trifft-currywurst-20261017-1930@ifg-plattform.de
-DESCRIPTION:Einlass: 18:30\n\nKaviar trifft Currywurst\nBühne: Schanzer V
- olksbühne im MTV 19881 Ingolstadt\nGenre: Komödie\nAutorin: Winnie Abel\
- nRegie: Stephan Weidner-Bohnenberger\, Claudia Günter \n\nVeranstaltungso
- rt: Vereinsgaststätte\, Friedhofstr. 10\, 85049 Ingolstadt\n\nTermine: \n
- 17.10. 19:30\, \n18.10. 17:30\, \n24.10. 19:30\, \n25.10. 17:30\, \n31.10.
-  19:30\, \n01.11. 17:30\n\nIn Ernas gemütlicher „Eckkneipe“ „Zum wa
- rmen Würscht´l“ bricht Panik aus\, als sich ihre neureiche Cousine zu 
- Besuch anmeldet. Grund dafür ist: Erna muss innerhalb 24 Stunden ihre her
- untergekommene Kneipe in ein Edel-Lokal verwandeln\, da ihre Cousine sie f
- inanziell unterstützt\, in dem Glauben\, dass sie ein gut laufendes Gourm
- et-Restaurant führt. Für ihre einfache Kneipe hätte sie ihr niemals so 
- viel Geld geliehen. Nun muss Erna so tun\, als sei sie eine Spitzengastron
- omin. Dies stellt ihren beschaulichen Alltag und den ihrer Stammkundschaft
-  gehörig auf den Kopf. Was folgt\, ist ein rasantes\, lustiges Verwechslu
- ngsspiel\, bei dem schiefläuft\, was nur schieflaufen kann…
-LOCATION:MTV Gaststätte\, Friedhofstr 10\, 85049 Ingolstadt
-X-SCORE:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Das Abschiedsdinner
-DTSTART;TZID=Europe/Berlin:20261017T213000
-DTEND;TZID=Europe/Berlin:20261018T015900
-DTSTAMP:20261009T220008Z
-UID:das-abschiedsdinner-20261017-1930@ifg-plattform.de
-DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
- e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
- chaft beenden möchte\, die mehr Verpflichtung als Vergnügen geworden ist
- ? Ein Bekannter erzählt Pierre von einer todsicheren Methode\, unliebsame
-  Freunde für immer loszuwerden\, ohne dass diese davon wissen. Kurzentsch
- lossen laden Pierre und seine Frau Clotilde\, Bea und Antoine zu einem let
- zten gemeinsamen Abendessen ein. Dafür wird alles perfekt arrangiert. Doc
- h Antoine kommt überraschend allein\, und das ist erst der Anfang. Zudem 
- scheint nämlich auch er von der Methode des Abschiedsdinners gehört zu h
- aben und ist nicht gewillt\, sich einfach abwimmeln zu lassen.\n\nDie fran
- zösischen Erfolgsautoren Matthieu Delaporte und Alexandre de la Patelliè
- re schicken die beiden Freunde in einen pointenreichen Schlagabtausch mit 
- überraschendem Finale. Unterhaltung in bester Tradition des französische
- n Boulevards.\n\nSally Kretschmann absolvierte zunächst eine Ausbil dung 
- zur Musicaldarstellerin. Im Anschluss nahm sie ihr Regie studium an der Ak
- ademie für Darstellende Kunst Bayern auf\, das sie 2024 abgeschlossen hat
- . Seit der Spielzeit 2024/25 ist sie als Regieassistentin am Stadttheater 
- Ingolstadt tätig und wird dort nun mit „Das Abschiedsdinner“ ihr Regi
- edebüt geben.
-LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heaven In Hell
-DTSTART;TZID=Europe/Berlin:20261017T220000
-DTEND;TZID=Europe/Berlin:20261018T015900
-DTSTAMP:20261009T220008Z
-UID:heaven-in-hell-20261017-2000@ifg-plattform.de
-DESCRIPTION:80’s Rock LIVE\n\nEinlass: 19:00\n\nMit hohem musikalischen 
- Anspruch bringt Heaven in Hell den 80er Rock auf die Bühne. Heaven in He
- ll begeistert mit zahlreichen\, energiegeladenen Classic-Rock Titeln wie: 
- Don’t Stop Believin’ (Journey)\, Shadow On The Wall (Mike Oldfield)\, 
- Urgent (Foreigner)\, Turn Me Loose (Loverboy)\, überrascht zudem mit Aku
- stik-Versionen einzelner Titel und setzt den Songs seinen eigenen feinen A
- kzent auf.\n\nHeaven in Hell hatte bereits die Ehre mit Rocklegenden wie T
- he Sweet\, Uriah Heep\, Slade\, Manfred Mann’s Earth Band\, Gotthard und
-  Mother’s Finest gemeinsame Konzerte zu geben. Der Rocksound der 80er - 
- er ist wieder da. Hart und energiegeladen. Sanft und groovig. Wummernde Be
- ats und filigrane Gitarrenattacken. Starke Powerchords und stimmgewaltige 
- Balladen.\n\nHeaven in Hell - A Tribute To 80's Rock.
-LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:33
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HEAVEN IN HELL  85057 Ingolstadt eventhalle Westpark
-DTSTART;TZID=Europe/Berlin:20261017T220000
-DTEND;TZID=Europe/Berlin:20261018T015900
-DTSTAMP:20261009T220009Z
-UID:heaven-in-hell-85057-ingolstadt-eventhalle-westpark-20261017-2000@ifg-
- plattform.de
-DESCRIPTION:LIVE - 80s - ROCK\n\nEinlass: 19:00\n\nEinlass // 19.00 Uhr\nB
- eginn // 20.00 Uhr\n\nMit hohem musikalischen Anspruch bringt Heaven in He
- ll den 80er Rock auf die Bühne. Heaven in Hell begeistert mit zahlreichen
- \, energiegeladenen Classic-Rock Titeln u.a. von: Journey\, Foreigner\, To
- to\, Queen\, Whitesnake\, Van Halen\, Deep Purple\, U2\, überrascht zudem
-  mit Akustik-Versionen einzelner Titel und setzt den Songs seinen eigenen 
- feinen Akzent auf.\n\nHeaven in Hell hatte bereits die Ehre mit Rocklegend
- en wie The Sweet\, Uriah Heep\, Slade\, Manfred Mann’s Earth Band und Go
- tthard gemeinsame Konzerte zu geben. \n\nDer Rocksound der 80er - er ist w
- ieder da. Hart und energiegeladen. Sanft und groovig. Wummernde Beats und 
- filigrane Gitarrenattacken. Starke Powerchords und stimmgewaltige Balladen
- . Heaven in Hell - A Tribute To 80's Rock.
-LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:33
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Radtour NaTourGenuss - Zum Alten Wirt in Gungolding
 DTSTART;TZID=Europe/Berlin:20261018T120000
 DTEND;TZID=Europe/Berlin:20261018T200000
@@ -5187,5 +5023,73 @@ DESCRIPTION:Hayoung Choi: Violoncello -     Jascha von der Goltz: Leitung\
  s Mozart: Sinfonie Nr. 29 A-Dur\, KV 201
 LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:26
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachts im Stadtmuseum
+DTSTART;TZID=Europe/Berlin:20270115T200000
+DTEND;TZID=Europe/Berlin:20270115T211500
+DTSTAMP:20261009T220008Z
+UID:nachts-im-stadtmuseum-20270115-1900@ifg-plattform.de
+DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
+ schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
+ ne Zeitreise antreten und begegnen dabei einer ganzen Reihe prominenter In
+ golstädter aus der Vergangenheit.\n\nAngeführt vom verschrobenen Museums
+ wärter beleuchtet die Erlebnisführung „Nachts im Stadtmuseum“ versch
+ iedene Kapitel der Ingolstädter Geschichte. An verschiedenen Stellen mach
+ en wir Halt an besonderen Exponaten und erzählen in kurzen Spielszenen ih
+ re Geschichte. Vom herzoglichen Hof zur Universität\, von Jesuiten zu den
+  Illuminaten\, von den rauen Sitten des Dreißigjährigen Krieges zur erba
+ uenden Musik eines Adolph Scherzer\, von der Zeit\, als man in Ingolstadt 
+ des Schwedenkönigs Pferd erschoss\, bis hin zu den Tagen\, als hier noch 
+ Schnupftabak produziert wurde.\n\nVerschiedene historische Persönlichkeit
+ en treten dabei in Aktion\, mit dabei sind Herzog Ludwig der Gebartete\, d
+ er Kanzler der Universität Johannes Eck\, der Jesuitenpater Christoph Sch
+ einer\, der Schütze\, der Gustav Adolfs Pferd zur Strecke brachte\, Illum
+ inaten-Gründer Adam Weishaupt oder der Komponist des Bayerischen Defilier
+ marschs Adolph Scherzer.\n\n„Es ist ein unterhaltsamer\, informativer un
+ d spannender Bogen\, quer durch die Stadtgeschichte“\, so Michael Klarne
+ r\, einer der Autoren des Programms. Wesentliches Anliegen ist\, schlaglic
+ htartig Episoden aus der reichen Historie Ingolstadts zu beleuchten und du
+ rch die szenische Aufbereitung eine anregende und emotionale Verknüpfung 
+ zu schaffen\, Geschichte für den Besucher erlebbar zu machen.\n\nDauer ca
+ . 70 Minuten.\n\nWir empfehlen eine Teilnahme ab 12 Jahren.\n\nEs handelt 
+ sich nicht um eine Gruselführung. Es müssen keine Taschenlampen mitgebra
+ cht werden.
+LOCATION:Stadtmuseum\, Auf d. Schanz 45\, 85049 Ingolstadt
+X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Nachts im Stadtmuseum
+DTSTART;TZID=Europe/Berlin:20270115T213000
+DTEND;TZID=Europe/Berlin:20270115T224500
+DTSTAMP:20261009T220008Z
+UID:nachts-im-stadtmuseum-20270115-2030@ifg-plattform.de
+DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
+ schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
+ ne Zeitreise antreten und begegnen dabei einer ganzen Reihe prominenter In
+ golstädter aus der Vergangenheit.\n\nAngeführt vom verschrobenen Museums
+ wärter beleuchtet die Erlebnisführung „Nachts im Stadtmuseum“ versch
+ iedene Kapitel der Ingolstädter Geschichte. An verschiedenen Stellen mach
+ en wir Halt an besonderen Exponaten und erzählen in kurzen Spielszenen ih
+ re Geschichte. Vom herzoglichen Hof zur Universität\, von Jesuiten zu den
+  Illuminaten\, von den rauen Sitten des Dreißigjährigen Krieges zur erba
+ uenden Musik eines Adolph Scherzer\, von der Zeit\, als man in Ingolstadt 
+ des Schwedenkönigs Pferd erschoss\, bis hin zu den Tagen\, als hier noch 
+ Schnupftabak produziert wurde.\n\nVerschiedene historische Persönlichkeit
+ en treten dabei in Aktion\, mit dabei sind Herzog Ludwig der Gebartete\, d
+ er Kanzler der Universität Johannes Eck\, der Jesuitenpater Christoph Sch
+ einer\, der Schütze\, der Gustav Adolfs Pferd zur Strecke brachte\, Illum
+ inaten-Gründer Adam Weishaupt oder der Komponist des Bayerischen Defilier
+ marschs Adolph Scherzer.\n\n„Es ist ein unterhaltsamer\, informativer un
+ d spannender Bogen\, quer durch die Stadtgeschichte“\, so Michael Klarne
+ r\, einer der Autoren des Programms. Wesentliches Anliegen ist\, schlaglic
+ htartig Episoden aus der reichen Historie Ingolstadts zu beleuchten und du
+ rch die szenische Aufbereitung eine anregende und emotionale Verknüpfung 
+ zu schaffen\, Geschichte für den Besucher erlebbar zu machen.\n\nDauer ca
+ . 70 Minuten.\n\nWir empfehlen eine Teilnahme ab 12 Jahren.\n\nEs handelt 
+ sich nicht um eine Gruselführung. Es müssen keine Taschenlampen mitgebra
+ cht werden.
+LOCATION:Stadtmuseum\, Auf d. Schanz 45\, 85049 Ingolstadt
+X-SCORE:20
 END:VEVENT
 END:VCALENDAR
