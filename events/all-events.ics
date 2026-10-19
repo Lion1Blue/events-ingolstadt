@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Das Abschiedsdinner
-DTSTART;TZID=Europe/Berlin:20261019T213000
-DTEND;TZID=Europe/Berlin:20261020T015900
-DTSTAMP:20261009T220008Z
-UID:das-abschiedsdinner-20261019-1930@ifg-plattform.de
-DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
- e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
- chaft beenden möchte\, die mehr Verpflichtung als Vergnügen geworden ist
- ? Ein Bekannter erzählt Pierre von einer todsicheren Methode\, unliebsame
-  Freunde für immer loszuwerden\, ohne dass diese davon wissen. Kurzentsch
- lossen laden Pierre und seine Frau Clotilde\, Bea und Antoine zu einem let
- zten gemeinsamen Abendessen ein. Dafür wird alles perfekt arrangiert. Doc
- h Antoine kommt überraschend allein\, und das ist erst der Anfang. Zudem 
- scheint nämlich auch er von der Methode des Abschiedsdinners gehört zu h
- aben und ist nicht gewillt\, sich einfach abwimmeln zu lassen.\n\nDie fran
- zösischen Erfolgsautoren Matthieu Delaporte und Alexandre de la Patelliè
- re schicken die beiden Freunde in einen pointenreichen Schlagabtausch mit 
- überraschendem Finale. Unterhaltung in bester Tradition des französische
- n Boulevards.\n\nSally Kretschmann absolvierte zunächst eine Ausbil dung 
- zur Musicaldarstellerin. Im Anschluss nahm sie ihr Regie studium an der Ak
- ademie für Darstellende Kunst Bayern auf\, das sie 2024 abgeschlossen hat
- . Seit der Spielzeit 2024/25 ist sie als Regieassistentin am Stadttheater 
- Ingolstadt tätig und wird dort nun mit „Das Abschiedsdinner“ ihr Regi
- edebüt geben.
-LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
-X-SCORE:17
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:DIYnstag
 DTSTART;TZID=Europe/Berlin:20261020T200000
 DTEND;TZID=Europe/Berlin:20261020T220000
@@ -4905,5 +4877,23 @@ DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  cht werden.
 LOCATION:Stadtmuseum\, Auf d. Schanz 45\, 85049 Ingolstadt
 X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FASSzination: Das bayrische Magic Dinner
+DTSTART;TZID=Europe/Berlin:20270117T190000
+DTEND;TZID=Europe/Berlin:20270117T220000
+DTSTAMP:20261009T220008Z
+UID:fasszination-das-bayrische-magic-dinner-20270117-1800@ifg-plattform.de
+DESCRIPTION:mit Florian Otto\n\nEinlass: 17:00\n\nEin Abend voller Magie &
+ amp\; Humor: Eine kulinarische Reise in die Welt der weißblauen Zauberkun
+ st. Der bekannte Magier Florian Otto präsentiert Ihnen seine einzigartige
+  Kabarett Zaubershow zum Lachen und Staunen als Magic Dinner.\n\nGanz nach
+  dem Motto "Es gibt nix\, wos ned gibt!" öﬀnet er ein großes Fass\, ra
+ ndgefüllt mit bayrischem Entertainment. Begleitet wird der Abend durch ei
+ n köstliches 3-Gänge-Menü vom Wirtshaus am Auwaldsee. Zauber-\, Kabaret
+ t- und Kulinarikfans kommen hier voll auf ihre Kosten. Sichern Sie sich Ih
+ re Tickets für das Zauber Dinner und lassen auch Sie sich FASSzinieren!
+LOCATION:Wirtshaus am Auwaldsee\, Am Auwaldsee 20\, 85053 Ingolstadt
+X-SCORE:21
 END:VEVENT
 END:VCALENDAR
