@@ -2,56 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:DIYnstag
-DTSTART;TZID=Europe/Berlin:20261020T200000
-DTEND;TZID=Europe/Berlin:20261020T220000
-DTSTAMP:20261009T220008Z
-UID:diynstag-20261020-1800@ifg-plattform.de
-DESCRIPTION:„Vögel zeichnen” – Online Workshop mit Gisela Goppel 
- – AUSGEBUCHT\n\nEinlass: 17:45\n\nWie lassen sich Vögel mit wenigen ein
- fachen Formen zeichnen? Und wie entsteht aus diesen Grundformen eine leben
- dige und charaktervolle Tierzeichnung?\n\nIn diesem Workshop zeigt die Ill
- ustratorin Gisela Goppel\, wie ihr euch Schritt für Schritt dem Zeichnen 
- von Vögeln nähern könnt. Dabei arbeitet ihr mit einfachen Grundformen\,
-  die euch helfen\, Proportionen\, Körperhaltung und typische Merkmale ein
- es Vogels zu erfassen. Die Kolorierung der Zeichnungen erfolgt in Aquarell
- farben.\n\nDiese Methode eignet sich sowohl für das Zeichnen aus der Vors
- tellung als auch für das Arbeiten mit Vorlagen oder eigenen Naturbeobacht
- ungen. Vögel sind dafür besonders spannend: Ihre Körperformen sind meis
- t kompakt und überschaubar – gleichzeitig bietet die Vielfalt der Arten
-  unzählige Möglichkeiten\, unterschiedliche Formen\, Haltungen und Chara
- ktere zu entdecken.\n\nGisela Goppel (*1980 in Regensburg) ist Illustrator
- in und arbeitet mit unterschiedlichen Mixed-Media-Techniken. In ihren Illu
- strationen verbindet sie eigenständigen Bildwelten.\n\nGemeinsam mit dem 
- Illustrator Florian Topernpong ist sie derzeit mit einer gemeinsamen Arbei
- t im Rahmen des Designwettbewerbs der Europäischen Zentralbank (EZB) vert
- reten. Ihre Serie zum Thema „Rivers and Birds” gehört zu den zehn aus
- gewählten Entwürfen\, die für das zukünftige Design der Euro-Banknoten
-  in Betracht gezogen werden.\n\nDer Workshop richtet sich sowohl an Anfän
- ger*innen als auch an kreativ arbeitende Menschen\, die ihre gestalterisch
- en Möglichkeiten erweitern möchten. Vorkenntnisse sind nicht erforderlic
- h.\n\n\nHINWEIS: Die Teilnehmenden bekommen per Post das notwendige Worksh
- opmaterial zugeschickt und erhalten einen Link zum Onlineworkshop.\n\nDas 
- Format „DIYnstag. Design it yourself. Kreativworkshop für Erwachsene”
-  wird durch Audi ArtExperience ermöglicht. Für diese freundliche Unterst
- ützung bedankt sich das MKK herzlich.
-LOCATION:Digital\, Videokonferenz
-X-SCORE:27
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hut-Konzert im Diagonal
-DTSTART;TZID=Europe/Berlin:20261020T220000
-DTEND;TZID=Europe/Berlin:20261021T003000
-DTSTAMP:20261009T220010Z
-UID:hut-konzert-im-diagonal-20261020-2000@ifg-plattform.de
-DESCRIPTION:von Singer/Songwriter bis Jazz\n\nEinlass: 19:00\n\nJeden Mona
- t findet im Diagonal ein Hut-Konzert statt - Eintritt frei. Es werden regi
- onale und überregionale Künstler präsentiert.
-LOCATION:Musikkneipe DIAGONAL powered by Amadeus\, Kreuzstraße 12\, 85049
-  Ingolstadt
-X-SCORE:14
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HELDIN
 DTSTART;TZID=Europe/Berlin:20261021T220000
 DTEND;TZID=Europe/Berlin:20261022T015900
@@ -4895,5 +4845,37 @@ DESCRIPTION:mit Florian Otto\n\nEinlass: 17:00\n\nEin Abend voller Magie &
  re Tickets für das Zauber Dinner und lassen auch Sie sich FASSzinieren!
 LOCATION:Wirtshaus am Auwaldsee\, Am Auwaldsee 20\, 85053 Ingolstadt
 X-SCORE:21
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gräfin Mariza
+DTSTART;TZID=Europe/Berlin:20270118T210000
+DTEND;TZID=Europe/Berlin:20270118T233000
+DTSTAMP:20261009T220008Z
+UID:gr-fin-mariza-20270118-2000@ifg-plattform.de
+DESCRIPTION:Operette\n\nEinlass: 19:40\n\nWir freuen uns auf die große Ne
+ uinszenierung der Gräfin Mariza\, Kálmáns musikalischem Feuerwerk in ö
+ sterreichisch-ungarischen Leuchtfarben!\n\nDie Mariza ist eines der Traumw
+ erke für jeden Operettenliebhaber\, und mit der famosen Neuen Operette Wi
+ en dürfen wir auch ein absolutes Fest erwarten. Bereits mit der Csárdás
+ fürstin und der Fledermaus haben Alexander M. Helmer und Laszlo Gyüker b
+ ewiesen\, dass sie mit einem glänzenden Sängerensemble wunderbare Inszen
+ ierungen schaffen\, die vor Schwung\, Charme und grandiosem Spiel nur so s
+ prühen. Die Bühne wird von Manfred Waba gestaltet\, einem der renommiert
+ esten Bühnenbildner Wiens\, der u.a. bereits für die Seefestspiele Mörb
+ isch\, St. Margarethen und andere Großereignisse verantwortlich zeichnete
+ . Eine ausgefeilte Lichtinszenierung und stilvolle Kostüme runden alles w
+ underschön ab. Die Sängerinnen und Sänger wählen wir über Vorsingen i
+ n Wien aus. Gerade macht unsere Stasi und Adele große Karriere\, bleibt a
+ ber auch uns weiterhin verbunden. Wir stehen für höchstes Niveau\, wofü
+ r auch unser musikalischer Leiter\, Laszlo Gyüker mitverantwortlich ist. 
+ Er wird als Chefdirigent des Wiener Opernballorchesters weltweit bejubelt 
+ und verpflichtet selbstverständlich Spitzenmusiker für unser Orchester.\
+ n\nDie neue Operette Wien vereint wunderbare Kompetenzen aus dem Herzen Wi
+ ens\, mit Künstlern\, die an der Wiener Volksoper agieren\,  genauso wie 
+ mit dem so wichtigen Netzwerk zu den Absolventen der renommierten Wiener A
+ usbildungsinstitute für Operette.
+LOCATION:Stadttheater Neuburg\, Residenzstraße A67\, 86633 Neuburg an der
+  donau
+X-SCORE:27
 END:VEVENT
 END:VCALENDAR
