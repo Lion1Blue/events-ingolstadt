@@ -2,58 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:HELDIN
-DTSTART;TZID=Europe/Berlin:20261021T220000
-DTEND;TZID=Europe/Berlin:20261022T015900
-DTSTAMP:20261009T220008Z
-UID:heldin-20261021-2000@ifg-plattform.de
-DESCRIPTION:Kinofilm (Schweiz\, Deutschland\, 2025)\n\nPflegefachkraft Flo
- ria arbeitet mit großer Leidenschaft und Professionalität in der Chirurg
- ie eines Schweizer Krankenhauses. Bei ihr sitzt jeder Handgriff\, sie hat 
- selbst in Stresssituationen immer ein offenes Ohr für ihre Patient:innen 
- und ist im Notfall sofort zur Stelle – idealerweise. Doch in der harten 
- Realität ihres oft schwer kalkulierbaren Alltags sieht das meist anders a
- us. Als Floria an diesem Tag ihre Spätschicht antritt\, fällt auf der vo
- ll belegten\, unterbesetzten Station eine Kollegin aus.Trotz aller Hektik 
- umsorgt Floria eine schwerkranke Mutter und einen alten Mann\, der dringen
- d auf seine Diagnose wartet\, ebenso fürsorglich und routiniert wie den P
- rivatpatienten mit all seinen Extrawünschen. Aber dann passiert ihr ein v
- erhängnisvoller Fehler und die Schicht droht\, völlig aus dem Ruder zu l
- aufen. Ein nervenzerrender Wettlauf gegen die Zeit beginnt …\n(Quelle: T
- OBIS Film GmbH)\n\n\nIm Anschluss an den Film findet eine Diskussion statt
- .
-LOCATION:Audi Programmkino\, Ettinger Str.\, 85045 Ingolstadt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Geld. Gier. Macht. Der Fall Cum Ex
-DTSTART;TZID=Europe/Berlin:20261021T220000
-DTEND;TZID=Europe/Berlin:20261022T003000
-DTSTAMP:20261009T220008Z
-UID:geld-gier-macht-der-fall-cum-ex-20261021-2000@ifg-plattform.de
-DESCRIPTION:Politthriller\n\nEinlass: 19:40\n\nDas neue Theaterstück von 
- Stefan Zimmermann beschäftigt sich mit den Hintergründen des Cum-Ex-Skan
- dales. Die leitende Bankangestellte Lena eröffnet ihrem Mann Emil in der 
- Neu jahrsnacht 2012\, dass ihr bestimmte Geschäfte Ihrer Bank unseriös v
- or kommen. Der gemeinsame Freund Lambert\, von Beruf Steueranwalt\, klärt
-  Lena auf\, dass Steuerbetrug in ungeheurem Ausmaß längst zu den „norm
- alen“ Geschäften vieler Banker und Fonds gehört. Der Staat wird mit de
- m Geschäftsmodell „Cum-Ex“ aus purer Geldgier systematisch um Milliar
- den betrogen. Lambert war selber daran beteiligt und will jetzt aus steige
- n. Lena beschließt aktiv zu werden. Ihr Mann und ihre beste Freundin Carl
- a wollen sie dabei unterstützen. Sie müssen allerdings erkennen\, dass d
- ie Erfinder des Modells offenbar bestens vernetzt sind und Beziehungen bis
-  in höchste Kreise pflegen. Kein leichtes Unterfangen. Aber Lena und ihre
-  Freunde geben nicht auf. Sie setzen Lockvögel\, versteckte Kameras und K
- ronzeugen ein\, um den Milliardenbetrug aufzudecken. Gerade in einer Zeit\
- , in der Steuergelder dringend benötigt werden\, sollen diejenigen\, die 
- sich bereichert haben\, und jene\, die es gedeckt haben\, zur Rechenschaft
-  gezogen werden.
-LOCATION:Stadttheater Neuburg\, Residenzstraße A67\, 86633 Neuburg an der
-  donau
-X-SCORE:10
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Philipp Stauber – Henning Sieverts Duo
 DTSTART;TZID=Europe/Berlin:20261022T200000
 DTEND;TZID=Europe/Berlin:20261023T015900
@@ -4877,5 +4825,32 @@ DESCRIPTION:Operette\n\nEinlass: 19:40\n\nWir freuen uns auf die große Ne
 LOCATION:Stadttheater Neuburg\, Residenzstraße A67\, 86633 Neuburg an der
   donau
 X-SCORE:27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ROLAND JANKOWSKY
+DTSTART;TZID=Europe/Berlin:20270119T210000
+DTEND;TZID=Europe/Berlin:20270120T005900
+DTSTAMP:20261009T220009Z
+UID:roland-jankowsky-20270119-2000@ifg-plattform.de
+DESCRIPTION:WENN OVERBECK KOMMT …\n\nEinlass: 19:00\n\nRoland Jankowsky 
+ kennen die meisten als den etwas sonderbaren Kommissar Overbeck aus der Ku
+ lt-Krimireihe „Wilsberg“. In dieser Paraderolle wurde der „Dirty Har
+ ry von Münster“ 2018 von den TV-Zuschauern zum „Coolsten Kommissar D
+ eutschlands“ gewählt. Roland Jankowsky aber verfügt über viele Tale
+ nte. Ob als Schauspieler im TV\, oder im Theater\, als Sänger oder als H
+ örbuchsprecher – sein komödiantisches Potential ist unverkennbar sein 
+ Markenzeichen. \n\nIn seiner Krimilesung „Wenn Overbeck kommt ...“ kan
+ n er dieses Markenzeichen und seine Talente voll ausschöpfen. In den vorg
+ etragenen „kriminellen“ Kurzgeschichten schafft er Lokalkolorit durch 
+ die passenden Dialekte und spielt und verkörpert die Protagonisten der St
+ ories derart lebendig\, dass die Zuhörer sie geradezu vor sich sehen. Dab
+ ei kommt auch der Humor nie zu kurz\, denn nicht jede Kugel\, die trifft\,
+  trifft auch den Richtigen. \n\nSo wird jede von Jankowskys Lesungen zu ei
+ nem augenzwinkernden und enorm unterhaltenden Erlebnis für jeden Krimifa
+ n. Am Dienstag\, dem 19.01.27\, liest Roland Jankowsky um 20:00 Uhr in der
+  Eventhalle Westpark in Ingolstadt. Tickets gibt es ab € 31\,25 unter ww
+ w.stagecat.de und an allen Vorverkaufskassen.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:23
 END:VEVENT
 END:VCALENDAR
