@@ -2,84 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:True Crime: Der Mordfall Prandtner
-DTSTART;TZID=Europe/Berlin:20261023T203000
-DTEND;TZID=Europe/Berlin:20261023T223000
-DTSTAMP:20261009T220008Z
-UID:true-crime-der-mordfall-prandtner-20261023-1830@ifg-plattform.de
-DESCRIPTION:Ein fesselndes Live-Event\n\nWurden die falschen Männer gehä
- ngt?\n \nIm Jahr 1800 wurde die Witwe Helena Prandtner und ihre beiden Tö
- chter in Ingolstadt grausam ermordet. Zwei österreichische Soldaten wurde
- n kurz darauf festgenommen\, gestanden die Tat und wurden hingerichtet. Se
- itdem gilt der Fall als aufgeklärt.\nDie beiden Stadtführerinnen Silvia 
- Münzhuber und Ute Lottes stellen den historischen Kriminalfall in einer P
- ower-Point-Präsentation anhand der überlieferten Quellen vor und hinterf
- ragen die damaligen Ermittlungsergebnisse. Zahlreiche historische Bilder u
- nd Ansichten des alten Ingolstadt vermitteln dabei einen lebendigen Eindru
- ck der Stadt zur Zeit des Verbrechens. Welche Beweise sprachen tatsächlic
- h gegen die beiden Soldaten? Wie belastbar waren Geständnisse um 1800? Un
- d würden Kriminalisten heute zum gleichen Ergebnis kommen?\nEin spannende
- r Abend zwischen Stadtgeschichte\, True Crime und kriminalistischer Spuren
- suche.\n\nMinderjährige nur in Begleitung eines Erwachsenen.\nEine frühz
- eitige Anmeldung über die vhs wird empfohlen. Restkarten sind - sofern ve
- rfügbar - an der Abendkasse erhältlich.\n\nKursnummer: 	AX21-031
-LOCATION:VHS\, Hallstraße 5\, 85049 Ingolstadt
-X-SCORE:19
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:In-Studio Festival
-DTSTART;TZID=Europe/Berlin:20261023T210000
-DTEND;TZID=Europe/Berlin:20261026T005900
-DTSTAMP:20261009T220007Z
-UID:in-studio-festival-20261023-1900@ifg-plattform.de
-DESCRIPTION:Das Festival für Bewegung\, mentale Gesundheit und Begegnung 
- in der Ingolstädter Innenstadt\n\nVom 23. bis 25. Oktober 2026 wird die I
- ngolstädter Innenstadt zum Festivalgelände: Beim In-Studio Festival öff
- nen verschiedene Studios ihre Türen und gestalten gemeinsam ein Wochenend
- e rund um Bewegung\, mentale Gesundheit\, persönliche Entwicklung und Woh
- lbefinden.\n\nDas Besondere: Statt an einem einzigen Veranstaltungsort fin
- det das Festival mitten in der Stadt und in den teilnehmenden Studios stat
- t. Mit dem Festivalbändchen stellen sich Besucher ihr persönliches Progr
- amm zusammen und ziehen von Studio zu Studio.\n\nDabei wartet ein vielseit
- iges Line-up: von unterschiedlichen Yoga-Stilen\, Pilates und Qigong über
-  Meditation\, Breathwork und Bodywork bis hin zu Tanz\, Sound Healing\, Wo
- rkshops und weiteren besonderen Formaten. Sowohl Einsteiger als auch Mensc
- hen mit Vorerfahrung sind willkommen.\n\nLos geht es am Freitagabend mit e
- inem gemeinsamen Opening. Samstag und Sonntag finden parallel in den versc
- hiedenen Studios die einzelnen Programmpunkte statt. Dazwischen laden ausg
- ewählte Cafés als Break Points zu einer Pause ein\, während auf der Ins
- piration Island lokale Unternehmen aus dem Gesundheits- und Wellnessbereic
- h entdeckt werden können.\n\nHinter dem Festival steht ein besonderer Ged
- anke: Die Vielfalt der Ingolstädter Studios soll nicht nebeneinander\, so
- ndern gemeinsam sichtbar werden. So entsteht mitten im Herbst ein Wochenen
- de zum Ausprobieren\, Kennenlernen\, Austauschen und Zeit-für-sich-Nehmen
- .\n\nDer ausführliche Timetable und die Informationen zum Ticketverkauf f
- olgen in Kürze.\n\n🌞\nIn-Studio Festival\n23.–25.10.2026\nIngolstadt
-  Innenstadt
-LOCATION:Soul Studio\, Am Stein 8\, 85049 Ingolstadt\, Das Event findet in
-  der Innenstadt und teilnehmenden Studios statt.
-X-SCORE:26
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rock To Mode
-DTSTART;TZID=Europe/Berlin:20261023T220000
-DTEND;TZID=Europe/Berlin:20261024T015900
-DTSTAMP:20261009T220009Z
-UID:rock-to-mode-20261023-2000@ifg-plattform.de
-DESCRIPTION:DEPECHE MODE TRIBUTE BAND\n\nEinlass: 19:00\n\nROCK TO MODE is
- t eine energiegeladene Live-Band\, die den Sound von DEPECHE MODE ins Deta
- il feiert und in ein rockiges Kleid packt\, ohne die Basis zu verlieren. D
- ie Interpretationen sind stimmig\, stets nah an den Live-Originalen\, aber
-  dennoch mit eigenem Charakter. Fetter\, wuchtiger Synth-Sound\, mit strai
- ghten Gitarren-Riffs\, hämmernden Drums und massiver Bass-Linie\, sowie d
- er charismatische Bariton bringen das Publikum zum kochen. \n\nEin absolut
- es Muss für alle MODE-Fans und Rock Liebhaber. ROCK TO MODE - Eine liebev
- olle und rockige Hommage an DEPECHE MODE. Ab 2026 geht die Band auf Europa
- -Tour.
-LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:19
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Programmieren und Robotik entdecken
 DTSTART;TZID=Europe/Berlin:20261024T120000
 DTEND;TZID=Europe/Berlin:20261024T143000
@@ -4712,5 +4634,32 @@ DESCRIPTION:WENN OVERBECK KOMMT …\n\nEinlass: 19:00\n\nRoland Jankowsky
  w.stagecat.de und an allen Vorverkaufskassen.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BVMW Jahresempfang 2027 powered by Audi Event Solutions
+DTSTART;TZID=Europe/Berlin:20270121T190000
+DTEND;TZID=Europe/Berlin:20270122T005900
+DTSTAMP:20261009T220008Z
+UID:bvmw-jahresempfang-2027-powered-by-audi-event-solutions-20270121-1800@
+ ifg-plattform.de
+DESCRIPTION:Antrieb 2027 - in Führung gehen\n\nWie bleibt mein Unternehme
+ n erfolgreich in herausfordernden Zeiten?\n\nWas braucht es\, um nachhalti
+ g an der Spitze mitzuspielen?\n\nWie gelingt Führung\, die Mitarbeitende 
+ motiviert\, ihr Potenzial voll einzubringen und gemeinsam Bestleistungen z
+ u erzielen?\n\nDiese Fragen beleuchten wir aus unterschiedlichen Perspekti
+ ven.\n \nIm Gespräch:\nStefan Grenzebach\, Vorstandsvorsitzender der KESS
+ EL SE in Lenting\, und Ariel Zuckermann\, Künstlerischer Leiter der Kamme
+ rphilharmonie Ingolstadt\, geben Einblicke in ihre Erfahrungen und Führun
+ gswelten. Durch das Gespräch führt Moderator Bernhard Mahler.\n \nImpuls
+ :\nTobias Riegger\, Vorstand der Questconsulting AG in Rosenheim\, eröffn
+ et weitere Perspektiven auf erfolgreiche Führung und unternehmerische Zuk
+ unftsgestaltung.\n \nNetzwerken in besonderer Atmosphäre:\nIm Anschluss b
+ ietet sich in der dynamischen Atmosphäre des Audi Sportpark bei köstlich
+ en Häppchen und erfrischenden Getränken reichlich Gelegenheit zum Netzwe
+ rken\, für gute Gespräche und neue Kontakte.\n\nNutzen Sie diesen Abend\
+ , um neue Perspektiven kennenzulernen\, Partnerschaften zu vertiefen und g
+ emeinsam Zukunft zu gestalten.
+LOCATION:Audi Sportpark\, Am Sportpark 1 26\, 85053 Ingolstadt
+X-SCORE:13
 END:VEVENT
 END:VCALENDAR
