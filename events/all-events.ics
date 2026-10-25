@@ -2,166 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:HALLOWEEN MOTTOWOCHE
-DTSTART;TZID=Europe/Berlin:20261025T110000
-DTEND;TZID=Europe/Berlin:20261031T230000
-DTSTAMP:20261009T220008Z
-UID:halloween-mottowoche-20261025-1000@ifg-plattform.de
-DESCRIPTION:Einlass: 10:00\n\nEine Woche voller Gruselspaß\n\nNicht nur e
- inen Tag Halloween – eine ganze Woche voll erschreckender Momente steht 
- bereit!\nWährend unserer Halloween-Mottowoche kommen alle Mutigen auf ihr
- e Kosten.\nSeid gespannt auf gruselige Deko\, kreative Kostüme und ganz v
- iele Spukaktionen:\n\n25. – 31.10. | Otter verkleiden!\nMalwettbewerb mi
- t tollen Preisen\n\n25. – 31.10. | Der Weiß(bier)-Hai\nWeißbier-Happy-
- Hour an der Poolbar\n16 – 18 Uhr – nur für Unerschrockene\n\n25. – 
- 31.10. | Aufgüsse des Grauens\ntäglich um 17 und 19 Uhr in unserer Sauna
- welt\n\n25. – 31.10. | After School Geisterjagd\nSchnitzeljagd durchs Sp
- aßbad mit tollen Urkunden und Preisen\n\nSonntag\, 25.10. + Samstag\, 31.
- 10. | Creepy Clown\ngruselige Ballonfiguren\n11 – 14 Uhr\n\nDonnerstag\,
-  29.10. | Spooky Cycling @ wasserKRAFT\nNiemand kann dem Horror davonradel
- n ...\n18:00 Uhr – Mutige bitte anmelden!\n\nFreitag\, 30.10. | Zombies 
- im Spaßbad\nHier beißt nicht nur der Chlorgeruch!\n17 – 20 Uhr\n\nSams
- tag\, 31.10. | Therme of Horrors\nAfter Work Therme mit DJ – Halloween E
- dition\n18 – 22 Uhr\n\nMögen die Spukgestalten erwachen!
-LOCATION:Donautherme\, Südliche Ringstraße 63\, 85053 Ingolstadt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz &amp\; Literatur 1026
-DTSTART;TZID=Europe/Berlin:20261025T120000
-DTEND;TZID=Europe/Berlin:20261025T133000
-DTSTAMP:20261009T220007Z
-UID:jazz-amp-literatur-1026-20261025-1100@ifg-plattform.de
-RRULE:FREQ=DAILY;UNTIL=20261025T123000Z
-DESCRIPTION:Einlass: 10:30\n\nSeit 2012 bringen das Stadttheater Ingolstad
- t  gemeinsam mit den Jazzfreunden Ingolstadt zwei faszinierende Kunstforme
- n zusammen: Jazz &amp\; Literatur! Diese beliebte und erfolgreiche Veranst
- altungsreihe verbindet fesselnde Lesungen mit mitreißender Live-Jazzmusik
-  – ein echtes Highlight für Kulturbegeisterte.\n \nDie Jazzfreunde Ingo
- lstadt übernehmen dabei die musikalische Gestaltung und wählen sorgfält
- ig die Jazzbands aus\, die für den perfekten Klangteppich sorgen. Das Erg
- ebnis? Ein inspirierendes Wechselspiel aus Wort und Musik\, das das Publik
- um jedes Mal aufs Neue .\nLiteratur bei dieser Veranstaltung:\n\nLiteratur
-  bei dieser Veranstaltung: noch offen\n\nMusikalische Umrahmung:  Joe Fing
- er Quartett\n\nEine Veranstaltung des Stadttheaters Ingolstadt in Zusammen
- arbeit mit den Jazzfreunden Ing. e. V.\n\nNach Schließung der Lokation im
-  Stadttheater jetzt im neuen Theater am Glacis
-LOCATION:Vorbühne Theater am Glacis\, Jahnstr. 9\, 85049 Ingolstadt
-X-SCORE:32
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Die Festung Ingolstadt
-DTSTART;TZID=Europe/Berlin:20261025T143000
-DTEND;TZID=Europe/Berlin:20261025T160000
-DTSTAMP:20261009T220008Z
-UID:die-festung-ingolstadt-20261025-1330@ifg-plattform.de
-DESCRIPTION:Bayerische Landesfestung\n\nEinlass: 13:30\n\nIngolstadt gilt 
- gemeinhin als größtes Freilichtmuseum für deutsche Festungsarchitektur.
- \nDer Grund dafür ist nicht zuletzt der von König Ludwig I. von Bayern i
- n Auftrag gegebene Bau der klassizistischen Landesfestung\, mit dem er sei
- nen berühmten Hofarchitekten Leo von Klenze beauftragte.\nErobern Sie das
-  Herz der Festung bei einem Rundgang durch die einzigartige Festungsanlage
-  des Brückenkopfs. Dort erwarten Sie – auf dem Gelände des weitläuf
- igen Klenzeparks – imposante Bauten wie das Reduit Tilly oder der Turm T
- riva.
-LOCATION:Tourist Information\, Moritzstraße 19\, 85049 Ingolstadt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sonntags?Kunst!
-DTSTART;TZID=Europe/Berlin:20261025T160000
-DTEND;TZID=Europe/Berlin:20261025T180000
-DTSTAMP:20261009T220008Z
-UID:sonntags-kunst-20261025-1500@ifg-plattform.de
-DESCRIPTION:„Encaustic” – Familien Workshop mit Birgit Fischer\n\nEi
- nlass: 14:45\n\nTaucht ein in die faszinierende Welt der Encaustik! Bei di
- eser traditionsreichen Maltechnik wird pigmentiertes Wachs erhitzt und fl
- üssig auf den Malgrund aufgetragen. Die Technik reicht bis in die griechi
- sch-römische Antike zurück und erlebt dank moderner Werkzeuge und Materi
- alien heute eine neue Blütezeit.\n\nMit dem elektrischen Maleisen entsteh
- en abstrakte\, fließende Bildwelten\, bei denen das Zufällige und Unvorh
- ersehbare eine wichtige Rolle spielt. Das schimmernde Wachs verleiht den e
- ntstandenen Bildern eine ganz besondere Wirkung.\n\nIm Workshop könnt ihr
-  kreativ experimentieren\, abschalten und mit dem fließenden Wachs eure e
- igenen Ideen verwirklichen. Wir arbeiten mit dem Encaustik-Maleisen auf kl
- einem Format und gestalten dabei eindrucksvolle\, individuelle Kunstwerke\
- , die ihr anschließend mit nach Hause nehmen könnt.\n\nVorkenntnisse sin
- d nicht erforderlich.\n\nDer Kurs richtet sich an Erwachsene\, Jugendliche
-  und Kinder ab 7 Jahren. Das Material steht vor Ort zur Verfügung.\n\nDie
-  Aufsichtspflicht für die teilnehmenden Kinder liegt bei den Eltern.\n\nD
- as Format „Sonntags?Kunst!” wird durch Audi ArtExperience ermöglicht.
-  Für diese freundliche Unterstützung bedankt sich das MKK herzlich.
-LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
- adt
-X-SCORE:27
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:„Alles Huhn – oder was? Werke von E. A. Jung“
-DTSTART;TZID=Europe/Berlin:20261025T170000
-DTEND;TZID=Europe/Berlin:20261025T180000
-DTSTAMP:20261009T220008Z
-UID:alles-huhn-oder-was-werke-von-e-a-jung-20261025-1600@ifg-plattform.de
-DESCRIPTION:Finissage zur Sonderausstellung\n\nAm 25.10.2026 findet im Bau
- erngerätemuseum eine Finissage zur Sonderausstellung: „Alles Huhn – o
- der was? Werke von E. A. Jung“ statt. \nDie Künstlerin wird von 16 Uhr 
- bis 17 Uhr in lockeren Gesprächen durch ihre Ausstellung führen. Für da
- s leibliche Wohl ist dank der großzügigen Unterstützung der Bäckerei K
- uttenreich gesorgt.\nIn ihren eindrucksvollen Werken vereint E. A. Jung Li
- ebe zu Tieren und künstlerische Vielseitigkeit. Ihre Motive reichen weit 
- über die wohl bekannten Hühner hinaus und spiegeln jahrzehntelange Ausei
- nandersetzung mit Tier-Mensch-Beziehungen wider. Mit expressivem Pinselduk
- tus und oft humorvollen\, gleichzeitig aber scharf beobachtenden Blicken s
- etzt sie Tier-Mensch-Konstellationen eindrucksvoll in Szene.\n\nDer Eintri
- tt ist frei!\n\nNoch bis zum 31. Oktober 2026 sind die Werke der Künstler
- in E. A. Jung im historischen Stall des Museums zu sehen.
-LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
-X-SCORE:23
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Katrin Iskam
-DTSTART;TZID=Europe/Berlin:20261025T210000
-DTEND;TZID=Europe/Berlin:20261026T005900
-DTSTAMP:20261009T220008Z
-UID:katrin-iskam-202610250900000000-2000@ifg-plattform.de
-DESCRIPTION:Gärtnern ohne viel Geschiss\n\nEinlass: 19:00\n\nKatrin Iskam
-  kommt am Sonntag\, den 25.10.2026 um 19:00 Uhr mit\nihrem neuen Programm 
- Gärtnern ohne viel Geschiss in die eventhalle\nWestpark nach Ingolstadt.\
- nSie ist berüchtigt\, sie ist einzigartig und sie ist definitiv verrüc
- kt. Sie hat nicht DEN\ngrünen Daumen\, sondern gleich zwei davon. Gärtn
- ern ohne viel Geschiss ist nicht\nnur ihr Motto\, sondern auch der Titel i
- hrer aktuellen Live-Tour.\nDie Rede ist von Katrin Iskam\, gelernte und ak
- tive Krankenschwester\, aber vor\nallem die heißeste Entdeckung in der hi
- esigen Garten-Szene. Denn wer buddelt\,\nschaufelt und gräbt schon in Gum
- mistiefeln und Nachthemd? Genau\, nur das\nKatrinchen\, wie sie liebevoll 
- von ihren Fans genannt wird. Und davon gibt es\ninzwischen eine ganze Meng
- e. Allein fast 200.000 auf ihrer mit dem 1. Platz des\nDeutschen Gartenbuc
- hpreises prämierten Instagram-Seite @katrinsgarten. Die\nAutodidaktin ist
-  erfolgreiche Garten-Influenc...
-LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:16
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kanaan
-DTSTART;TZID=Europe/Berlin:20261025T213000
-DTEND;TZID=Europe/Berlin:20261026T003000
-DTSTAMP:20261009T220008Z
-UID:kanaan-20261025-2030@ifg-plattform.de
-DESCRIPTION:Virtuoses Stoner Rock-Trio\n\nEinlass: 19:30\n\nSKURREAL &amp\
- ; Black River Fest präsentieren:\n.\nKanaan aus Oslo ist ein fuzziges Sto
- ner Rock-Trio\, das auf virtuose Art und Weise harte Riffs mit jazzigen so
- wie psychedelischen Einflüssen fusioniert. Instrumental vorgetragen\, ver
- binden die Norweger musikalische Brutalität mit treibenden Krautrock-Pass
- agen.\n.\nPassend zu ihrem zehnjährigen Jubiläum\, kommt mit dem neuen A
- lbum "Kanaan" auch ein Tourstopp im Kap94 in Ingolstadt.\n.\nEINLASS 19:30
-  / BEGINN 20:30\n.\npräsentiert von Baba Records.
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:26
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kasimir und Karoline
 DTSTART;TZID=Europe/Berlin:20261026T203000
 DTEND;TZID=Europe/Berlin:20261027T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:kasimir-und-karoline-20261026-1930@ifg-plattform.de
 DESCRIPTION:Ein Volksstück von Ödön von Horváth\n\nDer frisch entlasse
  ne Chauffeur Kasimir und seine Verlobte Karoline sind auf dem Oktoberfest.
@@ -187,10 +31,38 @@ LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
 X-SCORE:34
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Romanberatung im Herzogskasten
+DTSTART;TZID=Europe/Berlin:20261027T150000
+DTEND;TZID=Europe/Berlin:20261027T190000
+DTSTAMP:20261025T230008Z
+UID:romanberatung-im-herzogskasten-20261027-1400@ifg-plattform.de
+DESCRIPTION:Einlass: 10:00\n\nDie Stadtbücherei Ingolstadt erweitert ihr 
+ Serviceangebot für Romanleserinnen und Romanleser: In der Romanetage der 
+ Bücherei im Herzogskasten ist eine ehrenamtliche Beraterin bei der Auswah
+ l passender Lektüre zur Seite.\nEine Buchhändlerin im Ruhestand bringt i
+ hre langjährige Erfahrung und große Leidenschaft für Literatur ein und 
+ empfiehlt auf Wunsch Romane ganz nach den persönlichen Vorlieben der Lese
+ rinnen und Leser. Ob spannende Unterhaltung\, historische Erzählungen\, F
+ amiliengeschichten\, Liebesromane oder literarische Entdeckungen – Inter
+ essierte erhalten künftig direkt vor Ort eine individuelle Orientierung i
+ m vielfältigen Angebot der Belletristik.\n\nDer ehrenamtliche Beratungsdi
+ enst wird zu festgelegten Zeiten im Herzogskasten angeboten: 14-tägig die
+ nstags von 14 bis 18 Uhr\n\nBesucherinnen und Besucher finden die engagier
+ te Romanberaterin in der 1. Etage im Bereich Belletristik und können sie 
+ dort gerne direkt ansprechen.\nDie Stadtbücherei freut sich über die ken
+ ntnisreiche Verstärkung. Gerade im Bereich der Romane gab es bislang kein
+ e regelmäßige persönliche Auskunft vor Ort. Mit dem neuen Angebot kann 
+ die Bücherei ihre Leserinnen und Leser noch gezielter unterstützen und d
+ ie Freude am Lesen weiter fördern.
+LOCATION:Stadtbücherei im Herzogskasten\, Hallstraße 2-4\, 85049 Ingolst
+ adt
+X-SCORE:15
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ninotschka
 DTSTART;TZID=Europe/Berlin:20261027T210000
 DTEND;TZID=Europe/Berlin:20261027T233000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:ninotschka-20261027-2000@ifg-plattform.de
 DESCRIPTION:Komödie\n\nEinlass: 19:40\n\nNinotschka\, eine linientreue Ko
  mmunistin\, wird im Mai 1934 als “Sonderbeauftragte zur Rückführung ru
@@ -222,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Piano Open Stage
 DTSTART;TZID=Europe/Berlin:20261028T180000
 DTEND;TZID=Europe/Berlin:20261028T210000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:piano-open-stage-20261028-1700@ifg-plattform.de
 DESCRIPTION:Bei der Piano Open Stage im Audi Forum Ingolstadt steht ein Pi
  ano zur freien Nutzung bereit. Ob eigene Kompositionen\, bekannte Stücke 
@@ -237,7 +109,7 @@ SUMMARY:III. Die internationalen Kunst-Highlights im Kunstbestand der 5000
   Objekte des Museum für Konkrete Kunst in Ingolstadt
 DTSTART;TZID=Europe/Berlin:20261028T201500
 DTEND;TZID=Europe/Berlin:20261028T211500
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:iii-die-internationalen-kunst-highlights-im-kunstbestand-der-5000-obje
  kte-des-museum-f-r-konkrete-kunst-in-ingolstadt-20261028-1915@ifg-plattfor
  m.de
@@ -266,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Stefan Leonhardsberger
 DTSTART;TZID=Europe/Berlin:20261028T210000
 DTEND;TZID=Europe/Berlin:20261029T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:stefan-leonhardsberger-20261028-2000@ifg-plattform.de
 DESCRIPTION:Herzklopfen\n\nEinlass: 19:00\n\nWie überlebt man Sperrmüll-
  Dates mit der Ehefrau\, spontanen Kontrollbesuch vom Jugendamt und einen N
@@ -284,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:22 Bahnen
 DTSTART;TZID=Europe/Berlin:20261028T210000
 DTEND;TZID=Europe/Berlin:20261029T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:22-bahnen-20261028-2000@ifg-plattform.de
 DESCRIPTION:Kinofilm (Deutschland\, 2025)\n\nTildas (Luna Wedler) Tage sin
  d streng durchgetaktet: studieren\, an der Supermarktkasse sitzen\, schwim
@@ -309,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga und Krebs - Kraft\, Ruhe und Zuversicht finden
 DTSTART;TZID=Europe/Berlin:20261029T180000
 DTEND;TZID=Europe/Berlin:20261029T200000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230007Z
 UID:yoga-und-krebs-kraft-ruhe-und-zuversicht-finden-20261029-1800@ifg-plat
  tform.de
 RRULE:FREQ=WEEKLY;UNTIL=20261119T225959Z;INTERVAL=1;BYDAY=TH
@@ -326,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz Of Course
 DTSTART;TZID=Europe/Berlin:20261029T190000
 DTEND;TZID=Europe/Berlin:20261030T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:jazz-of-course-20261029-1800@ifg-plattform.de
 DESCRIPTION:Zu Musik muss man tanzen können\, lautet die Devise von Jens 
  Hunecke (Gesang)\, Dirk Rutenbeck (Piano) und Michael Mayer (Kontrabass). 
@@ -347,7 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Kasimir und Karoline
 DTSTART;TZID=Europe/Berlin:20261029T203000
 DTEND;TZID=Europe/Berlin:20261030T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:kasimir-und-karoline-20261029-1930@ifg-plattform.de
 DESCRIPTION:Ein Volksstück von Ödön von Horváth\n\nDer frisch entlasse
  ne Chauffeur Kasimir und seine Verlobte Karoline sind auf dem Oktoberfest.
@@ -373,22 +245,10 @@ LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
 X-SCORE:34
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Dark Tenor - Rock meets Klassik 2026 - Symphonica
-DTSTART;TZID=Europe/Berlin:20261029T210000
-DTEND;TZID=Europe/Berlin:20261030T005900
-DTSTAMP:20261009T220008Z
-UID:the-dark-tenor-rock-meets-klassik-2026-symphonica-20261029-2000@ifg-pl
- attform.de
-DESCRIPTION:Einlass: 19:00\n\nAlle Info´s zur Veranstaltung: https://www.
- saturn-arena.de/events-und-konzerte/
-LOCATION:SATURN-Arena\, Südliche Ringstraße 64\, 85053 Ingolstadt
-X-SCORE:10
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Philippe Loli – Gitarre ohne Grenzen
 DTSTART;TZID=Europe/Berlin:20261029T210000
 DTEND;TZID=Europe/Berlin:20261029T233000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:philippe-loli-gitarre-ohne-grenzen-20261029-2000@ifg-plattform.de
 DESCRIPTION:Einlass: 19:40\n\nPhilippe Loli gehört zu den vielseitigsten 
  Gitarristen seiner Generation. Als Solist und Mitglied des renommierten Ai
@@ -420,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Back to the 70s DISCO PARTY im sepparee\, Ingolstadt
 DTSTART;TZID=Europe/Berlin:20261030T040000
 DTEND;TZID=Europe/Berlin:20261101T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:back-to-the-70s-disco-party-im-sepparee-ingolstadt-20261030-0300@ifg-p
  lattform.de
 DESCRIPTION:Einlass: 21:00\n\nPeace\, Leute!\nViele haben uns nach einer z
@@ -435,10 +295,29 @@ LOCATION:Sepparee\, Poppenstraße 1\, 85049 Ingolstadt
 X-SCORE:10
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:drink&amp\;draw – Tusche
+DTSTART;TZID=Europe/Berlin:20261030T190000
+DTEND;TZID=Europe/Berlin:20261030T210000
+DTSTAMP:20261025T230011Z
+UID:drink-amp-draw-tusche-20261030-1800@ifg-plattform.de
+DESCRIPTION:Für Erwachsene · 2 Stunden · Material und ein Spritzgeträn
+ k inklusive\n\nEinlass: 18:00\n\nBei unserem Drink &amp\; Draw experimenti
+ eren wir mit Tusche\, entdecken einfache Drucktechniken und lassen uns üb
+ erraschen\, was dabei entsteht. Es geht nicht um perfekte Ergebnisse oder 
+ darum\, besonders gut zeichnen zu können – sondern um die Freude am kre
+ ativen Prozess.\n\nWir probieren aus\, spielen mit Formen und Strukturen\,
+  kombinieren Techniken und lassen uns vom Zufall inspirieren. Dazu gibt’
+ s kühle Drinks aus dem Kiesch und eine entspannte Atmosphäre\, in der al
+ les darf und nichts muss.\n\nEin Abend zum Klecksen\, Drucken\, Zeichnen\,
+  Reden\, Trinken und Entdecken.
+LOCATION:kun SCHT\, Pfarrgasse 2-4\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Teenie Halloween Party
 DTSTART;TZID=Europe/Berlin:20261030T193000
 DTEND;TZID=Europe/Berlin:20261030T230000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:teenie-halloween-party-20261030-1830@ifg-plattform.de
 DESCRIPTION:Einlass: 18:00\n\n🎃👻 Teenie Halloween Party 👻🎃\n\n
  Am 30.10.2026 ab 18:00 Uhr wird es gruselig! Alle Teenager zwischen 10 und
@@ -454,7 +333,7 @@ BEGIN:VEVENT
 SUMMARY:Mozart - Requiem
 DTSTART;TZID=Europe/Berlin:20261030T200000
 DTEND;TZID=Europe/Berlin:20261031T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:mozart-requiem-20261030-1900@ifg-plattform.de
 DESCRIPTION:W.A. Mozart - Requiem in d - Liebfrauenmünster Ingolstadt\n\n
  Konzert am Liebfrauenmünster\n\nFreitag\, 30. Oktober 2026\, 19 Uhr\n\nM
@@ -470,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Benefizkonzert der Audi Bläserphilharmonie
 DTSTART;TZID=Europe/Berlin:20261030T203000
 DTEND;TZID=Europe/Berlin:20261031T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:benefizkonzert-der-audi-bl-serphilharmonie-20261030-1930@ifg-plattform
  .de
 DESCRIPTION:Benefizkonzert der Audi Bläserphilharmonie mit dem internatio
@@ -496,7 +375,7 @@ BEGIN:VEVENT
 SUMMARY:Kasimir und Karoline
 DTSTART;TZID=Europe/Berlin:20261030T203000
 DTEND;TZID=Europe/Berlin:20261031T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:kasimir-und-karoline-20261030-1930@ifg-plattform.de
 DESCRIPTION:Ein Volksstück von Ödön von Horváth\n\nDer frisch entlasse
  ne Chauffeur Kasimir und seine Verlobte Karoline sind auf dem Oktoberfest.
@@ -525,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:DeSchoWieda
 DTSTART;TZID=Europe/Berlin:20261030T210000
 DTEND;TZID=Europe/Berlin:20261031T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:deschowieda-202610301100000000-2000@ifg-plattform.de
 DESCRIPTION:Des tourt guad!\n\nEinlass: 19:00\n\nAngetrieben von intensive
  m Tuba-Bass\, Quetschn-Synthie und frischen Beats (Volksmusik meets Pop\, 
@@ -563,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:The Gunmen - ABGESAGT
 DTSTART;TZID=Europe/Berlin:20261030T210000
 DTEND;TZID=Europe/Berlin:20261031T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:the-gunmen-abgesagt-20261030-2000@ifg-plattform.de
 DESCRIPTION:Einlass: 19:00\n\nLeider muss das Konzert aus gesundheitlichen
   Gründen abgesagt werden. Erworbene Tickets werden zurückerstattet. Bei 
@@ -578,7 +457,7 @@ SUMMARY:20 Jahre g´scheiterhaufen - Mystery! Mit Volle Möhre aus Nürnbe
  rg
 DTSTART;TZID=Europe/Berlin:20261030T210000
 DTEND;TZID=Europe/Berlin:20261030T230000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230007Z
 UID:20-jahre-g-scheiterhaufen-mystery-mit-volle-m-hre-aus-n-rnberg-2026103
  0-2000@ifg-plattform.de
 DESCRIPTION:Einlass: 19:30\n\n20 Jahre g’scheiterhaufen theater e.V. –
@@ -589,10 +468,25 @@ LOCATION:Backhaus Gaimersheim\, Obere Marktstrasse 2a\, 85080 Gaimersheim
 X-SCORE:13
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:30 Jahre mo
+DTSTART;TZID=Europe/Berlin:20261030T213000
+DTEND;TZID=Europe/Berlin:20261031T040000
+DTSTAMP:20261025T230010Z
+UID:30-jahre-mo-20261030-2030@ifg-plattform.de
+DESCRIPTION:Einlass: 20:00\n\n🥂 30 JAHRE DAS MO – DAS MUSS GEFEIERT W
+ ERDEN! 🩷\n\n30 Jahre voller Genuss\, Begegnungen und unvergesslicher Mo
+ mente. Jetzt feiern wir gemeinsam mit euch!\n\n🎉 DIE GROSSE JUBILÄUMSP
+ ARTY\n\n📅 Freitag\, 30. Oktober 2026\n🕗 Ab 20:00 Uhr\n📍 Sigi’s 
+ Almhütte\n\n🎧 Beats by DJ GANDI\n\n🍺 JUBILÄUMS-SPECIAL\nAlle Herrn
+ bräu-Biere für nur 3\,00 €!\nMaß und Goaß ausgeschlossen.
+LOCATION:Das Mo Neue Galerie\, Bergbräustrasse 7 7\, 85049 Inglstadt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Figuren aus Draht und Gips
 DTSTART;TZID=Europe/Berlin:20261031T110000
 DTEND;TZID=Europe/Berlin:20261031T140000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:figuren-aus-draht-und-gips-20261031-1000@ifg-plattform.de
 DESCRIPTION:Einlass: 10:00\n\nGestaltung fantastischer Figuren und kleiner
   Geschöpfe!\nIn diesem Workshop könnt ihr eine tolle Figur erschaffen 
@@ -615,7 +509,7 @@ BEGIN:VEVENT
 SUMMARY:Aktuell 2026
 DTSTART;TZID=Europe/Berlin:20261031T120000
 DTEND;TZID=Europe/Berlin:20261031T190000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:aktuell-2026-20261031-1200@ifg-plattform.de
 RRULE:FREQ=WEEKLY;UNTIL=20261122T225959Z;INTERVAL=1;BYDAY=SA,TH,FR,SU
 DESCRIPTION:Jahresausstellung des BBK\n\nAktuelle zeitgenössische Strömu
@@ -631,7 +525,7 @@ BEGIN:VEVENT
 SUMMARY:Eisregen
 DTSTART;TZID=Europe/Berlin:20261031T210000
 DTEND;TZID=Europe/Berlin:20261101T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:eisregen-20261031-2000@ifg-plattform.de
 DESCRIPTION:HERBSTRITUALE 2026\n\nEinlass: 19:00\n\nDie thüringische Extr
  em Metal-Legende EISREGEN feilt am neuen Opus NULLNEGATIV und wird die Arb
@@ -649,7 +543,7 @@ BEGIN:VEVENT
 SUMMARY:"Fauler Zauber" - 29. Ingolstädter Zaubertage
 DTSTART;TZID=Europe/Berlin:20261101T200000
 DTEND;TZID=Europe/Berlin:20261101T220000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:fauler-zauber-29-ingolst-dter-zaubertage-20261101-1900@ifg-plattform.d
  e
 DESCRIPTION:Zaubershow mit  André Hieronymus\n\nEinlass: 18:45\n\n"Fauler
@@ -668,7 +562,7 @@ BEGIN:VEVENT
 SUMMARY:Donizetti: Requiem – Mayr: Atalia
 DTSTART;TZID=Europe/Berlin:20261101T200000
 DTEND;TZID=Europe/Berlin:20261102T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:donizetti-requiem-mayr-atalia-20261101-1900@ifg-plattform.de
 DESCRIPTION:Kammerphilharmonie Ingolstadt &amp\; MaxChor München\n\nEinla
  ss: 18:30\n\nMit einer Ingolstädter und Münchner Erstaufführung präsen
@@ -716,7 +610,7 @@ BEGIN:VEVENT
 SUMMARY:"Fauler Zauber" - 29. Ingolstädter Zaubertage
 DTSTART;TZID=Europe/Berlin:20261102T200000
 DTEND;TZID=Europe/Berlin:20261102T220000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:fauler-zauber-29-ingolst-dter-zaubertage-20261102-1900@ifg-plattform.d
  e
 DESCRIPTION:Zaubershow mit  André Hieronymus\n\nEinlass: 17:45\n\n"Fauler
@@ -735,7 +629,7 @@ BEGIN:VEVENT
 SUMMARY:K-POP LIVE! Die Hits. Die Moves. Die Show.
 DTSTART;TZID=Europe/Berlin:20261103T190000
 DTEND;TZID=Europe/Berlin:20261103T213000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:k-pop-live-die-hits-die-moves-die-show-20261103-1800@ifg-plattform.de
 DESCRIPTION:Das K-Pop-Erlebnis\, auf das alle gewartet haben\n\nEinlass: 1
  7:00\n\nBereit für eine Show\, die Euch komplett aus dem Alltag reißt? F
@@ -776,7 +670,7 @@ BEGIN:VEVENT
 SUMMARY:T.Raum.Phase #06
 DTSTART;TZID=Europe/Berlin:20261104T210000
 DTEND;TZID=Europe/Berlin:20261104T220000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:t-raum-phase-06-20261104-2000@ifg-plattform.de
 DESCRIPTION:T.Raum.Phase #06 – Anëira: Die Stadt\, in der Träume abgeg
  eben werden\n\nEinlass: 19:00\n\nT.Raum.Phase #06 – Anëira: Die Stadt\,
@@ -804,10 +698,30 @@ LOCATION:Foyer des Stadttheaters Ingolstadt\, Schlosslände 1\, 85049 Ingo
 X-SCORE:32
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stadtkantine
+DTSTART;TZID=Europe/Berlin:20261105T110000
+DTEND;TZID=Europe/Berlin:20261106T005900
+DTSTAMP:20261025T230008Z
+UID:stadtkantine-20261105-1000@ifg-plattform.de
+DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
+  Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
+ Möglichkeiten!\n\nWas ist die Stadtkantine?\nSie nutzt kostenlos leersteh
+ ende Räume\, macht sie zu Begegnungsorten für Austausch und Aktivitäten
+  und ist weg\, sobald eine Vermietung ansteht.\n\nWofür kann die Stadtkan
+ tine genutzt werden?\nFür einen Regenwald zu trocken\, für gemeinsames T
+ räumen perfekt! Konzerte\, Spieleabende\, Workshops\, gemeinsames Tanzen 
+ – oder was uns einfällt! Lasst uns gemeinsam nachdenken!\n\nWo kann mit
+ gestaltet werden?\nTeilt eure Idee vor Ort mit oder meldet euch bei Lisa S
+ chacher unter 0151 23 19 04 01 oder stadtdramaturgie@ingolstadt.de oder au
+ f Insta.\n\n*Scheiß-langer-Donnerstag
+LOCATION:Stadtkantine\, Ludwigstr. 14\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Hinter den Kulissen der Brauerei - erleben Sie Nordbräu hautnah!
 DTSTART;TZID=Europe/Berlin:20261105T180000
 DTEND;TZID=Europe/Berlin:20261105T200000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:hinter-den-kulissen-der-brauerei-erleben-sie-nordbr-u-hautnah-20261105
  -1700@ifg-plattform.de
 DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nVon den Jesuiten-Mönche
@@ -834,7 +748,7 @@ BEGIN:VEVENT
 SUMMARY:Sarah Hakenberg
 DTSTART;TZID=Europe/Berlin:20261105T210000
 DTEND;TZID=Europe/Berlin:20261106T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:sarah-hakenberg-20261105-2000@ifg-plattform.de
 DESCRIPTION:Ich war´s nicht\n\nEinlass: 19:00\n\nEs gibt Zeiten\, in dene
  n der letzte Witz erzählt ist und alle fröhlichen Melodien dieser Welt v
@@ -857,7 +771,7 @@ BEGIN:VEVENT
 SUMMARY:„Jazz the Kiesch Vol. 7“ powered by Jazzfreunde Ing. e. V.
 DTSTART;TZID=Europe/Berlin:20261105T210000
 DTEND;TZID=Europe/Berlin:20261105T223000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:jazz-the-kiesch-vol-7-powered-by-jazzfreunde-ing-e-v-20261105-2000@ifg
  -plattform.de
 DESCRIPTION:Einlass: 19:00\n\nNach dem erfolgreichen Start im April 2026 g
@@ -899,7 +813,7 @@ BEGIN:VEVENT
 SUMMARY:Familienführung mit Objekten zum Anfassen
 DTSTART;TZID=Europe/Berlin:20261106T160000
 DTEND;TZID=Europe/Berlin:20261106T170000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:familienf-hrung-mit-objekten-zum-anfassen-20261106-1500@ifg-plattform.
  de
 DESCRIPTION:mit Sigrid Billig\n\nBei dieser Führung durch die Dauerausste
@@ -914,10 +828,30 @@ LOCATION:Deutsches Medizinhistorisches Museum\, Anatomiestraße 18-20\, 85
 X-SCORE:24
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stadtkantine
+DTSTART;TZID=Europe/Berlin:20261106T190000
+DTEND;TZID=Europe/Berlin:20261107T005900
+DTSTAMP:20261025T230008Z
+UID:stadtkantine-20261106-1800@ifg-plattform.de
+DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
+  Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
+ Möglichkeiten!\n\nWas ist die Stadtkantine?\nSie nutzt kostenlos leersteh
+ ende Räume\, macht sie zu Begegnungsorten für Austausch und Aktivitäten
+  und ist weg\, sobald eine Vermietung ansteht.\n\nWofür kann die Stadtkan
+ tine genutzt werden?\nFür einen Regenwald zu trocken\, für gemeinsames T
+ räumen perfekt! Konzerte\, Spieleabende\, Workshops\, gemeinsames Tanzen 
+ – oder was uns einfällt! Lasst uns gemeinsam nachdenken!\n\nWo kann mit
+ gestaltet werden?\nTeilt eure Idee vor Ort mit oder meldet euch bei Lisa S
+ chacher unter 0151 23 19 04 01 oder stadtdramaturgie@ingolstadt.de oder au
+ f Insta.\n\n*Scheiß-langer-Donnerstag
+LOCATION:Stadtkantine\, Ludwigstr. 14\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eisi Gulp
 DTSTART;TZID=Europe/Berlin:20261106T210000
 DTEND;TZID=Europe/Berlin:20261107T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:eisi-gulp-20261106-2000@ifg-plattform.de
 DESCRIPTION:"Tagebuch eines Komikers 2" - das neue Solo-Comedy-Programm vo
  n "Papa Eberhofer"\n\nEinlass: 19:00\n\nNach dem enormen Erfolg von Eisi G
@@ -953,7 +887,7 @@ SUMMARY:Schanzer Pirouette - Internationaler Eiskunstlauf auf höchstem Ni
  veau! ❄️⛸️
 DTSTART;TZID=Europe/Berlin:20261107T090000
 DTEND;TZID=Europe/Berlin:20261108T230000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:schanzer-pirouette-internationaler-eiskunstlauf-auf-h-chstem-niveau-20
  261107-0800@ifg-plattform.de
 DESCRIPTION:Einlass: 07:00\n\nAm 07. und 08. November 2026 verwandelt sich
@@ -978,7 +912,7 @@ BEGIN:VEVENT
 SUMMARY:Programmieren und Robotik entdecken
 DTSTART;TZID=Europe/Berlin:20261107T110000
 DTEND;TZID=Europe/Berlin:20261107T133000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:programmieren-und-robotik-entdecken-20261107-1000@ifg-plattform.de
 DESCRIPTION:Alle Kinder im Alter von 9 bis zu 11 Jahren sind herzlich eing
  eladen\, im Bürgerhaus Neuburger Kasten die spannende Welt der Technik un
@@ -1003,7 +937,7 @@ BEGIN:VEVENT
 SUMMARY:Bierverkostung - Belgische Biere
 DTSTART;TZID=Europe/Berlin:20261107T160000
 DTEND;TZID=Europe/Berlin:20261107T190000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:bierverkostung-belgische-biere-20261107-1500@ifg-plattform.de
 DESCRIPTION:Einlass: 10:00\n\nIn drei Stunden gibt es viele spannende Gesc
  hichten über einzelne Brauereien und Bierstile\, deren Geschichte\, Gesch
@@ -1022,7 +956,7 @@ BEGIN:VEVENT
 SUMMARY:Kuschelparty Ingolstadt November
 DTSTART;TZID=Europe/Berlin:20261107T190000
 DTEND;TZID=Europe/Berlin:20261107T230000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:kuschelparty-ingolstadt-november-20261107-1800@ifg-plattform.de
 DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
@@ -1047,7 +981,7 @@ BEGIN:VEVENT
 SUMMARY:Catello Zaubermenü in der Präsidentensuite des Maritim Hotels
 DTSTART;TZID=Europe/Berlin:20261107T193000
 DTEND;TZID=Europe/Berlin:20261108T000000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:catello-zaubermen-in-der-pr-sidentensuite-des-maritim-hotels-20261107-
  1830@ifg-plattform.de
 DESCRIPTION:Menü und Zaubershow als exklusives Event\n\nEinlass: 18:15\n\
@@ -1069,7 +1003,7 @@ BEGIN:VEVENT
 SUMMARY:Das Abschiedsdinner
 DTSTART;TZID=Europe/Berlin:20261107T203000
 DTEND;TZID=Europe/Berlin:20261108T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:das-abschiedsdinner-20261107-1930@ifg-plattform.de
 DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
  e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
@@ -1094,11 +1028,34 @@ LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
 X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ringsgwandl &amp\; Band
+DTSTART;TZID=Europe/Berlin:20261107T210000
+DTEND;TZID=Europe/Berlin:20261108T005900
+DTSTAMP:20261025T230007Z
+UID:ringsgwandl-amp-band-20261107-2000@ifg-plattform.de
+DESCRIPTION:"Schawumm!"\n\nEinlass: 19:00\n\nSchawumm! macht es\, wenn der
+  Paketbote die Seitentür seines Transporters zuschiebt. \nEin Soundsampl
+ e davon ist in „Götterbote“ verewigt\, einem Song über den eiligen 
+ Arbeitstag eines Lieferdienstfahrers. \n\nSchawumm! Die Welt ist voller Ka
+ tastrophen\, aber hier weht Optimismus durchs Programm. Freud und Leid\, L
+ iebe in der Großstadt und draußen auf dem Lande. Anständige Gaudi\, kei
+ n Schmarrn. Microplastique im Organismus. Songs vom neuen Album und alte R
+ eißer von den ersten zwölf Platten. Die erste erschien 1986 und hieß 
+ „Das Letzte.“ 2026 wird sie vierzig. So schnell kann’s gehn. \n\nDie
+  Pfiffigen und Gescheiten halten sich den Abend frei und wundern sich\, wa
+ s R und Kollegen auf der Bühne alles anstellen. \n\nGeorg Ringsgwandl: S
+ timme\, Saiten\, Tasten u. Körperarbeit (Hink&amp\;Stolper\, Tanz&amp\;Kr
+ ümm) \nDaniel Stelter: Gitarre\, Mandoline. \nChristian Diener: E-Bass\,
+  Moog. \nTommy Baldu: Drums.
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stromlos Bigband (Leitung: Robert Aichner)\, Moderation: Sebastian
   Reier a.k.a. Booty Carrell &amp\; Fadime Gültekin
 DTSTART;TZID=Europe/Berlin:20261107T210000
 DTEND;TZID=Europe/Berlin:20261108T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:stromlos-bigband-leitung-robert-aichner-moderation-sebastian-reier-a-k
  -a-booty-carrell-amp-fadime-g-ltekin-20261107-2000@ifg-plattform.de
 DESCRIPTION:Die Ingolstädter Jazztage eröffnen zum dritten Mal mit ihrem
@@ -1130,33 +1087,10 @@ LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:43
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Ringsgwandl &amp\; Band
-DTSTART;TZID=Europe/Berlin:20261107T210000
-DTEND;TZID=Europe/Berlin:20261108T005900
-DTSTAMP:20261009T220008Z
-UID:ringsgwandl-amp-band-20261107-2000@ifg-plattform.de
-DESCRIPTION:"Schawumm!"\n\nEinlass: 19:00\n\nSchawumm! macht es\, wenn der
-  Paketbote die Seitentür seines Transporters zuschiebt. \nEin Soundsampl
- e davon ist in „Götterbote“ verewigt\, einem Song über den eiligen 
- Arbeitstag eines Lieferdienstfahrers. \n\nSchawumm! Die Welt ist voller Ka
- tastrophen\, aber hier weht Optimismus durchs Programm. Freud und Leid\, L
- iebe in der Großstadt und draußen auf dem Lande. Anständige Gaudi\, kei
- n Schmarrn. Microplastique im Organismus. Songs vom neuen Album und alte R
- eißer von den ersten zwölf Platten. Die erste erschien 1986 und hieß 
- „Das Letzte.“ 2026 wird sie vierzig. So schnell kann’s gehn. \n\nDie
-  Pfiffigen und Gescheiten halten sich den Abend frei und wundern sich\, wa
- s R und Kollegen auf der Bühne alles anstellen. \n\nGeorg Ringsgwandl: S
- timme\, Saiten\, Tasten u. Körperarbeit (Hink&amp\;Stolper\, Tanz&amp\;Kr
- ümm) \nDaniel Stelter: Gitarre\, Mandoline. \nChristian Diener: E-Bass\,
-  Moog. \nTommy Baldu: Drums.
-LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
-X-SCORE:20
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Kostenlose Führung im Museum des Ersten Weltkriegs
 DTSTART;TZID=Europe/Berlin:20261108T150000
 DTEND;TZID=Europe/Berlin:20261108T170000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:kostenlose-f-hrung-im-museum-des-ersten-weltkriegs-20261108-1400@ifg-p
  lattform.de
 DESCRIPTION:Der Erste Weltkrieg - die Urkatastrophe des 20. Jahrhunderts\n
@@ -1178,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:Sonntagsführung durch die Dauerausstellung
 DTSTART;TZID=Europe/Berlin:20261108T153000
 DTEND;TZID=Europe/Berlin:20261108T170000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:sonntagsf-hrung-durch-die-dauerausstellung-20261108-1430@ifg-plattform
  .de
 DESCRIPTION:mit Irene Oberle\n\nDas barocke Museumsgebäude wurde vor 300 
@@ -1196,7 +1130,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliche Führung
 DTSTART;TZID=Europe/Berlin:20261108T160000
 DTEND;TZID=Europe/Berlin:20261108T170000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:ffentliche-f-hrung-20261108-1500@ifg-plattform.de
 DESCRIPTION:Einlass: 14:45\n\nDer Umbau der sogenannten Gießereihalle zur
   neuen Heimstätte des Museums für Konkrete Kunst und Design (MKKD) nach 
@@ -1217,7 +1151,7 @@ BEGIN:VEVENT
 SUMMARY:Der Bär\, der nicht da war
 DTSTART;TZID=Europe/Berlin:20261108T170000
 DTEND;TZID=Europe/Berlin:20261109T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:der-b-r-der-nicht-da-war-20261108-1600@ifg-plattform.de
 DESCRIPTION:Nach dem Bilderbuch von Oren Lavie und Wolf Erlbruch Deutsch v
  on Harry Rowohlt • Ab 5 Jahren\n\nEs war einmal ein Juckreiz. Je mehr er
@@ -1243,7 +1177,7 @@ BEGIN:VEVENT
 SUMMARY:Beyond the Sea
 DTSTART;TZID=Europe/Berlin:20261108T180000
 DTEND;TZID=Europe/Berlin:20261108T200000
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:beyond-the-sea-20261108-1700@ifg-plattform.de
 DESCRIPTION:Moon River\, Moldau und Meer\n\nEinlass: 16:30\n\nWie vielleic
  ht anders zu vermuten\, haben sich viele Komponisten mit dem Lebenselixier
@@ -1285,7 +1219,7 @@ SUMMARY:„MEMENTO“ – Sebastian Studnitzky mit der Kammerphilharmonie
  Ingolstadt\; Komposition &amp\; Dirigat: Sebastian Studnitzky
 DTSTART;TZID=Europe/Berlin:20261108T190000
 DTEND;TZID=Europe/Berlin:20261109T005900
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230007Z
 UID:memento-sebastian-studnitzky-mit-der-kammerphilharmonie-ingolstadt-kom
  position-amp-dirigat-sebastian-studnitzky-20261108-1800@ifg-plattform.de
 DESCRIPTION:Die Kammerphilharmonie Ingolstadt steht für eine außergewöh
@@ -1317,10 +1251,27 @@ LOCATION:St. Augustin Kirche\, Pettenkoferstraße 12\, 85053 Ingolstadt
 X-SCORE:27
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Audi Race Bar präsentiert: Formel 1® live
+DTSTART;TZID=Europe/Berlin:20261108T190000
+DTEND;TZID=Europe/Berlin:20261109T005900
+DTSTAMP:20261025T230007Z
+UID:audi-race-bar-pr-sentiert-formel-1-live-20261108-1800@ifg-plattform.de
+DESCRIPTION:mit der Übertragung des Rennens aus São Paulo\n\nEinlass: 17
+ :30\n\nErlebt gemeinsam mit Familie\, Freunden und Kollegen live die Forme
+ l 1 ® Übertragungen in Audi-Markenatmosphäre. Fiebert gemeinsam Runde f
+ ür Runde mit!\nDie Bar und Lounge im Audi Forum Ingolstadt bietet euch he
+ iße und kalte Getränke sowie Speisen an. \nAm Audi Forum Ingolstadt kön
+ nen die Plätze online über den untenstehenden Link\, per Telefon oder pe
+ r Mail vorangemeldet werden.\n\nTel.: 0841 89-41071 \nMail: ingolstadt@mar
+ che-int.com
+LOCATION:Audi Forum\, Ettinger Straße Audi Piazza\, 85045 Ingolstadt
+X-SCORE:24
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Stefan Danziger
 DTSTART;TZID=Europe/Berlin:20261108T210000
 DTEND;TZID=Europe/Berlin:20261108T233000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:stefan-danziger-20261108-2000@ifg-plattform.de
 DESCRIPTION:Dann isset halt so\n\nEinlass: 19:00\n\nManchmal ändern sich 
  die Dinge im Leben so\, dass man feststellen muss\, dass man selbst gar ni
@@ -1329,14 +1280,14 @@ DESCRIPTION:Dann isset halt so\n\nEinlass: 19:00\n\nManchmal ändern sich
  angen bei ganz persönlichen\, alltäglichen Dingen bis hin zu weltgeschic
  htlichen Ereignissen\, die vielleicht nur durch Scheitern möglich wurden.
   Stefan Danziger zeigt auf\, dass Misslungenes allemal witzig ist.
-LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
-X-SCORE:12
+LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:18
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Young Jazz Session
 DTSTART;TZID=Europe/Berlin:20261108T210000
 DTEND;TZID=Europe/Berlin:20261109T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:young-jazz-session-20261108-2000@ifg-plattform.de
 DESCRIPTION:In diesem Format präsentieren junge Musiker*innen sowie etabl
  ierte Jazzmusiker*innen und Jazzförderpreisträger*innen ihr Können und 
@@ -1346,10 +1297,10 @@ LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
 X-SCORE:24
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Landgren  Wollny / Danielsson / Haffner
+SUMMARY:Landgren  Wollny  Danielsson  Haffner
 DTSTART;TZID=Europe/Berlin:20261109T210000
 DTEND;TZID=Europe/Berlin:20261110T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:landgren-wollny-danielsson-haffner-20261109-2000@ifg-plattform.de
 DESCRIPTION:Das erste Grand Concert gestalten Landgren / Wollny / Danielss
  on / Haffner. Das Debüt der deutsch-schwedischen Supergroup wurde 2019 zu
@@ -1375,10 +1326,38 @@ LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:21
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Romanberatung im Herzogskasten
+DTSTART;TZID=Europe/Berlin:20261110T150000
+DTEND;TZID=Europe/Berlin:20261110T190000
+DTSTAMP:20261025T230008Z
+UID:romanberatung-im-herzogskasten-20261110-1400@ifg-plattform.de
+DESCRIPTION:Einlass: 10:00\n\nDie Stadtbücherei Ingolstadt erweitert ihr 
+ Serviceangebot für Romanleserinnen und Romanleser: In der Romanetage der 
+ Bücherei im Herzogskasten ist eine ehrenamtliche Beraterin bei der Auswah
+ l passender Lektüre zur Seite.\nEine Buchhändlerin im Ruhestand bringt i
+ hre langjährige Erfahrung und große Leidenschaft für Literatur ein und 
+ empfiehlt auf Wunsch Romane ganz nach den persönlichen Vorlieben der Lese
+ rinnen und Leser. Ob spannende Unterhaltung\, historische Erzählungen\, F
+ amiliengeschichten\, Liebesromane oder literarische Entdeckungen – Inter
+ essierte erhalten künftig direkt vor Ort eine individuelle Orientierung i
+ m vielfältigen Angebot der Belletristik.\n\nDer ehrenamtliche Beratungsdi
+ enst wird zu festgelegten Zeiten im Herzogskasten angeboten: 14-tägig die
+ nstags von 14 bis 18 Uhr\n\nBesucherinnen und Besucher finden die engagier
+ te Romanberaterin in der 1. Etage im Bereich Belletristik und können sie 
+ dort gerne direkt ansprechen.\nDie Stadtbücherei freut sich über die ken
+ ntnisreiche Verstärkung. Gerade im Bereich der Romane gab es bislang kein
+ e regelmäßige persönliche Auskunft vor Ort. Mit dem neuen Angebot kann 
+ die Bücherei ihre Leserinnen und Leser noch gezielter unterstützen und d
+ ie Freude am Lesen weiter fördern.
+LOCATION:Stadtbücherei im Herzogskasten\, Hallstraße 2-4\, 85049 Ingolst
+ adt
+X-SCORE:15
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Impro ausprobieren – 5x eintauchen!
 DTSTART;TZID=Europe/Berlin:20261110T193000
 DTEND;TZID=Europe/Berlin:20261110T223000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:impro-ausprobieren-5x-eintauchen-20261110-1930@ifg-plattform.de
 RRULE:FREQ=WEEKLY;UNTIL=20261208T225959Z;INTERVAL=1;BYDAY=TU
 DESCRIPTION:Fünf Einheiten zum Kennenlernen des Improvisationstheaters: s
@@ -1394,7 +1373,7 @@ SUMMARY:IV. Große Museen mit Konkreter Kunst und ihren parallelen Kunstst
  römungen in Deutschland
 DTSTART;TZID=Europe/Berlin:20261110T201500
 DTEND;TZID=Europe/Berlin:20261110T211500
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:iv-gro-e-museen-mit-konkreter-kunst-und-ihren-parallelen-kunststr-mung
  en-in-deutschland-20261110-1915@ifg-plattform.de
 DESCRIPTION:- nicht als Konkurrenz\, sondern als begeisternde Ergänzung i
@@ -1414,10 +1393,21 @@ LOCATION:VHS\, Hallstraße 5\, 85049 Ingolstadt
 X-SCORE:14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jazzförderpreisträgerkonzert
+DTSTART;TZID=Europe/Berlin:20261110T210000
+DTEND;TZID=Europe/Berlin:20261111T005900
+DTSTAMP:20261025T230008Z
+UID:jazzf-rderpreistr-gerkonzert-20261110-2000@ifg-plattform.de
+DESCRIPTION:Die Preisträgerin oder der Preisträger werden zeitnah bekann
+ t gegeben.\n\nDer Eintritt zu dieser Veranstaltung ist kostenfrei.
+LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
+X-SCORE:25
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Andalusien – Goldener Traum Al-Andalus –  Land des Lichts
 DTSTART;TZID=Europe/Berlin:20261111T200000
 DTEND;TZID=Europe/Berlin:20261111T221500
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:andalusien-goldener-traum-al-andalus-land-des-lichts-20261111-1900@ifg
  -plattform.de
 DESCRIPTION:Digitale Multivisionsshow von Roland Koch –   mit Flamencoau
@@ -1439,46 +1429,10 @@ LOCATION:VHS\, Hallstraße 5\, 85049 Ingolstadt
 X-SCORE:21
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Grand Concert: Hauptact t.b.a\, Support: Bella Wakame
-DTSTART;TZID=Europe/Berlin:20261111T210000
-DTEND;TZID=Europe/Berlin:20261112T005900
-DTSTAMP:20261009T220008Z
-UID:grand-concert-hauptact-t-b-a-support-bella-wakame-20261111-2000@ifg-pl
- attform.de
-DESCRIPTION:Im Kulturzentrum neun findet heute das zweite Grand Concert st
- att. Im Mittelpunkt steht ein Hauptact\, der derzeit noch nicht genannt we
- rden kann – weitere Informationen folgen am 10. Juni. So viel vorab: Es 
- handelt sich um eine international renommierte Band\, die seit Jahren zu d
- en prägenden Formationen zwischen Indie\, Electronica und avantgardistisc
- hem Pop zählt und weit über die Landesgrenzen hinaus für ihren unverwec
- hselbaren Sound gefeiert wird. Ein Abend für alle\, die Entdeckungen lieb
- en – und große Namen auch ohne Ankündigung erkennen.\n\nDen Auftakt ge
- staltet das Berliner Duo Bella Wakame. Mit Perkussion und modularen Synthe
- sizern entwickeln sie einen eigenständigen Sound zwischen Experiment und 
- Groove. Ihr Debütalbum (2025) zeigt eine stilistische Offenheit\, die von
-  dichten Texturen bis zu eingängigen\, schwebenden Motiven reicht – ein
-  konzentrierter\, vielversprechender Einstieg in den Abend.\n\nEin Hinweis
- : Die mit 30 Prozent rabattierten Early Bird Tickets bleiben bis zur Bekan
- ntgabe des Hauptacts im Vorverkauf.
-LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
-X-SCORE:15
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazzpreisträgerkonzert
-DTSTART;TZID=Europe/Berlin:20261111T210000
-DTEND;TZID=Europe/Berlin:20261112T005900
-DTSTAMP:20261009T220008Z
-UID:jazzpreistr-gerkonzert-20261111-2000@ifg-plattform.de
-DESCRIPTION:Die Preisträgerin oder der Preisträger werden zeitnah bekann
- t gegeben.\n\nDer Eintritt zu dieser Veranstaltung ist kostenfrei.
-LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
-X-SCORE:25
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Hendrik Brehmer
 DTSTART;TZID=Europe/Berlin:20261111T210000
 DTEND;TZID=Europe/Berlin:20261112T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:hendrik-brehmer-20261111-2000@ifg-plattform.de
 DESCRIPTION:bisschen reingesteigert\n\nEinlass: 19:00\n\nHendrik Brehmer k
  ommt am Mittwoch\, den 11.11.2026 um 20:00 Uhr mit seinem neuen Programm 
@@ -1510,10 +1464,35 @@ LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:42
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Grand Concert: Hauptact t.b.a\, Support: Bella Wakame
+DTSTART;TZID=Europe/Berlin:20261111T210000
+DTEND;TZID=Europe/Berlin:20261112T005900
+DTSTAMP:20261025T230008Z
+UID:grand-concert-hauptact-t-b-a-support-bella-wakame-20261111-2000@ifg-pl
+ attform.de
+DESCRIPTION:Im Kulturzentrum neun findet heute das zweite Grand Concert st
+ att. Im Mittelpunkt steht ein Hauptact\, der derzeit noch nicht genannt we
+ rden kann – weitere Informationen folgen am 10. Juni. So viel vorab: Es 
+ handelt sich um eine international renommierte Band\, die seit Jahren zu d
+ en prägenden Formationen zwischen Indie\, Electronica und avantgardistisc
+ hem Pop zählt und weit über die Landesgrenzen hinaus für ihren unverwec
+ hselbaren Sound gefeiert wird. Ein Abend für alle\, die Entdeckungen lieb
+ en – und große Namen auch ohne Ankündigung erkennen.\n\nDen Auftakt ge
+ staltet das Berliner Duo Bella Wakame. Mit Perkussion und modularen Synthe
+ sizern entwickeln sie einen eigenständigen Sound zwischen Experiment und 
+ Groove. Ihr Debütalbum (2025) zeigt eine stilistische Offenheit\, die von
+  dichten Texturen bis zu eingängigen\, schwebenden Motiven reicht – ein
+  konzentrierter\, vielversprechender Einstieg in den Abend.\n\nEin Hinweis
+ : Die mit 30 Prozent rabattierten Early Bird Tickets bleiben bis zur Bekan
+ ntgabe des Hauptacts im Vorverkauf.
+LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
+X-SCORE:15
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zwerg Nase
 DTSTART;TZID=Europe/Berlin:20261112T110000
 DTEND;TZID=Europe/Berlin:20261112T133000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:zwerg-nase-20261112-1000@ifg-plattform.de
 DESCRIPTION:Marionettentheater\n\nEinlass: 09:40\n\nDer Rabe Ludwig ist en
  tsetzt! Was tut Jakob denn da? Er trägt der Fee Kräuterweis ihre Einkäu
@@ -1534,10 +1513,51 @@ LOCATION:Stadttheater Neuburg\, Residenzstraße A67\, 86633 Neuburg an der
 X-SCORE:18
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stadtkantine
+DTSTART;TZID=Europe/Berlin:20261112T110000
+DTEND;TZID=Europe/Berlin:20261113T005900
+DTSTAMP:20261025T230008Z
+UID:stadtkantine-20261112-1000@ifg-plattform.de
+DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
+  Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
+ Möglichkeiten!\n\nWas ist die Stadtkantine?\nSie nutzt kostenlos leersteh
+ ende Räume\, macht sie zu Begegnungsorten für Austausch und Aktivitäten
+  und ist weg\, sobald eine Vermietung ansteht.\n\nWofür kann die Stadtkan
+ tine genutzt werden?\nFür einen Regenwald zu trocken\, für gemeinsames T
+ räumen perfekt! Konzerte\, Spieleabende\, Workshops\, gemeinsames Tanzen 
+ – oder was uns einfällt! Lasst uns gemeinsam nachdenken!\n\nWo kann mit
+ gestaltet werden?\nTeilt eure Idee vor Ort mit oder meldet euch bei Lisa S
+ chacher unter 0151 23 19 04 01 oder stadtdramaturgie@ingolstadt.de oder au
+ f Insta.\n\n*Scheiß-langer-Donnerstag
+LOCATION:Stadtkantine\, Ludwigstr. 14\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Future Festival 26
+DTSTART;TZID=Europe/Berlin:20261112T110000
+DTEND;TZID=Europe/Berlin:20261112T200000
+DTSTAMP:20261025T230007Z
+UID:future-festival-26-20261112-1000@ifg-plattform.de
+DESCRIPTION:Science in the City\n\nWie können wir Demokratie und gesellsc
+ haftlichen Zusammenhalt in Zeiten großer Veränderungen stärken? Das Fut
+ ure Festival 2026 widmet sich den Herausforderungen\, die das Zusammenlebe
+ n heute und in Zukunft prägen. Expertinnen und Experten aus Wissenschaft 
+ und Praxis beleuchten unter anderem die Bedeutung von Demokratiebildung\, 
+ Perspektiven für die gesundheitliche Versorgung sowie die Kompetenzen\, d
+ ie für die Zukunft entscheidend sein werden. Mit Workshops\, Diskussionen
+  und Impulsvorträgen lädt das Festival dazu ein\, unterschiedliche Persp
+ ektiven kennenzulernen\, miteinander ins Gespräch zu kommen und gemeinsam
+  Zukunft zu gestalten.\n\n\n___\n\n\nAnmeldung über https://www.ku.de/fut
+ urefestival26\n\n\nKontakt: Dr. Veronika Hecht\, veronika.hecht@ku.de\n\n\
+ n___
+LOCATION:Collegium Georgianum\, Hohe-Schul-Straße 5\, 85049 Ingolstadt
+X-SCORE:22
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Eisarena am Schloss
 DTSTART;TZID=Europe/Berlin:20261112T170000
 DTEND;TZID=Europe/Berlin:20261113T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:eisarena-am-schloss-20261112-1700@ifg-plattform.de
 RRULE:FREQ=DAILY;UNTIL=20261230T225959Z;INTERVAL=1
 DESCRIPTION:Die besinnliche Jahreszeit kehrt nach Ingolstadt zurück und d
@@ -1565,7 +1585,7 @@ BEGIN:VEVENT
 SUMMARY:Kriegsbeute und Souvenirs aus dem Krieg 187071
 DTSTART;TZID=Europe/Berlin:20261112T190000
 DTEND;TZID=Europe/Berlin:20261112T200000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:kriegsbeute-und-souvenirs-aus-dem-krieg-187071-20261112-1800@ifg-platt
  form.de
 DESCRIPTION:Kuratorenführung am Abend\n\nDie bayerische Armee erbeutete i
@@ -1588,7 +1608,7 @@ BEGIN:VEVENT
 SUMMARY:Gerle – Pusker Duo
 DTSTART;TZID=Europe/Berlin:20261112T190000
 DTEND;TZID=Europe/Berlin:20261113T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:gerle-pusker-duo-20261112-1800@ifg-plattform.de
 DESCRIPTION:Gemeinsam gelingt ihnen eine überaus rare\, elegante Balance 
  aus Ruhe\, Raffinesse und feiner Spannung\, die dem modernen Jazz das Gef
@@ -1609,7 +1629,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz in den Kneipen: 16 Acts in 10 Locations der Altstadt
 DTSTART;TZID=Europe/Berlin:20261112T200000
 DTEND;TZID=Europe/Berlin:20261113T005900
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230007Z
 UID:jazz-in-den-kneipen-16-acts-in-10-locations-der-altstadt-20261112-1900
  @ifg-plattform.de
 DESCRIPTION:„Jazz in den Kneipen“ ist eines der Highlights der Ingolst
@@ -1634,7 +1654,7 @@ BEGIN:VEVENT
 SUMMARY:Max von Milland &amp\; Die Brennenden Herzen
 DTSTART;TZID=Europe/Berlin:20261112T210000
 DTEND;TZID=Europe/Berlin:20261113T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:max-von-milland-amp-die-brennenden-herzen-20261112-2000@ifg-plattform.
  de
 DESCRIPTION:Lei Liebe Tour\n\nEinlass: 19:00\n\nDer Südtiroler Singer-Son
@@ -1662,7 +1682,7 @@ BEGIN:VEVENT
 SUMMARY:3. Abonnementkonzert
 DTSTART;TZID=Europe/Berlin:20261112T210000
 DTEND;TZID=Europe/Berlin:20261113T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:3-abonnementkonzert-20261112-2000@ifg-plattform.de
 DESCRIPTION:Ariel Zuckermann: Flöte &amp\; Leitung\n\nWelches Orchester h
  at einen international renommierten Flötisten als Chefdirigenten? Mit Ari
@@ -1678,10 +1698,36 @@ LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:31
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Film &amp\; Talk zum „Monobloc”
+DTSTART;TZID=Europe/Berlin:20261112T210000
+DTEND;TZID=Europe/Berlin:20261112T230000
+DTSTAMP:20261025T230007Z
+UID:film-amp-talk-zum-monobloc-20261112-2000@ifg-plattform.de
+DESCRIPTION:Die Stiftung für Konkrete Kunst und Design zu Gast im Audi Pr
+ ogrammkino\n\nEinlass: 19:30\n\nDonnerstag 12. November 2026\, 20:00 Uhr\n
+ Film &amp\; Talk zum „Monobloc”\nTickets\nDie Stiftung für Konkrete K
+ unst und Design zu Gast im Audi Programmkino\nSeit vielen Jahren setzen si
+ ch die Stiftung für Konkrete Kunst und Design und Audi ArtExperience daf
+ ür ein\, Kunst und Design für kommende Generationen zu bewahren und zug
+ änglich zu machen. Dazu gehört auch ein Stuhl von Edgar Gutbub\, derzeit
+  im MKK zu sehen.\n\nWährend Ausstellungsstücke meist einzigartige und w
+ ertvolle Objekte sind\, ist weltweit vor allem ein anderer Stuhl verbreite
+ t: der stapelbare Monobloc aus Plastik. Trotz seines schlechten Rufs gilt 
+ er für viele Menschen als die einzige erschwingliche Sitzgelegenheit. Sch
+ ätzungen zufolge sind mehr als eine Milliarde Exemplare im Umlauf.\n\nDer
+  Grimme-Preisträger Hauke Wendler verfolgt in seiner Dokumentation die Ge
+ schichte des Monoblocs über mehrere Kontinente hinweg. \n\nMit einer Einf
+ ührung von Dr. Theres Rohde lädt die Filmvorführung gemeinsam dazu ein\
+ , Fragen nachzugehen wie: Was macht einen guten Stuhl aus? Welchen Wert me
+ ssen wir ihm bei? Und was braucht es\, um glücklich gut zu sitzen?
+LOCATION:Audi Programmkino\, Ettinger Str.\, 85045 Ingolstadt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:SWAP meets INGOLSTÄDTER JAZZTAGE: ELLI HARRIS
 DTSTART;TZID=Europe/Berlin:20261112T211500
 DTEND;TZID=Europe/Berlin:20261112T230000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:swap-meets-ingolst-dter-jazztage-elli-harris-20261112-2015@ifg-plattfo
  rm.de
 DESCRIPTION:SWAP meets INGOLSTÄDTER JAZZTAGE\n\nEinlass: 19:00\n\nIm Rahm
@@ -1703,10 +1749,36 @@ LOCATION:Städtische Galerie im Theater\, Schloßlände 1\, 85049 Ingolsta
 X-SCORE:23
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Reformerie Kreativworkshop: Flowers &amp\; Friends
+DTSTART;TZID=Europe/Berlin:20261113T180000
+DTEND;TZID=Europe/Berlin:20261113T203000
+DTSTAMP:20261025T230011Z
+UID:reformerie-kreativworkshop-flowers-amp-friends-20261113-1700@ifg-platt
+ form.de
+DESCRIPTION:Reformer Class und DIY Workshop für florales Blumengesteck au
+ f minimalistischem Metallständer\n\nFlowers &amp\; Friends: Ein Abend zum
+  Bewegen\, Kreativwerden und Zusammensein.\n\nWir starten mit einer entspa
+ nnten Reformer Pilates Class für jedes Level. Danach wird aus unserem Stu
+ dio ein kleiner Creative Space: Tati von AUS DEM FF\, Wedding Plannerin &a
+ mp\; Eventdesignerin\, zeigt euch\, wie ihr aus Trockenblumen\, feinen Zwe
+ igen und ausgewählten Naturmaterialien euer eigenes florales Design gesta
+ ltet.\n\nAuf einem minimalistischen schwarzen Metallständer entsteht Schr
+ itt für Schritt ein zeitloses Deko-Piece für dein Zuhause\, das du natü
+ rlich mitnimmst und später immer wieder saisonal verändern kannst.\n\nDa
+ zu gibt's Drinks\, kleine Snacks und Zeit zum Quatschen und Kennenlernen. 
+ 🤎\n\nCome solo or bring your bestie. 8 Plätze | 89 € p. P.\n\nReform
+ er Class + Floral Workshop mit Tati + alle Materialien + Drinks &amp\; Sna
+ cks inklusive. Das Event findet bei vollständiger Belegung mit 8 Teilnehm
+ er:innen statt.\n\nMove. Create. Connect.
+LOCATION:Reformerie Ingolstadt\, Schlüterstr. 3a\, 85057 Ingolstadt\, Im 
+ Blauen Ärztehaus\, Parkplätze um das Ärztehaus direkt herum
+X-SCORE:12
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brauereiführung
 DTSTART;TZID=Europe/Berlin:20261113T183000
 DTEND;TZID=Europe/Berlin:20261113T203000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:brauereif-hrung-20261113-1730@ifg-plattform.de
 DESCRIPTION:Einlass: 16:00\n\nBei unseren regelmäßigen Brauereiführunge
  n führen wir dich ein in die Biergeschichte der Stadt und unserer Brauere
@@ -1725,7 +1797,7 @@ BEGIN:VEVENT
 SUMMARY:Workshop-Abschlusskonzert
 DTSTART;TZID=Europe/Berlin:20261113T200000
 DTEND;TZID=Europe/Berlin:20261114T005900
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:workshop-abschlusskonzert-20261113-1900@ifg-plattform.de
 DESCRIPTION:Am Mittwoch\, 11. November\, startet der Workshop „Jazz an d
  en Schulen“\, der bis zum Freitag\, 13. November\, läuft. Unter Anleitu
@@ -1741,7 +1813,7 @@ BEGIN:VEVENT
 SUMMARY:Jazzparty: Auf Du und Du mit den Künstler*innen
 DTSTART;TZID=Europe/Berlin:20261113T200000
 DTEND;TZID=Europe/Berlin:20261114T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:jazzparty-auf-du-und-du-mit-den-k-nstler-innen-20261113-1900@ifg-platt
  form.de
 DESCRIPTION:Die legendäre Jazzparty der Ingolstädter Jazztage wird 2026 
@@ -1769,7 +1841,7 @@ BEGIN:VEVENT
 SUMMARY:Coldheart
 DTSTART;TZID=Europe/Berlin:20261113T210000
 DTEND;TZID=Europe/Berlin:20261114T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:coldheart-20261113-2000@ifg-plattform.de
 DESCRIPTION:Rock Classics\n\nEinlass: 19:00\n\nCOLDHEART – Classic Rock 
  live &amp\; in Perfektion! \n\nErlebt eine Zeitreise durch die goldene Är
@@ -1793,7 +1865,7 @@ BEGIN:VEVENT
 SUMMARY:ZEIDiG - live
 DTSTART;TZID=Europe/Berlin:20261113T210000
 DTEND;TZID=Europe/Berlin:20261114T005900
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230007Z
 UID:zeidig-live-20261113-2000@ifg-plattform.de
 DESCRIPTION:Mit Freid und Kraft und Liab\n\nEinlass: 19:00\n\nRock\, Blues
   und lässiger Groove - ZEIDiG\, das sind fünf leidenschaftliche Musiker 
@@ -1811,10 +1883,35 @@ LOCATION:Diagonal (Amal goes Diagonal)\, Kreuzstrasse 12\, 85049 Ingolstad
 X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jazz:LAB : Guru Guru Saroos
+DTSTART;TZID=Europe/Berlin:20261113T220000
+DTEND;TZID=Europe/Berlin:20261114T005900
+DTSTAMP:20261025T230008Z
+UID:jazz-lab-guru-guru-saroos-20261113-2100@ifg-plattform.de
+DESCRIPTION:Guru Guru - der Wahnsinn für die ganze Familie\, Eine Band\, 
+ die aus dem Underground kam und längst selbst Geschichte geschrieben hat:
+  geschult im Jazz\, Pioniere des deutschen Rock\, durch Jahrzehnte Tourleb
+ en gehärtet\n- und bis heute ein vibrierendes System aus Energie\, Witz u
+ nd Eskalation.\nMani Neumeier bleibt dabei die Konstante: Schlagzeuger\, S
+ chamane\, Ausnahmefigur. Um ihn herum ein wandelndes Ensemble\, dessen Bio
+ grafien wie ein Lexikon der deutschen Rockmusik gelesen werden können.\n\
+ nGuru Guru heute: ein offener Strom aus Rock\, Funk\, Jazz\, Elektronik un
+ d allem dazwischen - unberechenbar\, verspielt\, unmittelbar. Keine Stilgr
+ en-ze bleibt intakt\, alleş wird Material für Performance und Rausch.\n\
+ nDazu Saroos: ein Netzwerk zwischen Weilheim und Berlin\, geprägt von The
+  Notwist\, Driftmachine und Lali Puna. Ihr Sound bewegt sich zwischen Hip-
+ Hop-Samples\, Postrock und elektronischer Melancholie - reduziert\, präzi
+ se\, atmosphärisch dicht. Mit „Turtle Roll" entsteht ein hybrider Klang
+ raum\, in dem Stimmen zu Texturen werden und Instrumentals die Erzählung 
+ tragen.
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:34
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Jazz for Kids
 DTSTART;TZID=Europe/Berlin:20261114T150000
 DTEND;TZID=Europe/Berlin:20261115T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:jazz-for-kids-20261114-1400@ifg-plattform.de
 DESCRIPTION:Ein besonderes Highlight ist „Jazz for Kids“\, heuer zum e
  rsten Mal in Zusammenarbeit mit der Kammerphilharmonie Ingolstadt. Nach in
@@ -1828,7 +1925,7 @@ BEGIN:VEVENT
 SUMMARY:Unsernherrner Lichterglanz
 DTSTART;TZID=Europe/Berlin:20261114T160000
 DTEND;TZID=Europe/Berlin:20261114T210000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:unsernherrner-lichterglanz-20261114-1500@ifg-plattform.de
 DESCRIPTION:Ein ganz besonderer Weihnachtsmarkt\n\nEinlass: 15:00\n\nBald 
  ist es wieder soweit: Der Kunsthandwerksmarkt "Lichterglanz" in Unsernherr
@@ -1843,28 +1940,35 @@ BEGIN:VEVENT
 SUMMARY:Indische Lichterfest - Diwali 2026
 DTSTART;TZID=Europe/Berlin:20261114T170000
 DTEND;TZID=Europe/Berlin:20261114T213000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230007Z
 UID:indische-lichterfest-diwali-2026-20261114-1600@ifg-plattform.de
-DESCRIPTION:Diwali 2026\n\nEinlass: 15:00\n\n✨ Shubh Deepavali! ✨\n\nI
- DV Ingolstadt e.V. is proud to present the Ingolstadt Diwali Dhamaka — a
- nd it’s time to save the date!\n\n📅 Saturday\, 14 November 2026\n📍
-  Jurastraße 2\, 85049 Ingolstadt\n\nJoin us for a sparkling evening of li
- ghts\, culture\, food\, music and celebration as we bring the community to
- gether for the festival of lights. Bring your family\, bring your friends\
- , and let’s light up Ingolstadt together.\n\nMore details on tickets and
-  programme coming soon. Stay tuned! 🪔\n\nA heartfelt thank you to our p
- artners: Hartl’s Fahrerschmiede\, Clearpath Expat Advisory\, Selgros\, S
- idhu Cash &amp\; Carry\, Tattva\, Spice Mart\, Gujarati Samaj Ingolstadt a
- nd Gemeinschaftspraxis Kalsariya &amp\; Vithani.
+DESCRIPTION:Diwali 2026\n\nEinlass: 15:00\n\n✨ Shubh Deepavali! ✨\n\n
+ 🪔✨ Ingolstadt Diwali Blast 2026 ✨🪔\n\nAfter our joyful Ganesha C
+ elebration and a spectacular Garba Night\, IDV Ingolstadt e.V. brings you 
+ one more grand Indian celebration!❤️\nJoin us for an evening of lights
+ \, culture\, food and togetherness as we celebrate the Festival of Lights 
+ with the whole community. 🎆\n\n📅 Date: Saturday\, 14.11.2026\n⏰ Ti
+ me: 15:00 onwards\n📍 Venue: Jurastraße 2\, 85049 Ingolstadt\n🎟️ T
+ ickets: On sale from 10.10.2026\n\n\n✨ Event Highlights ✨\n💃 Cultur
+ al Performances: Classical dance\, music &amp\; artistic showcases\n🎧 D
+ J Night: Dance the night away to Bollywood beats\n🤝 Meet &amp\; Greet: 
+ Connect and network with new people\n🍛 Food: Authentic Indian flavours\
+ n\nGet ready to celebrate Diwali like never before! 🪔💃🕺\n\n🌟 L
+ ights • Culture • Community 🌟\n\n\nA heartfelt thank you to our par
+ tners:\nExclusive Partners: Hartl’s Fahrerschmiede\, Clearpath Expat Adv
+ isory\, Selgros\nGold Partners: Sidhu Cash &amp\; Carry\, Tattva\nDigital 
+ Partner: Spice Mart\nEvent Partner &amp\; Community Supporters: Gemeinscha
+ ftspraxis Kalsariya &amp\; Vithani\, Zolt Money\, Gujarati Samaj Ingolstad
+ t\, Mukkampost Ingolstadt\, Ingolstadt Kannadigaru\, Odia European Society
 LOCATION:Grund- und Mittelschule Ingolstadt-Friedrichshofen\, Jurastraße 
  2\, 85049 Ingolstadt
-X-SCORE:12
+X-SCORE:25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:THERMENKONZERT MIT 2 UNPLUGGED
 DTSTART;TZID=Europe/Berlin:20261114T190000
 DTEND;TZID=Europe/Berlin:20261114T230000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:thermenkonzert-mit-2-unplugged-20261114-1800@ifg-plattform.de
 DESCRIPTION:Handgemachte Musik mit ordentlich Stimmung\n\nEinlass: 10:00\n
  \n„2 Gitarren und ihre Stimmen“ gibt es mit 2 unplugged an unserem zwe
@@ -1878,7 +1982,7 @@ BEGIN:VEVENT
 SUMMARY:Tango mit da Ziach - Eberwein
 DTSTART;TZID=Europe/Berlin:20261114T200000
 DTEND;TZID=Europe/Berlin:20261115T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:tango-mit-da-ziach-eberwein-20261114-1900@ifg-plattform.de
 DESCRIPTION:bairischer Kammersound\n\nEinlass: 18:00\n\nDie Formation um M
  arlene Eberwein und ihre blaue Harfe setzt mit ihrem „bairischen Kammers
@@ -1902,7 +2006,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies
 DTSTART;TZID=Europe/Berlin:20261114T203000
 DTEND;TZID=Europe/Berlin:20261115T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:blue-skies-20261114-1930@ifg-plattform.de
 DESCRIPTION:basierend auf dem Roman „Blue Skies“ von T. Coraghessan Bo
  yle\n\nIn Kalifornien lässt die Hitze regelmäßig alles in Flammen auf g
@@ -1933,7 +2037,7 @@ SUMMARY:Grand Closing: Take 6  Shuteen Erdenebaatar &amp\; Nils Kugelmann
  (support)
 DTSTART;TZID=Europe/Berlin:20261114T210000
 DTEND;TZID=Europe/Berlin:20261115T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:grand-closing-take-6-shuteen-erdenebaatar-amp-nils-kugelmann-support-2
  0261114-2000@ifg-plattform.de
 DESCRIPTION:Mit dem Grand Closing erreichen die diesjährigen Jazztage ihr
@@ -1986,10 +2090,38 @@ LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:34
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Herbstmodus – zwischen Festhalten und Vertrauen
+DTSTART;TZID=Europe/Berlin:20261115T170000
+DTEND;TZID=Europe/Berlin:20261115T180000
+DTSTAMP:20261025T230007Z
+UID:herbstmodus-zwischen-festhalten-und-vertrauen-20261115-1600@ifg-plattf
+ orm.de
+DESCRIPTION:Texte und Musik über Gott und die Welt\n\nEinlass: 15:30\n\nD
+ er Herbst lädt dazu ein\, innezuhalten. Manches ist gereift und darf bewa
+ hrt werden. Anderes gilt es loszulassen. Zwischen Festhalten und Vertrauen
+  bewegt sich auch unser eigenes Leben.\n\nUnter dem Titel „Herbstmodus 
+ – zwischen Festhalten und Vertrauen“ gestaltet Diakon Michael Neufange
+ r einen Nachmittag mit Gedanken\, Geschichten und spirituellen Impulsen ü
+ ber die Kunst des Loslassens und die Kraft des Vertrauens.\n\nMusikalisch 
+ begleitet wird die Veranstaltung von der Berliner Bassistin Natasha Zayche
+ nko und dem Ingolstädter Gitarristen Daniel Randlkofer. In ihrem Duo widm
+ en sie sich den Geschichten alter Lieder. Interpretationen von Songs und S
+ tandards unter anderem von Nat King Cole\, Cole Porter und Bob Dylan werde
+ n zum Ausgangspunkt eines musikalischen Dialogs von großer klanglicher Ti
+ efe und Intimität. In der reduzierten Besetzung verschwimmen die Grenzen 
+ zwischen Rhythmus\, Harmonie und Melodie. Es entsteht ein transparentes Zu
+ sammenspiel auf Augenhöhe\, das den Liedern neue Facetten entlockt.\n\nTe
+ xte und Musik treten miteinander in Resonanz\, greifen Erfahrungen des Leb
+ ens auf und eröffnen neue Perspektiven auf Gott und die Welt.\n\nDer Eint
+ ritt ist frei.
+LOCATION:Moritzkirche\, Moritzstraße 2\, 85049 Ingolstadt
+X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Blue Skies
 DTSTART;TZID=Europe/Berlin:20261115T200000
 DTEND;TZID=Europe/Berlin:20261116T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:blue-skies-20261115-1900@ifg-plattform.de
 DESCRIPTION:basierend auf dem Roman „Blue Skies“ von T. Coraghessan Bo
  yle\n\nIn Kalifornien lässt die Hitze regelmäßig alles in Flammen auf g
@@ -2019,7 +2151,7 @@ BEGIN:VEVENT
 SUMMARY:Kicker\, Kämpfer\, Legenden – Juden im deutschen Fußball
 DTSTART;TZID=Europe/Berlin:20261117T190000
 DTEND;TZID=Europe/Berlin:20261117T220000
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:kicker-k-mpfer-legenden-juden-im-deutschen-fu-ball-20261117-1800@ifg-p
  lattform.de
 DESCRIPTION:Ausstellungseröffnung mit Dr. Charlotte Knobloch\n\nDer Fußb
@@ -2047,7 +2179,7 @@ BEGIN:VEVENT
 SUMMARY:Herrliches Herrnbräu live erleben!
 DTSTART;TZID=Europe/Berlin:20261119T180000
 DTEND;TZID=Europe/Berlin:20261119T200000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:herrliches-herrnbr-u-live-erleben-20261119-1700@ifg-plattform.de
 DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nBesuchen Sie uns in unse
  rer Brauerei und erleben Sie\, mit wie viel Sorgfalt und modernster Techni
@@ -2070,7 +2202,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz aus dem Nähkästchen
 DTSTART;TZID=Europe/Berlin:20261119T190000
 DTEND;TZID=Europe/Berlin:20261120T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:jazz-aus-dem-n-hk-stchen-20261119-1800@ifg-plattform.de
 DESCRIPTION:Ein Nähkästchen bietet oft viele Überraschungen. Im Falle d
  er Vokalistin Ursula Oswald und des Gitarristen Anton Stürzer sind darin 
@@ -2092,7 +2224,7 @@ BEGIN:VEVENT
 SUMMARY:Claudia Pichler
 DTSTART;TZID=Europe/Berlin:20261119T210000
 DTEND;TZID=Europe/Berlin:20261120T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:claudia-pichler-20261119-2000@ifg-plattform.de
 DESCRIPTION:Kopfnuss und Konterbier\n\nEinlass: 19:00\n\nClaudia Pichler i
  st ein Unikum: Die Münchnerin wirkt auf den ersten Blick so sanft und cha
@@ -2129,7 +2261,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindel Markt in Ingolstadt
 DTSTART;TZID=Europe/Berlin:20261120T120000
 DTEND;TZID=Europe/Berlin:20261223T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:christkindel-markt-in-ingolstadt-20261120-1100@ifg-plattform.de
 DESCRIPTION:Der Ingolstädter Christkindlmarkt lädt ein zum Bummeln durch
   die weihnachtliche Altstadt. Ob die Budenstadt auf dem Theaterplatz\, der
@@ -2147,7 +2279,7 @@ BEGIN:VEVENT
 SUMMARY:Nachts im Stadtmuseum
 DTSTART;TZID=Europe/Berlin:20261120T200000
 DTEND;TZID=Europe/Berlin:20261120T211500
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:nachts-im-stadtmuseum-20261120-1900@ifg-plattform.de
 DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
@@ -2181,7 +2313,7 @@ BEGIN:VEVENT
 SUMMARY:Erkan &amp\; Stefan
 DTSTART;TZID=Europe/Berlin:20261120T210000
 DTEND;TZID=Europe/Berlin:20261121T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:erkan-amp-stefan-20261120-2000@ifg-plattform.de
 DESCRIPTION:Live!\n\nEinlass: 19:00\n\nBir\, iki\, ütsch! Das Handtuch un
  d die Kette sind zurück.  Erkan &amp\; Stefan prägten die Sprache eine
@@ -2204,7 +2336,7 @@ BEGIN:VEVENT
 SUMMARY:RapAct
 DTSTART;TZID=Europe/Berlin:20261120T210000
 DTEND;TZID=Europe/Berlin:20261121T005900
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230007Z
 UID:rapact-20261120-2000@ifg-plattform.de
 DESCRIPTION:Im RapSpot fordern wir Schauspieler*innen des Stadttheater Ing
  olstadt und die Hip Hop Künstler*innen heraus - in einer etwas anderen Ga
@@ -2223,7 +2355,7 @@ BEGIN:VEVENT
 SUMMARY:Nachts im Stadtmuseum
 DTSTART;TZID=Europe/Berlin:20261120T213000
 DTEND;TZID=Europe/Berlin:20261120T224500
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:nachts-im-stadtmuseum-20261120-2030@ifg-plattform.de
 DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
@@ -2257,7 +2389,7 @@ BEGIN:VEVENT
 SUMMARY:Programmieren und Robotik entdecken
 DTSTART;TZID=Europe/Berlin:20261121T110000
 DTEND;TZID=Europe/Berlin:20261121T133000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:programmieren-und-robotik-entdecken-20261121-1000@ifg-plattform.de
 DESCRIPTION:Alle Kinder im Alter von 9 bis zu 11 Jahren sind herzlich eing
  eladen\, im Bürgerhaus Neuburger Kasten die spannende Welt der Technik un
@@ -2282,7 +2414,7 @@ BEGIN:VEVENT
 SUMMARY:Adeventsdeko aus Filz
 DTSTART;TZID=Europe/Berlin:20261121T110000
 DTEND;TZID=Europe/Berlin:20261121T140000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230007Z
 UID:adeventsdeko-aus-filz-20261121-1000@ifg-plattform.de
 DESCRIPTION:Einlass: 10:00\n\nWir gestalten adventlichen oder herbstlichen
   Schmuck aus Filz. Auch bunte Kugeln\, gefilzte Eicheln\, Blätter oder wo
@@ -2296,10 +2428,25 @@ LOCATION:Jugendbildungshaus am Baggersee\, Oberschüttweg 25\, 85049 Ingol
 X-SCORE:10
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tag des offenen Heizungskellers
+DTSTART;TZID=Europe/Berlin:20261121T130000
+DTEND;TZID=Europe/Berlin:20261121T190000
+DTSTAMP:20261025T230008Z
+UID:tag-des-offenen-heizungskellers-20261121-1200@ifg-plattform.de
+DESCRIPTION:Klimafreundlich heizen – stellen Sie Ihre Fragen\n\nHaus- un
+ d Wohnungsbesitzer:innen in ganz Deutschland öffnen ihre Tür und zeigen\
+ , wie klimafreundliche Heiztechnik im Alltag funktioniert. Besucher:innen 
+ können Fragen auf Augenhöhe stellen und erhalten Antworten ohne Verkaufs
+ druck. Damit Sie für sich und Ihre Wohnsituation die beste Lösung finden
+ . Unter dem Link Heizungskeller in der Nähe finden und anmelden!
+LOCATION:Digital\, Videokonferenz
+X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ingolstadt spielt
 DTSTART;TZID=Europe/Berlin:20261121T150000
 DTEND;TZID=Europe/Berlin:20261122T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:ingolstadt-spielt-20261121-1400@ifg-plattform.de
 DESCRIPTION:Einlass: 14:00\n\nAm Samstag\, den 21. November\, heißt es wi
  eder „Ingolstadt spielt!“. Von 14 Uhr bis Mitternacht verwandeln der S
@@ -2310,8 +2457,7 @@ DESCRIPTION:Einlass: 14:00\n\nAm Samstag\, den 21. November\, heißt es wi
  den Geschmack etwas dabei. Die Mitglieder des Spieleclubs erklären die Re
  geln\, so dass man ohne langes Regellesen sofort losspielen kann.\n\nEinge
  laden sind Jung und Alt\, Familien\, Freundeskreise und Spielefans – zum
-  Ausprobieren\, Kennenlernen und Mitspielen. Der Eintritt ist frei. Weiter
- e Informationen unter www.ingolstadt-spielt.de.
+  Ausprobieren\, Kennenlernen und Mitspielen. Der Eintritt ist frei.
 LOCATION:Fronte 79 - Haus der Jugend\, Jahnstraße 25\, 85049 Ingolstadt
 X-SCORE:14
 END:VEVENT
@@ -2319,7 +2465,7 @@ BEGIN:VEVENT
 SUMMARY:Herbstkonzert Orchesterinitiative Ingolstadt
 DTSTART;TZID=Europe/Berlin:20261121T200000
 DTEND;TZID=Europe/Berlin:20261121T220000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:herbstkonzert-orchesterinitiative-ingolstadt-20261121-1900@ifg-plattfo
  rm.de
 DESCRIPTION:Einlass: 18:15\n\nWerke von Mozart\, Haydn\, Stamitz und Sibel
@@ -2331,7 +2477,7 @@ BEGIN:VEVENT
 SUMMARY:Das Abschiedsdinner
 DTSTART;TZID=Europe/Berlin:20261121T203000
 DTEND;TZID=Europe/Berlin:20261122T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:das-abschiedsdinner-20261121-1930@ifg-plattform.de
 DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
  e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
@@ -2359,7 +2505,7 @@ BEGIN:VEVENT
 SUMMARY:ACDX
 DTSTART;TZID=Europe/Berlin:20261121T210000
 DTEND;TZID=Europe/Berlin:20261122T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:acdx-20261121-2000@ifg-plattform.de
 DESCRIPTION:The ultimate AC/DC Rock Show\n\nEinlass: 19:00\n\n... die AC/D
  C-Show der besonderen Art! Andere Bands spielen Stromgitarren – AC/DX si
@@ -2397,7 +2543,7 @@ BEGIN:VEVENT
 SUMMARY:Auslöschung. Ein Zerfall
 DTSTART;TZID=Europe/Berlin:20261121T210000
 DTEND;TZID=Europe/Berlin:20261122T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:ausl-schung-ein-zerfall-20261121-2000@ifg-plattform.de
 DESCRIPTION:von Thomas Bernhard • in einer Bearbeitung von Felix Metzner
   • nach einer Inszenierung am Staatstheater Darmstadt\n\n„Auslöschung
@@ -2428,7 +2574,7 @@ BEGIN:VEVENT
 SUMMARY:ABBA World Revival Live Band mit anschließender DJ Party
 DTSTART;TZID=Europe/Berlin:20261121T213000
 DTEND;TZID=Europe/Berlin:20261122T030000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:abba-world-revival-live-band-mit-anschlie-ender-dj-party-20261121-2030
  @ifg-plattform.de
 DESCRIPTION:ABBA Live Band in Allershausen\n\nEinlass: 18:00\n\nABBA-Fiebe
@@ -2464,10 +2610,35 @@ LOCATION:Ampertalhalle Allershausen\, Am Amperknie 1\, 85391 Allershausen\
 X-SCORE:27
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Zukunftsoptimismus tanken!
+DTSTART;TZID=Europe/Berlin:20261122T170000
+DTEND;TZID=Europe/Berlin:20261122T180000
+DTSTAMP:20261025T230007Z
+UID:zukunftsoptimismus-tanken-20261122-1600@ifg-plattform.de
+DESCRIPTION:Texte und Musik über Gott und die Welt\n\nEinlass: 15:30\n\nD
+ ie katholische Cityseelsorge Ingolstadt lädt in Kooperation mit der Pfarr
+ ei Liebfrauenmünster und St. Moritz zu einem ermutigenden Nachmittag übe
+ r Gott und die Welt nach St. Moritz ein. Dort zeigt der bekannte Autor\, Z
+ eichner und Redner Werner „Tiki“ Küstenmacher auf ebenso unterhaltsam
+ e wie nachdenkliche Weise\, wie Menschen angesichts von Krisen und Herausf
+ orderungen Zuversicht bewahren und neue Lebensfreude entdecken können. Mi
+ t humorvollen Geschichten\, einprägsamen Bildern und live entstehenden Ca
+ rtoons eröffnet er überraschende Perspektiven auf die Frage\, wie wir ho
+ ffnungsvoll in die Zukunft blicken können.\nMusikalisch begleitet wird di
+ e Veranstaltung von Christian Ledl\, Kirchenmusiker an St. Moritz. Mit Bea
+ tles-Melodien und Jazzklängen an der Orgel setzt er die passenden musikal
+ ische Akzente.\nFreuen Sie sich auf einen abwechslungsreichen Nachmittag m
+ it anregenden Gedanken\, humorvollen Zeichnungen und entspannender Musik 
+ – und nehmen Sie neue Hoffnung und Zuversicht mit nach Hause.\nEintritt 
+ frei. Spenden erbeten.
+LOCATION:Moritzkirche\, Moritzstraße 2\, 85049 Ingolstadt
+X-SCORE:11
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Auslöschung. Ein Zerfall
 DTSTART;TZID=Europe/Berlin:20261122T210000
 DTEND;TZID=Europe/Berlin:20261123T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:ausl-schung-ein-zerfall-20261122-2000@ifg-plattform.de
 DESCRIPTION:von Thomas Bernhard • in einer Bearbeitung von Felix Metzner
   • nach einer Inszenierung am Staatstheater Darmstadt\n\n„Auslöschung
@@ -2495,10 +2666,62 @@ LOCATION:Studio im Herzogskasten\, Theaterplatz\, 85049 Ingolstadt
 X-SCORE:10
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:DIYnstag „Liebenswerte weihnachtliche Charakterfiguren zeichnen
+ “
+DTSTART;TZID=Europe/Berlin:20261124T190000
+DTEND;TZID=Europe/Berlin:20261124T210000
+DTSTAMP:20261025T230007Z
+UID:diynstag-liebenswerte-weihnachtliche-charakterfiguren-zeichnen-2026112
+ 4-1800@ifg-plattform.de
+DESCRIPTION:Online-Workshop mit Angela Krüger\n\nEinlass: 17:45\n\nWie en
+ tstehen aus zufälligen Formen und spontanen Linien kleine Charaktere mit 
+ ganz viel Persönlichkeit? In diesem Online-Workshop mit Angela Krüger en
+ tdeckt ihr auf spielerische Weise die Welt der liebenswerten Figuren – g
+ anz ohne Vorzeichnung und ohne den Anspruch\, perfekt zeichnen zu müssen.
+ \n\nAus gerissenem Papier\, zufälligen Linien und überraschenden Formen 
+ entwickeln sich Schritt für Schritt einzigartige\, tierisch liebenswerte 
+ Charaktere. Ihr lernt\, wie aus einfachen „Zufällen“ ausdrucksstarke 
+ Figuren entstehen und wie ihr ihnen mit wenigen Strichen einen ganz eigene
+ n Charme verleiht.\n\nEin besonderes Augenmerk liegt auf den Augen: Sie ha
+ uchen euren Figuren Leben ein und verleihen ihnen ihren ganz individuellen
+  Ausdruck. Anschließend setzt ihr eure fertigen Illustrationen auf einem 
+ neuen Untergrund stimmungsvoll in Szene. Wer möchte\, kann ihnen dabei ei
+ nen Hauch von Weihnachten verleihen.\n\nEine schöne Idee für die Advents
+ zeit: Eure kleinen Illustrationen eignen sich auch wunderbar als individue
+ lle Geschenkanhänger!\n\nDienstag 24. November 2026\, 18:00 - 20:00 Uhr\n
+ DIYnstag\n„Liebenswerte weihnachtliche Charakterfiguren zeichnen“ – 
+ Online-Workshop mit Angela Krüger”\nAnmeldung ab Mo 02.11.\nWas euch er
+ wartet\nWie entstehen aus zufälligen Formen und spontanen Linien kleine C
+ haraktere mit ganz viel Persönlichkeit? In diesem Online-Workshop mit Ang
+ ela Krüger entdeckt ihr auf spielerische Weise die Welt der liebenswerten
+  Figuren – ganz ohne Vorzeichnung und ohne den Anspruch\, perfekt zeichn
+ en zu müssen.\n\nAus gerissenem Papier\, zufälligen Linien und überrasc
+ henden Formen entwickeln sich Schritt für Schritt einzigartige\, tierisch
+  liebenswerte Charaktere. Ihr lernt\, wie aus einfachen „Zufällen“ au
+ sdrucksstarke Figuren entstehen und wie ihr ihnen mit wenigen Strichen ein
+ en ganz eigenen Charme verleiht.\n\nEin besonderes Augenmerk liegt auf den
+  Augen: Sie hauchen euren Figuren Leben ein und verleihen ihnen ihren ganz
+  individuellen Ausdruck. Anschließend setzt ihr eure fertigen Illustratio
+ nen auf einem neuen Untergrund stimmungsvoll in Szene. Wer möchte\, kann 
+ ihnen dabei einen Hauch von Weihnachten verleihen.\n\nEine schöne Idee f
+ ür die Adventszeit: Eure kleinen Illustrationen eignen sich auch wunderba
+ r als individuelle Geschenkanhänger!\n\n\n\nDer Workshop richtet sich sow
+ ohl an Anfänger*innen als auch an kreativ arbeitende Menschen\, die ihre 
+ gestalterischen Möglichkeiten erweitern möchten. Vorkenntnisse sind nich
+ t erforderlich.\n\nDie Teilnehmenden bekommen per Post das notwendige Work
+ shopmaterial zugeschickt und erhalten einen Link zum Onlineworkshop.\n\nDa
+ s Format „DIYnstag. Design it yourself. Kreativworkshop für Erwachsene
+ “ wird durch Audi ArtExperience ermöglicht. Für diese freundliche Unte
+ rstützung bedankt sich das MKK herzlich.
+LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
+ adt
+X-SCORE:27
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Skitoureninfoabend und Wintertourenprogramms
 DTSTART;TZID=Europe/Berlin:20261124T200000
 DTEND;TZID=Europe/Berlin:20261125T000000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:skitoureninfoabend-und-wintertourenprogramms-20261124-1900@ifg-plattfo
  rm.de
 DESCRIPTION:2026/2027\n\nEinlass: 18:30\n\n- Geplante Skitouren und Verans
@@ -2515,7 +2738,7 @@ BEGIN:VEVENT
 SUMMARY:Bayerns Pompeji der Jungsteinzeit
 DTSTART;TZID=Europe/Berlin:20261125T190000
 DTEND;TZID=Europe/Berlin:20261125T203000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:bayerns-pompeji-der-jungsteinzeit-20261125-1800@ifg-plattform.de
 DESCRIPTION:Die UNESCO-Welterbe-Siedlung von Pestenacker\n\nEinlass: 16:00
  \n\nKostenfreier Vortrag von Dr. Anneli Wanger-O’Neill (Bayerisches Land
@@ -2551,10 +2774,31 @@ LOCATION:kelten römer museum manching\, Im Erlet 2\, 85077 Manching
 X-SCORE:24
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bildschön verpotcht! Kreative Drucktechnik
+DTSTART;TZID=Europe/Berlin:20261125T193000
+DTEND;TZID=Europe/Berlin:20261125T213000
+DTSTAMP:20261025T230011Z
+UID:bildsch-n-verpotcht-kreative-drucktechnik-20261125-1830@ifg-plattform.
+ de
+DESCRIPTION:Für Erwachsene · 2 Stunden · Material inklusive\n\nEinlass:
+  18:30\n\nEin Lieblingsmotiv\, ein passender Untergrund und ein bisschen G
+ eduld – daraus machen wir etwas ganz Eigenes.\n\nBeim Potchen übertrage
+ n wir gedruckte Motive auf einen Untergrund. Wir streichen\, drücken an\,
+  lassen trocknen und rubbeln das Papier vorsichtig wieder ab. Stück für 
+ Stück kommt das Motiv zum Vorschein – mit kleinen Unregelmäßigkeiten\
+ , durch die jedes Bild seinen eigenen Charakter bekommt.\n\nSiri zeigt euc
+ h die Technik und begleitet euch beim Gestalten. Ob Erinnerung fürs eigen
+ e Zuhause oder persönliches Geschenk: Am Ende nehmt ihr euer selbst gesta
+ ltetes Bild mit.\n\nVorkenntnisse braucht ihr keine. Nur Lust\, etwas Neue
+ s auszuprobieren und gemeinsam kreativ zu werden.
+LOCATION:kun SCHT\, Pfarrgasse 2-4\, 85049 Ingolstadt
+X-SCORE:19
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Wohltätigkeitskonzert
 DTSTART;TZID=Europe/Berlin:20261125T203000
 DTEND;TZID=Europe/Berlin:20261125T233000
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:wohlt-tigkeitskonzert-20261125-1930@ifg-plattform.de
 DESCRIPTION:Es spielt das Musikkorps der Bundeswehr\n\nEinlass: 18:30\n\nA
  m 25. November findet in gewohnter Weise das traditionelle Wohltätigkeits
@@ -2572,7 +2816,7 @@ BEGIN:VEVENT
 SUMMARY:Stefan Leonhardsberger
 DTSTART;TZID=Europe/Berlin:20261125T210000
 DTEND;TZID=Europe/Berlin:20261126T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:stefan-leonhardsberger-20261125-2000@ifg-plattform.de
 DESCRIPTION:Herzklopfen\n\nEinlass: 19:00\n\nWie überlebt man Sperrmüll-
  Dates mit der Ehefrau\, spontanen Kontrollbesuch vom Jugendamt und einen N
@@ -2590,7 +2834,7 @@ BEGIN:VEVENT
 SUMMARY:Jess Jochimsen - 4 Kerzen Für Ein Halleluja
 DTSTART;TZID=Europe/Berlin:20261125T210000
 DTEND;TZID=Europe/Berlin:20261125T233000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:jess-jochimsen-4-kerzen-f-r-ein-halleluja-20261125-2000@ifg-plattform.
  de
 DESCRIPTION:Kabarett\n\nEinlass: 19:40\n\nInmitten von Politdepression und
@@ -2628,7 +2872,7 @@ BEGIN:VEVENT
 SUMMARY:Jasmin Bayer Trio
 DTSTART;TZID=Europe/Berlin:20261126T190000
 DTEND;TZID=Europe/Berlin:20261127T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:jasmin-bayer-trio-20261126-1800@ifg-plattform.de
 DESCRIPTION:Christmas Jazz mit Jasmin Bayer Trio: Das ist überzeugend und
   meisterlich interpretierte Weihnachtsliteratur in Jazzgewand\, abseits vo
@@ -2653,7 +2897,7 @@ BEGIN:VEVENT
 SUMMARY:Helmfried von Lüttichau
 DTSTART;TZID=Europe/Berlin:20261126T210000
 DTEND;TZID=Europe/Berlin:20261127T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:helmfried-von-l-ttichau-202611261100000000-2000@ifg-plattform.de
 DESCRIPTION:„neues Soloprogramm“\n\nEinlass: 19:00\n\nJa steckt denn d
  ieser Helmfried von Lüttichau seine Nase überall hinein? Tut er und zwa
@@ -2668,7 +2912,7 @@ BEGIN:VEVENT
 SUMMARY:SWAP KONZERTREIHE: SOLAIRE TRIO
 DTSTART;TZID=Europe/Berlin:20261126T210000
 DTEND;TZID=Europe/Berlin:20261126T223000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:swap-konzertreihe-solaire-trio-20261126-2000@ifg-plattform.de
 DESCRIPTION:FÖRDERPREISKONZERT DES BAYERISCHEN JAZZVERBANDS\n\nEinlass: 1
  9:30\n\nSolaire ist ein Newcomer Trio\, das sich dem modernen Fusion-Jazz 
@@ -2692,10 +2936,74 @@ LOCATION:Städtische Galerie Harderbastei\, Oberer Graben 55\, 85049 Ingol
 X-SCORE:26
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:144. JAM Session der Jazzfreunde Ingolstadt e. V.
+DTSTART;TZID=Europe/Berlin:20261126T210000
+DTEND;TZID=Europe/Berlin:20261127T000000
+DTSTAMP:20261025T230007Z
+UID:144-jam-session-der-jazzfreunde-ingolstadt-e-v-20261126-2000@ifg-platt
+ form.de
+DESCRIPTION:Eintritt frei\n\nEinlass: 19:00\n\nDie Jazzfreunde Ingolstadt 
+ e. V. laden alle Jazzliebhaber:innen und Musiker:innen ein\, Teil einer be
+ sonderen musikalischen Erfahrung zu werden! Von September bis Juni des Fol
+ gejahres veranstalten wir unsere legendären Jam-Sessions – mit offener 
+ Bühne\, freiem Eintritt und jeder Menge Spielfreude.\n\nWie läuft eine J
+ am-Session ab?\nJede Session beginnt mit einer Opener-Band\, die das erste
+  Set spielt. Danach gehört die Bühne allen\, die mitspielen möchten! Di
+ e Session-Band begleitet die Mitspieler:innen entweder in Teilen oder komp
+ lett.\n\nBeginn: 20:00\, Einlass: 19:00\n\n𝗘𝗶𝗻𝘁𝗿𝗶𝘁
+ 𝘁 𝗳𝗿𝗲𝗶!\n\nSession Band: String Theory\n\nStringTheorie ist
+  ein dynamisches Ensemble\, das die Grenzen des traditionellen Jazz neu in
+ terpretiert. Mit einer Kombination aus Geige\, Gitarre\, Bass und Schlagze
+ ug schafft es eine faszinierende Fusion von Klangfarben und Stilen. Die Zu
+ hörer werden auf eine unvergessliche musikalische Reise entführt.\n\nGei
+ gerin: Ariane Felgenträger\,\n\nGitarrist: Armin Merten.\n\nBassist: Herm
+ ann Kobl\n\nSchlagzeuger: Benjamin Kroll\n\nGemeinsam schaffen sie durch i
+ hre Vielseitigkeit und ihr Zusammenspiel eine einzigartige und innovative 
+ Klanglandschaft. Von lebhaften Improvisationen bis hin zu einfühlsamen Ba
+ lladen verleihen sie bekannten Jazzstandards und pop-inspirierten Songs ne
+ ue Nuancen und Tiefe.\n\nhttps://www.stringtheorie.band\n\nWir suchen lauf
+ end Bands\, die bei einer Session als Session-Opener-Band auftreten möcht
+ en. Die Band sollte Realbook-Sicherheit und eine gewisse stilistische Band
+ breite haben. Bei Interesse tretet bitte der WhatsApp Community „Bands u
+ nd Musiker der Jazzfreunde Ingolstadt“ bei und bewerbt Euch dort:\n\nhtt
+ ps://jazzfreunde-ingolstadt.de/info/sessions/community/invite\n\nNach Veri
+ fizierung Eurer Email Adresse bekommt ihr einen Einladungslink zu dieser W
+ hatsApp Community.\n\nAblauf:  die Session Band spielt ein erstes Set\, da
+ nach ist die Bühne frei für Mitspieler\n\nVor Ort sind vorhanden:\n- PA 
+ mit Mixer\, Mikrophonen und Monitoren\n-       New Real Books Band 1\,2 un
+ d 3 je in C\, Bb und Eb\n-       Stage Piano (Roland FP90x)\n-       Drum 
+ Set (ohne Becken)\n-       Gui-Amp (Fender)\n-       Bass-Amp (Eich)\n \nB
+ ei Bedarf bitte mitbringen:\n-       Eigenes Musikinstrument\, ggf. Becken
+ \n-       Unbedingt erforderliches eigenes Equipment mit Verkabelung\n-   
+     Notenständer
+LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
+X-SCORE:13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtkantine
+DTSTART;TZID=Europe/Berlin:20261127T190000
+DTEND;TZID=Europe/Berlin:20261128T005900
+DTSTAMP:20261025T230009Z
+UID:stadtkantine-20261127-1800@ifg-plattform.de
+DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
+  Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
+ Möglichkeiten!\n\nWas ist die Stadtkantine?\nSie nutzt kostenlos leersteh
+ ende Räume\, macht sie zu Begegnungsorten für Austausch und Aktivitäten
+  und ist weg\, sobald eine Vermietung ansteht.\n\nWofür kann die Stadtkan
+ tine genutzt werden?\nFür einen Regenwald zu trocken\, für gemeinsames T
+ räumen perfekt! Konzerte\, Spieleabende\, Workshops\, gemeinsames Tanzen 
+ – oder was uns einfällt! Lasst uns gemeinsam nachdenken!\n\nWo kann mit
+ gestaltet werden?\nTeilt eure Idee vor Ort mit oder meldet euch bei Lisa S
+ chacher unter 0151 23 19 04 01 oder stadtdramaturgie@ingolstadt.de oder au
+ f Insta.\n\n*Scheiß-langer-Donnerstag
+LOCATION:Stadtkantine\, Ludwigstr. 14\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ingmar Stadelmann
 DTSTART;TZID=Europe/Berlin:20261127T210000
 DTEND;TZID=Europe/Berlin:20261128T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:ingmar-stadelmann-20261127-2000@ifg-plattform.de
 DESCRIPTION:„Stadelmann liest Höcke – ein satirischer Diskurs vor der
   Machtergreifung“\n\nEinlass: 19:00\n\nIngmar Stadelmann kommt am Freita
@@ -2743,7 +3051,7 @@ BEGIN:VEVENT
 SUMMARY:Brauereiführung
 DTSTART;TZID=Europe/Berlin:20261128T160000
 DTEND;TZID=Europe/Berlin:20261129T005900
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230007Z
 UID:brauereif-hrung-20261128-1500@ifg-plattform.de
 DESCRIPTION:Bei unseren regelmäßigen Brauereiführungen führen wir dich
   ein in die Biergeschichte der Stadt und unserer Brauerei.\n\nVon den Rohs
@@ -2762,7 +3070,7 @@ BEGIN:VEVENT
 SUMMARY:ChristmasJazz
 DTSTART;TZID=Europe/Berlin:20261128T180000
 DTEND;TZID=Europe/Berlin:20261128T210000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230007Z
 UID:christmasjazz-20261128-1700@ifg-plattform.de
 DESCRIPTION:Budenzauber\, Livemusik und traumhaftes Ambiente.\n\nEinlass: 
  17:00\n\nDer traditionelle ChristmasJazz eröffnet die Adventszeit: Mit de
@@ -2776,7 +3084,7 @@ BEGIN:VEVENT
 SUMMARY:Soul´n´Roll - Die Rollschuhdisco in der NEUN
 DTSTART;TZID=Europe/Berlin:20261128T190000
 DTEND;TZID=Europe/Berlin:20261128T230000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:soul-n-roll-die-rollschuhdisco-in-der-neun-20261128-1800@ifg-plattform
  .de
 DESCRIPTION:Einlass: 18:00\n\nDrei Mal im Jahr gehört die (ganze) Neun de
@@ -2793,10 +3101,107 @@ LOCATION:Jugendtrendsportzentrum und Bandräume NEUN\, Elisabethstraße 9b
 X-SCORE:14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kombiführung Lechner Museum und Skulpturenpark
+DTSTART;TZID=Europe/Berlin:20261129T120000
+DTEND;TZID=Europe/Berlin:20261129T150000
+DTSTAMP:20261025T230007Z
+UID:kombif-hrung-lechner-museum-und-skulpturenpark-20261129-1100@ifg-platt
+ form.de
+DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
+ nEinlass: 10:45\n\nEntdecken Sie das Lechner Museum und den Skulpturenpark
+  Obereichstätt auf einer Kombi-Führung\, die jeden letzten Sonntag im Mo
+ nat stattfindet. Erleben Sie so Kunst und Natur in einer malerischen Umgeb
+ ung und lassen Sie sich von fachkundigen Expert*innen durch die jeweiligen
+  Ausstellungen führen. \n‍\nFür die öffentlichen Kombi-Führungen ist
+  keine Anmeldung erforderlich. Treffpunkt und Beginn ist am Museum in Ingo
+ lstadt. Insgesamt dauert die Veranstaltung ca. 3 Stunden. \nBitte beachten
+  Sie\, dass der Transfer vom Museum zum Skulpturenpark in Obereichstätt e
+ igenverantwortlich stattfindet und eine Fahrtzeit von ca. 30-35 Minuten mi
+ t dem PKW beträgt.\n‍\nEine Anreise mit öffentlichen Verkehrsmitteln i
+ st leider nicht möglich.\n‍\nKommen Sie vorbei und lassen Sie sich von 
+ der Kunst und der Natur begeistern!
+LOCATION:Lechner Museum\, Esplanade 9\, 85049 Ingolstadt
+X-SCORE:23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:„Gießseifen“
+DTSTART;TZID=Europe/Berlin:20261129T160000
+DTEND;TZID=Europe/Berlin:20261129T180000
+DTSTAMP:20261025T230007Z
+UID:gie-seifen-20261129-1500@ifg-plattform.de
+DESCRIPTION:Familien-Workshop mit Aniko Szabo Kouakou\n\nEinlass: 14:45\n\
+ nTaucht ein in die bunte Welt der Gießseifen und gestaltet eure ganz pers
+ önlichen Seifenkreationen!\n\nIn diesem kreativen Familien-Workshop mit A
+ niko lernt ihr verschiedene Schichttechniken kennen und könnt eurer Fanta
+ sie freien Lauf lassen. Mit duftenden Essenzen\, Blüten und floralen Elem
+ enten verwandelt ihr eure Seifen in kleine Kunstwerke – ganz nach eurem 
+ Geschmack.\n\nJede*r Teilnehmer*in darf 2 Seifen gestalten. Aus vielen ver
+ schiedenen Förmchen könnt ihr eure Lieblinge auswählen und eure individ
+ uellen Seifen gestalten\n\nVorkenntnisse sind nicht erforderlich.\n\nInsta
+ gram Profil der Workshopleiterin: soso die Heimatseife\nDer Kurs richtet s
+ ich an Erwachsene\, Jugendliche und Kinder ab 7 Jahren. Das Material steht
+  vor Ort zur Verfügung.\n\nDie Aufsichtspflicht für die teilnehmenden Ki
+ nder liegt bei den Eltern.\n\nDas Format „Sonntags? Kunst!“ wird durch
+  Audi ArtExperience ermöglicht. Für diese freundliche Unterstützung bed
+ ankt sich das MKK herzlich.
+LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
+ adt
+X-SCORE:27
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Audi Race Bar präsentiert: Formel 1® live
+DTSTART;TZID=Europe/Berlin:20261129T180000
+DTEND;TZID=Europe/Berlin:20261130T005900
+DTSTAMP:20261025T230007Z
+UID:audi-race-bar-pr-sentiert-formel-1-live-20261129-1700@ifg-plattform.de
+DESCRIPTION:mit der Übertragung des Rennens aus Katar\n\nEinlass: 15:30\n
+ \nErlebt gemeinsam mit Familie\, Freunden und Kollegen live die Formel 1 
+ ® Übertragungen in Audi-Markenatmosphäre. Fiebert gemeinsam Runde für 
+ Runde mit!\nDie Bar und Lounge im Audi Forum Ingolstadt und das Restaurant
+  Nuvolari in Neckarsulm bieten euch heiße und kalte Getränke sowie Speis
+ en an. \nReservierungen werden an beiden Standorten telefonisch oder per M
+ ail entgegengenommen.\n\nBar Ingolstadt:              0841 89-41071       
+     ingolstadt@marche-int.com\nRestaurant Nuvolari:	  07132 31-18 80      
+      nuvolari@audi.de
+LOCATION:Audi Forum\, Ettinger Straße Audi Piazza\, 85045 Ingolstadt
+X-SCORE:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Auslöschung. Ein Zerfall
+DTSTART;TZID=Europe/Berlin:20261201T210000
+DTEND;TZID=Europe/Berlin:20261202T005900
+DTSTAMP:20261025T230007Z
+UID:ausl-schung-ein-zerfall-20261201-2000@ifg-plattform.de
+DESCRIPTION:von Thomas Bernhard • in einer Bearbeitung von Felix Metzner
+  • nach einer Inszenierung am Staatstheater Darmstadt\n\n„Auslöschung
+ “ ist der Titel einer Niederschrift\, die Franz-Josef Murau\, Hauptfigur
+  in Thomas Bernhards gleichnamigem Roman\, in seinem letzten Lebensjahr in
+  Rom verfasst hat. Diese Aufzeichnungen waren für Murau unumgänglich gew
+ orden\, eine schonungslose Abrechnung mit seiner Familie und seinem „Her
+ kunftskomplex“: Schloss Wolfsegg in Oberösterreich. Hier ist Murau aufg
+ ewachsen\, von hier hat er sich als Geistesmensch nach Rom geflüchtet. Al
+ s seine Eltern bei einem Autounfall ums Leben kommen\, muss Muraus plötzl
+ ich Verantwortung übernehmen und eine Entscheidung fällen\, wie er mit s
+ einem Erbe umgeht. Thomas Bernhards letzter veröffentlichter Roman ist ei
+ ne packende Auseinandersetzung mit den Fesseln unserer Herkunft. Felix Met
+ zner brachte die Inszenierung 2024 am Staatstheater Darmstadt heraus.\n\nT
+ homas Bernhard (1931 – 1989) ist einer der bedeutendsten deutschspra
+ chigen Autoren des 20.  Jahrhunderts\, der für seine literarischen Ab
+ rechnungen mit der Gesellschaft bekannt ist. Seine zahlreichen Erzählunge
+ n\, Romane und Theater stücke\, lösten Skandale und öffentliche Debatte
+ n aus\; so zum Beispiel die Uraufführung seines Stückes „Helden platz
+ “\, das er zum 50.  Jahrestag des Anschlusses von Österreich an Naz
+ i-Deutschland schrieb. Daniel Scholz spielt Murau\, er ist ehemaliges Ense
+ mblemitglied des Staatstheaters Darmstadt und aktuell zu sehen in der Fern
+ sehserie „Die Spreewaldklinik“.
+LOCATION:Studio im Herzogskasten\, Theaterplatz\, 85049 Ingolstadt
+X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:vhs-Film am Mittwoch: Konklave
 DTSTART;TZID=Europe/Berlin:20261202T193000
 DTEND;TZID=Europe/Berlin:20261202T221500
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:vhs-film-am-mittwoch-konklave-20261202-1830@ifg-plattform.de
 DESCRIPTION:Ein fesselndes Drama über Intrigen\, Verantwortung und Entsch
  eidungen hinter verschlossenen Türen.\n\nDer Papst ist unerwartet verstor
@@ -2819,7 +3224,7 @@ BEGIN:VEVENT
 SUMMARY:Ines Procter
 DTSTART;TZID=Europe/Berlin:20261202T210000
 DTEND;TZID=Europe/Berlin:20261203T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:ines-procter-20261202-2000@ifg-plattform.de
 DESCRIPTION:Bäsd off „Die Närrische Putzfraa“\n\nEinlass: 19:00\n\nS
  eit 2015 in den Mainfrankensälen bei der Fastnacht in Franken zu putzen\,
@@ -2844,7 +3249,7 @@ BEGIN:VEVENT
 SUMMARY:Draußen Vor Der Tür
 DTSTART;TZID=Europe/Berlin:20261202T210000
 DTEND;TZID=Europe/Berlin:20261202T233000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:drau-en-vor-der-t-r-20261202-2000@ifg-plattform.de
 DESCRIPTION:Schauspiel\n\nEinlass: 19:40\n\nEin Mann kommt aus dem Krieg z
  urück – und findet keinen Platz mehr im Leben. Beckmann heißt er – a
@@ -2873,10 +3278,61 @@ LOCATION:Stadttheater Neuburg\, Residenzstraße A67\, 86633 Neuburg an der
 X-SCORE:15
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Auslöschung. Ein Zerfall
+DTSTART;TZID=Europe/Berlin:20261202T210000
+DTEND;TZID=Europe/Berlin:20261203T005900
+DTSTAMP:20261025T230007Z
+UID:ausl-schung-ein-zerfall-20261202-2000@ifg-plattform.de
+DESCRIPTION:von Thomas Bernhard • in einer Bearbeitung von Felix Metzner
+  • nach einer Inszenierung am Staatstheater Darmstadt\n\n„Auslöschung
+ “ ist der Titel einer Niederschrift\, die Franz-Josef Murau\, Hauptfigur
+  in Thomas Bernhards gleichnamigem Roman\, in seinem letzten Lebensjahr in
+  Rom verfasst hat. Diese Aufzeichnungen waren für Murau unumgänglich gew
+ orden\, eine schonungslose Abrechnung mit seiner Familie und seinem „Her
+ kunftskomplex“: Schloss Wolfsegg in Oberösterreich. Hier ist Murau aufg
+ ewachsen\, von hier hat er sich als Geistesmensch nach Rom geflüchtet. Al
+ s seine Eltern bei einem Autounfall ums Leben kommen\, muss Muraus plötzl
+ ich Verantwortung übernehmen und eine Entscheidung fällen\, wie er mit s
+ einem Erbe umgeht. Thomas Bernhards letzter veröffentlichter Roman ist ei
+ ne packende Auseinandersetzung mit den Fesseln unserer Herkunft. Felix Met
+ zner brachte die Inszenierung 2024 am Staatstheater Darmstadt heraus.\n\nT
+ homas Bernhard (1931 – 1989) ist einer der bedeutendsten deutschspra
+ chigen Autoren des 20.  Jahrhunderts\, der für seine literarischen Ab
+ rechnungen mit der Gesellschaft bekannt ist. Seine zahlreichen Erzählunge
+ n\, Romane und Theater stücke\, lösten Skandale und öffentliche Debatte
+ n aus\; so zum Beispiel die Uraufführung seines Stückes „Helden platz
+ “\, das er zum 50.  Jahrestag des Anschlusses von Österreich an Naz
+ i-Deutschland schrieb. Daniel Scholz spielt Murau\, er ist ehemaliges Ense
+ mblemitglied des Staatstheaters Darmstadt und aktuell zu sehen in der Fern
+ sehserie „Die Spreewaldklinik“.
+LOCATION:Studio im Herzogskasten\, Theaterplatz\, 85049 Ingolstadt
+X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Stadtkantine
+DTSTART;TZID=Europe/Berlin:20261203T110000
+DTEND;TZID=Europe/Berlin:20261204T005900
+DTSTAMP:20261025T230009Z
+UID:stadtkantine-20261203-1000@ifg-plattform.de
+DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
+  Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
+ Möglichkeiten!\n\nWas ist die Stadtkantine?\nSie nutzt kostenlos leersteh
+ ende Räume\, macht sie zu Begegnungsorten für Austausch und Aktivitäten
+  und ist weg\, sobald eine Vermietung ansteht.\n\nWofür kann die Stadtkan
+ tine genutzt werden?\nFür einen Regenwald zu trocken\, für gemeinsames T
+ räumen perfekt! Konzerte\, Spieleabende\, Workshops\, gemeinsames Tanzen 
+ – oder was uns einfällt! Lasst uns gemeinsam nachdenken!\n\nWo kann mit
+ gestaltet werden?\nTeilt eure Idee vor Ort mit oder meldet euch bei Lisa S
+ chacher unter 0151 23 19 04 01 oder stadtdramaturgie@ingolstadt.de oder au
+ f Insta.\n\n*Scheiß-langer-Donnerstag
+LOCATION:Stadtkantine\, Ludwigstr. 14\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Joe Bawelino – Gige Brunner Duo
 DTSTART;TZID=Europe/Berlin:20261203T190000
 DTEND;TZID=Europe/Berlin:20261204T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:joe-bawelino-gige-brunner-duo-20261203-1800@ifg-plattform.de
 DESCRIPTION:20 Finger auf zwei Gitarren: Angesichts der überbordenden Fä
  higkeiten der beiden Protagonisten verspricht dieses Konzert ein gewaltige
@@ -2897,7 +3353,7 @@ BEGIN:VEVENT
 SUMMARY:Tom &amp\; Basti
 DTSTART;TZID=Europe/Berlin:20261203T210000
 DTEND;TZID=Europe/Berlin:20261204T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:tom-amp-basti-20261203-2000@ifg-plattform.de
 DESCRIPTION:zwoaschneidig\n\nEinlass: 19:00\n\nIm jüngsten\, mittlerweil
  e fünften Bühnenprogramm zwoaschneidig nehmen Tom &amp\; Basti ihre We
@@ -2914,7 +3370,7 @@ BEGIN:VEVENT
 SUMMARY:4. Abonnementkonzert
 DTSTART;TZID=Europe/Berlin:20261203T210000
 DTEND;TZID=Europe/Berlin:20261204T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:4-abonnementkonzert-20261203-2000@ifg-plattform.de
 DESCRIPTION:Kolja Blacher: Violine &amp\; Leitung\n\nSein Name steht für 
  höchste Qualität. Als Violinist\, Pädagoge und Konzertmeister der Berli
@@ -2929,10 +3385,30 @@ LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:17
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stadtkantine
+DTSTART;TZID=Europe/Berlin:20261204T190000
+DTEND;TZID=Europe/Berlin:20261205T005900
+DTSTAMP:20261025T230009Z
+UID:stadtkantine-20261204-1800@ifg-plattform.de
+DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
+  Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
+ Möglichkeiten!\n\nWas ist die Stadtkantine?\nSie nutzt kostenlos leersteh
+ ende Räume\, macht sie zu Begegnungsorten für Austausch und Aktivitäten
+  und ist weg\, sobald eine Vermietung ansteht.\n\nWofür kann die Stadtkan
+ tine genutzt werden?\nFür einen Regenwald zu trocken\, für gemeinsames T
+ räumen perfekt! Konzerte\, Spieleabende\, Workshops\, gemeinsames Tanzen 
+ – oder was uns einfällt! Lasst uns gemeinsam nachdenken!\n\nWo kann mit
+ gestaltet werden?\nTeilt eure Idee vor Ort mit oder meldet euch bei Lisa S
+ chacher unter 0151 23 19 04 01 oder stadtdramaturgie@ingolstadt.de oder au
+ f Insta.\n\n*Scheiß-langer-Donnerstag
+LOCATION:Stadtkantine\, Ludwigstr. 14\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Chris Boettcher
 DTSTART;TZID=Europe/Berlin:20261204T210000
 DTEND;TZID=Europe/Berlin:20261205T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:chris-boettcher-20261204-2000@ifg-plattform.de
 DESCRIPTION:Baby Boomer\n\nEinlass: 19:00\n\nSie hatten ein tolles Leben\,
   sie wuchsen auf als es Deutschland am Besten ging. Ihre Welt war noch ros
@@ -2965,10 +3441,41 @@ LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:10
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Auslöschung. Ein Zerfall
+DTSTART;TZID=Europe/Berlin:20261204T210000
+DTEND;TZID=Europe/Berlin:20261205T005900
+DTSTAMP:20261025T230007Z
+UID:ausl-schung-ein-zerfall-20261204-2000@ifg-plattform.de
+DESCRIPTION:von Thomas Bernhard • in einer Bearbeitung von Felix Metzner
+  • nach einer Inszenierung am Staatstheater Darmstadt\n\n„Auslöschung
+ “ ist der Titel einer Niederschrift\, die Franz-Josef Murau\, Hauptfigur
+  in Thomas Bernhards gleichnamigem Roman\, in seinem letzten Lebensjahr in
+  Rom verfasst hat. Diese Aufzeichnungen waren für Murau unumgänglich gew
+ orden\, eine schonungslose Abrechnung mit seiner Familie und seinem „Her
+ kunftskomplex“: Schloss Wolfsegg in Oberösterreich. Hier ist Murau aufg
+ ewachsen\, von hier hat er sich als Geistesmensch nach Rom geflüchtet. Al
+ s seine Eltern bei einem Autounfall ums Leben kommen\, muss Muraus plötzl
+ ich Verantwortung übernehmen und eine Entscheidung fällen\, wie er mit s
+ einem Erbe umgeht. Thomas Bernhards letzter veröffentlichter Roman ist ei
+ ne packende Auseinandersetzung mit den Fesseln unserer Herkunft. Felix Met
+ zner brachte die Inszenierung 2024 am Staatstheater Darmstadt heraus.\n\nT
+ homas Bernhard (1931 – 1989) ist einer der bedeutendsten deutschspra
+ chigen Autoren des 20.  Jahrhunderts\, der für seine literarischen Ab
+ rechnungen mit der Gesellschaft bekannt ist. Seine zahlreichen Erzählunge
+ n\, Romane und Theater stücke\, lösten Skandale und öffentliche Debatte
+ n aus\; so zum Beispiel die Uraufführung seines Stückes „Helden platz
+ “\, das er zum 50.  Jahrestag des Anschlusses von Österreich an Naz
+ i-Deutschland schrieb. Daniel Scholz spielt Murau\, er ist ehemaliges Ense
+ mblemitglied des Staatstheaters Darmstadt und aktuell zu sehen in der Fern
+ sehserie „Die Spreewaldklinik“.
+LOCATION:Studio im Herzogskasten\, Theaterplatz\, 85049 Ingolstadt
+X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Teufelssteinfest - Black Metal Festival
 DTSTART;TZID=Europe/Berlin:20261205T160000
 DTEND;TZID=Europe/Berlin:20261206T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:teufelssteinfest-black-metal-festival-20261205-1500@ifg-plattform.de
 DESCRIPTION:Black und Death Metal Festival in der Fonte79 Ingolstadt\n\nEi
  nlass: 14:30\n\nAm Samstag\, den 05.12.2026\, findet zum zweiten Mal das T
@@ -2982,7 +3489,7 @@ BEGIN:VEVENT
 SUMMARY:Kuschelparty Ingolstadt Dezember
 DTSTART;TZID=Europe/Berlin:20261205T190000
 DTEND;TZID=Europe/Berlin:20261205T230000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:kuschelparty-ingolstadt-dezember-20261205-1800@ifg-plattform.de
 DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
@@ -3007,7 +3514,7 @@ BEGIN:VEVENT
 SUMMARY:SAUNANACHT WEIHNACHTSGESCHICHTEN
 DTSTART;TZID=Europe/Berlin:20261205T190000
 DTEND;TZID=Europe/Berlin:20261206T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:saunanacht-weihnachtsgeschichten-20261205-1800@ifg-plattform.de
 DESCRIPTION:Festliche Wohlfühlmomente\n\nEinlass: 10:00\n\nSpürt den Zau
  ber der Weihnacht\nWenn es draußen kalt und ungemütlich wird\, laden wir
@@ -3022,10 +3529,40 @@ LOCATION:Donautherme\, Südliche Ringstraße 63\, 85053 Ingolstadt
 X-SCORE:12
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blue Skies
+DTSTART;TZID=Europe/Berlin:20261205T203000
+DTEND;TZID=Europe/Berlin:20261206T005900
+DTSTAMP:20261025T230008Z
+UID:blue-skies-20261205-1930@ifg-plattform.de
+DESCRIPTION:basierend auf dem Roman „Blue Skies“ von T. Coraghessan Bo
+ yle\n\nIn Kalifornien lässt die Hitze regelmäßig alles in Flammen auf g
+ ehen und in Florida bereiten Überschwemmungen ständig nasse Füße oder 
+ auch nasse Häuser. Und mittendrin eine Familie. Mutter Ottilie lässt sic
+ h von ihrem Sohn Cooper und seiner Freundin Mari\, die Insektenforscher*in
+ nen sind\, die neuesten Empfehlungen geben\, wie die Welt vielleicht noch 
+ zu retten ist. Und so geht sie dazu über\, ihre Ernährung auf eine insek
+ tenbasierte umzustellen. Tochter Cat in Florida sollte eigentlich ihr best
+ es Leben mit ihrem Partner Todd führen. Doch der Umzug ins neue Haus ger
+ ät für die beiden zur Farce. Todd ist ständig auf Reisen\, um als Marke
+ nbotschafter den Rum seiner Firma zu promoten. Cat bleibt im feuchten Haus
+  zurück und kauft sich prompt einen Tigerpython\, um die Sterbenslangewei
+ le irgendwie zu überstehen. Der Roman „Blue Skies“ von T. C. Boyle is
+ t die Geschichte einer Familie\, die von einer Katastrophe in die nächste
+  gerät und dabei ver suchen muss\, ihre Beziehungen und ihren Alltag aufr
+ echt zu erhalten. Skurril und mit bösem Humor und ganz ohne morali schen 
+ Zeigefinger nimmt uns Boyle mit in eine apokalyptische Welt\, in der der K
+ limawandel bereits zum Teil des Lebens geworden ist. Oberspielleiterin Mir
+ ja Biel widmet sich dieser Romanadaption  –  mit viel Feingefüh
+ l für die Eigentümlichkeiten dieser schrägen\, aber liebenswerten Figur
+ en.
+LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
+X-SCORE:18
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Kostenlose Führung im Museum des Ersten Weltkriegs
 DTSTART;TZID=Europe/Berlin:20261206T150000
 DTEND;TZID=Europe/Berlin:20261206T170000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:kostenlose-f-hrung-im-museum-des-ersten-weltkriegs-20261206-1400@ifg-p
  lattform.de
 DESCRIPTION:Der Erste Weltkrieg - die Urkatastrophe des 20. Jahrhunderts\n
@@ -3044,10 +3581,87 @@ LOCATION:Reduit Tilly\, Klenzepark\, 85049 Ingolstadt
 X-SCORE:21
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Blue Skies
+DTSTART;TZID=Europe/Berlin:20261206T150000
+DTEND;TZID=Europe/Berlin:20261207T005900
+DTSTAMP:20261025T230007Z
+UID:blue-skies-20261206-1400@ifg-plattform.de
+DESCRIPTION:basierend auf dem Roman „Blue Skies“ von T. Coraghessan Bo
+ yle\n\nIn Kalifornien lässt die Hitze regelmäßig alles in Flammen auf g
+ ehen und in Florida bereiten Überschwemmungen ständig nasse Füße oder 
+ auch nasse Häuser. Und mittendrin eine Familie. Mutter Ottilie lässt sic
+ h von ihrem Sohn Cooper und seiner Freundin Mari\, die Insektenforscher*in
+ nen sind\, die neuesten Empfehlungen geben\, wie die Welt vielleicht noch 
+ zu retten ist. Und so geht sie dazu über\, ihre Ernährung auf eine insek
+ tenbasierte umzustellen. Tochter Cat in Florida sollte eigentlich ihr best
+ es Leben mit ihrem Partner Todd führen. Doch der Umzug ins neue Haus ger
+ ät für die beiden zur Farce. Todd ist ständig auf Reisen\, um als Marke
+ nbotschafter den Rum seiner Firma zu promoten. Cat bleibt im feuchten Haus
+  zurück und kauft sich prompt einen Tigerpython\, um die Sterbenslangewei
+ le irgendwie zu überstehen. Der Roman „Blue Skies“ von T. C. Boyle is
+ t die Geschichte einer Familie\, die von einer Katastrophe in die nächste
+  gerät und dabei ver suchen muss\, ihre Beziehungen und ihren Alltag aufr
+ echt zu erhalten. Skurril und mit bösem Humor und ganz ohne morali schen 
+ Zeigefinger nimmt uns Boyle mit in eine apokalyptische Welt\, in der der K
+ limawandel bereits zum Teil des Lebens geworden ist. Oberspielleiterin Mir
+ ja Biel widmet sich dieser Romanadaption  –  mit viel Feingefüh
+ l für die Eigentümlichkeiten dieser schrägen\, aber liebenswerten Figur
+ en.
+LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
+X-SCORE:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Audi Race Bar präsentiert: Formel 1® live
+DTSTART;TZID=Europe/Berlin:20261206T150000
+DTEND;TZID=Europe/Berlin:20261207T005900
+DTSTAMP:20261025T230007Z
+UID:audi-race-bar-pr-sentiert-formel-1-live-20261206-1400@ifg-plattform.de
+DESCRIPTION:mit der Übertragung des Rennens aus Abu Dhabi\n\nEinlass: 12:
+ 30\n\nErlebt gemeinsam mit Familie\, Freunden und Kollegen live die Formel
+  1 ® Übertragungen in Audi-Markenatmosphäre. Fiebert gemeinsam Runde f
+ ür Runde mit!\nDie Bar und Lounge im Audi Forum Ingolstadt bietet euch he
+ iße und kalte Getränke sowie Speisen an. \nAm Audi Forum Ingolstadt kön
+ nen die Plätze online über den untenstehenden Link\, per Telefon oder pe
+ r Mail vorangemeldet werden.\n\nTel.: 0841 89-41071 \nMail: ingolstadt@mar
+ che-int.com
+LOCATION:Audi Forum\, Ettinger Straße Audi Piazza\, 85045 Ingolstadt
+X-SCORE:24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das kleine Gespenst
+DTSTART;TZID=Europe/Berlin:20261206T173000
+DTEND;TZID=Europe/Berlin:20261207T005900
+DTSTAMP:20261025T230007Z
+UID:das-kleine-gespenst-20261206-1630@ifg-plattform.de
+DESCRIPTION:von Otfried Preußler • ab 3 Jahren\n\nJede Nacht\, punktgen
+ au zur Geisterstunde\, erwacht das kleine Gespenst. Fröhlich flitzt es du
+ rch die Hallen von Burg Eulenstein und trifft sich mit seinem besten Freun
+ d\, dem Uhu Schuhu. Sein größter Traum? Einmal die Welt bei Tageslicht z
+ u sehen! Doch alle Versuche\, nach der Geisterstunde wach zu bleiben\, sch
+ eitern kläglich. Als der Wunsch plötzlich doch wahr wird\, beginnt ein t
+ urbulentes Abenteuer. Vom Sonnenlicht erwischt\, verwandelt sich das Nacht
+ gespenst in ein Taggespenst\, das die Menschen der Stadt erschreckt und un
+ gewollt für ein ordentliches Durcheinander sorgt. Schon bald sehnt sich d
+ as kleine Gespenst nach seiner ursprünglichen Gestalt und nach der angene
+ hm ruhigen Nacht. Das kleine Gespenst möchte wieder nach Hause  –
+   zum Glück kommen ein paar mutige Kinder zur Rettung.\n\n\nIm Gegens
+ atz zu den meisten Darstellungen von Gespenstern\, die diese häufig als g
+ ruselige\, negativ behaftete Nachtwesen zeigen\, wird das kleine Gespenst 
+ in Otfried Preußlers fantasievoller Geschichte als ein verspielt und aben
+ teuerlustig agierendes Wesen dargestellt. Seine Missgeschicke und Streiche
+  werden auf humorvolle Weise erzählt. Durch dieses sympathische und keine
+ sfalls unheimliche Gespenst gelingt es\, kleinen Zuschauer*innen die Angst
+  vor Spuk gestalten zu nehmen. Eine poetische Geschichte über Werte wie F
+ reundschaft\, Hilfsbereitschaft und das Vermögen\, sich selbst so zu akze
+ ptieren\, wie man ist.
+LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
+X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gemeinsam durch den Advent
 DTSTART;TZID=Europe/Berlin:20261206T180000
 DTEND;TZID=Europe/Berlin:20261207T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:gemeinsam-durch-den-advent-20261206-1700@ifg-plattform.de
 DESCRIPTION:Konzert in St. Markus\n\nAm 2. Advent\, Sonntag\, 6. Dezember 
  2026\, um 17 Uhr\, laden die musikalischen Gruppen von St. Markus wieder z
@@ -3082,7 +3696,7 @@ BEGIN:VEVENT
 SUMMARY:Lisa Feller
 DTSTART;TZID=Europe/Berlin:20261206T200000
 DTEND;TZID=Europe/Berlin:20261207T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:lisa-feller-20261206-1900@ifg-plattform.de
 DESCRIPTION:„Schön für dich!“\n\nEinlass: 18:00\n\nLisa Feller komm
  t am Sonntag\, den 06.12.2026 um 19:00 Uhr mit ihrem neuen Programm „Sch
@@ -3117,10 +3731,38 @@ LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:28
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Romanberatung im Herzogskasten
+DTSTART;TZID=Europe/Berlin:20261208T150000
+DTEND;TZID=Europe/Berlin:20261208T190000
+DTSTAMP:20261025T230008Z
+UID:romanberatung-im-herzogskasten-20261208-1400@ifg-plattform.de
+DESCRIPTION:Einlass: 10:00\n\nDie Stadtbücherei Ingolstadt erweitert ihr 
+ Serviceangebot für Romanleserinnen und Romanleser: In der Romanetage der 
+ Bücherei im Herzogskasten ist eine ehrenamtliche Beraterin bei der Auswah
+ l passender Lektüre zur Seite.\nEine Buchhändlerin im Ruhestand bringt i
+ hre langjährige Erfahrung und große Leidenschaft für Literatur ein und 
+ empfiehlt auf Wunsch Romane ganz nach den persönlichen Vorlieben der Lese
+ rinnen und Leser. Ob spannende Unterhaltung\, historische Erzählungen\, F
+ amiliengeschichten\, Liebesromane oder literarische Entdeckungen – Inter
+ essierte erhalten künftig direkt vor Ort eine individuelle Orientierung i
+ m vielfältigen Angebot der Belletristik.\n\nDer ehrenamtliche Beratungsdi
+ enst wird zu festgelegten Zeiten im Herzogskasten angeboten: 14-tägig die
+ nstags von 14 bis 18 Uhr\n\nBesucherinnen und Besucher finden die engagier
+ te Romanberaterin in der 1. Etage im Bereich Belletristik und können sie 
+ dort gerne direkt ansprechen.\nDie Stadtbücherei freut sich über die ken
+ ntnisreiche Verstärkung. Gerade im Bereich der Romane gab es bislang kein
+ e regelmäßige persönliche Auskunft vor Ort. Mit dem neuen Angebot kann 
+ die Bücherei ihre Leserinnen und Leser noch gezielter unterstützen und d
+ ie Freude am Lesen weiter fördern.
+LOCATION:Stadtbücherei im Herzogskasten\, Hallstraße 2-4\, 85049 Ingolst
+ adt
+X-SCORE:15
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:T.Raum.Phase #06
 DTSTART;TZID=Europe/Berlin:20261208T210000
 DTEND;TZID=Europe/Berlin:20261208T220000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:t-raum-phase-06-20261208-2000@ifg-plattform.de
 DESCRIPTION:T.Raum.Phase #06 – Anëira: Die Stadt\, in der Träume abgeg
  eben werden\n\nEinlass: 19:00\n\nT.Raum.Phase #06 – Anëira: Die Stadt\,
@@ -3151,7 +3793,7 @@ BEGIN:VEVENT
 SUMMARY:The BEST of Black Gospel
 DTSTART;TZID=Europe/Berlin:20261209T203000
 DTEND;TZID=Europe/Berlin:20261209T230000
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:the-best-of-black-gospel-20261209-1930@ifg-plattform.de
 DESCRIPTION:Eine Auswahl der besten Gospelsänger der USA\n\nEinlass: 18:3
  0\n\nDie Gospelsensation "The BEST of Black Gospel" aus den USA kommt erne
@@ -3168,11 +3810,31 @@ LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
 X-SCORE:35
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Stadtkantine
+DTSTART;TZID=Europe/Berlin:20261210T110000
+DTEND;TZID=Europe/Berlin:20261211T005900
+DTSTAMP:20261025T230009Z
+UID:stadtkantine-20261210-1000@ifg-plattform.de
+DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
+  Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
+ Möglichkeiten!\n\nWas ist die Stadtkantine?\nSie nutzt kostenlos leersteh
+ ende Räume\, macht sie zu Begegnungsorten für Austausch und Aktivitäten
+  und ist weg\, sobald eine Vermietung ansteht.\n\nWofür kann die Stadtkan
+ tine genutzt werden?\nFür einen Regenwald zu trocken\, für gemeinsames T
+ räumen perfekt! Konzerte\, Spieleabende\, Workshops\, gemeinsames Tanzen 
+ – oder was uns einfällt! Lasst uns gemeinsam nachdenken!\n\nWo kann mit
+ gestaltet werden?\nTeilt eure Idee vor Ort mit oder meldet euch bei Lisa S
+ chacher unter 0151 23 19 04 01 oder stadtdramaturgie@ingolstadt.de oder au
+ f Insta.\n\n*Scheiß-langer-Donnerstag
+LOCATION:Stadtkantine\, Ludwigstr. 14\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Sonne\, Mond und Sterne. Die Reitgarnitur des Kurfürsten Maximili
  an I. von Bayern
 DTSTART;TZID=Europe/Berlin:20261210T190000
 DTEND;TZID=Europe/Berlin:20261210T200000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:sonne-mond-und-sterne-die-reitgarnitur-des-kurf-rsten-maximilian-i-von
  -bayern-20261210-1800@ifg-plattform.de
 DESCRIPTION:Kuratorenführung am Abend\n\nDie prunkvolle Reitgarnitur\, di
@@ -3191,7 +3853,7 @@ BEGIN:VEVENT
 SUMMARY:cultural.disaster LIVE im Griesmüller
 DTSTART;TZID=Europe/Berlin:20261210T200000
 DTEND;TZID=Europe/Berlin:20261210T230000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:cultural-disaster-live-im-griesm-ller-20261210-1900@ifg-plattform.de
 DESCRIPTION:Einlass: 16:00\n\nEs ist wieder Zeit für LIVE Musik in der Br
  auerei. Seid dabei wenn cultural.disaster live und unplugged für uns spie
@@ -3210,7 +3872,7 @@ BEGIN:VEVENT
 SUMMARY:Rad Gumbo &amp\; Günter Grünwald
 DTSTART;TZID=Europe/Berlin:20261210T210000
 DTEND;TZID=Europe/Berlin:20261211T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:rad-gumbo-amp-g-nter-gr-nwald-20261210-2000@ifg-plattform.de
 DESCRIPTION:Bayerisches Kabarett trifft Southern Blues\n\nEinlass: 19:00\n
  \nGünter Grünwald ist einer der ganz großen bayerischen Kabarettisten u
@@ -3234,57 +3896,30 @@ LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:40
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:145. JAM Session der Jazzfreunde Ingolstadt e. V.
-DTSTART;TZID=Europe/Berlin:20261210T210000
-DTEND;TZID=Europe/Berlin:20261211T000000
-DTSTAMP:20261009T220007Z
-UID:145-jam-session-der-jazzfreunde-ingolstadt-e-v-20261210-2000@ifg-platt
- form.de
-DESCRIPTION:Eintritt frei\n\nEinlass: 19:00\n\nDie Jazzfreunde Ingolstadt 
- e. V. laden alle Jazzliebhaber:innen und Musiker:innen ein\, Teil einer be
- sonderen musikalischen Erfahrung zu werden! Von September bis Juni des Fol
- gejahres veranstalten wir unsere legendären Jam-Sessions – mit offener 
- Bühne\, freiem Eintritt und jeder Menge Spielfreude.\n\nWie läuft eine J
- am-Session ab?\nJede Session beginnt mit einer Opener-Band\, die das erste
-  Set spielt. Danach gehört die Bühne allen\, die mitspielen möchten! Di
- e Session-Band begleitet die Mitspieler:innen entweder in Teilen oder komp
- lett.\n\nBeginn: 20:00\, Einlass: 19:00\n\n𝗘𝗶𝗻𝘁𝗿𝗶𝘁
- 𝘁 𝗳𝗿𝗲𝗶!\n\nSession Band: „The Unions“ aus München\n\nD
- ie Münchener Jazz-Band "The Unions" haben sich um die Jahrtausendwende in
-  Haidhausen zusammengefunden. Das Unionsbräu spielte nicht nur als Namens
- geber eine Rolle\, hier hatten die Unions in unterschiedlicher Besetzung i
- hre ersten Auftritte im Malzboden. Seit 2016 spielt die Jazz-Band in feste
- r Besetzung mit Rhythmusgruppe und drei Bläsern diverse Jazz Standards un
- d eigene Kompositionen: Angie Hirsch am Piano\, Herbert Siebler am Bass un
- d Gerhard Steffen an den Drums geben den Rhythmus vor. Bei den Bläsern wi
- rken Karl Strasser (tp)\, Wo Stenger (bar\, ts) und Matthias Pfeiffer (as\
- , ss) zusammen. Mit Herz und Leidenschaft grooven die Unions nun in der ne
- uen Welt in Ingostadt: der Abend verspricht eine gute Mischung aus Swing\,
-  Blues\, Bebop\, Funk und Latin mit leisen und lauten Tönen in flotten un
- d ruhigen Rhythmen und in der zweiten Hälfte alle Überraschungen\, die e
- ine JAM-Session bietet.\n\nhttps://www.stringtheorie.band\n\nWir suchen la
- ufend Bands\, die bei einer Session als Session-Opener-Band auftreten möc
- hten. Die Band sollte Realbook-Sicherheit und eine gewisse stilistische Ba
- ndbreite haben. Bei Interesse tretet bitte der WhatsApp Community „Bands
-  und Musiker der Jazzfreunde Ingolstadt“ bei und bewerbt Euch dort:\n\nh
- ttps://jazzfreunde-ingolstadt.de/info/sessions/community/invite\n\nNach Ve
- rifizierung Eurer Email Adresse bekommt ihr einen Einladungslink zu dieser
-  WhatsApp Community.\n\nAblauf:  die Session Band spielt ein erstes Set\, 
- danach ist die Bühne frei für Mitspieler\n\nVor Ort sind vorhanden:\n- P
- A mit Mixer\, Mikrophonen und Monitoren\n-       New Real Books Band 1\,2 
- und 3 je in C\, Bb und Eb\n-       Stage Piano (Roland FP90x)\n-       Dru
- m Set (ohne Becken)\n-       Gui-Amp (Fender)\n-       Bass-Amp (Eich)\n \
- nBei Bedarf bitte mitbringen:\n-       Eigenes Musikinstrument\, ggf. Beck
- en\n-       Unbedingt erforderliches eigenes Equipment mit Verkabelung\n- 
-       Notenständer
-LOCATION:Noch offen\, Kreuzstr. 12\, 85049 Ingolstadt
-X-SCORE:17
+SUMMARY:Stadtkantine
+DTSTART;TZID=Europe/Berlin:20261211T190000
+DTEND;TZID=Europe/Berlin:20261212T005900
+DTSTAMP:20261025T230010Z
+UID:stadtkantine-20261211-1800@ifg-plattform.de
+DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
+  Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
+ Möglichkeiten!\n\nWas ist die Stadtkantine?\nSie nutzt kostenlos leersteh
+ ende Räume\, macht sie zu Begegnungsorten für Austausch und Aktivitäten
+  und ist weg\, sobald eine Vermietung ansteht.\n\nWofür kann die Stadtkan
+ tine genutzt werden?\nFür einen Regenwald zu trocken\, für gemeinsames T
+ räumen perfekt! Konzerte\, Spieleabende\, Workshops\, gemeinsames Tanzen 
+ – oder was uns einfällt! Lasst uns gemeinsam nachdenken!\n\nWo kann mit
+ gestaltet werden?\nTeilt eure Idee vor Ort mit oder meldet euch bei Lisa S
+ chacher unter 0151 23 19 04 01 oder stadtdramaturgie@ingolstadt.de oder au
+ f Insta.\n\n*Scheiß-langer-Donnerstag
+LOCATION:Stadtkantine\, Ludwigstr. 14\, 85049 Ingolstadt
+X-SCORE:14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jan van Weyde
 DTSTART;TZID=Europe/Berlin:20261211T210000
 DTEND;TZID=Europe/Berlin:20261212T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:jan-van-weyde-20261211-2000@ifg-plattform.de
 DESCRIPTION:IMMER WEYDER...\n\nEinlass: 19:00\n\nAller guten Dinge sind Dr
  ei! Und daher heißt es ab März 2026:\n\nVorhang auf und Applaus für das
@@ -3311,7 +3946,7 @@ BEGIN:VEVENT
 SUMMARY:SWAP KONZERTREIHE: SUSI LOTTER QUINTETT
 DTSTART;TZID=Europe/Berlin:20261211T210000
 DTEND;TZID=Europe/Berlin:20261211T223000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:swap-konzertreihe-susi-lotter-quintett-20261211-2000@ifg-plattform.de
 DESCRIPTION:Einlass: 12:30\n\nDas Susi Lotter Quintett vereint fünf aufs
  trebende Musiker:innen und Freund:innen\, die sich an der Hochschule für
@@ -3339,7 +3974,7 @@ BEGIN:VEVENT
 SUMMARY:Eingeschneit
 DTSTART;TZID=Europe/Berlin:20261211T210000
 DTEND;TZID=Europe/Berlin:20261211T233000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:eingeschneit-20261211-2000@ifg-plattform.de
 DESCRIPTION:Komödie\n\nEinlass: 19:40\n\nExtreme Situationen erfordern ex
  treme Maßnahmen – nach diesem Motto handelt die quirlige Seniorin Judit
@@ -3378,7 +4013,7 @@ BEGIN:VEVENT
 SUMMARY:Brauereiführung
 DTSTART;TZID=Europe/Berlin:20261212T160000
 DTEND;TZID=Europe/Berlin:20261212T180000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:brauereif-hrung-20261212-1500@ifg-plattform.de
 DESCRIPTION:Einlass: 10:00\n\nBei unseren regelmäßigen Brauereiführunge
  n führen wir dich ein in die Biergeschichte der Stadt und unserer Brauere
@@ -3394,10 +4029,38 @@ LOCATION:Griesmüllers Altstadtbrauerei\, Schulstraße 19\, 85049 Ingolsta
 X-SCORE:15
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Das Abschiedsdinner
+DTSTART;TZID=Europe/Berlin:20261212T180000
+DTEND;TZID=Europe/Berlin:20261213T005900
+DTSTAMP:20261025T230008Z
+UID:das-abschiedsdinner-20261212-1700@ifg-plattform.de
+DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
+ e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
+ chaft beenden möchte\, die mehr Verpflichtung als Vergnügen geworden ist
+ ? Ein Bekannter erzählt Pierre von einer todsicheren Methode\, unliebsame
+  Freunde für immer loszuwerden\, ohne dass diese davon wissen. Kurzentsch
+ lossen laden Pierre und seine Frau Clotilde\, Bea und Antoine zu einem let
+ zten gemeinsamen Abendessen ein. Dafür wird alles perfekt arrangiert. Doc
+ h Antoine kommt überraschend allein\, und das ist erst der Anfang. Zudem 
+ scheint nämlich auch er von der Methode des Abschiedsdinners gehört zu h
+ aben und ist nicht gewillt\, sich einfach abwimmeln zu lassen.\n\nDie fran
+ zösischen Erfolgsautoren Matthieu Delaporte und Alexandre de la Patelliè
+ re schicken die beiden Freunde in einen pointenreichen Schlagabtausch mit 
+ überraschendem Finale. Unterhaltung in bester Tradition des französische
+ n Boulevards.\n\nSally Kretschmann absolvierte zunächst eine Ausbil dung 
+ zur Musicaldarstellerin. Im Anschluss nahm sie ihr Regie studium an der Ak
+ ademie für Darstellende Kunst Bayern auf\, das sie 2024 abgeschlossen hat
+ . Seit der Spielzeit 2024/25 ist sie als Regieassistentin am Stadttheater 
+ Ingolstadt tätig und wird dort nun mit „Das Abschiedsdinner“ ihr Regi
+ edebüt geben.
+LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:THERMENKONZERT MIT SOULSISTER
 DTSTART;TZID=Europe/Berlin:20261212T190000
 DTEND;TZID=Europe/Berlin:20261212T230000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:thermenkonzert-mit-soulsister-20261212-1800@ifg-plattform.de
 DESCRIPTION:Musik für die Seele\n\nEinlass: 10:00\n\nMit geballter Frauen
  power läuten wir das Jahresende ein. Während draußen der Winter Einzug 
@@ -3413,7 +4076,7 @@ BEGIN:VEVENT
 SUMMARY:Catello Zaubermenü in der Präsidentensuite des Maritim Hotels
 DTSTART;TZID=Europe/Berlin:20261212T193000
 DTEND;TZID=Europe/Berlin:20261213T000000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:catello-zaubermen-in-der-pr-sidentensuite-des-maritim-hotels-20261212-
  1830@ifg-plattform.de
 DESCRIPTION:Menü und Zaubershow als exklusives Event\n\nEinlass: 18:15\n\
@@ -3436,7 +4099,7 @@ SUMMARY:Catello Zaubermenü in der Präsidentensuite des Maritim Hotels (K
  opie)
 DTSTART;TZID=Europe/Berlin:20261212T193000
 DTEND;TZID=Europe/Berlin:20261213T000000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:catello-zaubermen-in-der-pr-sidentensuite-des-maritim-hotels-kopie-202
  61212-1830@ifg-plattform.de
 DESCRIPTION:Menü und Zaubershow als exklusives Event\n\nEinlass: 18:15\n\
@@ -3455,10 +4118,57 @@ LOCATION:Congress Centrum Ingolstadt\, Gießerei-Platz 1\, 85049 Ingolstad
 X-SCORE:21
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Der Bär\, der nicht da war
+DTSTART;TZID=Europe/Berlin:20261213T160000
+DTEND;TZID=Europe/Berlin:20261214T005900
+DTSTAMP:20261025T230007Z
+UID:der-b-r-der-nicht-da-war-20261213-1500@ifg-plattform.de
+DESCRIPTION:Nach dem Bilderbuch von Oren Lavie und Wolf Erlbruch Deutsch v
+ on Harry Rowohlt • Ab 5 Jahren\n\nEs war einmal ein Juckreiz. Je mehr er
+  sich kratzte\, desto mehr war er ein Bär. Schließlich war da ein Bär\,
+  der vorher nicht da war.\n\nDer Bär stand staunend im Wald. In seiner Ta
+ sche fand er einen Zettel: „Bist du ich?“ stand darauf. „Gute Frage
+ “\, dachte er. Und weiter stand da: „Hilfreiche Winke\, nach denen man
+  suchen sollte: 1. Ich bin ein netter Bär\, 2. Ich bin ein glück licher 
+ Bär\, 3. Außerdem sehr hübsch.“ „Wie schön! Ich hoffe\, ich bin ic
+ h!“\, sagte der Bär und machte sich auf die Suche nach einer Antwort. U
+ m ihn herum wuchs ein wundersamer Wald. Er lernte verschiedene Arten von S
+ tille kennen: die der Blätter\, des Bodens und der Bäume. Am schwersten 
+ zu finden war die eigene Stille\, bemerkte er.\n\nDer Kompass-Baum zeigte 
+ ihm acht Richtungen. In welche sollte er nur gehen? Das Schildkröten-Taxi
+  half ihm und brachte ihn gemächlich geradeaus durch den Wald. Mitten im 
+ Irgendwo setzte es ihn ab …\n\nDiese philosophische Geschichte erzählt 
+ mit Witz und Wärme von der Suche nach Identität  –  und von de
+ r Freude\, sich selbst zu begegnen.
+LOCATION:Studio im Herzogskasten\, Theaterplatz\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Öffentliche Führung
+DTSTART;TZID=Europe/Berlin:20261213T160000
+DTEND;TZID=Europe/Berlin:20261213T170000
+DTSTAMP:20261025T230007Z
+UID:ffentliche-f-hrung-20261213-1500@ifg-plattform.de
+DESCRIPTION:Einlass: 14:45\n\nDer Umbau der sogenannten Gießereihalle zur
+  neuen Heimstätte des Museums für Konkrete Kunst und Design (MKKD) nach 
+ Plänen des Wiener Architekturbüros querkraft steht kurz vor seinem Absch
+ luss. Planung und Einrichtung eines Museums beinhalten aber entschieden me
+ hr als die reine Architektur eines Gebäudes.\n\nMit der Ausstellung „Be
+ coming MKKD. Vom Planen und Entstehen eines Museums” bekommen Sie ganz k
+ onkrete Einblicke in die Konzeption des neuen Museums – von der Gestaltu
+ ng der neuen Corporate Identity bis hin zur genauen Dimensionierung und Ab
+ folge der einzelnen Ausstellungsräume. In kurzen Filmen lernen Sie dabei 
+ auch einige Mitarbeiter*innen des Museums und der Stiftung für Konkrete K
+ unst und Design (SKKD) sowie weitere an den Planungen Beteiligte kennen.
+LOCATION:Museum für Konkrete Kunst\, Tränktorstraße 6-8\, 85049 Ingolst
+ adt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:European Outdoor Film Tour 26I27 - EOFT
 DTSTART;TZID=Europe/Berlin:20261213T190000
 DTEND;TZID=Europe/Berlin:20261213T220000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:european-outdoor-film-tour-26i27-eoft-20261213-1800@ifg-plattform.de
 DESCRIPTION:Ein Abend mit den besten Abenteuerfilmen\n\nEinlass: 17:30\n\n
  Outdoor- und Abenteuerfilme gemeinsam erleben: Seit 25 Jahren ist die Euro
@@ -3478,7 +4188,7 @@ BEGIN:VEVENT
 SUMMARY:Wer dablost´s (Kopie)
 DTSTART;TZID=Europe/Berlin:20261213T210000
 DTEND;TZID=Europe/Berlin:20261214T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:wer-dablost-s-kopie-20261213-2000@ifg-plattform.de
 DESCRIPTION:Der barfüßige Tuba-Professor Andreas M. Hofmeir lädt promin
  ente Gäste aus Kabarett\, Musik\, Kleinkunst oder öffentlichem Leben in 
@@ -3494,7 +4204,7 @@ BEGIN:VEVENT
 SUMMARY:Stephan Bauer
 DTSTART;TZID=Europe/Berlin:20261217T210000
 DTEND;TZID=Europe/Berlin:20261218T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:stephan-bauer-20261217-2000@ifg-plattform.de
 DESCRIPTION:Weihnachten fällt aus! Josef gesteht alles!\n\nEinlass: 19:00
  \n\nKabarett und Comedy auf höchstem Niveau Alle Jahre wieder kommt das C
@@ -3520,10 +4230,57 @@ LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:31
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:145. JAM Session der Jazzfreunde Ingolstadt e. V.
+DTSTART;TZID=Europe/Berlin:20261217T210000
+DTEND;TZID=Europe/Berlin:20261218T000000
+DTSTAMP:20261025T230007Z
+UID:145-jam-session-der-jazzfreunde-ingolstadt-e-v-20261217-2000@ifg-platt
+ form.de
+DESCRIPTION:Eintritt frei\n\nEinlass: 19:00\n\nDie Jazzfreunde Ingolstadt 
+ e. V. laden alle Jazzliebhaber:innen und Musiker:innen ein\, Teil einer be
+ sonderen musikalischen Erfahrung zu werden! Von September bis Juni des Fol
+ gejahres veranstalten wir unsere legendären Jam-Sessions – mit offener 
+ Bühne\, freiem Eintritt und jeder Menge Spielfreude.\n\nWie läuft eine J
+ am-Session ab?\nJede Session beginnt mit einer Opener-Band\, die das erste
+  Set spielt. Danach gehört die Bühne allen\, die mitspielen möchten! Di
+ e Session-Band begleitet die Mitspieler:innen entweder in Teilen oder komp
+ lett.\n\nBeginn: 20:00\, Einlass: 19:00\n\n𝗘𝗶𝗻𝘁𝗿𝗶𝘁
+ 𝘁 𝗳𝗿𝗲𝗶!\n\nSession Band: „The Unions“ aus München\n\nD
+ ie Münchener Jazz-Band "The Unions" haben sich um die Jahrtausendwende in
+  Haidhausen zusammengefunden. Das Unionsbräu spielte nicht nur als Namens
+ geber eine Rolle\, hier hatten die Unions in unterschiedlicher Besetzung i
+ hre ersten Auftritte im Malzboden. Seit 2016 spielt die Jazz-Band in feste
+ r Besetzung mit Rhythmusgruppe und drei Bläsern diverse Jazz Standards un
+ d eigene Kompositionen: Angie Hirsch am Piano\, Herbert Siebler am Bass un
+ d Gerhard Steffen an den Drums geben den Rhythmus vor. Bei den Bläsern wi
+ rken Karl Strasser (tp)\, Wo Stenger (bar\, ts) und Matthias Pfeiffer (as\
+ , ss) zusammen. Mit Herz und Leidenschaft grooven die Unions nun im KAP94 
+ in Ingostadt: der Abend verspricht eine gute Mischung aus Swing\, Blues\, 
+ Bebop\, Funk und Latin mit leisen und lauten Tönen in flotten und ruhigen
+  Rhythmen und in der zweiten Hälfte alle Überraschungen\, die eine JAM-S
+ ession bietet.\n\nhttps://www.stringtheorie.band\n\nWir suchen laufend Ban
+ ds\, die bei einer Session als Session-Opener-Band auftreten möchten. Die
+  Band sollte Realbook-Sicherheit und eine gewisse stilistische Bandbreite 
+ haben. Bei Interesse tretet bitte der WhatsApp Community „Bands und Musi
+ ker der Jazzfreunde Ingolstadt“ bei und bewerbt Euch dort:\n\nhttps://ja
+ zzfreunde-ingolstadt.de/info/sessions/community/invite\n\nNach Verifizieru
+ ng Eurer Email Adresse bekommt ihr einen Einladungslink zu dieser WhatsApp
+  Community.\n\nAblauf:  die Session Band spielt ein erstes Set\, danach is
+ t die Bühne frei für Mitspieler\n\nVor Ort sind vorhanden:\n- PA mit Mix
+ er\, Mikrophonen und Monitoren\n-       New Real Books Band 1\,2 und 3 je 
+ in C\, Bb und Eb\n-       Stage Piano (Roland FP90x)\n-       Drum Set (oh
+ ne Becken)\n-       Gui-Amp (Fender)\n-       Bass-Amp (Eich)\n \nBei Beda
+ rf bitte mitbringen:\n-       Eigenes Musikinstrument\, ggf. Becken\n-    
+    Unbedingt erforderliches eigenes Equipment mit Verkabelung\n-       Not
+ enständer
+LOCATION:KAP94\, Jahnstraße 1a\, 85049 Ingolstadt
+X-SCORE:21
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ingolstädter Weihnachtscircus
 DTSTART;TZID=Europe/Berlin:20261218T150000
 DTEND;TZID=Europe/Berlin:20261218T183000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:ingolst-dter-weihnachtscircus-20261218-1500@ifg-plattform.de
 RRULE:FREQ=DAILY;UNTIL=20270110T225959Z;INTERVAL=1
 DESCRIPTION:Das Weihnachts-Highlight für die ganze Familie\n\nEinlass: 14
@@ -3539,7 +4296,7 @@ BEGIN:VEVENT
 SUMMARY:Nachts im Stadtmuseum
 DTSTART;TZID=Europe/Berlin:20261218T200000
 DTEND;TZID=Europe/Berlin:20261218T211500
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:nachts-im-stadtmuseum-20261218-1900@ifg-plattform.de
 DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
@@ -3573,7 +4330,7 @@ BEGIN:VEVENT
 SUMMARY:WIR4
 DTSTART;TZID=Europe/Berlin:20261218T210000
 DTEND;TZID=Europe/Berlin:20261219T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:wir4-20261218-2000@ifg-plattform.de
 DESCRIPTION:Die Original Austria 3 Band auf Jubiläumstour\n\nEinlass: 19:
  00\n\nHarry Stampfer - Harald Fendrich - Ulli Bäer - Gary Lux  \n\nDas Be
@@ -3607,7 +4364,7 @@ BEGIN:VEVENT
 SUMMARY:Nachts im Stadtmuseum
 DTSTART;TZID=Europe/Berlin:20261218T213000
 DTEND;TZID=Europe/Berlin:20261218T224500
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:nachts-im-stadtmuseum-20261218-2030@ifg-plattform.de
 DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
@@ -3641,7 +4398,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Classic Ballet - der Nussknacker
 DTSTART;TZID=Europe/Berlin:20261219T160000
 DTEND;TZID=Europe/Berlin:20261219T180000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:grand-classic-ballet-der-nussknacker-20261219-1500@ifg-plattform.de
 DESCRIPTION:die traditionelle Wintertournee\n\nEinlass: 14:00\n\nErleben S
  ie zur schönsten Zeit des Jahres die Magie des klassischen Balletts: Das 
@@ -3665,10 +4422,40 @@ LOCATION:Maritim Hotel Ingolstadt\, Schloßlände 24\, 85049 Ingolstadt
 X-SCORE:16
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tod eines Handlungsreisenden
+DTSTART;TZID=Europe/Berlin:20261219T203000
+DTEND;TZID=Europe/Berlin:20261220T005900
+DTSTAMP:20261025T230008Z
+UID:tod-eines-handlungsreisenden-20261219-1930@ifg-plattform.de
+DESCRIPTION:von Arthur Miller Deutsch • von Volker Schlöndorff und Flor
+ ian Hopf\n\nÜber 30 Jahre lang hat Willy Loman als Handelsvertreter die S
+ tädte und Dörfer um New York aufgesucht und ist nun dem Leben eines Hand
+ lungsreisenden nicht mehr gewachsen. Der Juniorchef seiner Firma lehnt Lom
+ ans Bitte\, ihn in einer anderen Abteilung zu beschäftigen\, ab. Er rät 
+ ihm\, sich eine Weile auszuruhen\, was einer Entlassung gleichkommt. All s
+ eine Träume von einem ruhigen Alter in bescheidenem Wohlstand sind zersch
+ lagen. Unfassbar für Loman\, der sich immer für einen besonders tüchtig
+ en Vertreter gehalten hat. Auch seine beiden Söhne können ihn nicht unte
+ rstützen. Sie haben den materiellen Erfolg\, der ihnen vom Vater eingeimp
+ ft wurde\, nie erreicht. Besorgt um die Familie sieht Willy Loman als einz
+ igen Ausweg den Freitod. Durch diesen Selbstmord würde seine Familie eine
+  Versicherungssumme von 20.000 Dollar erhalten und könnte sorgenfrei lebe
+ n.\n\nDer amerikanische Dramatiker Arthur Miller schrieb die Tragödie in 
+ zwei Akten 1949\, im selben Jahr gewann es den Pulitzer Preis für Drama u
+ nd einen Tony Award für das beste Theaterstück. Er erzählt die Geschich
+ te des Protagonisten als ein Kaleidoskop aus seinen Erinnerungen\, Träume
+ n und Begegnungen. Es wurde zehn Mal für das Kino adaptiert. 1999 sagte d
+ er New Yorker Theaterkritiker John Lahr\, dass es mit 11 Millionen verkauf
+ ten Exemplaren „wahrscheinlich das erfolg reichste moderne Theaterstück
+  ist\, das jemals veröffentlicht wurde”.
+LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grand Classic Ballet - Schwanensee
 DTSTART;TZID=Europe/Berlin:20261219T210000
 DTEND;TZID=Europe/Berlin:20261219T230000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:grand-classic-ballet-schwanensee-20261219-2000@ifg-plattform.de
 DESCRIPTION:die traditionelle Wintertournee\n\nEinlass: 19:00\n\nEin Meist
  erwerk voller Anmut\, Leidenschaft und zeitloser Schönheit: Das Grand Cla
@@ -3698,7 +4485,7 @@ BEGIN:VEVENT
 SUMMARY:A Tribute to Lemmy feat. The Hellraizörs
 DTSTART;TZID=Europe/Berlin:20261219T210000
 DTEND;TZID=Europe/Berlin:20261220T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:a-tribute-to-lemmy-feat-the-hellraiz-rs-20261219-2000@ifg-plattform.de
 DESCRIPTION:+ Why Horse Why &amp\; Juli and the Fuzzy Bears\n\nEinlass: 19
  :00\n\nDer Lemmy-Kilmister-Tribute 2026 - das R&amp\;R event der Region zw
@@ -3714,7 +4501,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Classic Ballet - der Nussknacker
 DTSTART;TZID=Europe/Berlin:20261220T150000
 DTEND;TZID=Europe/Berlin:20261220T170000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:grand-classic-ballet-der-nussknacker-20261220-1400@ifg-plattform.de
 DESCRIPTION:die traditionelle Wintertournee\n\nEinlass: 13:00\n\nErleben S
  ie zur schönsten Zeit des Jahres die Magie des klassischen Balletts: Das 
@@ -3741,7 +4528,7 @@ BEGIN:VEVENT
 SUMMARY:LAUDATE DOMINUM - MATTHÄUS KLINGT
 DTSTART;TZID=Europe/Berlin:20261220T180000
 DTEND;TZID=Europe/Berlin:20261220T190000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:laudate-dominum-matth-us-klingt-20261220-1700@ifg-plattform.de
 DESCRIPTION:Georg Philipp Telemann:  Kantate „Machet die Tore weit“  T
  VWV 1 :1074\n\nEinlass: 16:00\n\nTelemanns festliche Adventskantate entfal
@@ -3757,7 +4544,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Classic Ballet - Schwanensee
 DTSTART;TZID=Europe/Berlin:20261220T190000
 DTEND;TZID=Europe/Berlin:20261220T210000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:grand-classic-ballet-schwanensee-20261220-1800@ifg-plattform.de
 DESCRIPTION:die traditionelle Wintertournee\n\nEinlass: 17:00\n\nEin Meist
  erwerk voller Anmut\, Leidenschaft und zeitloser Schönheit: Das Grand Cla
@@ -3787,7 +4574,7 @@ BEGIN:VEVENT
 SUMMARY:EISGALA powered by BÜCHL - Weltklasse Eiskunstlauf und Livemusik
 DTSTART;TZID=Europe/Berlin:20261220T200000
 DTEND;TZID=Europe/Berlin:20261221T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:eisgala-powered-by-b-chl-weltklasse-eiskunstlauf-und-livemusik-2026122
  0-1900@ifg-plattform.de
 DESCRIPTION:Einlass: 18:00\n\nAlle Info´s zur Veranstaltung finden Sie un
@@ -3799,7 +4586,7 @@ BEGIN:VEVENT
 SUMMARY:Django Asül
 DTSTART;TZID=Europe/Berlin:20261220T200000
 DTEND;TZID=Europe/Berlin:20261221T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:django-as-l-20261220-1900@ifg-plattform.de
 DESCRIPTION:Rückspiegel 2026\n\nEinlass: 18:00\n\nWer 2026 auf Langweile
   hoffte\, wurde schnell schwer enttäuscht. Und wer dachte\, dass es nach 
@@ -3825,11 +4612,61 @@ LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
 X-SCORE:24
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Tod eines Handlungsreisenden
+DTSTART;TZID=Europe/Berlin:20261220T200000
+DTEND;TZID=Europe/Berlin:20261221T005900
+DTSTAMP:20261025T230008Z
+UID:tod-eines-handlungsreisenden-20261220-1900@ifg-plattform.de
+DESCRIPTION:von Arthur Miller Deutsch • von Volker Schlöndorff und Flor
+ ian Hopf\n\nÜber 30 Jahre lang hat Willy Loman als Handelsvertreter die S
+ tädte und Dörfer um New York aufgesucht und ist nun dem Leben eines Hand
+ lungsreisenden nicht mehr gewachsen. Der Juniorchef seiner Firma lehnt Lom
+ ans Bitte\, ihn in einer anderen Abteilung zu beschäftigen\, ab. Er rät 
+ ihm\, sich eine Weile auszuruhen\, was einer Entlassung gleichkommt. All s
+ eine Träume von einem ruhigen Alter in bescheidenem Wohlstand sind zersch
+ lagen. Unfassbar für Loman\, der sich immer für einen besonders tüchtig
+ en Vertreter gehalten hat. Auch seine beiden Söhne können ihn nicht unte
+ rstützen. Sie haben den materiellen Erfolg\, der ihnen vom Vater eingeimp
+ ft wurde\, nie erreicht. Besorgt um die Familie sieht Willy Loman als einz
+ igen Ausweg den Freitod. Durch diesen Selbstmord würde seine Familie eine
+  Versicherungssumme von 20.000 Dollar erhalten und könnte sorgenfrei lebe
+ n.\n\nDer amerikanische Dramatiker Arthur Miller schrieb die Tragödie in 
+ zwei Akten 1949\, im selben Jahr gewann es den Pulitzer Preis für Drama u
+ nd einen Tony Award für das beste Theaterstück. Er erzählt die Geschich
+ te des Protagonisten als ein Kaleidoskop aus seinen Erinnerungen\, Träume
+ n und Begegnungen. Es wurde zehn Mal für das Kino adaptiert. 1999 sagte d
+ er New Yorker Theaterkritiker John Lahr\, dass es mit 11 Millionen verkauf
+ ten Exemplaren „wahrscheinlich das erfolg reichste moderne Theaterstück
+  ist\, das jemals veröffentlicht wurde”.
+LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Christma Carol
+DTSTART;TZID=Europe/Berlin:20261223T180000
+DTEND;TZID=Europe/Berlin:20261224T005900
+DTSTAMP:20261025T230008Z
+UID:a-christma-carol-20261223-1700@ifg-plattform.de
+DESCRIPTION:nach Charles Dickens in leicht verständlicher englischer Spra
+ che\n\nDas Warten aufs Christkind wird in Ingolstadt traditionellerweise v
+ on der American Drama Group mit Charles Dickens' berühmter Weihnachtsgesc
+ hichte „A Christmas Carol“ verkürzt. Auch in diesem Jahr kommt die Tr
+ uppe ins Ingolstädter Theater. Lassen Sie sich auf Weihnachten einstimmen
+ ! Ebenezer Scrooge\, ein habgieriger und kaltherziger Geschäftsmann\, kan
+ n mit Weihnachten nichts anfangen: „Humbug“ ist das\, nichts als unrea
+ listische Gefühlsduselei. Doch als Scrooge am Weihnachtsabend in sein Hau
+ s tritt\, besuchen ihn drei merkwürdige Wesen: Die Geister der vorigen\, 
+ der jetzigen und der kommenden Weihnacht nehmen ihn mit auf eine Reise dur
+ ch die Zeit.
+LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Winterzauber: Ballett-Geschichten im Kerzenschein mit live Kammero
  rchester
 DTSTART;TZID=Europe/Berlin:20261223T200000
 DTEND;TZID=Europe/Berlin:20261223T220000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:winterzauber-ballett-geschichten-im-kerzenschein-mit-live-kammerorches
  ter-20261223-1900@ifg-plattform.de
 DESCRIPTION:Winterzauber\, der nur einmal im Jahr erlebbar ist\n\nEinlass:
@@ -3883,7 +4720,7 @@ BEGIN:VEVENT
 SUMMARY:Heiligabend in Gemeinschaft feiern
 DTSTART;TZID=Europe/Berlin:20261224T173000
 DTEND;TZID=Europe/Berlin:20261224T213000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:heiligabend-in-gemeinschaft-feiern-20261224-1630@ifg-plattform.de
 DESCRIPTION:Es ist ein großartiges ökumenisches Projekt\, das heuer bere
  its zum dritten Mal in der "Halle Neun" stattfinden wird: "Heiligabend in 
@@ -3918,7 +4755,7 @@ BEGIN:VEVENT
 SUMMARY:Größte Singleparty der Region
 DTSTART;TZID=Europe/Berlin:20261225T220000
 DTEND;TZID=Europe/Berlin:20261226T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:gr-te-singleparty-der-region-20261225-2100@ifg-plattform.de
 DESCRIPTION:Herbst/Winter 2026\n\nEinlass: 21:00\n\nEs ist wieder soweit: 
  Die größte SINGLE PARTY der Region macht Station in Ingolstadt\, am 1. W
@@ -3942,7 +4779,7 @@ BEGIN:VEVENT
 SUMMARY:BACH TOTAL (2)
 DTSTART;TZID=Europe/Berlin:20261226T190000
 DTEND;TZID=Europe/Berlin:20261226T200000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:bach-total-2-20261226-1800@ifg-plattform.de
 DESCRIPTION:Das gesamte Orgelwerk Johann Sebastian  Bachs in 16 Konzerten 
  (02/16)\n\nEinlass: 17:00\n\nOliver Scheffels interpretiert in 16 Konzerte
@@ -3956,7 +4793,7 @@ BEGIN:VEVENT
 SUMMARY:Kuschelparty Ingolstadt Weihnachten
 DTSTART;TZID=Europe/Berlin:20261226T190000
 DTEND;TZID=Europe/Berlin:20261226T230000
-DTSTAMP:20261009T220007Z
+DTSTAMP:20261025T230006Z
 UID:kuschelparty-ingolstadt-weihnachten-20261226-1800@ifg-plattform.de
 DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
@@ -3978,10 +4815,123 @@ LOCATION:Soul Studio\, Am Stein 8\, 85049 Ingolstadt
 X-SCORE:16
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kombiführung Lechner Museum und Skulpturenpark
+DTSTART;TZID=Europe/Berlin:20261227T120000
+DTEND;TZID=Europe/Berlin:20261227T140000
+DTSTAMP:20261025T230007Z
+UID:kombif-hrung-lechner-museum-und-skulpturenpark-20261227-1100@ifg-platt
+ form.de
+DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
+ nEinlass: 10:45\n\nEntdecken Sie das Lechner Museum und den Skulpturenpark
+  Obereichstätt auf einer Kombi-Führung\, die jeden letzten Sonntag im Mo
+ nat stattfindet. Erleben Sie so Kunst und Natur in einer malerischen Umgeb
+ ung und lassen Sie sich von fachkundigen Expert*innen durch die jeweiligen
+  Ausstellungen führen. \n‍\nFür die öffentlichen Kombi-Führungen ist
+  keine Anmeldung erforderlich. Treffpunkt und Beginn ist am Museum in Ingo
+ lstadt. Insgesamt dauert die Veranstaltung ca. 3 Stunden. \nBitte beachten
+  Sie\, dass der Transfer vom Museum zum Skulpturenpark in Obereichstätt e
+ igenverantwortlich stattfindet und eine Fahrtzeit von ca. 30-35 Minuten mi
+ t dem PKW beträgt.\n‍\nEine Anreise mit öffentlichen Verkehrsmitteln i
+ st leider nicht möglich.\n‍\nKommen Sie vorbei und lassen Sie sich von 
+ der Kunst und der Natur begeistern!
+LOCATION:Lechner Museum\, Esplanade 9\, 85049 Ingolstadt
+X-SCORE:23
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Das kleine Gespenst
+DTSTART;TZID=Europe/Berlin:20261228T160000
+DTEND;TZID=Europe/Berlin:20261229T005900
+DTSTAMP:20261025T230007Z
+UID:das-kleine-gespenst-20261228-1500@ifg-plattform.de
+DESCRIPTION:von Otfried Preußler • ab 3 Jahren\n\nJede Nacht\, punktgen
+ au zur Geisterstunde\, erwacht das kleine Gespenst. Fröhlich flitzt es du
+ rch die Hallen von Burg Eulenstein und trifft sich mit seinem besten Freun
+ d\, dem Uhu Schuhu. Sein größter Traum? Einmal die Welt bei Tageslicht z
+ u sehen! Doch alle Versuche\, nach der Geisterstunde wach zu bleiben\, sch
+ eitern kläglich. Als der Wunsch plötzlich doch wahr wird\, beginnt ein t
+ urbulentes Abenteuer. Vom Sonnenlicht erwischt\, verwandelt sich das Nacht
+ gespenst in ein Taggespenst\, das die Menschen der Stadt erschreckt und un
+ gewollt für ein ordentliches Durcheinander sorgt. Schon bald sehnt sich d
+ as kleine Gespenst nach seiner ursprünglichen Gestalt und nach der angene
+ hm ruhigen Nacht. Das kleine Gespenst möchte wieder nach Hause  –
+   zum Glück kommen ein paar mutige Kinder zur Rettung.\n\n\nIm Gegens
+ atz zu den meisten Darstellungen von Gespenstern\, die diese häufig als g
+ ruselige\, negativ behaftete Nachtwesen zeigen\, wird das kleine Gespenst 
+ in Otfried Preußlers fantasievoller Geschichte als ein verspielt und aben
+ teuerlustig agierendes Wesen dargestellt. Seine Missgeschicke und Streiche
+  werden auf humorvolle Weise erzählt. Durch dieses sympathische und keine
+ sfalls unheimliche Gespenst gelingt es\, kleinen Zuschauer*innen die Angst
+  vor Spuk gestalten zu nehmen. Eine poetische Geschichte über Werte wie F
+ reundschaft\, Hilfsbereitschaft und das Vermögen\, sich selbst so zu akze
+ ptieren\, wie man ist.
+LOCATION:Bauerngerätemuseum\, Probststraße 13\, 85051 Ingolstadt
+X-SCORE:10
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Skies
+DTSTART;TZID=Europe/Berlin:20261229T203000
+DTEND;TZID=Europe/Berlin:20261230T005900
+DTSTAMP:20261025T230007Z
+UID:blue-skies-20261229-1930@ifg-plattform.de
+DESCRIPTION:basierend auf dem Roman „Blue Skies“ von T. Coraghessan Bo
+ yle\n\nIn Kalifornien lässt die Hitze regelmäßig alles in Flammen auf g
+ ehen und in Florida bereiten Überschwemmungen ständig nasse Füße oder 
+ auch nasse Häuser. Und mittendrin eine Familie. Mutter Ottilie lässt sic
+ h von ihrem Sohn Cooper und seiner Freundin Mari\, die Insektenforscher*in
+ nen sind\, die neuesten Empfehlungen geben\, wie die Welt vielleicht noch 
+ zu retten ist. Und so geht sie dazu über\, ihre Ernährung auf eine insek
+ tenbasierte umzustellen. Tochter Cat in Florida sollte eigentlich ihr best
+ es Leben mit ihrem Partner Todd führen. Doch der Umzug ins neue Haus ger
+ ät für die beiden zur Farce. Todd ist ständig auf Reisen\, um als Marke
+ nbotschafter den Rum seiner Firma zu promoten. Cat bleibt im feuchten Haus
+  zurück und kauft sich prompt einen Tigerpython\, um die Sterbenslangewei
+ le irgendwie zu überstehen. Der Roman „Blue Skies“ von T. C. Boyle is
+ t die Geschichte einer Familie\, die von einer Katastrophe in die nächste
+  gerät und dabei ver suchen muss\, ihre Beziehungen und ihren Alltag aufr
+ echt zu erhalten. Skurril und mit bösem Humor und ganz ohne morali schen 
+ Zeigefinger nimmt uns Boyle mit in eine apokalyptische Welt\, in der der K
+ limawandel bereits zum Teil des Lebens geworden ist. Oberspielleiterin Mir
+ ja Biel widmet sich dieser Romanadaption  –  mit viel Feingefüh
+ l für die Eigentümlichkeiten dieser schrägen\, aber liebenswerten Figur
+ en.
+LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
+X-SCORE:18
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Blue Skies
+DTSTART;TZID=Europe/Berlin:20261230T203000
+DTEND;TZID=Europe/Berlin:20261231T005900
+DTSTAMP:20261025T230007Z
+UID:blue-skies-20261230-1930@ifg-plattform.de
+DESCRIPTION:basierend auf dem Roman „Blue Skies“ von T. Coraghessan Bo
+ yle\n\nIn Kalifornien lässt die Hitze regelmäßig alles in Flammen auf g
+ ehen und in Florida bereiten Überschwemmungen ständig nasse Füße oder 
+ auch nasse Häuser. Und mittendrin eine Familie. Mutter Ottilie lässt sic
+ h von ihrem Sohn Cooper und seiner Freundin Mari\, die Insektenforscher*in
+ nen sind\, die neuesten Empfehlungen geben\, wie die Welt vielleicht noch 
+ zu retten ist. Und so geht sie dazu über\, ihre Ernährung auf eine insek
+ tenbasierte umzustellen. Tochter Cat in Florida sollte eigentlich ihr best
+ es Leben mit ihrem Partner Todd führen. Doch der Umzug ins neue Haus ger
+ ät für die beiden zur Farce. Todd ist ständig auf Reisen\, um als Marke
+ nbotschafter den Rum seiner Firma zu promoten. Cat bleibt im feuchten Haus
+  zurück und kauft sich prompt einen Tigerpython\, um die Sterbenslangewei
+ le irgendwie zu überstehen. Der Roman „Blue Skies“ von T. C. Boyle is
+ t die Geschichte einer Familie\, die von einer Katastrophe in die nächste
+  gerät und dabei ver suchen muss\, ihre Beziehungen und ihren Alltag aufr
+ echt zu erhalten. Skurril und mit bösem Humor und ganz ohne morali schen 
+ Zeigefinger nimmt uns Boyle mit in eine apokalyptische Welt\, in der der K
+ limawandel bereits zum Teil des Lebens geworden ist. Oberspielleiterin Mir
+ ja Biel widmet sich dieser Romanadaption  –  mit viel Feingefüh
+ l für die Eigentümlichkeiten dieser schrägen\, aber liebenswerten Figur
+ en.
+LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
+X-SCORE:18
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Silvesterkonzert der Berliner Philharmoniker live im Kino
 DTSTART;TZID=Europe/Berlin:20261231T180000
 DTEND;TZID=Europe/Berlin:20261231T200000
-DTSTAMP:20261009T220010Z
+DTSTAMP:20261025T230008Z
 UID:silvesterkonzert-der-berliner-philharmoniker-live-im-kino-20261231-170
  0@ifg-plattform.de
 DESCRIPTION:Silvesterkonzert der Berliner Philharmoniker live im Kino: ein
@@ -4008,22 +4958,69 @@ LOCATION:Linden Lichtspiele Ilmenau\, Lindenstraße 20\, 98693 Ilmenau
 X-SCORE:30
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Nussknacker - International Festival Ballet &amp\; Orchestra
-DTSTART;TZID=Europe/Berlin:20270102T160000
-DTEND;TZID=Europe/Berlin:20270103T005900
-DTSTAMP:20261009T220009Z
-UID:nussknacker-international-festival-ballet-amp-orchestra-20270102-1500@
- ifg-plattform.de
-DESCRIPTION:Alle Info´s zur Veranstaltung unter https://www.saturn-arena.
- de/events-und-konzerte/
-LOCATION:SATURN-Arena\, Südliche Ringstraße 64\, 85053 Ingolstadt
-X-SCORE:23
+SUMMARY:Das Abschiedsdinner
+DTSTART;TZID=Europe/Berlin:20261231T200000
+DTEND;TZID=Europe/Berlin:20270101T005900
+DTSTAMP:20261025T230008Z
+UID:das-abschiedsdinner-20261231-1900@ifg-plattform.de
+DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
+ e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
+ chaft beenden möchte\, die mehr Verpflichtung als Vergnügen geworden ist
+ ? Ein Bekannter erzählt Pierre von einer todsicheren Methode\, unliebsame
+  Freunde für immer loszuwerden\, ohne dass diese davon wissen. Kurzentsch
+ lossen laden Pierre und seine Frau Clotilde\, Bea und Antoine zu einem let
+ zten gemeinsamen Abendessen ein. Dafür wird alles perfekt arrangiert. Doc
+ h Antoine kommt überraschend allein\, und das ist erst der Anfang. Zudem 
+ scheint nämlich auch er von der Methode des Abschiedsdinners gehört zu h
+ aben und ist nicht gewillt\, sich einfach abwimmeln zu lassen.\n\nDie fran
+ zösischen Erfolgsautoren Matthieu Delaporte und Alexandre de la Patelliè
+ re schicken die beiden Freunde in einen pointenreichen Schlagabtausch mit 
+ überraschendem Finale. Unterhaltung in bester Tradition des französische
+ n Boulevards.\n\nSally Kretschmann absolvierte zunächst eine Ausbil dung 
+ zur Musicaldarstellerin. Im Anschluss nahm sie ihr Regie studium an der Ak
+ ademie für Darstellende Kunst Bayern auf\, das sie 2024 abgeschlossen hat
+ . Seit der Spielzeit 2024/25 ist sie als Regieassistentin am Stadttheater 
+ Ingolstadt tätig und wird dort nun mit „Das Abschiedsdinner“ ihr Regi
+ edebüt geben.
+LOCATION:Theater am Glacis\, Jahnstraße 5A\, 85049 Ingolstadt
+X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Traumfabrik: KALEIDOSKOPIA Tour
+DTSTART;TZID=Europe/Berlin:20270102T170000
+DTEND;TZID=Europe/Berlin:20270102T191500
+DTSTAMP:20261025T230008Z
+UID:traumfabrik-kaleidoskopia-tour-20270102-1600@ifg-plattform.de
+DESCRIPTION:Traumfabrik – das Showtheater der Phantasie: KALEIDOSKOPIA T
+ our Dez 2026 – Feb 2027\n\nDie neue Show der Traumfabrik erschafft ein w
+ ahres Kaleidoskop aus Artistik\, Tanz und Bühnenkunst - voller Phantasie\
+ , warmherzigen Humor und atemberaubenden Saltos.\nDas Künstler-Ensemble d
+ er Traumfabrik lädt dazu wieder renommierte Gast-Artisten aus aller Welt 
+ ein\, für Sie ein wundervolles Varieté-Erlebnis mit poetischen Bilderwel
+ ten\, fantasievollen Geschichten und faszinierender Akrobatik auf die Büh
+ ne zu zaubern.\nJeder Moment eine neue Traumwelt: Da spielen zwei Freunde 
+ mit atemberaubenden Saltos auf dem Schleuderbrett\, dann bewegen sich Lich
+ tobjekte wie von Zauberhand durch den Raum\, dort erweckt eine wundervolle
+  Tänzerin ein riesiges Tuch zum Leben und ein Pärchen erzählt mit ästh
+ etischer Luftakrobatik eine knisternde Liebesgeschichte. Und einmal am Kal
+ eidoskop gedreht\, tanzen Lichter und Farben und werden zu immer neuen Bil
+ dern\, die nur in diesem Augenblick existieren. Plötzlich hört man Gläs
+ er eine traumhafte Melodie singen\, um sich später musikalisch mit einem 
+ Beatboxer in einem Club wiederzufinden.\n„Kaleidoskopia“ – ein zaube
+ rhaftes Varieté-Erlebnis\, jeder Augenblick ein kleiner Wundermoment.\nSc
+ hmunzeln Sie\, staunen Sie\, träumen Sie!\n\nTickets unter: www.traumfabr
+ ik.de\n\nIngolstadt ~ 2. Jan 2027 16.00 Uhr\nIngolstadt ~ 2. Jan 2027 20.0
+ 0 Uhr\nIngolstadt ~ 3. Jan 2027 14.00 Uhr\nIngolstadt ~ 3. Jan 2027 18.00 
+ Uhr\n\n5 Preiskategorien von 29\,90€ bis 84\,90€\nKinder-Ermäßigung 
+ bis einschl. 17 Jahren
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:28
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mamma Mia Party
 DTSTART;TZID=Europe/Berlin:20270105T210000
 DTEND;TZID=Europe/Berlin:20270106T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:mamma-mia-party-20270105-2000@ifg-plattform.de
 DESCRIPTION:Das Musical als Party\n\nEinlass: 20:00\n\nTauche ein in eine 
  unvergessliche Reise\, wenn die Mamma Mia Party auf ihrer großen Deutschl
@@ -4052,7 +5049,7 @@ BEGIN:VEVENT
 SUMMARY:Krönungsball - Save the Date
 DTSTART;TZID=Europe/Berlin:20270109T210000
 DTEND;TZID=Europe/Berlin:20270110T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:kr-nungsball-save-the-date-20270109-2000@ifg-plattform.de
 DESCRIPTION:Save the Date (Verkaufsstart mitte November)\n\nLetzter Narrwa
  lla Krönungsball im Stadttheater
@@ -4063,7 +5060,7 @@ BEGIN:VEVENT
 SUMMARY:Family Magic Show mit Sven Catello
 DTSTART;TZID=Europe/Berlin:20270110T120000
 DTEND;TZID=Europe/Berlin:20270110T130000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:family-magic-show-mit-sven-catello-20270110-1100@ifg-plattform.de
 DESCRIPTION:Eine Veranstaltung für die ganze Familie\n\nEinlass: 10:45\n\
  nFamily Magic Show - \nSven Catello lädt zur Zaubershow.\n\nEingeladen si
@@ -4092,7 +5089,7 @@ BEGIN:VEVENT
 SUMMARY:Family Magic Show mit Sven Catello
 DTSTART;TZID=Europe/Berlin:20270110T150000
 DTEND;TZID=Europe/Berlin:20270110T160000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:family-magic-show-mit-sven-catello-20270110-1400@ifg-plattform.de
 DESCRIPTION:Eine Veranstaltung für die ganze Familie\n\nEinlass: 13:45\n\
  nFamily Magic Show - \nSven Catello lädt zur Zaubershow.\n\nEingeladen si
@@ -4121,7 +5118,7 @@ BEGIN:VEVENT
 SUMMARY:Family Magic Show mit Sven Catello
 DTSTART;TZID=Europe/Berlin:20270110T170000
 DTEND;TZID=Europe/Berlin:20270110T180000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:family-magic-show-mit-sven-catello-20270110-1600@ifg-plattform.de
 DESCRIPTION:Eine Veranstaltung für die ganze Familie\n\nEinlass: 15:45\n\
  nFamily Magic Show - \nSven Catello lädt zur Zaubershow.\n\nEingeladen si
@@ -4150,7 +5147,7 @@ BEGIN:VEVENT
 SUMMARY:Best of Musicals
 DTSTART;TZID=Europe/Berlin:20270110T200000
 DTEND;TZID=Europe/Berlin:20270110T223000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:best-of-musicals-20270110-1900@ifg-plattform.de
 DESCRIPTION:DAS ORIGINAL\, IMMER WIEDER NEU!\n\nEinlass: 18:00\n\nINGOLSTA
  DT DARF SICH FREUEN: Am Sonntag\, den 10. Januar 2027\, wird das Stadtthea
@@ -4180,7 +5177,7 @@ BEGIN:VEVENT
 SUMMARY:Impro ausprobieren – 5x eintauchen!
 DTSTART;TZID=Europe/Berlin:20270112T193000
 DTEND;TZID=Europe/Berlin:20270112T223000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:impro-ausprobieren-5x-eintauchen-20270112-1930@ifg-plattform.de
 RRULE:FREQ=WEEKLY;UNTIL=20270216T225959Z;INTERVAL=1;BYDAY=TU
 DESCRIPTION:Fünf Einheiten zum Kennenlernen des Improvisationstheaters: s
@@ -4195,7 +5192,7 @@ BEGIN:VEVENT
 SUMMARY:Les Nuits Barbares
 DTSTART;TZID=Europe/Berlin:20270112T210000
 DTEND;TZID=Europe/Berlin:20270112T233000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:les-nuits-barbares-20270112-2000@ifg-plattform.de
 DESCRIPTION:Ballet\n\nEinlass: 19:40\n\n„This is a story about a path\, 
  it's always about a path....“ (Hervé Koubi)\n\nFünf Jahre Leben zwisch
@@ -4216,7 +5213,7 @@ BEGIN:VEVENT
 SUMMARY:5. Abonnementkonzert
 DTSTART;TZID=Europe/Berlin:20270114T210000
 DTEND;TZID=Europe/Berlin:20270115T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230008Z
 UID:5-abonnementkonzert-20270114-2000@ifg-plattform.de
 DESCRIPTION:Hayoung Choi: Violoncello -     Jascha von der Goltz: Leitung\
  n\n„Selbst im Orchester gespielt zu haben\, das eröffnet Verständnis f
@@ -4234,7 +5231,7 @@ BEGIN:VEVENT
 SUMMARY:Nachts im Stadtmuseum
 DTSTART;TZID=Europe/Berlin:20270115T200000
 DTEND;TZID=Europe/Berlin:20270115T211500
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:nachts-im-stadtmuseum-20270115-1900@ifg-plattform.de
 DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
@@ -4268,7 +5265,7 @@ BEGIN:VEVENT
 SUMMARY:Nachts im Stadtmuseum
 DTSTART;TZID=Europe/Berlin:20270115T213000
 DTEND;TZID=Europe/Berlin:20270115T224500
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:nachts-im-stadtmuseum-20270115-2030@ifg-plattform.de
 DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
@@ -4302,7 +5299,7 @@ BEGIN:VEVENT
 SUMMARY:FASSzination: Das bayrische Magic Dinner
 DTSTART;TZID=Europe/Berlin:20270117T190000
 DTEND;TZID=Europe/Berlin:20270117T220000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:fasszination-das-bayrische-magic-dinner-20270117-1800@ifg-plattform.de
 DESCRIPTION:mit Florian Otto\n\nEinlass: 17:00\n\nEin Abend voller Magie &
  amp\; Humor: Eine kulinarische Reise in die Welt der weißblauen Zauberkun
@@ -4320,7 +5317,7 @@ BEGIN:VEVENT
 SUMMARY:Gräfin Mariza
 DTSTART;TZID=Europe/Berlin:20270118T210000
 DTEND;TZID=Europe/Berlin:20270118T233000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:gr-fin-mariza-20270118-2000@ifg-plattform.de
 DESCRIPTION:Operette\n\nEinlass: 19:40\n\nWir freuen uns auf die große Ne
  uinszenierung der Gräfin Mariza\, Kálmáns musikalischem Feuerwerk in ö
@@ -4352,7 +5349,7 @@ BEGIN:VEVENT
 SUMMARY:ROLAND JANKOWSKY
 DTSTART;TZID=Europe/Berlin:20270119T210000
 DTEND;TZID=Europe/Berlin:20270120T005900
-DTSTAMP:20261009T220009Z
+DTSTAMP:20261025T230008Z
 UID:roland-jankowsky-20270119-2000@ifg-plattform.de
 DESCRIPTION:WENN OVERBECK KOMMT …\n\nEinlass: 19:00\n\nRoland Jankowsky 
  kennen die meisten als den etwas sonderbaren Kommissar Overbeck aus der Ku
@@ -4379,7 +5376,7 @@ BEGIN:VEVENT
 SUMMARY:BVMW Jahresempfang 2027 powered by Audi Event Solutions
 DTSTART;TZID=Europe/Berlin:20270121T190000
 DTEND;TZID=Europe/Berlin:20270122T005900
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:bvmw-jahresempfang-2027-powered-by-audi-event-solutions-20270121-1800@
  ifg-plattform.de
 DESCRIPTION:Antrieb 2027 - in Führung gehen\n\nWie bleibt mein Unternehme
@@ -4406,7 +5403,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Bausch _ Live in Ingolstadt
 DTSTART;TZID=Europe/Berlin:20270122T210000
 DTEND;TZID=Europe/Berlin:20270122T230000
-DTSTAMP:20261009T220008Z
+DTSTAMP:20261025T230007Z
 UID:joe-bausch-live-in-ingolstadt-20270122-2000@ifg-plattform.de
 DESCRIPTION:Arzt\, Kriminalexperte\, Schauspieler &amp\; Tatort-Star über
   die Geheimnisse des Verbrechens.\n\nEinlass: 19:00\n\nKriminologie pur: D
@@ -4431,6 +5428,34 @@ DESCRIPTION:Arzt\, Kriminalexperte\, Schauspieler &amp\; Tatort-Star über
  rzehntelange Erfahrung prägt seine Vorträge und verleiht ihnen eine Tief
  e\, die weit über klassische Kriminalgeschichten hinausgeht.
 LOCATION:eventhalle Westpark\, Am Westpark 2\, 85057 Ingolstadt
+X-SCORE:22
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Teenieparty - Save the Date
+DTSTART;TZID=Europe/Berlin:20270123T190000
+DTEND;TZID=Europe/Berlin:20270123T230000
+DTSTAMP:20261025T230007Z
+UID:teenieparty-save-the-date-20270123-1800@ifg-plattform.de
+DESCRIPTION:Einlass: 17:30\n\nDu bist zwischen 10 und 15 Jahren? Dann sei 
+ dabei und feiere die coolste Party in der elternfreien Zone!
+LOCATION:kulturzentrum neun\, Elisabethstraße 9a\, 85051 Ingolstadt
+X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Banff Centre Mountain Film Festival World Tour 2027
+DTSTART;TZID=Europe/Berlin:20270123T203000
+DTEND;TZID=Europe/Berlin:20270124T005900
+DTSTAMP:20261025T230007Z
+UID:banff-centre-mountain-film-festival-world-tour-2027-20270123-1930@ifg-
+ plattform.de
+DESCRIPTION:Einlass: 19:00\n\nDie Filmtour für Bergfans: Die Banff-Tour b
+ ringt die besten Outdoor- und Abenteuerfilme des Jahres auf die große Lei
+ nwand – mit spannenden Geschichten rund ums Klettern\, Bergsteigen\, Fre
+ eriden und vieles mehr. Das zweistündige Programm ist ein Best-of des Ban
+ ff Centre Mountain Film Festival\, das jeden November im kanadischen Banff
+  stattfindet und zu den renommiertesten Bergfilmfestivals der Welt zählt.
+  Die Banff-Tour ist von Januar bis April 2027 wieder auf Tour.
+LOCATION:Fronte 79 - Haus der Jugend\, Jahnstraße 25\, 85049 Ingolstadt
 X-SCORE:22
 END:VEVENT
 END:VCALENDAR
