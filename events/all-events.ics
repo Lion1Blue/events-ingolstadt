@@ -2,87 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//IFG Plattform//Events//DE
 BEGIN:VEVENT
-SUMMARY:Techniktag 2026 an der Technischen Hochschule Ingolstadt
-DTSTART;TZID=Europe/Berlin:20261118T100000
-DTEND;TZID=Europe/Berlin:20261118T140000
-DTSTAMP:20261117T230010Z
-UID:techniktag-2026-an-der-technischen-hochschule-ingolstadt-20261118-0900
- @ifg-plattform.de
-DESCRIPTION:Girls go tech - Deine Zukunft startet hier\n\nEinlass: 09:00\n
- \nFür Schülerinnen der 8. - 13. Klasse - Roboter\, die sehen und reagier
- en. Funken\, die beim Schweißen fliegen. Und du mittendrin beim Technikta
- g an der THI! Steuere Roboterarme im Robotiklabor\, probiere dich selbst i
- m Schweißen aus und erfahre\, wie ein Studium an der Hochschule aussieht.
-  Wir zeigen dir\, wie vielseitig und kreativ Technik ist – und dass Neug
- ier und Ausprobieren oft der beste Anfang sind.
-LOCATION:Technische Hochschule (THI)\, Esplanade 10\, 85049 Ingolstadt
-X-SCORE:104
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Vinyl &amp\; Bierstacheln
-DTSTART;TZID=Europe/Berlin:20261118T190000
-DTEND;TZID=Europe/Berlin:20261119T005900
-DTSTAMP:20261117T230014Z
-UID:vinyl-amp-bierstacheln-20261118-1800@ifg-plattform.de
-DESCRIPTION:heißer Stahl + Bier = purer Genuss. Bringt gerne eure Rock-Sc
- hallplatten mit!
-LOCATION:Griesmüllers Altstadtbrauerei\, Schulstraße 19\, 85049 Ingolsta
- dt
-X-SCORE:13
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Paint Night by Marnie
-DTSTART;TZID=Europe/Berlin:20261118T200000
-DTEND;TZID=Europe/Berlin:20261118T220000
-DTSTAMP:20261117T230010Z
-UID:paint-night-by-marnie-20261118-1900@ifg-plattform.de
-DESCRIPTION:Herbstbäume in Aquarell\n\nEinlass: 19:00\n\nBei den Paint Ni
- ght Workshops wirst du Schritt für Schritt angeleitet.\nDu lernst Technik
- en\, bekommst Hilfestellung und wirst begleitet beim Malen. Du brauchst ke
- ine Vorkenntnisse.\n\nTrotzdem entsteht dein eigenes Bild in deinem Stil\,
-  mit deiner Handschrift.\nEine entspannte Atmosphäre\, gute Gespräche un
- d ein kreativer Flow machen den Abend zu einer kleinen Auszeit vom Alltag.
-LOCATION:Tagtraum\, Paradeplatz 3\, 85049 Ingolstadt
-X-SCORE:22
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:I am from Austria
-DTSTART;TZID=Europe/Berlin:20261118T210000
-DTEND;TZID=Europe/Berlin:20261119T005900
-DTSTAMP:20261117T230011Z
-UID:i-am-from-austria-20261118-2000@ifg-plattform.de
-DESCRIPTION:Eine Liebeserklärung an den AustroPop\n\nEinlass: 19:00\n\nMi
- t „I am from Austria“ kehrt der österreichische Pop stimmungsvoll zur
- ück – zu seinen Wurzeln\, mitreißend\, authentisch und voller Gefühl.
-  Diese Show ist ein Hitfeuerwerk\, das die besten Songs aus 50 Jahren Aust
- roPop zaubert und dabei die ganz besondere Verbindung zwischen Musik\, Hei
- mat und Emotion gefeiert.\n\n„I am from Austria“ versammelt die große
- n Hits und unvergesslichen Melodien eines Genres\, das in den letzten fün
- f Jahrzehnten das österreichische Lebensgefühl geprägt hat. Von Rainhar
- d Fendrich über Falco bis STS: Die Show bietet ein abwechslungsreiches 
- „Best of“ der bekanntesten Interpreten. Nicht nur als nostalgische Rü
- ckschau\, sondern als lebendiges Erlebnis mit Humor\, Spielfreude und viel
-  Herz.\n\nDurch eindrucksvolle Medleys\, brilliante Musikalität und eine 
- energiegeladene Bühneninszenierung mit Licht- und Effekttechnik wird jede
-  Veranstaltung zu einer Zeitreise – und zu einer Party\, bei der mitgesu
- ngen\, mitgetanzt und mitgefiebert wird.\n\nDie Band schafft es\, das Publ
- ikum hautnah mitzunehmen: Wenn vertraute Melodien erklingen\, schmelzen di
- e Grenzen zwischen Bühne und Zuschauerraum – es entsteht Gemeinschaft\,
-  Gänsehaut\, Freude. Ob „Fürstenfeld“ oder „Weus'd a Herz hast wia
-  a Bergwerk“ – die Songs berühren\, wecken Erinnerungen und verbinden
-  Generationen.\n\nAuthentisch\, souverän und mit großer musikalischer Ba
- ndbreite: Die Musiker von „I am from Austria“ verstehen es\, die Klang
- farben und Charaktere der Originals zu treffen\, dabei aber ihre eigene Ha
- ndschrift beizubehalten. Jede Performance ist sorgfältig inszeniert\, vom
-  Sound über Gesang bis zur visuell packenden Bühne.
-LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
-X-SCORE:44
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Herrliches Herrnbräu live erleben!
 DTSTART;TZID=Europe/Berlin:20261119T180000
 DTEND;TZID=Europe/Berlin:20261119T200000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:herrliches-herrnbr-u-live-erleben-20261119-1700@ifg-plattform.de
 DESCRIPTION:Brauereiführung\n\nEinlass: 17:00\n\nBesuchen Sie uns in unse
  rer Brauerei und erleben Sie\, mit wie viel Sorgfalt und modernster Techni
@@ -105,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261119T183000
 DTEND;TZID=Europe/Berlin:20261119T190000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:excelsis-immersive-lichtshow-20261119-1730@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 17:15\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -130,7 +53,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz aus dem Nähkästchen
 DTSTART;TZID=Europe/Berlin:20261119T190000
 DTEND;TZID=Europe/Berlin:20261120T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:jazz-aus-dem-n-hk-stchen-20261119-1800@ifg-plattform.de
 DESCRIPTION:Ein Nähkästchen bietet oft viele Überraschungen. Im Falle d
  er Vokalistin Ursula Oswald und des Gitarristen Anton Stürzer sind darin 
@@ -152,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:Claudia Pichler
 DTSTART;TZID=Europe/Berlin:20261119T210000
 DTEND;TZID=Europe/Berlin:20261120T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:claudia-pichler-20261119-2000@ifg-plattform.de
 DESCRIPTION:Kopfnuss und Konterbier\n\nEinlass: 19:00\n\nClaudia Pichler i
  st ein Unikum: Die Münchnerin wirkt auf den ersten Blick so sanft und cha
@@ -189,7 +112,7 @@ BEGIN:VEVENT
 SUMMARY:kiesch\, das\, Ananas! - Vol.06
 DTSTART;TZID=Europe/Berlin:20261119T210000
 DTEND;TZID=Europe/Berlin:20261119T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:kiesch-das-ananas-vol-06-20261119-2000@ifg-plattform.de
 DESCRIPTION:Ein Open-Mic-Event in Ingolstadts Kulturbistro\n\nEinlass: 19:
  00\n\nDas Open-Mic-Event „kiesch\, das\, Ananas!“ bringt am Donnerstag
@@ -208,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt
 DTSTART;TZID=Europe/Berlin:20261120T120000
 DTEND;TZID=Europe/Berlin:20261223T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:christkindlmarkt-ingolstadt-20261120-1100@ifg-plattform.de
 DESCRIPTION:Der Ingolstädter Christkindlmarkt lädt ein zum Bummeln durch
   die weihnachtliche Altstadt. Ob die Budenstadt auf dem Theaterplatz\, der
@@ -226,7 +149,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 20.11.2026
 DTSTART;TZID=Europe/Berlin:20261120T140000
 DTEND;TZID=Europe/Berlin:20261120T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:christkindlmarkt-ingolstadt-programm-20-11-2026-20261120-1300@ifg-plat
  tform.de
 DESCRIPTION:Freitag\, 20.11.2026\n\n\nÖffnungszeiten: 13:00 - 21:00 Uhr\n
@@ -246,7 +169,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261120T193000
 DTEND;TZID=Europe/Berlin:20261120T200000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:excelsis-immersive-lichtshow-20261120-1830@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 18:15\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -271,7 +194,7 @@ BEGIN:VEVENT
 SUMMARY:Nachts im Stadtmuseum
 DTSTART;TZID=Europe/Berlin:20261120T200000
 DTEND;TZID=Europe/Berlin:20261120T211500
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:nachts-im-stadtmuseum-20261120-1900@ifg-plattform.de
 DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
@@ -305,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Erkan &amp\; Stefan
 DTSTART;TZID=Europe/Berlin:20261120T210000
 DTEND;TZID=Europe/Berlin:20261121T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:erkan-amp-stefan-20261120-2000@ifg-plattform.de
 DESCRIPTION:Live!\n\nEinlass: 19:00\n\nBir\, iki\, ütsch! Das Handtuch un
  d die Kette sind zurück.  Erkan &amp\; Stefan prägten die Sprache eine
@@ -328,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:RapAct
 DTSTART;TZID=Europe/Berlin:20261120T210000
 DTEND;TZID=Europe/Berlin:20261121T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:rapact-20261120-2000@ifg-plattform.de
 DESCRIPTION:Im RapSpot fordern wir Schauspieler*innen des Stadttheater Ing
  olstadt und die Hip Hop Künstler*innen heraus - in einer etwas anderen Ga
@@ -347,7 +270,7 @@ BEGIN:VEVENT
 SUMMARY:NIGHTLIFE SOCIETY Ingolstadt
 DTSTART;TZID=Europe/Berlin:20261120T210000
 DTEND;TZID=Europe/Berlin:20261121T020000
-DTSTAMP:20261117T230013Z
+DTSTAMP:20261118T230010Z
 UID:nightlife-society-ingolstadt-20261120-2000@ifg-plattform.de
 DESCRIPTION:Eine besondere Nacht. Eine KULT Location. Feiert mit uns!\n\nE
  inlass: 20:00\n\nNach vier großartigen Sunset Society Events im Sommer st
@@ -384,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:Konzert mit Jeni Williams &amp\; Black Bohemia
 DTSTART;TZID=Europe/Berlin:20261120T210000
 DTEND;TZID=Europe/Berlin:20261120T233000
-DTSTAMP:20261117T230013Z
+DTSTAMP:20261118T230011Z
 UID:konzert-mit-jeni-williams-amp-black-bohemia-20261120-2000@ifg-plattfor
  m.de
 DESCRIPTION:Soul · Rock · Funk · Jazz – Live im Diagonal Ingolstadt\n
@@ -401,7 +324,7 @@ BEGIN:VEVENT
 SUMMARY:Nachts im Stadtmuseum
 DTSTART;TZID=Europe/Berlin:20261120T213000
 DTEND;TZID=Europe/Berlin:20261120T224500
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:nachts-im-stadtmuseum-20261120-2030@ifg-plattform.de
 DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
@@ -435,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:Programmieren und Robotik entdecken
 DTSTART;TZID=Europe/Berlin:20261121T110000
 DTEND;TZID=Europe/Berlin:20261121T133000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:programmieren-und-robotik-entdecken-20261121-1000@ifg-plattform.de
 DESCRIPTION:Alle Kinder im Alter von 9 bis zu 11 Jahren sind herzlich eing
  eladen\, im Bürgerhaus Neuburger Kasten die spannende Welt der Technik un
@@ -457,27 +380,10 @@ LOCATION:Bürgerhaus Neuburger Kasten\, Fechtgasse 6\, 85049 Ingolstadt
 X-SCORE:200
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Adeventsdeko aus Filz
-DTSTART;TZID=Europe/Berlin:20261121T110000
-DTEND;TZID=Europe/Berlin:20261121T140000
-DTSTAMP:20261117T230010Z
-UID:adeventsdeko-aus-filz-20261121-1000@ifg-plattform.de
-DESCRIPTION:Einlass: 10:00\n\nWir gestalten adventlichen oder herbstlichen
-  Schmuck aus Filz. Auch bunte Kugeln\, gefilzte Eicheln\, Blätter oder wo
- llige Glitzerschnüre könnt ihr aus Wolle herstellen. Gerne dürfen auch 
- Glitzerperlen eingefilzt werden. In unserer Umweltstation am Baggersee ler
- nt ihr\, wie die Technik des Nassfilzens funktioniert und gestaltet eure e
- igenen Werke.\nWeitere Infos und Anmeldung unter\nhttps://umweltstation-in
- golstadt.de/veranstaltungskalender
-LOCATION:Jugendbildungshaus am Baggersee\, Oberschüttweg 25\, 85049 Ingol
- stadt
-X-SCORE:10
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 21.11.2026
 DTSTART;TZID=Europe/Berlin:20261121T110000
 DTEND;TZID=Europe/Berlin:20261121T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-21-11-2026-20261121-1000@ifg-plat
  tform.de
 DESCRIPTION:Samstag\, 21.11.2026\n\n\nÖffnungszeiten: 10:00 - 21:00 Uhr\n
@@ -498,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Tag des offenen Heizungskellers
 DTSTART;TZID=Europe/Berlin:20261121T130000
 DTEND;TZID=Europe/Berlin:20261121T190000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:tag-des-offenen-heizungskellers-20261121-1200@ifg-plattform.de
 DESCRIPTION:Klimafreundlich heizen – stellen Sie Ihre Fragen\n\nHaus- un
  d Wohnungsbesitzer:innen in ganz Deutschland öffnen ihre Tür und zeigen\
@@ -513,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:Ingolstadt spielt
 DTSTART;TZID=Europe/Berlin:20261121T150000
 DTEND;TZID=Europe/Berlin:20261122T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:ingolstadt-spielt-20261121-1400@ifg-plattform.de
 DESCRIPTION:Einlass: 14:00\n\nAm Samstag\, den 21. November\, heißt es wi
  eder „Ingolstadt spielt!“. Von 14 Uhr bis Mitternacht verwandeln der S
@@ -532,7 +438,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261121T183000
 DTEND;TZID=Europe/Berlin:20261121T190000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:excelsis-immersive-lichtshow-20261121-1730@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 17:15\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -557,7 +463,7 @@ BEGIN:VEVENT
 SUMMARY:Katalin Ball
 DTSTART;TZID=Europe/Berlin:20261121T200000
 DTEND;TZID=Europe/Berlin:20261122T030000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:katalin-ball-20261121-1900@ifg-plattform.de
 DESCRIPTION:Ungarischer Herbstball\n\nEinlass: 18:00\n\nWir laden Sie und 
  Ihre Familie herzlich zum diesjährigen Kathreinball ein!\n\nDieser Abend 
@@ -592,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:Herbstkonzert Orchesterinitiative Ingolstadt
 DTSTART;TZID=Europe/Berlin:20261121T200000
 DTEND;TZID=Europe/Berlin:20261121T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:herbstkonzert-orchesterinitiative-ingolstadt-20261121-1900@ifg-plattfo
  rm.de
 DESCRIPTION:Einlass: 18:15\n\nWerke von Mozart\, Haydn\, Stamitz und Sibel
@@ -604,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Das Abschiedsdinner
 DTSTART;TZID=Europe/Berlin:20261121T203000
 DTEND;TZID=Europe/Berlin:20261122T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:das-abschiedsdinner-20261121-1930@ifg-plattform.de
 DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
  e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
@@ -632,7 +538,7 @@ BEGIN:VEVENT
 SUMMARY:ACDX
 DTSTART;TZID=Europe/Berlin:20261121T210000
 DTEND;TZID=Europe/Berlin:20261122T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:acdx-20261121-2000@ifg-plattform.de
 DESCRIPTION:The ultimate AC/DC Rock Show\n\nEinlass: 19:00\n\n... die AC/D
  C-Show der besonderen Art! Andere Bands spielen Stromgitarren – AC/DX si
@@ -670,7 +576,7 @@ BEGIN:VEVENT
 SUMMARY:Auslöschung. Ein Zerfall
 DTSTART;TZID=Europe/Berlin:20261121T210000
 DTEND;TZID=Europe/Berlin:20261122T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:ausl-schung-ein-zerfall-20261121-2000@ifg-plattform.de
 DESCRIPTION:von Thomas Bernhard • in einer Bearbeitung von Felix Metzner
   • nach einer Inszenierung am Staatstheater Darmstadt\n\n„Auslöschung
@@ -701,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:ABBA World Revival Live Band mit anschließender DJ Party
 DTSTART;TZID=Europe/Berlin:20261121T213000
 DTEND;TZID=Europe/Berlin:20261122T030000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:abba-world-revival-live-band-mit-anschlie-ender-dj-party-20261121-2030
  @ifg-plattform.de
 DESCRIPTION:ABBA Live Band in Allershausen\n\nEinlass: 18:00\n\nABBA-Fiebe
@@ -740,7 +646,7 @@ BEGIN:VEVENT
 SUMMARY:💖 SINGLE PARTY 💖 LOVE EDITION II
 DTSTART;TZID=Europe/Berlin:20261121T220000
 DTEND;TZID=Europe/Berlin:20261122T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:single-party-love-edition-ii-20261121-2100@ifg-plattform.de
 DESCRIPTION:Bring deinen Single-Buddy mit und ihr spart beide beim Eintrit
  t!\n\nEinlass: 20:30\n\n💖 SINGLE PARTY – LOVE EDITION II 💖\n🪩 M
@@ -783,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 22.11.2026
 DTSTART;TZID=Europe/Berlin:20261122T130000
 DTEND;TZID=Europe/Berlin:20261122T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-22-11-2026-20261122-1200@ifg-plat
  tform.de
 DESCRIPTION:Sonntag\, 22.11.2026\n\n\nÖffnungszeiten: 12:00 - 20:00 Uhr\n
@@ -797,10 +703,34 @@ LOCATION:Theaterplatz\, Theaterplatz\, 85049 Ingolstadt
 X-SCORE:26
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Konzert Für Freunde der Kammerphilharmonie Ingolstadt
+DTSTART;TZID=Europe/Berlin:20261122T150000
+DTEND;TZID=Europe/Berlin:20261122T170000
+DTSTAMP:20261118T230008Z
+UID:konzert-f-r-freunde-der-kammerphilharmonie-ingolstadt-20261122-1400@if
+ g-plattform.de
+DESCRIPTION:Einlass: 13:00\n\nAm Sonntag\, 22. November 2026\, um 14 Uhr l
+ ädt die Kammerphilharmonie Ingolstadt zum Konzert für Freunde ins Lechne
+ r Museum ein. Das vom Freundeskreis gesponserte Konzert vereint aktuelle u
+ nd ehemalige Orchestermitglieder und stellt die langjährige Verbundenheit
+  mit dem Orchester in den Mittelpunkt.\n\nUnter der Leitung von Chefdirige
+ nt Ariel Zuckermann erklingen Werke von Felix Mendelssohn Bartholdy\, dem 
+ ehemaligen Orchestermusiker Igor Loboda und Vaja Azarashvili. Beim Doppelk
+ onzert für Violine und Viola stehen Friedemann Breuninger (Violine) und V
+ adim Makhovskiy (Viola) solistisch im Fokus.\n\nIm Anschluss an das einst
+ ündige Konzert lädt der Freundeskreis zu Kaffee und Kuchen ein – eine 
+ schöne Gelegenheit zum Austausch in entspannter Atmosphäre.\n\nTermin: S
+ onntag\, 22. November 2026\, 14 Uhr\nOrt: Lechner Museum Ingolstadt\nEintr
+ itt: 25 € (Kategorie 1) / 15 € (Kategorie 2). Freie Platzwahl innerhal
+ b der Kategorien.
+LOCATION:Lechner Museum\, Esplanade 9\, 85049 Ingolstadt
+X-SCORE:23
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Zukunftsoptimismus tanken!
 DTSTART;TZID=Europe/Berlin:20261122T170000
 DTEND;TZID=Europe/Berlin:20261122T180000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:zukunftsoptimismus-tanken-20261122-1600@ifg-plattform.de
 DESCRIPTION:Texte und Musik über Gott und die Welt\n\nEinlass: 15:30\n\nD
  ie katholische Cityseelsorge Ingolstadt lädt in Kooperation mit der Pfarr
@@ -825,7 +755,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261122T170000
 DTEND;TZID=Europe/Berlin:20261122T173000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-immersive-lichtshow-20261122-1600@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 15:45\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -850,7 +780,7 @@ BEGIN:VEVENT
 SUMMARY:Showcase der Red Hot Chilis
 DTSTART;TZID=Europe/Berlin:20261122T180000
 DTEND;TZID=Europe/Berlin:20261122T200000
-DTSTAMP:20261117T230014Z
+DTSTAMP:20261118T230013Z
 UID:showcase-der-red-hot-chilis-20261122-1700@ifg-plattform.de
 DESCRIPTION:Generalprobe zur Saison 2026/2027\n\nEinlass: 16:45\n\nDie Mei
  sterschaften des Cheerleading und Cheerperformance Verbands starten für d
@@ -880,7 +810,7 @@ BEGIN:VEVENT
 SUMMARY:Auslöschung. Ein Zerfall
 DTSTART;TZID=Europe/Berlin:20261122T210000
 DTEND;TZID=Europe/Berlin:20261123T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:ausl-schung-ein-zerfall-20261122-2000@ifg-plattform.de
 DESCRIPTION:von Thomas Bernhard • in einer Bearbeitung von Felix Metzner
   • nach einer Inszenierung am Staatstheater Darmstadt\n\n„Auslöschung
@@ -911,7 +841,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 23.11.2026
 DTSTART;TZID=Europe/Berlin:20261123T110000
 DTEND;TZID=Europe/Berlin:20261123T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-23-11-2026-20261123-1000@ifg-plat
  tform.de
 DESCRIPTION:Montag\, 23.11.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\nD
@@ -927,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 24.11.2026
 DTSTART;TZID=Europe/Berlin:20261124T110000
 DTEND;TZID=Europe/Berlin:20261124T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-24-11-2026-20261124-1000@ifg-plat
  tform.de
 DESCRIPTION:Dienstag\, 24.11.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\
@@ -944,7 +874,7 @@ SUMMARY:DIYnstag „Liebenswerte weihnachtliche Charakterfiguren zeichnen
  “
 DTSTART;TZID=Europe/Berlin:20261124T190000
 DTEND;TZID=Europe/Berlin:20261124T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:diynstag-liebenswerte-weihnachtliche-charakterfiguren-zeichnen-2026112
  4-1800@ifg-plattform.de
 DESCRIPTION:Online-Workshop mit Angela Krüger\n\nEinlass: 17:45\n\nWie en
@@ -995,7 +925,7 @@ BEGIN:VEVENT
 SUMMARY:Skitoureninfoabend und Wintertourenprogramms
 DTSTART;TZID=Europe/Berlin:20261124T200000
 DTEND;TZID=Europe/Berlin:20261125T000000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:skitoureninfoabend-und-wintertourenprogramms-20261124-1900@ifg-plattfo
  rm.de
 DESCRIPTION:2026/2027\n\nEinlass: 18:30\n\n- Geplante Skitouren und Verans
@@ -1012,7 +942,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 25.11.2026
 DTSTART;TZID=Europe/Berlin:20261125T110000
 DTEND;TZID=Europe/Berlin:20261125T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-25-11-2026-20261125-1000@ifg-plat
  tform.de
 DESCRIPTION:Mittwoch\, 25.11.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\
@@ -1028,7 +958,7 @@ BEGIN:VEVENT
 SUMMARY:Sozialer Weihnachtsmarkt des Audi Betriebsrats
 DTSTART;TZID=Europe/Berlin:20261125T120000
 DTEND;TZID=Europe/Berlin:20261129T120000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:sozialer-weihnachtsmarkt-des-audi-betriebsrats-20261125-1100@ifg-platt
  form.de
 DESCRIPTION:Weihnachtsmarkt der guten Taten\n\nEinlass: 10:00\n\nO du frö
@@ -1055,7 +985,7 @@ BEGIN:VEVENT
 SUMMARY:Bayerns Pompeji der Jungsteinzeit
 DTSTART;TZID=Europe/Berlin:20261125T190000
 DTEND;TZID=Europe/Berlin:20261125T203000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:bayerns-pompeji-der-jungsteinzeit-20261125-1800@ifg-plattform.de
 DESCRIPTION:Die UNESCO-Welterbe-Siedlung von Pestenacker\n\nEinlass: 16:00
  \n\nKostenfreier Vortrag von Dr. Anneli Wanger-O’Neill (Bayerisches Land
@@ -1094,7 +1024,7 @@ BEGIN:VEVENT
 SUMMARY:Bildschön verpotcht! Kreative Drucktechnik
 DTSTART;TZID=Europe/Berlin:20261125T193000
 DTEND;TZID=Europe/Berlin:20261125T213000
-DTSTAMP:20261117T230013Z
+DTSTAMP:20261118T230010Z
 UID:bildsch-n-verpotcht-kreative-drucktechnik-20261125-1830@ifg-plattform.
  de
 DESCRIPTION:Für Erwachsene · 2 Stunden · Material inklusive\n\nEinlass:
@@ -1115,7 +1045,7 @@ BEGIN:VEVENT
 SUMMARY:Wohltätigkeitskonzert
 DTSTART;TZID=Europe/Berlin:20261125T203000
 DTEND;TZID=Europe/Berlin:20261125T233000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:wohlt-tigkeitskonzert-20261125-1930@ifg-plattform.de
 DESCRIPTION:Es spielt das Musikkorps der Bundeswehr\n\nEinlass: 18:30\n\nA
  m 25. November findet in gewohnter Weise das traditionelle Wohltätigkeits
@@ -1133,7 +1063,7 @@ BEGIN:VEVENT
 SUMMARY:Stefan Leonhardsberger
 DTSTART;TZID=Europe/Berlin:20261125T210000
 DTEND;TZID=Europe/Berlin:20261126T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:stefan-leonhardsberger-20261125-2000@ifg-plattform.de
 DESCRIPTION:Herzklopfen\n\nEinlass: 19:00\n\nWie überlebt man Sperrmüll-
  Dates mit der Ehefrau\, spontanen Kontrollbesuch vom Jugendamt und einen N
@@ -1151,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:Jess Jochimsen - 4 Kerzen Für Ein Halleluja
 DTSTART;TZID=Europe/Berlin:20261125T210000
 DTEND;TZID=Europe/Berlin:20261125T233000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:jess-jochimsen-4-kerzen-f-r-ein-halleluja-20261125-2000@ifg-plattform.
  de
 DESCRIPTION:Kabarett\n\nEinlass: 19:40\n\nInmitten von Politdepression und
@@ -1189,7 +1119,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 26.11.2026
 DTSTART;TZID=Europe/Berlin:20261126T110000
 DTEND;TZID=Europe/Berlin:20261126T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-26-11-2026-20261126-1000@ifg-plat
  tform.de
 DESCRIPTION:Donnerstag\, 26.11.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uh
@@ -1208,7 +1138,7 @@ BEGIN:VEVENT
 SUMMARY:Jasmin Bayer Trio
 DTSTART;TZID=Europe/Berlin:20261126T190000
 DTEND;TZID=Europe/Berlin:20261127T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:jasmin-bayer-trio-20261126-1800@ifg-plattform.de
 DESCRIPTION:Christmas Jazz mit Jasmin Bayer Trio: Das ist überzeugend und
   meisterlich interpretierte Weihnachtsliteratur in Jazzgewand\, abseits vo
@@ -1234,7 +1164,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261126T193000
 DTEND;TZID=Europe/Berlin:20261126T200000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-immersive-lichtshow-20261126-1830@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 18:15\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -1259,7 +1189,7 @@ BEGIN:VEVENT
 SUMMARY:Yoga? Männersache!
 DTSTART;TZID=Europe/Berlin:20261126T200000
 DTEND;TZID=Europe/Berlin:20261126T213000
-DTSTAMP:20261117T230013Z
+DTSTAMP:20261118T230011Z
 UID:yoga-m-nnersache-20261126-1900@ifg-plattform.de
 DESCRIPTION:Mehr Beweglichkeit\, weniger Verspannungen und neue Energie f
  ür den Alltag. In zwei entspannten Schnuppereinheiten lernen Männer die 
@@ -1280,7 +1210,7 @@ BEGIN:VEVENT
 SUMMARY:Helmfried von Lüttichau
 DTSTART;TZID=Europe/Berlin:20261126T210000
 DTEND;TZID=Europe/Berlin:20261127T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:helmfried-von-l-ttichau-202611261100000000-2000@ifg-plattform.de
 DESCRIPTION:„neues Soloprogramm“\n\nEinlass: 19:00\n\nJa steckt denn d
  ieser Helmfried von Lüttichau seine Nase überall hinein? Tut er und zwa
@@ -1295,7 +1225,7 @@ BEGIN:VEVENT
 SUMMARY:SWAP KONZERTREIHE: SOLAIRE TRIO
 DTSTART;TZID=Europe/Berlin:20261126T210000
 DTEND;TZID=Europe/Berlin:20261126T223000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:swap-konzertreihe-solaire-trio-20261126-2000@ifg-plattform.de
 DESCRIPTION:FÖRDERPREISKONZERT DES BAYERISCHEN JAZZVERBANDS\n\nEinlass: 1
  9:30\n\nSolaire ist ein Newcomer Trio\, das sich dem modernen Fusion-Jazz 
@@ -1322,7 +1252,7 @@ BEGIN:VEVENT
 SUMMARY:144. JAM Session der Jazzfreunde Ingolstadt e. V.
 DTSTART;TZID=Europe/Berlin:20261126T210000
 DTEND;TZID=Europe/Berlin:20261127T000000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:144-jam-session-der-jazzfreunde-ingolstadt-e-v-20261126-2000@ifg-platt
  form.de
 DESCRIPTION:Eintritt frei\n\nEinlass: 19:00\n\nDie Jazzfreunde Ingolstadt 
@@ -1366,7 +1296,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 27.11.2026
 DTSTART;TZID=Europe/Berlin:20261127T110000
 DTEND;TZID=Europe/Berlin:20261127T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-27-11-2026-20261127-1000@ifg-plat
  tform.de
 DESCRIPTION:Freitag\, 27.11.2026\n\n\nÖffnungszeiten: 10:00 - 21:00 Uhr\n
@@ -1385,7 +1315,7 @@ BEGIN:VEVENT
 SUMMARY:Stadtkantine
 DTSTART;TZID=Europe/Berlin:20261127T190000
 DTEND;TZID=Europe/Berlin:20261128T005900
-DTSTAMP:20261117T230012Z
+DTSTAMP:20261118T230010Z
 UID:stadtkantine-20261127-1800@ifg-plattform.de
 DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
   Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
@@ -1405,7 +1335,7 @@ BEGIN:VEVENT
 SUMMARY:VERNISSAGE
 DTSTART;TZID=Europe/Berlin:20261127T190000
 DTEND;TZID=Europe/Berlin:20261128T000000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:vernissage-20261127-1800@ifg-plattform.de
 DESCRIPTION:AUSSTELLUNG IM TAGTRAUM\n\nEinlass: 16:00\n\nVERNISSAGE SKOPE\
  nFREITAG\, 27. NOVEMBER · AB 18 UHR\n\n\nDer Schweizer Künstler SKOPE zi
@@ -1429,7 +1359,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261127T193000
 DTEND;TZID=Europe/Berlin:20261127T200000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-immersive-lichtshow-20261127-1830@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 18:15\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -1454,7 +1384,7 @@ BEGIN:VEVENT
 SUMMARY:Black Friday - Shopping &amp\; Beats
 DTSTART;TZID=Europe/Berlin:20261127T200000
 DTEND;TZID=Europe/Berlin:20261127T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:black-friday-shopping-amp-beats-20261127-1900@ifg-plattform.de
 DESCRIPTION:🖤 Black Friday – Shopping &amp\; Beats im WestPark 🖤\n
  \nAm 27. November schon was vor? Macht den Black Friday zu eurem Shopping-
@@ -1485,7 +1415,7 @@ BEGIN:VEVENT
 SUMMARY:Ingmar Stadelmann
 DTSTART;TZID=Europe/Berlin:20261127T210000
 DTEND;TZID=Europe/Berlin:20261128T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:ingmar-stadelmann-20261127-2000@ifg-plattform.de
 DESCRIPTION:„Stadelmann liest Höcke – ein satirischer Diskurs vor der
   Machtergreifung“\n\nEinlass: 19:00\n\nIngmar Stadelmann kommt am Freita
@@ -1533,7 +1463,7 @@ BEGIN:VEVENT
 SUMMARY:WINTERBEATS CLUBNIGHT mit Unicorn on K\, Justin Pollnik etc.
 DTSTART;TZID=Europe/Berlin:20261127T210000
 DTEND;TZID=Europe/Berlin:20261128T040000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:winterbeats-clubnight-mit-unicorn-on-k-justin-pollnik-etc-20261127-200
  0@ifg-plattform.de
 DESCRIPTION:Einlass: 20:00\n\nIngolstadt – Am Freitag\, den 27. November
@@ -1567,7 +1497,7 @@ BEGIN:VEVENT
 SUMMARY:Winterbeats Club Night mit Unikorn on K
 DTSTART;TZID=Europe/Berlin:20261127T220000
 DTEND;TZID=Europe/Berlin:20261128T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:winterbeats-club-night-mit-unikorn-on-k-20261127-2100@ifg-plattform.de
 DESCRIPTION:+ Justin Pollnik\, Straxx\, Matze Raab &amp\; Escarage\n\nEinl
  ass: 20:00\n\nWinter Beats Clubnight bringt den härtesten Abriss des Jahr
@@ -1603,7 +1533,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 28.11.2026
 DTSTART;TZID=Europe/Berlin:20261128T110000
 DTEND;TZID=Europe/Berlin:20261128T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-28-11-2026-20261128-1000@ifg-plat
  tform.de
 DESCRIPTION:Samstag\, 28.11.2026\n\n\nÖffnungszeiten: 10:00 - 21:00 Uhr\n
@@ -1622,7 +1552,7 @@ BEGIN:VEVENT
 SUMMARY:1. Matinee im Advent mit Oliver Scheffels
 DTSTART;TZID=Europe/Berlin:20261128T130000
 DTEND;TZID=Europe/Berlin:20261129T005900
-DTSTAMP:20261117T230015Z
+DTSTAMP:20261118T230013Z
 UID:1-matinee-im-advent-mit-oliver-scheffels-20261128-1200@ifg-plattform.d
  e
 DESCRIPTION:30 Minuten Orgelmusik zur Mittagszeit\n\nEinlass: 11:40\n\nJea
@@ -1659,7 +1589,7 @@ BEGIN:VEVENT
 SUMMARY:Brauereiführung
 DTSTART;TZID=Europe/Berlin:20261128T160000
 DTEND;TZID=Europe/Berlin:20261129T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:brauereif-hrung-20261128-1500@ifg-plattform.de
 DESCRIPTION:Bei unseren regelmäßigen Brauereiführungen führen wir dich
   ein in die Biergeschichte der Stadt und unserer Brauerei.\n\nVon den Rohs
@@ -1678,7 +1608,7 @@ BEGIN:VEVENT
 SUMMARY:Workshop: Pomander
 DTSTART;TZID=Europe/Berlin:20261128T160000
 DTEND;TZID=Europe/Berlin:20261128T170000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:workshop-pomander-20261128-1500@ifg-plattform.de
 DESCRIPTION:mit Apothekerin Sigrid Billig\n\nEinst trug man kleine duftend
  e Kugeln in verzierten Kapseln um den Hals\, um üble Gerüche zu vertreib
@@ -1699,7 +1629,7 @@ BEGIN:VEVENT
 SUMMARY:ChristmasJazz
 DTSTART;TZID=Europe/Berlin:20261128T180000
 DTEND;TZID=Europe/Berlin:20261128T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:christmasjazz-20261128-1700@ifg-plattform.de
 DESCRIPTION:Budenzauber\, Livemusik und traumhaftes Ambiente.\n\nEinlass: 
  17:00\n\nDer traditionelle ChristmasJazz eröffnet die Adventszeit: Mit de
@@ -1713,7 +1643,7 @@ BEGIN:VEVENT
 SUMMARY:Weihnachtskonzert der Simon-Gospel-Singers
 DTSTART;TZID=Europe/Berlin:20261128T180000
 DTEND;TZID=Europe/Berlin:20261128T200000
-DTSTAMP:20261117T230015Z
+DTSTAMP:20261118T230013Z
 UID:weihnachtskonzert-der-simon-gospel-singers-20261128-1700@ifg-plattform
  .de
 DESCRIPTION:Einlass: 16:30\n\nDie Simon-Gospel-Singers\, der Gospelchor de
@@ -1735,7 +1665,7 @@ BEGIN:VEVENT
 SUMMARY:Soul´n´Roll - Die Rollschuhdisco in der NEUN
 DTSTART;TZID=Europe/Berlin:20261128T190000
 DTEND;TZID=Europe/Berlin:20261128T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:soul-n-roll-die-rollschuhdisco-in-der-neun-20261128-1800@ifg-plattform
  .de
 DESCRIPTION:Einlass: 18:00\n\nDrei Mal im Jahr gehört die (ganze) Neun de
@@ -1752,10 +1682,29 @@ LOCATION:Jugendtrendsportzentrum und Bandräume NEUN\, Elisabethstraße 9b
 X-SCORE:14
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:drink&amp\;draw – Tusche
+DTSTART;TZID=Europe/Berlin:20261128T190000
+DTEND;TZID=Europe/Berlin:20261128T210000
+DTSTAMP:20261118T230013Z
+UID:drink-amp-draw-tusche-20261128-1800@ifg-plattform.de
+DESCRIPTION:Für Erwachsene · 2 Stunden · Material und ein Spritzgeträn
+ k inklusive\n\nEinlass: 18:00\n\nBei unserem Drink &amp\; Draw experimenti
+ eren wir mit Tusche\, entdecken einfache Drucktechniken und lassen uns üb
+ erraschen\, was dabei entsteht. Es geht nicht um perfekte Ergebnisse oder 
+ darum\, besonders gut zeichnen zu können – sondern um die Freude am kre
+ ativen Prozess.\n\nWir probieren aus\, spielen mit Formen und Strukturen\,
+  kombinieren Techniken und lassen uns vom Zufall inspirieren. Dazu gibt’
+ s kühle Drinks aus dem Kiesch und eine entspannte Atmosphäre\, in der al
+ les darf und nichts muss.\n\nEin Abend zum Klecksen\, Drucken\, Zeichnen\,
+  Reden\, Trinken und Entdecken.
+LOCATION:kun SCHT\, Pfarrgasse 2-4\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Noize Attack Vol. 18
 DTSTART;TZID=Europe/Berlin:20261128T193000
 DTEND;TZID=Europe/Berlin:20261129T004000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:noize-attack-vol-18-20261128-1830@ifg-plattform.de
 DESCRIPTION:Triggered · Dark Indication · Call Me Messiah · =FUDGE= · 
  IceCreamFromHell\n\nEinlass: 18:00\n\nAm 28.11.2026 lädt Noize Attack Vol
@@ -1777,7 +1726,7 @@ BEGIN:VEVENT
 SUMMARY:Glück auf 1000 (UM)WEGEN
 DTSTART;TZID=Europe/Berlin:20261128T200000
 DTEND;TZID=Europe/Berlin:20261128T223000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:gl-ck-auf-1000-um-wegen-20261128-1900@ifg-plattform.de
 DESCRIPTION:Ein Abend über das Leben\, das Glück und die vielen Umwege d
  azwischen.\n\nEinlass: 18:30\n\nDu hast dich in deinem Leben eingerichtet.
@@ -1816,7 +1765,7 @@ BEGIN:VEVENT
 SUMMARY:31. Modellautobörse im Audi Forum Ingolstadt
 DTSTART;TZID=Europe/Berlin:20261129T110000
 DTEND;TZID=Europe/Berlin:20261129T160000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:31-modellautob-rse-im-audi-forum-ingolstadt-20261129-1000@ifg-plattfor
  m.de
 DESCRIPTION:Stöbern\, Staunen\, Sammeln. Ein Erlebnis für Groß und Klei
@@ -1836,7 +1785,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 29.11.2026
 DTSTART;TZID=Europe/Berlin:20261129T110000
 DTEND;TZID=Europe/Berlin:20261129T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-29-11-2026-20261129-1000@ifg-plat
  tform.de
 DESCRIPTION:Sonntag\, 29.11.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\n
@@ -1856,7 +1805,7 @@ BEGIN:VEVENT
 SUMMARY:Kombiführung Lechner Museum und Skulpturenpark
 DTSTART;TZID=Europe/Berlin:20261129T120000
 DTEND;TZID=Europe/Berlin:20261129T150000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:kombif-hrung-lechner-museum-und-skulpturenpark-20261129-1100@ifg-platt
  form.de
 DESCRIPTION:Lechner Museum Ingolstadt und Skulpturenpark Obereichstätt\n\
@@ -1879,7 +1828,7 @@ BEGIN:VEVENT
 SUMMARY:„Gießseifen“
 DTSTART;TZID=Europe/Berlin:20261129T160000
 DTEND;TZID=Europe/Berlin:20261129T180000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:gie-seifen-20261129-1500@ifg-plattform.de
 DESCRIPTION:Familien-Workshop mit Aniko Szabo Kouakou\n\nEinlass: 14:45\n\
  nTaucht ein in die bunte Welt der Gießseifen und gestaltet eure ganz pers
@@ -1904,7 +1853,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261129T170000
 DTEND;TZID=Europe/Berlin:20261129T173000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-immersive-lichtshow-20261129-1600@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 15:45\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -1929,7 +1878,7 @@ BEGIN:VEVENT
 SUMMARY:Audi Race Bar präsentiert: Formel 1® live
 DTSTART;TZID=Europe/Berlin:20261129T180000
 DTEND;TZID=Europe/Berlin:20261130T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:audi-race-bar-pr-sentiert-formel-1-live-20261129-1700@ifg-plattform.de
 DESCRIPTION:mit der Übertragung des Rennens aus Katar\n\nEinlass: 15:30\n
  \nErlebt gemeinsam mit Familie\, Freunden und Kollegen live die Formel 1 
@@ -1947,7 +1896,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 30.11.2026
 DTSTART;TZID=Europe/Berlin:20261130T110000
 DTEND;TZID=Europe/Berlin:20261130T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-30-11-2026-20261130-1000@ifg-plat
  tform.de
 DESCRIPTION:Montag\, 30.11.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\nD
@@ -1963,7 +1912,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 01.12.2026
 DTSTART;TZID=Europe/Berlin:20261201T110000
 DTEND;TZID=Europe/Berlin:20261201T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-01-12-2026-20261201-1000@ifg-plat
  tform.de
 DESCRIPTION:Dienstag\, 01.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\
@@ -1980,7 +1929,7 @@ BEGIN:VEVENT
 SUMMARY:Musikstammtisch
 DTSTART;TZID=Europe/Berlin:20261201T200000
 DTEND;TZID=Europe/Berlin:20261202T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:musikstammtisch-20261201-1900@ifg-plattform.de
 DESCRIPTION:Vernetzung der Ingolstädter Musikszene\n\nEinlass: 18:30\n\nD
  ie Kunst- und Kulturwerkstatt Kap94 lädt in Kooperation mit dem Kulturamt
@@ -2016,7 +1965,7 @@ BEGIN:VEVENT
 SUMMARY:Auslöschung. Ein Zerfall
 DTSTART;TZID=Europe/Berlin:20261201T210000
 DTEND;TZID=Europe/Berlin:20261202T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:ausl-schung-ein-zerfall-20261201-2000@ifg-plattform.de
 DESCRIPTION:von Thomas Bernhard • in einer Bearbeitung von Felix Metzner
   • nach einer Inszenierung am Staatstheater Darmstadt\n\n„Auslöschung
@@ -2047,7 +1996,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 02.12.2026
 DTSTART;TZID=Europe/Berlin:20261202T110000
 DTEND;TZID=Europe/Berlin:20261202T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-02-12-2026-20261202-1000@ifg-plat
  tform.de
 DESCRIPTION:Mittwoch\, 02.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\
@@ -2065,7 +2014,7 @@ SUMMARY:Arbeitsplatz am Bauzaun - Macht und Ohnmacht bei den Demonstration
  en gegen die Wiederaufarbeitungsanlage in Wackersdorf
 DTSTART;TZID=Europe/Berlin:20261202T190000
 DTEND;TZID=Europe/Berlin:20261202T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:arbeitsplatz-am-bauzaun-macht-und-ohnmacht-bei-den-demonstrationen-geg
  en-die-wiederaufarbeitungsanlage-in-wackersdorf-20261202-1800@ifg-plattfor
  m.de
@@ -2102,7 +2051,7 @@ BEGIN:VEVENT
 SUMMARY:vhs-Film am Mittwoch: Konklave
 DTSTART;TZID=Europe/Berlin:20261202T193000
 DTEND;TZID=Europe/Berlin:20261202T221500
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:vhs-film-am-mittwoch-konklave-20261202-1830@ifg-plattform.de
 DESCRIPTION:Ein fesselndes Drama über Intrigen\, Verantwortung und Entsch
  eidungen hinter verschlossenen Türen.\n\nDer Papst ist unerwartet verstor
@@ -2125,7 +2074,7 @@ BEGIN:VEVENT
 SUMMARY:Paint Night by Marnie
 DTSTART;TZID=Europe/Berlin:20261202T200000
 DTEND;TZID=Europe/Berlin:20261202T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:paint-night-by-marnie-20261202-1900@ifg-plattform.de
 DESCRIPTION:Weihnachtskarten in Aquarell\n\nEinlass: 19:00\n\nBei den Pain
  t Night Workshops wirst du Schritt für Schritt angeleitet.\nDu lernst Tec
@@ -2141,7 +2090,7 @@ BEGIN:VEVENT
 SUMMARY:Ines Procter
 DTSTART;TZID=Europe/Berlin:20261202T210000
 DTEND;TZID=Europe/Berlin:20261203T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:ines-procter-20261202-2000@ifg-plattform.de
 DESCRIPTION:Bäsd off „Die Närrische Putzfraa“\n\nEinlass: 19:00\n\nS
  eit 2015 in den Mainfrankensälen bei der Fastnacht in Franken zu putzen\,
@@ -2166,7 +2115,7 @@ BEGIN:VEVENT
 SUMMARY:Draußen Vor Der Tür
 DTSTART;TZID=Europe/Berlin:20261202T210000
 DTEND;TZID=Europe/Berlin:20261202T233000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:drau-en-vor-der-t-r-20261202-2000@ifg-plattform.de
 DESCRIPTION:Schauspiel\n\nEinlass: 19:40\n\nEin Mann kommt aus dem Krieg z
  urück – und findet keinen Platz mehr im Leben. Beckmann heißt er – a
@@ -2198,7 +2147,7 @@ BEGIN:VEVENT
 SUMMARY:Auslöschung. Ein Zerfall
 DTSTART;TZID=Europe/Berlin:20261202T210000
 DTEND;TZID=Europe/Berlin:20261203T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:ausl-schung-ein-zerfall-20261202-2000@ifg-plattform.de
 DESCRIPTION:von Thomas Bernhard • in einer Bearbeitung von Felix Metzner
   • nach einer Inszenierung am Staatstheater Darmstadt\n\n„Auslöschung
@@ -2229,7 +2178,7 @@ BEGIN:VEVENT
 SUMMARY:Stadtkantine
 DTSTART;TZID=Europe/Berlin:20261203T110000
 DTEND;TZID=Europe/Berlin:20261204T005900
-DTSTAMP:20261117T230012Z
+DTSTAMP:20261118T230010Z
 UID:stadtkantine-20261203-1000@ifg-plattform.de
 DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
   Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
@@ -2249,7 +2198,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 03.12.2026
 DTSTART;TZID=Europe/Berlin:20261203T110000
 DTEND;TZID=Europe/Berlin:20261203T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-03-12-2026-20261203-1000@ifg-plat
  tform.de
 DESCRIPTION:Donnerstag\, 03.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00\nD
@@ -2268,7 +2217,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Bawelino – Gige Brunner Duo
 DTSTART;TZID=Europe/Berlin:20261203T190000
 DTEND;TZID=Europe/Berlin:20261204T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:joe-bawelino-gige-brunner-duo-20261203-1800@ifg-plattform.de
 DESCRIPTION:20 Finger auf zwei Gitarren: Angesichts der überbordenden Fä
  higkeiten der beiden Protagonisten verspricht dieses Konzert ein gewaltige
@@ -2289,7 +2238,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261203T190000
 DTEND;TZID=Europe/Berlin:20261203T193000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-immersive-lichtshow-20261203-1800@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 17:45\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -2314,7 +2263,7 @@ BEGIN:VEVENT
 SUMMARY:Tom &amp\; Basti
 DTSTART;TZID=Europe/Berlin:20261203T210000
 DTEND;TZID=Europe/Berlin:20261204T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:tom-amp-basti-20261203-2000@ifg-plattform.de
 DESCRIPTION:zwoaschneidig\n\nEinlass: 19:00\n\nIm jüngsten\, mittlerweil
  e fünften Bühnenprogramm zwoaschneidig nehmen Tom &amp\; Basti ihre We
@@ -2331,7 +2280,7 @@ BEGIN:VEVENT
 SUMMARY:4. Abonnementkonzert
 DTSTART;TZID=Europe/Berlin:20261203T210000
 DTEND;TZID=Europe/Berlin:20261204T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:4-abonnementkonzert-20261203-2000@ifg-plattform.de
 DESCRIPTION:Kolja Blacher: Violine &amp\; Leitung\n\nSein Name steht für 
  höchste Qualität. Als Violinist\, Pädagoge und Konzertmeister der Berli
@@ -2349,7 +2298,7 @@ BEGIN:VEVENT
 SUMMARY:Discu:theque mit Captain Yossarian
 DTSTART;TZID=Europe/Berlin:20261203T210000
 DTEND;TZID=Europe/Berlin:20261204T005900
-DTSTAMP:20261117T230013Z
+DTSTAMP:20261118T230010Z
 UID:discu-theque-mit-captain-yossarian-20261203-2000@ifg-plattform.de
 DESCRIPTION:Am 3. Dezember geht Discu:theque in die nächste Runde – die
  smal erstmals im ELFI creative space. Zu Gast ist Manuel da Coll alias Cap
@@ -2382,7 +2331,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 04.12.2026
 DTSTART;TZID=Europe/Berlin:20261204T110000
 DTEND;TZID=Europe/Berlin:20261204T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-04-12-2026-20261204-1000@ifg-plat
  tform.de
 DESCRIPTION:Freitag\, 04.12.2026\n\n\nÖffnungszeiten: 10:00 - 21:00 Uhr\n
@@ -2403,7 +2352,7 @@ BEGIN:VEVENT
 SUMMARY:Stadtkantine
 DTSTART;TZID=Europe/Berlin:20261204T190000
 DTEND;TZID=Europe/Berlin:20261205T005900
-DTSTAMP:20261117T230013Z
+DTSTAMP:20261118T230010Z
 UID:stadtkantine-20261204-1800@ifg-plattform.de
 DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
   Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
@@ -2423,7 +2372,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261204T190000
 DTEND;TZID=Europe/Berlin:20261204T193000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-immersive-lichtshow-20261204-1800@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 17:45\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -2448,7 +2397,7 @@ BEGIN:VEVENT
 SUMMARY:Chris Boettcher
 DTSTART;TZID=Europe/Berlin:20261204T210000
 DTEND;TZID=Europe/Berlin:20261205T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:chris-boettcher-20261204-2000@ifg-plattform.de
 DESCRIPTION:Baby Boomer\n\nEinlass: 19:00\n\nSie hatten ein tolles Leben\,
   sie wuchsen auf als es Deutschland am Besten ging. Ihre Welt war noch ros
@@ -2484,7 +2433,7 @@ BEGIN:VEVENT
 SUMMARY:Auslöschung. Ein Zerfall
 DTSTART;TZID=Europe/Berlin:20261204T210000
 DTEND;TZID=Europe/Berlin:20261205T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:ausl-schung-ein-zerfall-20261204-2000@ifg-plattform.de
 DESCRIPTION:von Thomas Bernhard • in einer Bearbeitung von Felix Metzner
   • nach einer Inszenierung am Staatstheater Darmstadt\n\n„Auslöschung
@@ -2515,7 +2464,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 05.12.2026
 DTSTART;TZID=Europe/Berlin:20261205T110000
 DTEND;TZID=Europe/Berlin:20261205T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-05-12-2026-20261205-1000@ifg-plat
  tform.de
 DESCRIPTION:Samstag\, 05.12.2026\n\n\nÖffnungszeiten: 10:00 - 21:00 Uhr\n
@@ -2537,28 +2486,31 @@ SUMMARY:Verkauf von Büchern (modernes und historisches Antiquariat)\, Zin
  nfiguren und mehr...
 DTSTART;TZID=Europe/Berlin:20261205T110000
 DTEND;TZID=Europe/Berlin:20261205T160000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:verkauf-von-b-chern-modernes-und-historisches-antiquariat-zinnfiguren-
  und-mehr-20261205-1000@ifg-plattform.de
-DESCRIPTION:Buchverkauf im Armeemuseum\n\nDas Armeemuseum lädt zu einem s
- peziellen Besuch in seinem Museumsshop im Neuen Schloss ein.\nAm 5. Dezemb
- er finden die Gäste des Hauses ein besonders umfangreiches Angebot an ant
- iquarischen Büchern zu äußerst günstigen Preisen vor. Es handelt sich 
- dabei um Dubletten aus unserer Bibliothek. Im Angebot sind aktuelle Büche
- r und Bildbände\, aber auch echte Raritäten und Sammlerstücke an histor
- ischer und militärischer Fachliteratur aus den letzten 200 Jahren. Auch m
- odernes Antiquariat\, Zinnfiguren und vieles mehr wird angeboten.\nDarübe
- r hinaus finden die Gäste auch Magnete\, Tassen\, Badeenten oder andere G
- eschenke. So lässt sich ein Besuch vielleicht mit dem Weihnachtseinkauf v
- erbinden\, denn viele Stücke eignen sich auch als Weihnachtsgeschenk.
+DESCRIPTION:Buchverkauf im Armeemuseum\n\nDas Armeemuseum lädt am 5. Deze
+ mber 2026 zu einem speziellen Besuch in seinem Museumsshop im Neuen Schlos
+ s ein. An diesem Tag finden die Gäste ein besonders umfangreiches Angebot
+  an antiquarischen Büchern zu äußerst günstigen Preisen vor. Es handel
+ t sich dabei um Dubletten aus unserer Bibliothek. \nEs sind aktuelle Büch
+ er und Bildbände im Angebot\, aber auch echte Raritäten und Sammlerstüc
+ ke an historischer und militärischer Fachliteratur aus den letzten 200 Ja
+ hren sind hier zu entdecken.\nEin besonderes Special bietet unsere Buchbin
+ derin und Restauratorin. Gerne können sie ihr beschädigtes Lieblingsbuch
+  mitbringen. Im Rahmen der kostenlosten Beratung gibt sie Auskunft zu mög
+ lichen erhaltenden Maßnahmen.\nNeben den Büchern gibt es auch aufgesucht
+ e Geschenkideen zu entdecken - für Familie\, Freunde oder für sich selbs
+ t. Eine große Auswahl an Zinnfiguren\, Bilder aus der Sonderausstellung S
+ tadtidentität und vieles mehr warten für sie.
 LOCATION:Bayerisches Armeemuseum\, Paradeplatz 4\, 85049 Ingolstadt
-X-SCORE:12
+X-SCORE:16
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teufelssteinfest - Black Metal Festival
 DTSTART;TZID=Europe/Berlin:20261205T160000
 DTEND;TZID=Europe/Berlin:20261206T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:teufelssteinfest-black-metal-festival-20261205-1500@ifg-plattform.de
 DESCRIPTION:Black und Death Metal Festival in der Fonte79 Ingolstadt\n\nEi
  nlass: 14:30\n\nAm Samstag\, den 05.12.2026\, findet zum zweiten Mal das T
@@ -2572,7 +2524,7 @@ BEGIN:VEVENT
 SUMMARY:Kuschelparty Ingolstadt Dezember
 DTSTART;TZID=Europe/Berlin:20261205T190000
 DTEND;TZID=Europe/Berlin:20261205T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:kuschelparty-ingolstadt-dezember-20261205-1800@ifg-plattform.de
 DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
@@ -2597,7 +2549,7 @@ BEGIN:VEVENT
 SUMMARY:SAUNANACHT WEIHNACHTSGESCHICHTEN
 DTSTART;TZID=Europe/Berlin:20261205T190000
 DTEND;TZID=Europe/Berlin:20261206T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:saunanacht-weihnachtsgeschichten-20261205-1800@ifg-plattform.de
 DESCRIPTION:Festliche Wohlfühlmomente\n\nEinlass: 10:00\n\nSpürt den Zau
  ber der Weihnacht\nWenn es draußen kalt und ungemütlich wird\, laden wir
@@ -2615,7 +2567,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS Live – Ihor Kordiuk
 DTSTART;TZID=Europe/Berlin:20261205T190000
 DTEND;TZID=Europe/Berlin:20261205T193000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-live-ihor-kordiuk-20261205-1800@ifg-plattform.de
 DESCRIPTION:Neoklassische Interpretation &amp\; zeitlose Meisterwerke\n\nE
  inlass: 17:45\n\nErleben Sie die 360-Grad-Lichtshow EXCELSIS in einer exkl
@@ -2642,7 +2594,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies
 DTSTART;TZID=Europe/Berlin:20261205T203000
 DTEND;TZID=Europe/Berlin:20261206T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:blue-skies-20261205-1930@ifg-plattform.de
 DESCRIPTION:basierend auf dem Roman „Blue Skies“ von T. Coraghessan Bo
  yle\n\nIn Kalifornien lässt die Hitze regelmäßig alles in Flammen auf g
@@ -2672,7 +2624,7 @@ BEGIN:VEVENT
 SUMMARY:90er &amp\; 2000er Megaparty
 DTSTART;TZID=Europe/Berlin:20261205T220000
 DTEND;TZID=Europe/Berlin:20261206T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:90er-amp-2000er-megaparty-20261205-2100@ifg-plattform.de
 DESCRIPTION:Deine Retroparty !\n\nEinlass: 21:00\n\nJippie! Die wohl beste
   Party der Stadt\, mit einer immer wechselnden Deko und immer neuen Eventi
@@ -2692,7 +2644,7 @@ BEGIN:VEVENT
 SUMMARY:WAREHOUSE RAVE INGOLSTADT
 DTSTART;TZID=Europe/Berlin:20261206T000000
 DTEND;TZID=Europe/Berlin:20261206T060000
-DTSTAMP:20261117T230013Z
+DTSTAMP:20261118T230011Z
 UID:warehouse-rave-ingolstadt-20261205-2300@ifg-plattform.de
 DESCRIPTION:Heat of Beat\n\nEinlass: 23:00\n\nINGOLSTADT\, MACHT EUCH BERE
  IT! \n\nAm 05.12.2026 verwandeln wir die Halle 9 direkt am Ingolstädter H
@@ -2712,7 +2664,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 06.12.2026
 DTSTART;TZID=Europe/Berlin:20261206T110000
 DTEND;TZID=Europe/Berlin:20261206T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-06-12-2026-20261206-1000@ifg-plat
  tform.de
 DESCRIPTION:Sonntag\, 06.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\n
@@ -2734,7 +2686,7 @@ BEGIN:VEVENT
 SUMMARY:Kostenlose Führung im Museum des Ersten Weltkriegs
 DTSTART;TZID=Europe/Berlin:20261206T150000
 DTEND;TZID=Europe/Berlin:20261206T170000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:kostenlose-f-hrung-im-museum-des-ersten-weltkriegs-20261206-1400@ifg-p
  lattform.de
 DESCRIPTION:Der Erste Weltkrieg - die Urkatastrophe des 20. Jahrhunderts\n
@@ -2756,7 +2708,7 @@ BEGIN:VEVENT
 SUMMARY:Audi Race Bar präsentiert: Formel 1® live
 DTSTART;TZID=Europe/Berlin:20261206T150000
 DTEND;TZID=Europe/Berlin:20261207T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:audi-race-bar-pr-sentiert-formel-1-live-20261206-1400@ifg-plattform.de
 DESCRIPTION:mit der Übertragung des Rennens aus Abu Dhabi\n\nEinlass: 12:
  30\n\nErlebt gemeinsam mit Familie\, Freunden und Kollegen live die Formel
@@ -2773,7 +2725,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies
 DTSTART;TZID=Europe/Berlin:20261206T150000
 DTEND;TZID=Europe/Berlin:20261207T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:blue-skies-20261206-1400@ifg-plattform.de
 DESCRIPTION:basierend auf dem Roman „Blue Skies“ von T. Coraghessan Bo
  yle\n\nIn Kalifornien lässt die Hitze regelmäßig alles in Flammen auf g
@@ -2803,7 +2755,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261206T170000
 DTEND;TZID=Europe/Berlin:20261206T173000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-immersive-lichtshow-20261206-1600@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 15:45\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -2828,7 +2780,7 @@ BEGIN:VEVENT
 SUMMARY:Das kleine Gespenst
 DTSTART;TZID=Europe/Berlin:20261206T173000
 DTEND;TZID=Europe/Berlin:20261207T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:das-kleine-gespenst-20261206-1630@ifg-plattform.de
 DESCRIPTION:von Otfried Preußler • ab 3 Jahren\n\nJede Nacht\, punktgen
  au zur Geisterstunde\, erwacht das kleine Gespenst. Fröhlich flitzt es du
@@ -2858,7 +2810,7 @@ BEGIN:VEVENT
 SUMMARY:Gemeinsam durch den Advent
 DTSTART;TZID=Europe/Berlin:20261206T180000
 DTEND;TZID=Europe/Berlin:20261207T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:gemeinsam-durch-den-advent-20261206-1700@ifg-plattform.de
 DESCRIPTION:Konzert in St. Markus\n\nAm 2. Advent\, Sonntag\, 6. Dezember 
  2026\, um 17 Uhr\, laden die musikalischen Gruppen von St. Markus wieder z
@@ -2893,7 +2845,7 @@ BEGIN:VEVENT
 SUMMARY:Lisa Feller
 DTSTART;TZID=Europe/Berlin:20261206T200000
 DTEND;TZID=Europe/Berlin:20261207T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:lisa-feller-20261206-1900@ifg-plattform.de
 DESCRIPTION:„Schön für dich!“\n\nEinlass: 18:00\n\nLisa Feller komm
  t am Sonntag\, den 06.12.2026 um 19:00 Uhr mit ihrem neuen Programm „Sch
@@ -2931,7 +2883,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 07.12.2026
 DTSTART;TZID=Europe/Berlin:20261207T110000
 DTEND;TZID=Europe/Berlin:20261207T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-07-12-2026-20261207-1000@ifg-plat
  tform.de
 DESCRIPTION:Montag\, 07.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\nD
@@ -2948,7 +2900,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 08.12.2026
 DTSTART;TZID=Europe/Berlin:20261208T110000
 DTEND;TZID=Europe/Berlin:20261208T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-08-12-2026-20261208-1000@ifg-plat
  tform.de
 DESCRIPTION:Dienstag\, 08.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\
@@ -2965,7 +2917,7 @@ BEGIN:VEVENT
 SUMMARY:T.Raum.Phase #06
 DTSTART;TZID=Europe/Berlin:20261208T210000
 DTEND;TZID=Europe/Berlin:20261208T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:t-raum-phase-06-20261208-2000@ifg-plattform.de
 DESCRIPTION:T.Raum.Phase #06 – Anëira: Die Stadt\, in der Träume abgeg
  eben werden\n\nEinlass: 19:00\n\nT.Raum.Phase #06 – Anëira: Die Stadt\,
@@ -2996,7 +2948,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 09.12.2026
 DTSTART;TZID=Europe/Berlin:20261209T110000
 DTEND;TZID=Europe/Berlin:20261209T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-09-12-2026-20261209-1000@ifg-plat
  tform.de
 DESCRIPTION:Mittwoch\, 09.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\
@@ -3013,7 +2965,7 @@ BEGIN:VEVENT
 SUMMARY:The BEST of Black Gospel
 DTSTART;TZID=Europe/Berlin:20261209T203000
 DTEND;TZID=Europe/Berlin:20261209T230000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:the-best-of-black-gospel-20261209-1930@ifg-plattform.de
 DESCRIPTION:Eine Auswahl der besten Gospelsänger der USA\n\nEinlass: 18:3
  0\n\nDie Gospelsensation "The BEST of Black Gospel" aus den USA kommt erne
@@ -3033,7 +2985,7 @@ BEGIN:VEVENT
 SUMMARY:Stadtkantine
 DTSTART;TZID=Europe/Berlin:20261210T110000
 DTEND;TZID=Europe/Berlin:20261211T005900
-DTSTAMP:20261117T230013Z
+DTSTAMP:20261118T230010Z
 UID:stadtkantine-20261210-1000@ifg-plattform.de
 DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
   Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
@@ -3053,7 +3005,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 10.12.2026
 DTSTART;TZID=Europe/Berlin:20261210T110000
 DTEND;TZID=Europe/Berlin:20261210T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-10-12-2026-20261210-1000@ifg-plat
  tform.de
 DESCRIPTION:Donnerstag\, 10.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uh
@@ -3073,7 +3025,7 @@ SUMMARY:Sonne\, Mond und Sterne. Die Reitgarnitur des Kurfürsten Maximili
  an I. von Bayern
 DTSTART;TZID=Europe/Berlin:20261210T190000
 DTEND;TZID=Europe/Berlin:20261210T200000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:sonne-mond-und-sterne-die-reitgarnitur-des-kurf-rsten-maximilian-i-von
  -bayern-20261210-1800@ifg-plattform.de
 DESCRIPTION:Kuratorenführung am Abend\n\nDie prunkvolle Reitgarnitur\, di
@@ -3092,7 +3044,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261210T190000
 DTEND;TZID=Europe/Berlin:20261210T193000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-immersive-lichtshow-20261210-1800@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 17:45\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -3114,10 +3066,32 @@ LOCATION:Münster Zur Schönen Unserer Lieben Frau\, Kreuzstraße 1\, 8504
 X-SCORE:19
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Farbe Form Freiheit – kreativ auf Leinwand
+DTSTART;TZID=Europe/Berlin:20261210T190000
+DTEND;TZID=Europe/Berlin:20261210T220000
+DTSTAMP:20261118T230014Z
+UID:farbe-form-freiheit-kreativ-auf-leinwand-20261210-1800@ifg-plattform.d
+ e
+DESCRIPTION:Für Erwachsene · 3 Stunden · Material inklusive\n\nEinlass:
+  18:00\n\nEine Leinwand\, verschiedene Farben und Materialien: ganz viel R
+ aum für deine eigenen Ideen.\n\nAn diesem Abend gestaltest du dein indivi
+ duelles Kunstwerk auf Leinwand: zum Aufhängen\, Verschenken oder einfach 
+ zum Freuen.\n\nWir arbeiten mit Acrylfarben und entdecken unterschiedliche
+  Techniken und Materialien wie Ölpastelle\, Pastellkreiden und Strukturpa
+ sten.\n\nDu kannst eigene Ideen und Inspirationen mitbringen oder wir entw
+ ickeln gemeinsam ein Konzept. Wenn du möchtest\, unterstütze ich dich be
+ i der Farbwahl und zeige dir neue Techniken.\n\nDu hast noch nie gemalt? K
+ ein Problem! ich begleite dich Schritt für Schritt und helfe dir dabei\, 
+ deine Ideen umzusetzen. Ob abstrakt\, farbenfroh oder voller Strukturen - 
+ du entscheidest\, wie dein Bild aussehen soll.
+LOCATION:kun SCHT\, Pfarrgasse 2-4\, 85049 Ingolstadt
+X-SCORE:14
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:cultural.disaster LIVE im Griesmüller
 DTSTART;TZID=Europe/Berlin:20261210T200000
 DTEND;TZID=Europe/Berlin:20261210T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:cultural-disaster-live-im-griesm-ller-20261210-1900@ifg-plattform.de
 DESCRIPTION:Einlass: 16:00\n\nEs ist wieder Zeit für LIVE Musik in der Br
  auerei. Seid dabei wenn cultural.disaster live und unplugged für uns spie
@@ -3136,7 +3110,7 @@ BEGIN:VEVENT
 SUMMARY:cultural.disaster LIVE im Griesmüller (Kopie)
 DTSTART;TZID=Europe/Berlin:20261210T200000
 DTEND;TZID=Europe/Berlin:20261210T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:cultural-disaster-live-im-griesm-ller-kopie-20261210-1900@ifg-plattfor
  m.de
 DESCRIPTION:Einlass: 16:00\n\nEs ist wieder Zeit für LIVE Musik in der Br
@@ -3156,7 +3130,7 @@ BEGIN:VEVENT
 SUMMARY:Rad Gumbo &amp\; Günter Grünwald
 DTSTART;TZID=Europe/Berlin:20261210T210000
 DTEND;TZID=Europe/Berlin:20261211T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:rad-gumbo-amp-g-nter-gr-nwald-20261210-2000@ifg-plattform.de
 DESCRIPTION:Bayerisches Kabarett trifft Southern Blues\n\nEinlass: 19:00\n
  \nGünter Grünwald ist einer der ganz großen bayerischen Kabarettisten u
@@ -3183,7 +3157,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 11.12.2026
 DTSTART;TZID=Europe/Berlin:20261211T110000
 DTEND;TZID=Europe/Berlin:20261211T220000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-11-12-2026-20261211-1000@ifg-plat
  tform.de
 DESCRIPTION:Freitag\, 11.12.2026\n\n\nÖffnungszeiten: 10:00 - 21:00 Uhr\n
@@ -3203,7 +3177,7 @@ BEGIN:VEVENT
 SUMMARY:Stadtkantine
 DTSTART;TZID=Europe/Berlin:20261211T190000
 DTEND;TZID=Europe/Berlin:20261212T005900
-DTSTAMP:20261117T230013Z
+DTSTAMP:20261118T230010Z
 UID:stadtkantine-20261211-1800@ifg-plattform.de
 DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
   Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
@@ -3223,7 +3197,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261211T190000
 DTEND;TZID=Europe/Berlin:20261211T193000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-immersive-lichtshow-20261211-1800@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 17:45\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -3248,7 +3222,7 @@ BEGIN:VEVENT
 SUMMARY:Jan van Weyde
 DTSTART;TZID=Europe/Berlin:20261211T210000
 DTEND;TZID=Europe/Berlin:20261212T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:jan-van-weyde-20261211-2000@ifg-plattform.de
 DESCRIPTION:IMMER WEYDER...\n\nEinlass: 19:00\n\nAller guten Dinge sind Dr
  ei! Und daher heißt es ab März 2026:\n\nVorhang auf und Applaus für das
@@ -3275,7 +3249,7 @@ BEGIN:VEVENT
 SUMMARY:SWAP KONZERTREIHE: SUSI LOTTER QUINTETT
 DTSTART;TZID=Europe/Berlin:20261211T210000
 DTEND;TZID=Europe/Berlin:20261211T223000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:swap-konzertreihe-susi-lotter-quintett-20261211-2000@ifg-plattform.de
 DESCRIPTION:Einlass: 12:30\n\nDas Susi Lotter Quintett vereint fünf aufs
  trebende Musiker:innen und Freund:innen\, die sich an der Hochschule für
@@ -3303,7 +3277,7 @@ BEGIN:VEVENT
 SUMMARY:Eingeschneit
 DTSTART;TZID=Europe/Berlin:20261211T210000
 DTEND;TZID=Europe/Berlin:20261211T233000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:eingeschneit-20261211-2000@ifg-plattform.de
 DESCRIPTION:Komödie\n\nEinlass: 19:40\n\nExtreme Situationen erfordern ex
  treme Maßnahmen – nach diesem Motto handelt die quirlige Seniorin Judit
@@ -3342,7 +3316,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 12.12.2026
 DTSTART;TZID=Europe/Berlin:20261212T110000
 DTEND;TZID=Europe/Berlin:20261212T220000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-12-12-2026-20261212-1000@ifg-plat
  tform.de
 DESCRIPTION:Samstag\, 12.12.2026\n\n\nÖffnungszeiten: 10:00 - 21:00\nDie 
@@ -3360,10 +3334,34 @@ LOCATION:Theaterplatz\, Theaterplatz\, 85049 Ingolstadt
 X-SCORE:26
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Unsere Stadt. Unser Orchester
+DTSTART;TZID=Europe/Berlin:20261212T110000
+DTEND;TZID=Europe/Berlin:20261212T190000
+DTSTAMP:20261118T230009Z
+UID:unsere-stadt-unser-orchester-20261212-1000@ifg-plattform.de
+DESCRIPTION:Einlass: 09:45\n\nWie lange kann Musik erklingen\, wenn eine g
+ anze Stadt zusammenhält? Am 12. Dezember lädt die Kammerphilharmonie Ing
+ olstadt zu einem besonderen Spendenkonzert ein. Den Auftakt gestaltet das 
+ Orchester unter der Leitung von Ariel Zuckermann. Anschließend musizieren
+  aktuelle und ehemalige Orchestermitglieder in wechselnden Besetzungen –
+  solange Spenden eingehen\, längstens bis 18 Uhr.\nAlle Musikerinnen und 
+ Musiker treten ohne Gage auf. Der Eintritt ist frei\, ein Kommen und Gehen
+  jederzeit möglich. Mit den Spenden möchten wir die Zukunft unseres Orch
+ esters unterstützen. Kommen Sie vorbei und genießen Sie einen musikalisc
+ hen Adventssamstag!\nZum Abschluss wartet ein besonderes Highlight: Alle s
+ ind eingeladen\, gemeinsam mit dem Orchester um 17:15 Uhr Weihnachtslieder
+  zu singen oder selbst zum Instrument zu greifen und mitzuspielen. Die Not
+ en zu den Stücken werden vorab auf der Website der Kammerphilharmonie ber
+ eitgestellt. Wer mitmusizieren möchte\, kann also gerne sein Instrument m
+ itbringen!
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:26
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Brauereiführung
 DTSTART;TZID=Europe/Berlin:20261212T160000
 DTEND;TZID=Europe/Berlin:20261212T180000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:brauereif-hrung-20261212-1500@ifg-plattform.de
 DESCRIPTION:Einlass: 10:00\n\nBei unseren regelmäßigen Brauereiführunge
  n führen wir dich ein in die Biergeschichte der Stadt und unserer Brauere
@@ -3382,7 +3380,7 @@ BEGIN:VEVENT
 SUMMARY:Das Abschiedsdinner
 DTSTART;TZID=Europe/Berlin:20261212T180000
 DTEND;TZID=Europe/Berlin:20261213T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:das-abschiedsdinner-20261212-1700@ifg-plattform.de
 DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
  e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
@@ -3410,7 +3408,7 @@ BEGIN:VEVENT
 SUMMARY:THERMENKONZERT MIT SOULSISTER
 DTSTART;TZID=Europe/Berlin:20261212T190000
 DTEND;TZID=Europe/Berlin:20261212T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:thermenkonzert-mit-soulsister-20261212-1800@ifg-plattform.de
 DESCRIPTION:Musik für die Seele\n\nEinlass: 10:00\n\nMit geballter Frauen
  power läuten wir das Jahresende ein. Während draußen der Winter Einzug 
@@ -3426,7 +3424,7 @@ BEGIN:VEVENT
 SUMMARY:Catello Zaubermenü in der Präsidentensuite des Maritim Hotels
 DTSTART;TZID=Europe/Berlin:20261212T193000
 DTEND;TZID=Europe/Berlin:20261213T000000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:catello-zaubermen-in-der-pr-sidentensuite-des-maritim-hotels-20261212-
  1830@ifg-plattform.de
 DESCRIPTION:Menü und Zaubershow als exklusives Event\n\nEinlass: 18:15\n\
@@ -3448,7 +3446,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 13.12.2026
 DTSTART;TZID=Europe/Berlin:20261213T110000
 DTEND;TZID=Europe/Berlin:20261213T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-13-12-2026-20261213-1000@ifg-plat
  tform.de
 DESCRIPTION:Sonntag\, 13.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\n
@@ -3470,7 +3468,7 @@ BEGIN:VEVENT
 SUMMARY:Der Bär\, der nicht da war
 DTSTART;TZID=Europe/Berlin:20261213T160000
 DTEND;TZID=Europe/Berlin:20261214T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:der-b-r-der-nicht-da-war-20261213-1500@ifg-plattform.de
 DESCRIPTION:Nach dem Bilderbuch von Oren Lavie und Wolf Erlbruch Deutsch v
  on Harry Rowohlt • Ab 5 Jahren\n\nEs war einmal ein Juckreiz. Je mehr er
@@ -3496,7 +3494,7 @@ BEGIN:VEVENT
 SUMMARY:Öffentliche Führung
 DTSTART;TZID=Europe/Berlin:20261213T160000
 DTEND;TZID=Europe/Berlin:20261213T170000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:ffentliche-f-hrung-20261213-1500@ifg-plattform.de
 DESCRIPTION:Einlass: 14:45\n\nDer Umbau der sogenannten Gießereihalle zur
   neuen Heimstätte des Museums für Konkrete Kunst und Design (MKKD) nach 
@@ -3517,7 +3515,7 @@ BEGIN:VEVENT
 SUMMARY:European Outdoor Film Tour 26I27 - EOFT
 DTSTART;TZID=Europe/Berlin:20261213T190000
 DTEND;TZID=Europe/Berlin:20261213T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:european-outdoor-film-tour-26i27-eoft-20261213-1800@ifg-plattform.de
 DESCRIPTION:Ein Abend mit den besten Abenteuerfilmen\n\nEinlass: 17:30\n\n
  Outdoor- und Abenteuerfilme gemeinsam erleben: Seit 25 Jahren ist die Euro
@@ -3537,7 +3535,7 @@ BEGIN:VEVENT
 SUMMARY:Wer dablost´s
 DTSTART;TZID=Europe/Berlin:20261213T210000
 DTEND;TZID=Europe/Berlin:20261214T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:wer-dablost-s-20261213-2000@ifg-plattform.de
 DESCRIPTION:Der barfüßige Tuba-Professor Andreas M. Hofmeir lädt promin
  ente Gäste aus Kabarett\, Musik\, Kleinkunst oder öffentlichem Leben in 
@@ -3553,7 +3551,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 14.12.2026
 DTSTART;TZID=Europe/Berlin:20261214T110000
 DTEND;TZID=Europe/Berlin:20261214T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-14-12-2026-20261214-1000@ifg-plat
  tform.de
 DESCRIPTION:Montag\, 14.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\nD
@@ -3571,7 +3569,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 15.12.2026
 DTSTART;TZID=Europe/Berlin:20261215T110000
 DTEND;TZID=Europe/Berlin:20261215T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-15-12-2026-20261215-1000@ifg-plat
  tform.de
 DESCRIPTION:Dienstag\, 15.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\
@@ -3588,7 +3586,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 16.12 2026
 DTSTART;TZID=Europe/Berlin:20261216T110000
 DTEND;TZID=Europe/Berlin:20261216T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-16-12-2026-20261216-1000@ifg-plat
  tform.de
 DESCRIPTION:Mittwoch\, 16.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\
@@ -3605,7 +3603,7 @@ BEGIN:VEVENT
 SUMMARY:5 KI-Tools für Ihren Alltag
 DTSTART;TZID=Europe/Berlin:20261216T180000
 DTEND;TZID=Europe/Berlin:20261216T193000
-DTSTAMP:20261117T230015Z
+DTSTAMP:20261118T230013Z
 UID:5-ki-tools-f-r-ihren-alltag-20261216-1700@ifg-plattform.de
 DESCRIPTION:Die Schulung „5 KI-Tools für Ihren Alltag“ zeigt Ihnen di
  e aktuellsten Tools\, die sowohl Ihren privaten als auch Ihren beruflichen
@@ -3641,7 +3639,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 17.12.2026
 DTSTART;TZID=Europe/Berlin:20261217T110000
 DTEND;TZID=Europe/Berlin:20261217T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-17-12-2026-20261217-1000@ifg-plat
  tform.de
 DESCRIPTION:Donnerstag\, 17.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uh
@@ -3664,7 +3662,7 @@ BEGIN:VEVENT
 SUMMARY:Stephan Bauer
 DTSTART;TZID=Europe/Berlin:20261217T210000
 DTEND;TZID=Europe/Berlin:20261218T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:stephan-bauer-20261217-2000@ifg-plattform.de
 DESCRIPTION:Weihnachten fällt aus! Josef gesteht alles!\n\nEinlass: 19:00
  \n\nKabarett und Comedy auf höchstem Niveau Alle Jahre wieder kommt das C
@@ -3693,7 +3691,7 @@ BEGIN:VEVENT
 SUMMARY:145. JAM Session der Jazzfreunde Ingolstadt e. V.
 DTSTART;TZID=Europe/Berlin:20261217T210000
 DTEND;TZID=Europe/Berlin:20261218T000000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:145-jam-session-der-jazzfreunde-ingolstadt-e-v-20261217-2000@ifg-platt
  form.de
 DESCRIPTION:Eintritt frei\n\nEinlass: 19:00\n\nDie Jazzfreunde Ingolstadt 
@@ -3740,7 +3738,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 18.12.2026
 DTSTART;TZID=Europe/Berlin:20261218T110000
 DTEND;TZID=Europe/Berlin:20261218T220000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-18-12-2026-20261218-1000@ifg-plat
  tform.de
 DESCRIPTION:Freitag\, 18.12.2026\n\n\nÖffnungszeiten: 10:00 - 21:00 Uhr\n
@@ -3760,7 +3758,7 @@ BEGIN:VEVENT
 SUMMARY:Ingolstädter Weihnachtscircus
 DTSTART;TZID=Europe/Berlin:20261218T150000
 DTEND;TZID=Europe/Berlin:20261218T183000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:ingolst-dter-weihnachtscircus-20261218-1500@ifg-plattform.de
 RRULE:FREQ=DAILY;UNTIL=20270110T225959Z;INTERVAL=1
 DESCRIPTION:Das Weihnachts-Highlight für die ganze Familie\n\nEinlass: 14
@@ -3776,7 +3774,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261218T190000
 DTEND;TZID=Europe/Berlin:20261218T193000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-immersive-lichtshow-20261218-1800@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 17:45\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -3801,7 +3799,7 @@ BEGIN:VEVENT
 SUMMARY:Nachts im Stadtmuseum
 DTSTART;TZID=Europe/Berlin:20261218T200000
 DTEND;TZID=Europe/Berlin:20261218T211500
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:nachts-im-stadtmuseum-20261218-1900@ifg-plattform.de
 DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
@@ -3835,7 +3833,7 @@ BEGIN:VEVENT
 SUMMARY:WIR4
 DTSTART;TZID=Europe/Berlin:20261218T210000
 DTEND;TZID=Europe/Berlin:20261219T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:wir4-20261218-2000@ifg-plattform.de
 DESCRIPTION:Die Original Austria 3 Band auf Jubiläumstour\n\nEinlass: 19:
  00\n\nHarry Stampfer - Harald Fendrich - Ulli Bäer - Gary Lux  \n\nDas Be
@@ -3869,7 +3867,7 @@ BEGIN:VEVENT
 SUMMARY:Nachts im Stadtmuseum
 DTSTART;TZID=Europe/Berlin:20261218T213000
 DTEND;TZID=Europe/Berlin:20261218T224500
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:nachts-im-stadtmuseum-20261218-2030@ifg-plattform.de
 DESCRIPTION:Wenn im Stadtmuseum abends die Lichter ausgehen\, wird Lokalge
  schichte lebendig. Im Schein der Taschenlampe können die Besucher dann ei
@@ -3903,7 +3901,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 19.12.2026
 DTSTART;TZID=Europe/Berlin:20261219T110000
 DTEND;TZID=Europe/Berlin:20261219T220000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-19-12-2026-20261219-1000@ifg-plat
  tform.de
 DESCRIPTION:Samstag\, 19.12.2026\n\n\nÖffnungszeiten: 10:00 - 21:00 Uhr\n
@@ -3924,7 +3922,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Classic Ballet - der Nussknacker
 DTSTART;TZID=Europe/Berlin:20261219T160000
 DTEND;TZID=Europe/Berlin:20261219T180000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:grand-classic-ballet-der-nussknacker-20261219-1500@ifg-plattform.de
 DESCRIPTION:die traditionelle Wintertournee\n\nEinlass: 14:00\n\nErleben S
  ie zur schönsten Zeit des Jahres die Magie des klassischen Balletts: Das 
@@ -3951,7 +3949,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS Live – David Kirschsieper
 DTSTART;TZID=Europe/Berlin:20261219T190000
 DTEND;TZID=Europe/Berlin:20261219T193000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-live-david-kirschsieper-20261219-1800@ifg-plattform.de
 DESCRIPTION:Lichtkunst trifft monumentale Orgel-Improvisation\n\nEinlass: 
  17:45\n\nErleben Sie die 360-Grad-Lichtshow EXCELSIS in einer exklusiven S
@@ -3970,7 +3968,7 @@ BEGIN:VEVENT
 SUMMARY:Tod eines Handlungsreisenden
 DTSTART;TZID=Europe/Berlin:20261219T203000
 DTEND;TZID=Europe/Berlin:20261220T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:tod-eines-handlungsreisenden-20261219-1930@ifg-plattform.de
 DESCRIPTION:von Arthur Miller Deutsch • von Volker Schlöndorff und Flor
  ian Hopf\n\nÜber 30 Jahre lang hat Willy Loman als Handelsvertreter die S
@@ -4000,7 +3998,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Classic Ballet - Schwanensee
 DTSTART;TZID=Europe/Berlin:20261219T210000
 DTEND;TZID=Europe/Berlin:20261219T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:grand-classic-ballet-schwanensee-20261219-2000@ifg-plattform.de
 DESCRIPTION:die traditionelle Wintertournee\n\nEinlass: 19:00\n\nEin Meist
  erwerk voller Anmut\, Leidenschaft und zeitloser Schönheit: Das Grand Cla
@@ -4030,7 +4028,7 @@ BEGIN:VEVENT
 SUMMARY:A Tribute to Lemmy feat. The Hellraizörs
 DTSTART;TZID=Europe/Berlin:20261219T210000
 DTEND;TZID=Europe/Berlin:20261220T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:a-tribute-to-lemmy-feat-the-hellraiz-rs-20261219-2000@ifg-plattform.de
 DESCRIPTION:+ Why Horse Why &amp\; Juli and the Fuzzy Bears\n\nEinlass: 19
  :00\n\nDer Lemmy-Kilmister-Tribute 2026 - das R&amp\;R event der Region zw
@@ -4046,7 +4044,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 20.12.2026
 DTSTART;TZID=Europe/Berlin:20261220T110000
 DTEND;TZID=Europe/Berlin:20261220T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-20-12-2026-20261220-1000@ifg-plat
  tform.de
 DESCRIPTION:Sonntag\, 20.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\n
@@ -4067,7 +4065,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Classic Ballet - der Nussknacker
 DTSTART;TZID=Europe/Berlin:20261220T150000
 DTEND;TZID=Europe/Berlin:20261220T170000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:grand-classic-ballet-der-nussknacker-20261220-1400@ifg-plattform.de
 DESCRIPTION:die traditionelle Wintertournee\n\nEinlass: 13:00\n\nErleben S
  ie zur schönsten Zeit des Jahres die Magie des klassischen Balletts: Das 
@@ -4094,7 +4092,7 @@ BEGIN:VEVENT
 SUMMARY:EXCELSIS  | Immersive Lichtshow
 DTSTART;TZID=Europe/Berlin:20261220T170000
 DTEND;TZID=Europe/Berlin:20261220T173000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:excelsis-immersive-lichtshow-20261220-1600@ifg-plattform.de
 DESCRIPTION:Das Winter-Highlight in Ingolstadt\n\nEinlass: 15:45\n\nEXCELS
  IS – Eine Reise durch Licht und Klang\n\nGotische Architektur trifft auf
@@ -4119,7 +4117,7 @@ BEGIN:VEVENT
 SUMMARY:LAUDATE DOMINUM - MATTHÄUS KLINGT
 DTSTART;TZID=Europe/Berlin:20261220T180000
 DTEND;TZID=Europe/Berlin:20261220T190000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:laudate-dominum-matth-us-klingt-20261220-1700@ifg-plattform.de
 DESCRIPTION:Georg Philipp Telemann:  Kantate „Machet die Tore weit“  T
  VWV 1 :1074\n\nEinlass: 16:00\n\nTelemanns festliche Adventskantate entfal
@@ -4135,7 +4133,7 @@ BEGIN:VEVENT
 SUMMARY:Grand Classic Ballet - Schwanensee
 DTSTART;TZID=Europe/Berlin:20261220T190000
 DTEND;TZID=Europe/Berlin:20261220T210000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:grand-classic-ballet-schwanensee-20261220-1800@ifg-plattform.de
 DESCRIPTION:die traditionelle Wintertournee\n\nEinlass: 17:00\n\nEin Meist
  erwerk voller Anmut\, Leidenschaft und zeitloser Schönheit: Das Grand Cla
@@ -4165,7 +4163,7 @@ BEGIN:VEVENT
 SUMMARY:Django Asül
 DTSTART;TZID=Europe/Berlin:20261220T200000
 DTEND;TZID=Europe/Berlin:20261221T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:django-as-l-20261220-1900@ifg-plattform.de
 DESCRIPTION:Rückspiegel 2026\n\nEinlass: 18:00\n\nWer 2026 auf Langweile
   hoffte\, wurde schnell schwer enttäuscht. Und wer dachte\, dass es nach 
@@ -4194,7 +4192,7 @@ BEGIN:VEVENT
 SUMMARY:Tod eines Handlungsreisenden
 DTSTART;TZID=Europe/Berlin:20261220T200000
 DTEND;TZID=Europe/Berlin:20261221T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:tod-eines-handlungsreisenden-20261220-1900@ifg-plattform.de
 DESCRIPTION:von Arthur Miller Deutsch • von Volker Schlöndorff und Flor
  ian Hopf\n\nÜber 30 Jahre lang hat Willy Loman als Handelsvertreter die S
@@ -4224,7 +4222,7 @@ BEGIN:VEVENT
 SUMMARY:EISGALA powered by BÜCHL
 DTSTART;TZID=Europe/Berlin:20261220T200000
 DTEND;TZID=Europe/Berlin:20261221T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:eisgala-powered-by-b-chl-20261220-1900@ifg-plattform.de
 DESCRIPTION:Weltklasse Eiskunstlauf und Livemusik\n\nEinlass: 18:00\n\nAll
  e Info´s zur Veranstaltung finden Sie unter https://www.saturn-arena.de/e
@@ -4236,7 +4234,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 21.12.2026
 DTSTART;TZID=Europe/Berlin:20261221T110000
 DTEND;TZID=Europe/Berlin:20261221T210000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-21-12-2026-20261221-1000@ifg-plat
  tform.de
 DESCRIPTION:Montag\, 21.12.2026\n\n\nÖffnungszeiten: 10:00 - 20:00 Uhr\nD
@@ -4253,7 +4251,7 @@ BEGIN:VEVENT
 SUMMARY:Christkindlmarkt Ingolstadt - Programm 22.12.2026
 DTSTART;TZID=Europe/Berlin:20261222T110000
 DTEND;TZID=Europe/Berlin:20261222T220000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:christkindlmarkt-ingolstadt-programm-22-12-2026-20261222-1000@ifg-plat
  tform.de
 DESCRIPTION:Dienstag\, 22.12.2026\n\n\nÖffnungszeiten: 10:00 - 21:00 Uhr\
@@ -4267,7 +4265,7 @@ BEGIN:VEVENT
 SUMMARY:Romanberatung im Herzogskasten
 DTSTART;TZID=Europe/Berlin:20261222T150000
 DTEND;TZID=Europe/Berlin:20261222T190000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:romanberatung-im-herzogskasten-20261222-1400@ifg-plattform.de
 DESCRIPTION:Einlass: 10:00\n\nDie Stadtbücherei Ingolstadt erweitert ihr 
  Serviceangebot für Romanleserinnen und Romanleser: In der Romanetage der 
@@ -4295,7 +4293,7 @@ BEGIN:VEVENT
 SUMMARY:A Christma Carol
 DTSTART;TZID=Europe/Berlin:20261223T180000
 DTEND;TZID=Europe/Berlin:20261224T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:a-christma-carol-20261223-1700@ifg-plattform.de
 DESCRIPTION:nach Charles Dickens in leicht verständlicher englischer Spra
  che\n\nDas Warten aufs Christkind wird in Ingolstadt traditionellerweise v
@@ -4316,7 +4314,7 @@ SUMMARY:Winterzauber: Ballett-Geschichten im Kerzenschein mit live Kammero
  rchester
 DTSTART;TZID=Europe/Berlin:20261223T200000
 DTEND;TZID=Europe/Berlin:20261223T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:winterzauber-ballett-geschichten-im-kerzenschein-mit-live-kammerorches
  ter-20261223-1900@ifg-plattform.de
 DESCRIPTION:Winterzauber\, der nur einmal im Jahr erlebbar ist\n\nEinlass:
@@ -4370,7 +4368,7 @@ BEGIN:VEVENT
 SUMMARY:Heiligabend in Gemeinschaft feiern
 DTSTART;TZID=Europe/Berlin:20261224T173000
 DTEND;TZID=Europe/Berlin:20261224T213000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:heiligabend-in-gemeinschaft-feiern-20261224-1630@ifg-plattform.de
 DESCRIPTION:Es ist ein großartiges ökumenisches Projekt\, das heuer bere
  its zum dritten Mal in der "Halle Neun" stattfinden wird: "Heiligabend in 
@@ -4405,7 +4403,7 @@ BEGIN:VEVENT
 SUMMARY:Größte Singleparty der Region
 DTSTART;TZID=Europe/Berlin:20261225T220000
 DTEND;TZID=Europe/Berlin:20261226T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:gr-te-singleparty-der-region-20261225-2100@ifg-plattform.de
 DESCRIPTION:Herbst/Winter 2026\n\nEinlass: 21:00\n\nEs ist wieder soweit: 
  Die größte SINGLE PARTY der Region macht Station in Ingolstadt\, am 1. W
@@ -4429,7 +4427,7 @@ BEGIN:VEVENT
 SUMMARY:BACH TOTAL (2)
 DTSTART;TZID=Europe/Berlin:20261226T190000
 DTEND;TZID=Europe/Berlin:20261226T200000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:bach-total-2-20261226-1800@ifg-plattform.de
 DESCRIPTION:Das gesamte Orgelwerk Johann Sebastian  Bachs in 16 Konzerten 
  (02/16)\n\nEinlass: 17:00\n\nOliver Scheffels interpretiert in 16 Konzerte
@@ -4443,7 +4441,7 @@ BEGIN:VEVENT
 SUMMARY:Kuschelparty Ingolstadt Weihnachten
 DTSTART;TZID=Europe/Berlin:20261226T190000
 DTEND;TZID=Europe/Berlin:20261226T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:kuschelparty-ingolstadt-weihnachten-20261226-1800@ifg-plattform.de
 DESCRIPTION:Geborgenheit\, Wärme\, Begegnung\, Nähe spüren\, Grenzen ac
  hten\, Vertrauen\, Entspannung\, Regeneration - ein Ort für dich.\n\nEinl
@@ -4468,7 +4466,7 @@ BEGIN:VEVENT
 SUMMARY:Catello Zaubermenü in der Präsidentensuite des Maritim Hotels
 DTSTART;TZID=Europe/Berlin:20261227T193000
 DTEND;TZID=Europe/Berlin:20261228T000000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:catello-zaubermen-in-der-pr-sidentensuite-des-maritim-hotels-20261227-
  1830@ifg-plattform.de
 DESCRIPTION:Menü und Zaubershow als exklusives Event\n\nEinlass: 18:15\n\
@@ -4490,7 +4488,7 @@ BEGIN:VEVENT
 SUMMARY:Das kleine Gespenst
 DTSTART;TZID=Europe/Berlin:20261228T160000
 DTEND;TZID=Europe/Berlin:20261229T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:das-kleine-gespenst-20261228-1500@ifg-plattform.de
 DESCRIPTION:von Otfried Preußler • ab 3 Jahren\n\nJede Nacht\, punktgen
  au zur Geisterstunde\, erwacht das kleine Gespenst. Fröhlich flitzt es du
@@ -4520,7 +4518,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies
 DTSTART;TZID=Europe/Berlin:20261229T203000
 DTEND;TZID=Europe/Berlin:20261230T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:blue-skies-20261229-1930@ifg-plattform.de
 DESCRIPTION:basierend auf dem Roman „Blue Skies“ von T. Coraghessan Bo
  yle\n\nIn Kalifornien lässt die Hitze regelmäßig alles in Flammen auf g
@@ -4550,7 +4548,7 @@ BEGIN:VEVENT
 SUMMARY:Blue Skies
 DTSTART;TZID=Europe/Berlin:20261230T203000
 DTEND;TZID=Europe/Berlin:20261231T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:blue-skies-20261230-1930@ifg-plattform.de
 DESCRIPTION:basierend auf dem Roman „Blue Skies“ von T. Coraghessan Bo
  yle\n\nIn Kalifornien lässt die Hitze regelmäßig alles in Flammen auf g
@@ -4580,7 +4578,7 @@ BEGIN:VEVENT
 SUMMARY:Silvesterkonzert der Berliner Philharmoniker live im Kino
 DTSTART;TZID=Europe/Berlin:20261231T180000
 DTEND;TZID=Europe/Berlin:20261231T200000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:silvesterkonzert-der-berliner-philharmoniker-live-im-kino-20261231-170
  0@ifg-plattform.de
 DESCRIPTION:Silvesterkonzert der Berliner Philharmoniker live im Kino: ein
@@ -4607,10 +4605,30 @@ LOCATION:Linden Lichtspiele Ilmenau\, Lindenstraße 20\, 98693 Ilmenau
 X-SCORE:30
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Silvester. Exklusiv.
+DTSTART;TZID=Europe/Berlin:20261231T193000
+DTEND;TZID=Europe/Berlin:20270101T005900
+DTSTAMP:20261118T230013Z
+UID:silvester-exklusiv-20261231-1830@ifg-plattform.de
+DESCRIPTION:Der perfekte kulinarische Abschluss für das Jahr 2026.\n\nErl
+ eben Sie unser einzigartiges 7-Gänge-Menü mit Eleganz\, Texturspiel und 
+ kreativer Kompositionen.\n\nFingerfood\nRindertatar | Kaviar | Ei\nAuster 
+ | Gurke | Ponzu\nGruyère | Trüffel | Traube\n***\nSchwertfisch\nButtermi
+ lch | Sellerie | Micro Leaf Mix | Apfel\n***\nKaisergranat\nMioga | Wasabi
+  | Mango-Passionsfrucht-Gel\n***\nErfrischung\nLimette | Basilikum\n***\nW
+ agyu Strip Loin\nZwiebel | Schmorsauce | Petersilienwurzel\n***\nWeiße Sc
+ hokolade\nYuzu | Mandel | Mandarine\n***\nZum Ausklang\nPetit Fours\n\nPre
+ is pro Person 149€\n\nReservierung unter 0841 8941071 oder https://march
+ e-restaurants.de/standort/avus-ingolstadt/
+LOCATION:Restaurant AVUS / Audi Forum Ingolstadt\, Auto-Union-Straße 1\, 
+ 85057 Ingolstadt
+X-SCORE:24
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Das Abschiedsdinner
 DTSTART;TZID=Europe/Berlin:20261231T200000
 DTEND;TZID=Europe/Berlin:20270101T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:das-abschiedsdinner-20261231-1900@ifg-plattform.de
 DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
  e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
@@ -4638,7 +4656,7 @@ BEGIN:VEVENT
 SUMMARY:Traumfabrik: KALEIDOSKOPIA Tour
 DTSTART;TZID=Europe/Berlin:20270102T170000
 DTEND;TZID=Europe/Berlin:20270102T191500
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:traumfabrik-kaleidoskopia-tour-20270102-1600@ifg-plattform.de
 DESCRIPTION:Traumfabrik – das Showtheater der Phantasie: KALEIDOSKOPIA T
  our Dez 2026 – Feb 2027\n\nDie neue Show der Traumfabrik erschafft ein w
@@ -4669,7 +4687,7 @@ BEGIN:VEVENT
 SUMMARY:Das Abschiedsdinner
 DTSTART;TZID=Europe/Berlin:20270102T203000
 DTEND;TZID=Europe/Berlin:20270103T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:das-abschiedsdinner-20270102-1930@ifg-plattform.de
 DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
  e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
@@ -4697,7 +4715,7 @@ BEGIN:VEVENT
 SUMMARY:Das Abschiedsdinner
 DTSTART;TZID=Europe/Berlin:20270103T150000
 DTEND;TZID=Europe/Berlin:20270104T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:das-abschiedsdinner-20270103-1400@ifg-plattform.de
 DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
  e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
@@ -4725,7 +4743,7 @@ BEGIN:VEVENT
 SUMMARY:Das Abschiedsdinner
 DTSTART;TZID=Europe/Berlin:20270104T203000
 DTEND;TZID=Europe/Berlin:20270105T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:das-abschiedsdinner-20270104-1930@ifg-plattform.de
 DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
  e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
@@ -4753,7 +4771,7 @@ BEGIN:VEVENT
 SUMMARY:Mamma Mia Party
 DTSTART;TZID=Europe/Berlin:20270105T210000
 DTEND;TZID=Europe/Berlin:20270106T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:mamma-mia-party-20270105-2000@ifg-plattform.de
 DESCRIPTION:Das Musical als Party\n\nEinlass: 20:00\n\nTauche ein in eine 
  unvergessliche Reise\, wenn die Mamma Mia Party auf ihrer großen Deutschl
@@ -4782,7 +4800,7 @@ BEGIN:VEVENT
 SUMMARY:Tod eines Handlungsreisenden
 DTSTART;TZID=Europe/Berlin:20270107T203000
 DTEND;TZID=Europe/Berlin:20270108T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:tod-eines-handlungsreisenden-20270107-1930@ifg-plattform.de
 DESCRIPTION:von Arthur Miller Deutsch • von Volker Schlöndorff und Flor
  ian Hopf\n\nÜber 30 Jahre lang hat Willy Loman als Handelsvertreter die S
@@ -4812,7 +4830,7 @@ BEGIN:VEVENT
 SUMMARY:Der Tiefseefisch
 DTSTART;TZID=Europe/Berlin:20270108T210000
 DTEND;TZID=Europe/Berlin:20270109T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:der-tiefseefisch-20270108-2000@ifg-plattform.de
 DESCRIPTION:von Marieluise Fleißer\n\nDie Schriftstellerin Gesine lebt mi
  t dem Publizisten Laurenz in einer Beziehung\, durch die sich das zwischen
@@ -4844,7 +4862,7 @@ BEGIN:VEVENT
 SUMMARY:Eröffnungsball
 DTSTART;TZID=Europe/Berlin:20270109T200000
 DTEND;TZID=Europe/Berlin:20270110T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:er-ffnungsball-20270109-1900@ifg-plattform.de
 DESCRIPTION:zur Faschings-Saison 2027 der VFG Gerolfing\n\nEinlass: 18:00\
  n\nLivemusik mit der Partyband Dissplay
@@ -4855,7 +4873,7 @@ BEGIN:VEVENT
 SUMMARY:Tod eines Handlungsreisenden
 DTSTART;TZID=Europe/Berlin:20270109T203000
 DTEND;TZID=Europe/Berlin:20270110T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:tod-eines-handlungsreisenden-20270109-1930@ifg-plattform.de
 DESCRIPTION:von Arthur Miller Deutsch • von Volker Schlöndorff und Flor
  ian Hopf\n\nÜber 30 Jahre lang hat Willy Loman als Handelsvertreter die S
@@ -4885,7 +4903,7 @@ BEGIN:VEVENT
 SUMMARY:Krönungsball - Save the Date
 DTSTART;TZID=Europe/Berlin:20270109T210000
 DTEND;TZID=Europe/Berlin:20270110T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:kr-nungsball-save-the-date-20270109-2000@ifg-plattform.de
 DESCRIPTION:Save the Date (Verkaufsstart mitte November)\n\nLetzter Narrwa
  lla Krönungsball im Stadttheater
@@ -4896,7 +4914,7 @@ BEGIN:VEVENT
 SUMMARY:Family Magic Show mit Sven Catello
 DTSTART;TZID=Europe/Berlin:20270110T120000
 DTEND;TZID=Europe/Berlin:20270110T130000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:family-magic-show-mit-sven-catello-20270110-1100@ifg-plattform.de
 DESCRIPTION:Eine Veranstaltung für die ganze Familie\n\nEinlass: 10:45\n\
  nFamily Magic Show - \nSven Catello lädt zur Zaubershow.\n\nEingeladen si
@@ -4925,7 +4943,7 @@ BEGIN:VEVENT
 SUMMARY:Family Magic Show mit Sven Catello
 DTSTART;TZID=Europe/Berlin:20270110T150000
 DTEND;TZID=Europe/Berlin:20270110T160000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:family-magic-show-mit-sven-catello-20270110-1400@ifg-plattform.de
 DESCRIPTION:Eine Veranstaltung für die ganze Familie\n\nEinlass: 13:45\n\
  nFamily Magic Show - \nSven Catello lädt zur Zaubershow.\n\nEingeladen si
@@ -4954,7 +4972,7 @@ BEGIN:VEVENT
 SUMMARY:Family Magic Show mit Sven Catello
 DTSTART;TZID=Europe/Berlin:20270110T170000
 DTEND;TZID=Europe/Berlin:20270110T180000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:family-magic-show-mit-sven-catello-20270110-1600@ifg-plattform.de
 DESCRIPTION:Eine Veranstaltung für die ganze Familie\n\nEinlass: 15:45\n\
  nFamily Magic Show - \nSven Catello lädt zur Zaubershow.\n\nEingeladen si
@@ -4983,7 +5001,7 @@ BEGIN:VEVENT
 SUMMARY:Best of Musicals
 DTSTART;TZID=Europe/Berlin:20270110T200000
 DTEND;TZID=Europe/Berlin:20270110T223000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:best-of-musicals-20270110-1900@ifg-plattform.de
 DESCRIPTION:DAS ORIGINAL\, IMMER WIEDER NEU!\n\nEinlass: 18:00\n\nINGOLSTA
  DT DARF SICH FREUEN: Am Sonntag\, den 10. Januar 2027\, wird das Stadtthea
@@ -5013,7 +5031,7 @@ BEGIN:VEVENT
 SUMMARY:Tod eines Handlungsreisenden
 DTSTART;TZID=Europe/Berlin:20270110T200000
 DTEND;TZID=Europe/Berlin:20270111T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:tod-eines-handlungsreisenden-20270110-1900@ifg-plattform.de
 DESCRIPTION:von Arthur Miller Deutsch • von Volker Schlöndorff und Flor
  ian Hopf\n\nÜber 30 Jahre lang hat Willy Loman als Handelsvertreter die S
@@ -5043,7 +5061,7 @@ BEGIN:VEVENT
 SUMMARY:Der Tiefseefisch
 DTSTART;TZID=Europe/Berlin:20270110T210000
 DTEND;TZID=Europe/Berlin:20270111T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:der-tiefseefisch-20270110-2000@ifg-plattform.de
 DESCRIPTION:von Marieluise Fleißer\n\nDie Schriftstellerin Gesine lebt mi
  t dem Publizisten Laurenz in einer Beziehung\, durch die sich das zwischen
@@ -5075,7 +5093,7 @@ BEGIN:VEVENT
 SUMMARY:Der Tiefseefisch
 DTSTART;TZID=Europe/Berlin:20270111T210000
 DTEND;TZID=Europe/Berlin:20270112T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:der-tiefseefisch-20270111-2000@ifg-plattform.de
 DESCRIPTION:von Marieluise Fleißer\n\nDie Schriftstellerin Gesine lebt mi
  t dem Publizisten Laurenz in einer Beziehung\, durch die sich das zwischen
@@ -5107,7 +5125,7 @@ BEGIN:VEVENT
 SUMMARY:Impro ausprobieren – 5x eintauchen!
 DTSTART;TZID=Europe/Berlin:20270112T193000
 DTEND;TZID=Europe/Berlin:20270112T223000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:impro-ausprobieren-5x-eintauchen-20270112-1930@ifg-plattform.de
 RRULE:FREQ=WEEKLY;UNTIL=20270216T225959Z;INTERVAL=1;BYDAY=TU
 DESCRIPTION:Fünf Einheiten zum Kennenlernen des Improvisationstheaters: s
@@ -5122,7 +5140,7 @@ BEGIN:VEVENT
 SUMMARY:Les Nuits Barbares
 DTSTART;TZID=Europe/Berlin:20270112T210000
 DTEND;TZID=Europe/Berlin:20270112T233000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:les-nuits-barbares-20270112-2000@ifg-plattform.de
 DESCRIPTION:Ballet\n\nEinlass: 19:40\n\n„This is a story about a path\, 
  it's always about a path....“ (Hervé Koubi)\n\nFünf Jahre Leben zwisch
@@ -5143,7 +5161,7 @@ BEGIN:VEVENT
 SUMMARY:5. Abonnementkonzert
 DTSTART;TZID=Europe/Berlin:20270114T210000
 DTEND;TZID=Europe/Berlin:20270115T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:5-abonnementkonzert-20270114-2000@ifg-plattform.de
 DESCRIPTION:Hayoung Choi: Violoncello -     Jascha von der Goltz: Leitung\
  n\n„Selbst im Orchester gespielt zu haben\, das eröffnet Verständnis f
@@ -5161,7 +5179,7 @@ BEGIN:VEVENT
 SUMMARY:Stadtkantine
 DTSTART;TZID=Europe/Berlin:20270115T190000
 DTEND;TZID=Europe/Berlin:20270116T005900
-DTSTAMP:20261117T230014Z
+DTSTAMP:20261118T230013Z
 UID:stadtkantine-20270115-1800@ifg-plattform.de
 DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
   Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
@@ -5181,7 +5199,7 @@ BEGIN:VEVENT
 SUMMARY:CuriOOOOus!
 DTSTART;TZID=Europe/Berlin:20270116T170000
 DTEND;TZID=Europe/Berlin:20270117T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:curioooous-20270116-1600@ifg-plattform.de
 DESCRIPTION:Eine Relaxed Performance von Ceren Oran &amp\; Moving Borders 
  • ab 3 Jahren\n\nWas passiert\, wenn wir etwas Neuem und Unbekanntem beg
@@ -5216,7 +5234,7 @@ BEGIN:VEVENT
 SUMMARY:Catello Zaubermenü in der Präsidentensuite des Maritim Hotels
 DTSTART;TZID=Europe/Berlin:20270116T193000
 DTEND;TZID=Europe/Berlin:20270117T000000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:catello-zaubermen-in-der-pr-sidentensuite-des-maritim-hotels-20270116-
  1830@ifg-plattform.de
 DESCRIPTION:Menü und Zaubershow als exklusives Event\n\nEinlass: 18:15\n\
@@ -5238,7 +5256,7 @@ BEGIN:VEVENT
 SUMMARY:Das Abschiedsdinner
 DTSTART;TZID=Europe/Berlin:20270116T203000
 DTEND;TZID=Europe/Berlin:20270117T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:das-abschiedsdinner-20270116-1930@ifg-plattform.de
 DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
  e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
@@ -5266,7 +5284,7 @@ BEGIN:VEVENT
 SUMMARY:Der Tiefseefisch
 DTSTART;TZID=Europe/Berlin:20270116T210000
 DTEND;TZID=Europe/Berlin:20270117T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:der-tiefseefisch-20270116-2000@ifg-plattform.de
 DESCRIPTION:von Marieluise Fleißer\n\nDie Schriftstellerin Gesine lebt mi
  t dem Publizisten Laurenz in einer Beziehung\, durch die sich das zwischen
@@ -5298,7 +5316,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz und Literatur
 DTSTART;TZID=Europe/Berlin:20270117T120000
 DTEND;TZID=Europe/Berlin:20270118T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:jazz-und-literatur-20270117-1100@ifg-plattform.de
 DESCRIPTION:In Kooperation mit den Jazzfreunden Ingolstadt\n\nAuch im Janu
  ar freuen wir uns auf eine neue Ausgabe von „Jazz und Literatur“ in Ko
@@ -5319,7 +5337,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz &amp\; Literatur 01-27
 DTSTART;TZID=Europe/Berlin:20270117T120000
 DTEND;TZID=Europe/Berlin:20270117T133000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:jazz-amp-literatur-01-27-20270117-1100@ifg-plattform.de
 DESCRIPTION:„Preise\, Sonderpreise“\n\nEinlass: 10:30\n\nSeit 2012 bri
  ngen das Stadttheater Ingolstadt  gemeinsam mit den Jazzfreunden Ingolstad
@@ -5350,7 +5368,7 @@ BEGIN:VEVENT
 SUMMARY:CuriOOOOus!
 DTSTART;TZID=Europe/Berlin:20270117T150000
 DTEND;TZID=Europe/Berlin:20270118T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:curioooous-20270117-1400@ifg-plattform.de
 DESCRIPTION:Eine Relaxed Performance von Ceren Oran &amp\; Moving Borders 
  • ab 3 Jahren\n\nWas passiert\, wenn wir etwas Neuem und Unbekanntem beg
@@ -5385,7 +5403,7 @@ BEGIN:VEVENT
 SUMMARY:FASSzination: Das bayrische Magic Dinner
 DTSTART;TZID=Europe/Berlin:20270117T190000
 DTEND;TZID=Europe/Berlin:20270117T220000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:fasszination-das-bayrische-magic-dinner-20270117-1800@ifg-plattform.de
 DESCRIPTION:mit Florian Otto\n\nEinlass: 17:00\n\nEin Abend voller Magie &
  amp\; Humor: Eine kulinarische Reise in die Welt der weißblauen Zauberkun
@@ -5400,10 +5418,34 @@ LOCATION:Wirtshaus am Auwaldsee\, Am Auwaldsee 20\, 85053 Ingolstadt
 X-SCORE:21
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Field Commander C. - The Songs of Leonard Cohen
+DTSTART;TZID=Europe/Berlin:20270117T190000
+DTEND;TZID=Europe/Berlin:20270118T005900
+DTSTAMP:20261118T230009Z
+UID:field-commander-c-the-songs-of-leonard-cohen-20270117-1800@ifg-plattfo
+ rm.de
+DESCRIPTION:Early Works - Die Abschiedstour\n\nEinlass: 17:00\n\nField Com
+ mander C. ist eine eindrucksvolle Hommage an den großen\, kanadischen\nSi
+ nger-Songwriter Leonard Cohen. Mit dem Programm „Early works - the roots
+  of\nHallelujah“ begibt sich Sänger Rolf Ableiter mit seiner Band in ak
+ ustischer Besetzung\nauf musikalische Spurensuche und erklärt\, wie ein E
+ vergreen wie „Hallelujah“\nüberhaupt entstehen konnte. Dabei spielen 
+ natürlich bekannte Lieder wie „Suzanne“\,\n„Bird on the Wire“\, 
+ „So long Marianne“ oder gar Famous Blue Raincoat“ eine\ntragende Rol
+ le\, welche alle zu den berühmtesten Werken Cohens gehören – und alle\
+ nin der Schaffenszeit seiner ersten vier Alben entstanden sind. Field Comm
+ ander C.\nsteht für ein Abend voller Melancholie\, Poesie\, virtuoser Spi
+ elfreude und\nGeschichten rund um Leonard Cohen und sein Frühwerk\, welch
+ es liebevoll mit\nGitarre\, Violine\, Cello\, Orgel\, Akkordeon und Gesang
+  interpretiert wird.
+LOCATION:Festsaal\, Schloßlände 1\, 85049 Ingolstadt
+X-SCORE:20
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Gräfin Mariza
 DTSTART;TZID=Europe/Berlin:20270118T210000
 DTEND;TZID=Europe/Berlin:20270118T233000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:gr-fin-mariza-20270118-2000@ifg-plattform.de
 DESCRIPTION:Operette\n\nEinlass: 19:40\n\nWir freuen uns auf die große Ne
  uinszenierung der Gräfin Mariza\, Kálmáns musikalischem Feuerwerk in ö
@@ -5435,7 +5477,7 @@ BEGIN:VEVENT
 SUMMARY:Der Tiefseefisch
 DTSTART;TZID=Europe/Berlin:20270118T210000
 DTEND;TZID=Europe/Berlin:20270119T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:der-tiefseefisch-20270118-2000@ifg-plattform.de
 DESCRIPTION:von Marieluise Fleißer\n\nDie Schriftstellerin Gesine lebt mi
  t dem Publizisten Laurenz in einer Beziehung\, durch die sich das zwischen
@@ -5467,7 +5509,7 @@ BEGIN:VEVENT
 SUMMARY:ROLAND JANKOWSKY
 DTSTART;TZID=Europe/Berlin:20270119T210000
 DTEND;TZID=Europe/Berlin:20270120T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:roland-jankowsky-20270119-2000@ifg-plattform.de
 DESCRIPTION:WENN OVERBECK KOMMT …\n\nEinlass: 19:00\n\nRoland Jankowsky 
  kennen die meisten als den etwas sonderbaren Kommissar Overbeck aus der Ku
@@ -5494,7 +5536,7 @@ BEGIN:VEVENT
 SUMMARY:BVMW Jahresempfang 2027 powered by Audi Event Solutions
 DTSTART;TZID=Europe/Berlin:20270121T190000
 DTEND;TZID=Europe/Berlin:20270122T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:bvmw-jahresempfang-2027-powered-by-audi-event-solutions-20270121-1800@
  ifg-plattform.de
 DESCRIPTION:Antrieb 2027 - in Führung gehen\n\nWie bleibt mein Unternehme
@@ -5521,7 +5563,7 @@ BEGIN:VEVENT
 SUMMARY:DER NUSSKNACKER
 DTSTART;TZID=Europe/Berlin:20270121T200000
 DTEND;TZID=Europe/Berlin:20270121T220000
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:der-nussknacker-20270121-1900@ifg-plattform.de
 DESCRIPTION:Classico Ballet Napoli - Klassisches Ballett\n\nEinlass: 18:00
  \n\nDER NUSSKNACKER \n\nBallett in 2 Akten Musik von P. I. Tschaikowsky\nN
@@ -5545,7 +5587,7 @@ BEGIN:VEVENT
 SUMMARY:Das Abschiedsdinner
 DTSTART;TZID=Europe/Berlin:20270121T203000
 DTEND;TZID=Europe/Berlin:20270122T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:das-abschiedsdinner-20270121-1930@ifg-plattform.de
 DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
  e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
@@ -5573,7 +5615,7 @@ BEGIN:VEVENT
 SUMMARY:Stadtkantine
 DTSTART;TZID=Europe/Berlin:20270122T190000
 DTEND;TZID=Europe/Berlin:20270123T005900
-DTSTAMP:20261117T230014Z
+DTSTAMP:20261118T230013Z
 UID:stadtkantine-20270122-1800@ifg-plattform.de
 DESCRIPTION:Hunger? Nicht nach Pommes! Nach Ideen! Ab November öffnet die
   Ludwigstraße 14 wieder ihre Türen – nicht für Konsum\, sondern für 
@@ -5593,7 +5635,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Bausch _ Live in Ingolstadt
 DTSTART;TZID=Europe/Berlin:20270122T210000
 DTEND;TZID=Europe/Berlin:20270122T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:joe-bausch-live-in-ingolstadt-20270122-2000@ifg-plattform.de
 DESCRIPTION:Arzt\, Kriminalexperte\, Schauspieler &amp\; Tatort-Star über
   die Geheimnisse des Verbrechens.\n\nEinlass: 19:00\n\nKriminologie pur: D
@@ -5624,7 +5666,7 @@ BEGIN:VEVENT
 SUMMARY:Teenieparty - Save the Date
 DTSTART;TZID=Europe/Berlin:20270123T190000
 DTEND;TZID=Europe/Berlin:20270123T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:teenieparty-save-the-date-20270123-1800@ifg-plattform.de
 DESCRIPTION:Einlass: 17:30\n\nDu bist zwischen 10 und 15 Jahren? Dann sei 
  dabei und feiere die coolste Party in der elternfreien Zone!
@@ -5635,7 +5677,7 @@ BEGIN:VEVENT
 SUMMARY:Banff Centre Mountain Film Festival World Tour 2027
 DTSTART;TZID=Europe/Berlin:20270123T203000
 DTEND;TZID=Europe/Berlin:20270124T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:banff-centre-mountain-film-festival-world-tour-2027-20270123-1930@ifg-
  plattform.de
 DESCRIPTION:Einlass: 19:00\n\nDie Filmtour für Bergfans: Die Banff-Tour b
@@ -5652,7 +5694,7 @@ BEGIN:VEVENT
 SUMMARY:PIPPO POLINA
 DTSTART;TZID=Europe/Berlin:20270124T200000
 DTEND;TZID=Europe/Berlin:20270125T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:pippo-polina-20270124-1900@ifg-plattform.de
 DESCRIPTION:Solo in Concerto 2027 (Special Guest: Elisa Sandrini)\n\nEinla
  ss: 18:00\n\n1987 stand Pippo Pollina erstmals als Liedermacher auf der B
@@ -5694,7 +5736,7 @@ BEGIN:VEVENT
 SUMMARY:Das Abschiedsdinner
 DTSTART;TZID=Europe/Berlin:20270124T200000
 DTEND;TZID=Europe/Berlin:20270125T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:das-abschiedsdinner-20270124-1900@ifg-plattform.de
 DESCRIPTION:Komödie von Matthieu Delaporte und Alexandre de la Patellièr
  e • Deutsch von Georg Holzer\n\nWas soll man tun\, wenn man eine Freunds
@@ -5722,7 +5764,7 @@ BEGIN:VEVENT
 SUMMARY:Der Tiefseefisch
 DTSTART;TZID=Europe/Berlin:20270124T210000
 DTEND;TZID=Europe/Berlin:20270125T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:der-tiefseefisch-20270124-2000@ifg-plattform.de
 DESCRIPTION:von Marieluise Fleißer\n\nDie Schriftstellerin Gesine lebt mi
  t dem Publizisten Laurenz in einer Beziehung\, durch die sich das zwischen
@@ -5754,7 +5796,7 @@ BEGIN:VEVENT
 SUMMARY:Simon Pearce
 DTSTART;TZID=Europe/Berlin:20270129T210000
 DTEND;TZID=Europe/Berlin:20270130T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:simon-pearce-20270129-2000@ifg-plattform.de
 DESCRIPTION:Funny Bones\n\nEinlass: 19:00\n\nComedy steckt überall. Und S
  imon Pearce – der hat sie in den Knochen. Klingt komisch\, ist aber Funn
@@ -5789,7 +5831,7 @@ BEGIN:VEVENT
 SUMMARY:RapAct
 DTSTART;TZID=Europe/Berlin:20270129T210000
 DTEND;TZID=Europe/Berlin:20270130T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:rapact-20270129-2000@ifg-plattform.de
 DESCRIPTION:Im RapSpot fordern wir Schauspieler*innen des Stadttheater Ing
  olstadt und die Hip Hop Künstler*innen heraus - in einer etwas anderen Ga
@@ -5808,7 +5850,7 @@ BEGIN:VEVENT
 SUMMARY:Der Tiefseefisch
 DTSTART;TZID=Europe/Berlin:20270130T210000
 DTEND;TZID=Europe/Berlin:20270131T005900
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230009Z
 UID:der-tiefseefisch-20270130-2000@ifg-plattform.de
 DESCRIPTION:von Marieluise Fleißer\n\nDie Schriftstellerin Gesine lebt mi
  t dem Publizisten Laurenz in einer Beziehung\, durch die sich das zwischen
@@ -5840,7 +5882,7 @@ BEGIN:VEVENT
 SUMMARY:Loisach Marci
 DTSTART;TZID=Europe/Berlin:20270130T210000
 DTEND;TZID=Europe/Berlin:20270131T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:loisach-marci-20270130-2000@ifg-plattform.de
 DESCRIPTION:Elektronische Energie trifft auf alpine Klangwelten\n\nAlphorn
  \, Beats und Soundflächen formen neue Räume. Tradition und Gegenwart ver
@@ -5857,7 +5899,7 @@ BEGIN:VEVENT
 SUMMARY:Drei Minuten Mit Der Wirklichkeit
 DTSTART;TZID=Europe/Berlin:20270203T210000
 DTEND;TZID=Europe/Berlin:20270203T233000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:drei-minuten-mit-der-wirklichkeit-20270203-2000@ifg-plattform.de
 DESCRIPTION:Schauspiel mit Musik\n\nEinlass: 19:40\n\nDie junge Ballett-Ta
  ̈nzerin Giulietta aus Berlin will eigentlich nur wissen\, was an diesem T
@@ -5886,7 +5928,7 @@ BEGIN:VEVENT
 SUMMARY:Sons Of Odin &amp\; The Ides of March
 DTSTART;TZID=Europe/Berlin:20270205T210000
 DTEND;TZID=Europe/Berlin:20270206T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:sons-of-odin-amp-the-ides-of-march-20270205-2000@ifg-plattform.de
 DESCRIPTION:Manowar &amp\; Iron Maiden Tribute at its best\n\nEinlass: 19:
  00\n\nWARM-UP-PARTY for MANOWAR - 06.02.2026 INGOLSTADT SATURN ARENA\n\nMi
@@ -5949,7 +5991,7 @@ BEGIN:VEVENT
 SUMMARY:Dr. Pop
 DTSTART;TZID=Europe/Berlin:20270212T210000
 DTEND;TZID=Europe/Berlin:20270213T005900
-DTSTAMP:20261117T230011Z
+DTSTAMP:20261118T230009Z
 UID:dr-pop-20270212-2000@ifg-plattform.de
 DESCRIPTION:Hitverdächtig\n\nEinlass: 19:00\n\nDr. Pop kommt am Freitag\,
   den 12.02.2027 um 20:00 Uhr mit seinem Programm „Hitverdächtig“ in d
@@ -5977,7 +6019,7 @@ BEGIN:VEVENT
 SUMMARY:THERMENKONZERT MIT ANDREA &amp\; STEFANO
 DTSTART;TZID=Europe/Berlin:20270213T190000
 DTEND;TZID=Europe/Berlin:20270213T230000
-DTSTAMP:20261117T230010Z
+DTSTAMP:20261118T230008Z
 UID:thermenkonzert-mit-andrea-amp-stefano-20270213-1800@ifg-plattform.de
 DESCRIPTION:Valentinsspecial mit Wohlfühlfaktor\n\nEinlass: 10:00\n\nRoma
  ntische Lichter und jede Menge Liebe liegen einen Tag vor dem Valentinstag
@@ -5987,5 +6029,20 @@ DESCRIPTION:Valentinsspecial mit Wohlfühlfaktor\n\nEinlass: 10:00\n\nRoma
   …
 LOCATION:Donautherme\, Südliche Ringstraße 63\, 85053 Ingolstadt
 X-SCORE:17
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Impro ausprobieren – 5x eintauchen!
+DTSTART;TZID=Europe/Berlin:20270216T193000
+DTEND;TZID=Europe/Berlin:20270216T223000
+DTSTAMP:20261118T230008Z
+UID:impro-ausprobieren-5x-eintauchen-20270216-1930@ifg-plattform.de
+RRULE:FREQ=WEEKLY;UNTIL=20270316T225959Z;INTERVAL=1;BYDAY=TU
+DESCRIPTION:Fünf Einheiten zum Kennenlernen des Improvisationstheaters: s
+ pielerische Warm-ups\, einfache Impro-Übungen\, erste Szenen\, Figuren un
+ d Beziehungen sowie gemeinsames Geschichtenerzählen. Geeignet für Einste
+ iger:innen ohne Vorerfahrung.
+LOCATION:Trainingsraum g'scheiterhaufen theater e.V.\, Am Stein 5\, 85049 
+ Ingolstadt
+X-SCORE:18
 END:VEVENT
 END:VCALENDAR
